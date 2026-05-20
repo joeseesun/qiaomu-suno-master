@@ -16,6 +16,7 @@ Use this skill when the user wants:
 - Suno-ready lyrics with sections such as `[Verse]`, `[Chorus]`, and `[Bridge]`
 - Music generated through the local Rust `suno` CLI
 - A completed song file downloaded locally
+- Existing Suno clip IDs exported as audio, video/MTV, timed LRC, SRT, clean SRT, or Markdown lyrics
 
 Do not use this skill for pure music theory, ordinary poetry not intended for Suno, or non-Suno audio editing.
 
@@ -65,7 +66,34 @@ suno generate --title "$TITLE" --tags "$STYLE_DESCRIPTION" --exclude "$EXCLUDE_S
 - If Suno explicitly requires captcha, provide `--token <hCaptcha-token>` or opt back into the built-in solver with `--captcha`.
 - Use `--download <dir>` on `suno generate` when the user wants files saved immediately.
 - Use `suno download -o <dir> <id...>` only when the user already has clip IDs or generation was submitted without download.
+- Use `scripts/export_suno_assets.py` when the user wants SRT/LRC/timed lyrics, clean MTV subtitles, audio download, or video/MTV download from existing clip IDs.
+- Use `scripts/clean_srt_for_mtv.py` to remove Suno structural markers such as `[Verse]` and `[Chorus]` from subtitle files.
 - Add `--json` when machine-readable output is needed for follow-up processing.
+
+## Asset Export
+
+For existing clip IDs:
+
+```bash
+scripts/export_suno_assets.py <clip-id> --output "$OUTPUT_DIR" --format lyrics --clean-srt
+```
+
+Useful formats:
+
+- `audio`: download MP3/audio
+- `video`: download Suno video/MTV asset when available
+- `json`: save timed lyrics JSON
+- `lrc`: save music-player lyrics
+- `srt`: save subtitle file
+- `md`: save AI-readable timestamped lyrics Markdown
+- `lyrics`: shortcut for `json,lrc,srt,md`
+- `all`: shortcut for `audio,video,json,lrc,srt,md`
+
+For MTV:
+
+```bash
+scripts/export_suno_assets.py <clip-id> --output "$OUTPUT_DIR" --format video,lyrics --clean-srt
+```
 
 ## Chrome CDP Auth Assist
 

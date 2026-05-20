@@ -3,6 +3,8 @@ positive:
   - "/suno 创作一首赛博朋克风格的中文歌"
   - "把这篇文章改成适合 Suno 的歌词，生成 mp3"
   - "写一首 indie pop，女声，关于雨夜散步"
+  - "帮我把这个 Suno clip ID 的 SRT 字幕和 LRC 歌词导出来"
+  - "下载这个 Suno 歌曲的 MTV 视频并清理字幕"
 negative:
   - "解释一下五声音阶是什么"
   - "帮我剪辑这段音频"

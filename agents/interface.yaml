@@ -55,7 +55,7 @@ outputs:
     description: "Suno-ready lyrics with section markers."
   - name: files
     type: list
-    description: "Generated or downloaded files, when CLI generation runs."
+    description: "Generated, downloaded, subtitle, lyric, or video files."
 requires:
   bins:
     - suno
@@ -65,6 +65,7 @@ side_effects:
   - "May connect to a local Chrome session through CDP when the user wants to reuse browser login."
   - "May authenticate through Suno with `suno auth --login`."
   - "May create lyric temp files and downloaded audio files."
+  - "May download Suno video/MTV files and timed lyric/subtitle files."
 exclusions:
   - "General poetry not intended for Suno."
   - "Audio/video editing after generation."

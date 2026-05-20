@@ -24,6 +24,7 @@
 - Exclude Styles：避免不想要的风格，例如 `auto-tune, trap, overly-polished`
 - 三个歌名候选
 - 可选：直接生成并下载 MP3
+- 从已有 Suno Clip ID 导出 MP3、视频/MTV、LRC、SRT、干净字幕、Markdown 歌词
 - Chrome CDP 辅助：复用已登录 Chrome/Suno 会话
 
 ### 安装
@@ -109,6 +110,45 @@ CDP Runtime.evaluate ws err: Connection reset...
 ~/.agents/skills/qiaomu-suno-master/scripts/generate_with_suno.sh ... --token "$HCAPTCHA_TOKEN"
 ```
 
+### 导出 SRT/LRC/MTV 素材
+
+如果你已经有 Suno clip ID，可以直接导出字幕和素材：
+
+```bash
+~/.agents/skills/qiaomu-suno-master/scripts/export_suno_assets.py \
+  <clip-id> \
+  --output ./suno-assets \
+  --format lyrics \
+  --clean-srt
+```
+
+导出音频 + 视频/MTV + 全部歌词格式：
+
+```bash
+~/.agents/skills/qiaomu-suno-master/scripts/export_suno_assets.py \
+  <clip-id> \
+  --output ./suno-assets \
+  --format all \
+  --clean-srt
+```
+
+格式说明：
+
+- `audio`：下载音频
+- `video`：下载 Suno 视频/MTV 文件（如果该 clip 可用）
+- `json`：保存 timed lyrics 原始 JSON
+- `lrc`：音乐播放器歌词
+- `srt`：字幕文件
+- `md`：带时间戳 Markdown 歌词，方便 AI/剪辑流程读取
+- `lyrics`：等于 `json,lrc,srt,md`
+- `all`：等于 `audio,video,json,lrc,srt,md`
+
+清理已有 SRT：
+
+```bash
+~/.agents/skills/qiaomu-suno-master/scripts/clean_srt_for_mtv.py input.srt
+```
+
 ### Troubleshooting
 
 | 问题 | 解决 |
@@ -118,6 +158,7 @@ CDP Runtime.evaluate ws err: Connection reset...
 | `CDP Runtime.evaluate ws err` | 用默认封装脚本重试，或显式加 `--no-captcha` |
 | Chrome 反复弹调试确认 | 复用同一个 Suno 标签页，避免反复新开 tab；Chrome CDP 权限很高，这是安全确认 |
 | 找不到 Suno 标签页 | 运行 `scripts/ensure_suno_chrome_session.sh` |
+| 需要 SRT/MTV | 用 `scripts/export_suno_assets.py <clip-id> --format all --clean-srt` |
 
 ### 致谢
 
@@ -130,6 +171,7 @@ CDP Runtime.evaluate ws err: Connection reset...
 - 生成音乐会消耗 Suno 账号额度。
 - Chrome CDP 可以控制本地浏览器标签页，只在可信本机环境使用。
 - Suno API 和网页流程可能变化；如失败，先运行 `suno update --check` 和 `suno update`。
+- 视频/MTV 下载取决于 Suno 是否为该 clip 提供 video asset。
 
 ---
 
@@ -190,6 +232,18 @@ Generate a world music track with duet vocals, hand drums, flute, and cinematic 
 ```
 
 The wrapper defaults to `--no-captcha` because the upstream CDP hCaptcha solver can be flaky in some Chrome sessions.
+
+### Export Assets
+
+```bash
+~/.agents/skills/qiaomu-suno-master/scripts/export_suno_assets.py \
+  <clip-id> \
+  --output ./suno-assets \
+  --format all \
+  --clean-srt
+```
+
+This can export audio, video/MTV assets, timed lyrics JSON, LRC, SRT, clean SRT, and Markdown lyrics.
 
 ### Credits
 
