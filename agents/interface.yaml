@@ -1,0 +1,71 @@
+interface:
+  display_name: "Qiaomu Suno Master"
+  short_description: "Write Suno-ready lyrics and generate songs with the local Rust suno CLI"
+  default_prompt: "Use $qiaomu-suno-master to write polished Suno-ready lyrics from my idea, then generate and download the song with the local suno CLI."
+compatibility:
+  canonical_format: "agent-skills"
+  adapter_targets:
+    - "openai"
+    - "claude"
+    - "generic"
+  activation:
+    mode: "explicit_or_description"
+    paths: []
+  execution:
+    context: "inline"
+    shell: "bash"
+  trust:
+    source_tier: "local"
+    remote_inline_execution: "forbid"
+    remote_metadata_policy: "allow-metadata-only"
+  degradation:
+    openai: "Use the SKILL.md workflow and shell script when local shell access is available."
+    claude: "Use the SKILL.md workflow; run the local suno CLI only with user-approved local execution."
+    generic: "Generate title, tags, and lyrics even when CLI execution is unavailable."
+summary: "Suno song creation from brief to generated audio using local Rust suno CLI."
+inputs:
+  - name: brief
+    type: string
+    required: true
+    description: "Song idea, story, article, keywords, mood, or existing lyric draft."
+  - name: output_dir
+    type: path
+    required: false
+    description: "Directory where generated songs should be downloaded."
+  - name: generate
+    type: boolean
+    required: false
+    default: true
+    description: "Whether to run suno generate after writing lyrics."
+outputs:
+  - name: title
+    type: string
+    description: "Selected song title."
+  - name: title_options
+    type: list
+    description: "Three creative title options."
+  - name: style_description
+    type: string
+    description: "Comma-separated Suno style tags."
+  - name: exclude_styles
+    type: string
+    description: "Comma-separated styles, instruments, or moods to avoid."
+  - name: lyrics
+    type: markdown
+    description: "Suno-ready lyrics with section markers."
+  - name: files
+    type: list
+    description: "Generated or downloaded files, when CLI generation runs."
+requires:
+  bins:
+    - suno
+    - node
+side_effects:
+  - "May install the upstream paperfoot/suno-cli executable as `suno` when missing."
+  - "May connect to a local Chrome session through CDP when the user wants to reuse browser login."
+  - "May authenticate through Suno with `suno auth --login`."
+  - "May create lyric temp files and downloaded audio files."
+exclusions:
+  - "General poetry not intended for Suno."
+  - "Audio/video editing after generation."
+  - "Non-Suno music APIs."

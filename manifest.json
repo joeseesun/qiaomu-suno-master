@@ -1,0 +1,29 @@
+{
+  "name": "qiaomu-suno-master",
+  "version": "1.0.0",
+  "owner": "Joe / Qiaomu",
+  "updated_at": "2026-05-21",
+  "status": "active",
+  "maturity_tier": "scaffold",
+  "lifecycle_stage": "personal",
+  "context_budget_tier": "scaffold",
+  "review_cadence": "as-needed",
+  "category": "music-generation",
+  "complexity_tier": "simple",
+  "target_platforms": [
+    "openai",
+    "claude",
+    "generic",
+    "agent-skills-compatible"
+  ],
+  "factory_components": [
+    "references",
+    "scripts"
+  ],
+  "requires": {
+    "bins": [
+      "suno",
+      "node"
+    ]
+  }
+}
