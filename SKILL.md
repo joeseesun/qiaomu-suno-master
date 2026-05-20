@@ -31,7 +31,7 @@ Infer these from the user request when possible:
 - `title_options`: three concise title candidates before choosing the final title
 - `model`: default `v5.5`
 - `vocal`: optional `male` or `female`
-- `output_dir`: default to the current workspace unless the user gives a folder
+- `output_dir`: default to `~/Documents/Suno/<song-title>/` unless the user gives a folder
 - `generate`: whether to run Suno immediately; default yes when the user asks to generate music
 
 If the user only asks for lyrics, produce the requested creative output without running `suno`.
@@ -55,6 +55,8 @@ suno generate --title "$TITLE" --tags "$STYLE_DESCRIPTION" --exclude "$EXCLUDE_S
 
 6. Report the saved output directory and any generated clip IDs or file paths shown by the command.
 
+Never save generated songs, subtitles, videos, or exported lyric files inside the skill directory. Use `~/Documents/Suno/<song-title>/` by default.
+
 ## CLI Notes
 
 - The upstream CLI is `paperfoot/suno-cli`, installed as the `suno` command.
@@ -75,8 +77,10 @@ suno generate --title "$TITLE" --tags "$STYLE_DESCRIPTION" --exclude "$EXCLUDE_S
 For existing clip IDs:
 
 ```bash
-scripts/export_suno_assets.py <clip-id> --output "$OUTPUT_DIR" --format lyrics --clean-srt
+scripts/export_suno_assets.py <clip-id> --format lyrics --clean-srt
 ```
+
+Without `--output`, assets are saved under `~/Documents/Suno/<clip-title>/`.
 
 Useful formats:
 

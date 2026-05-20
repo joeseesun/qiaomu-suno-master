@@ -387,7 +387,7 @@ suno generate \
   --lyrics-file "$LYRICS_FILE" \
   --model v5.5 \
   --wait \
-  --download "$OUTPUT_DIR"
+  --download "$HOME/Documents/Suno/$TITLE"
 ```
 
 If the user already has clip IDs:

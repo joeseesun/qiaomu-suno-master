@@ -13,6 +13,7 @@ from typing import Any
 
 
 TAG_RE = re.compile(r"^\s*\[[^\]]+\]\s*$")
+DEFAULT_ROOT = Path.home() / "Documents" / "Suno"
 
 
 def run(cmd: list[str], quiet: bool = False) -> subprocess.CompletedProcess[str]:
@@ -24,6 +25,12 @@ def run(cmd: list[str], quiet: bool = False) -> subprocess.CompletedProcess[str]
 def safe_name(value: str) -> str:
     cleaned = "".join(c for c in value if c.isalnum() or c in " -_").strip()
     return cleaned or "suno-asset"
+
+
+def song_dir_name(value: str) -> str:
+    cleaned = value.replace("/", "-").replace(":", "-")
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()
+    return cleaned or "Untitled Suno Song"
 
 
 def srt_time(seconds: float) -> str:
@@ -186,9 +193,7 @@ def clean_srt(input_path: Path, output_path: Path) -> None:
     output_path.write_text("\n\n".join(cleaned) + "\n", encoding="utf-8")
 
 
-def export_one(clip_id: str, output_dir: Path, formats: set[str], clean: bool) -> list[Path]:
-    output_dir.mkdir(parents=True, exist_ok=True)
-
+def export_one(clip_id: str, output_dir: Path | None, formats: set[str], clean: bool) -> list[Path]:
     info_proc = run(["suno", "info", "--json", clip_id], quiet=True)
     info: dict[str, Any] = {}
     if info_proc.returncode == 0:
@@ -197,6 +202,10 @@ def export_one(clip_id: str, output_dir: Path, formats: set[str], clean: bool) -
         except json.JSONDecodeError:
             info = {}
     title = extract_title(info, clip_id)
+    if output_dir is None:
+        output_dir = DEFAULT_ROOT / song_dir_name(title)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
     base = safe_name(f"{title}-{clip_id[:8]}")
 
     saved: list[Path] = []
@@ -274,7 +283,13 @@ def expand_formats(values: list[str]) -> set[str]:
 def main() -> None:
     parser = argparse.ArgumentParser(description="Export Suno audio/video/timed lyric assets")
     parser.add_argument("clip_ids", nargs="+", help="Suno clip IDs")
-    parser.add_argument("--output", "-o", type=Path, default=Path.cwd(), help="Output directory")
+    parser.add_argument(
+        "--output",
+        "-o",
+        type=Path,
+        default=None,
+        help="Output directory (default: ~/Documents/Suno/<clip-title>)",
+    )
     parser.add_argument(
         "--format",
         "-f",

@@ -84,8 +84,10 @@ suno timed-lyrics --lrc "$CLIP_ID"
 Skill wrapper for all assets:
 
 ```bash
-scripts/export_suno_assets.py "$CLIP_ID" --output "$OUTPUT_DIR" --format all --clean-srt
+scripts/export_suno_assets.py "$CLIP_ID" --format all --clean-srt
 ```
+
+Without an explicit `--output`, wrapper scripts save generated and exported files under `~/Documents/Suno/<song-title>/`.
 
 ## Captcha/CDP Notes
 

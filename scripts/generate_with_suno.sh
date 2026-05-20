@@ -9,7 +9,7 @@ Usage:
 
 Options:
   --meta-file FILE       Source a shell-style metadata file with TITLE, STYLE_DESCRIPTION, EXCLUDE_STYLES, and LYRICS_FILE
-  --output-dir DIR       Directory for downloaded songs (default: current directory)
+  --output-dir DIR       Directory for downloaded songs (default: ~/Documents/Suno/<title>)
   --model MODEL          Suno model (default: v5.5)
   --vocal male|female    Optional vocal gender
   --exclude TAGS         Optional comma-separated styles to avoid
@@ -24,11 +24,23 @@ EOF
 }
 
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+safe_path_name() {
+  local value="$1"
+  value="${value//\//-}"
+  value="${value//:/-}"
+  value="$(printf '%s' "$value" | sed -E 's/[[:space:]]+/ /g; s/^ //; s/ $//')"
+  if [[ -z "$value" ]]; then
+    value="Untitled Suno Song"
+  fi
+  printf '%s' "$value"
+}
+
 title=""
 tags=""
 lyrics_file=""
 meta_file=""
-output_dir="$PWD"
+output_dir=""
 model="v5.5"
 vocal=""
 exclude=""
@@ -95,6 +107,10 @@ if [[ -z "$title" || -z "$tags" || -z "$lyrics_file" ]]; then
   echo "Missing required --title, --tags, or --lyrics-file." >&2
   usage >&2
   exit 2
+fi
+
+if [[ -z "$output_dir" ]]; then
+  output_dir="$HOME/Documents/Suno/$(safe_path_name "$title")"
 fi
 
 if ! command -v suno >/dev/null 2>&1; then

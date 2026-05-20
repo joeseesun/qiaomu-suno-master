@@ -88,8 +88,13 @@ Skill 内置封装脚本：
   --title "把音量打满" \
   --tags "punk-rock, male-vocals, distorted-guitars, fast-tempo" \
   --exclude "auto-tune, trap, overly-polished" \
-  --lyrics-file ./lyrics.txt \
-  --output-dir ./suno-outputs
+  --lyrics-file ./lyrics.txt
+```
+
+默认输出到：
+
+```text
+~/Documents/Suno/<歌曲名>/
 ```
 
 默认会加 `--no-captcha`，因为上游 `suno` CLI 的 hCaptcha CDP auto-solver 在某些 Chrome 会话下可能报：
@@ -117,7 +122,6 @@ CDP Runtime.evaluate ws err: Connection reset...
 ```bash
 ~/.agents/skills/qiaomu-suno-master/scripts/export_suno_assets.py \
   <clip-id> \
-  --output ./suno-assets \
   --format lyrics \
   --clean-srt
 ```
@@ -127,9 +131,14 @@ CDP Runtime.evaluate ws err: Connection reset...
 ```bash
 ~/.agents/skills/qiaomu-suno-master/scripts/export_suno_assets.py \
   <clip-id> \
-  --output ./suno-assets \
   --format all \
   --clean-srt
+```
+
+默认会按歌曲标题创建目录：
+
+```text
+~/Documents/Suno/<歌曲名>/
 ```
 
 格式说明：
@@ -227,23 +236,28 @@ Generate a world music track with duet vocals, hand drums, flute, and cinematic 
   --title "Turn It Up" \
   --tags "punk-rock, male-vocals, distorted-guitars, fast-tempo" \
   --exclude "auto-tune, trap, overly-polished" \
-  --lyrics-file ./lyrics.txt \
-  --output-dir ./suno-outputs
+  --lyrics-file ./lyrics.txt
 ```
 
 The wrapper defaults to `--no-captcha` because the upstream CDP hCaptcha solver can be flaky in some Chrome sessions.
+
+Default output:
+
+```text
+~/Documents/Suno/<song-title>/
+```
 
 ### Export Assets
 
 ```bash
 ~/.agents/skills/qiaomu-suno-master/scripts/export_suno_assets.py \
   <clip-id> \
-  --output ./suno-assets \
   --format all \
   --clean-srt
 ```
 
 This can export audio, video/MTV assets, timed lyrics JSON, LRC, SRT, clean SRT, and Markdown lyrics.
+Without `--output`, exported files are saved to `~/Documents/Suno/<clip-title>/`.
 
 ### Credits
 
