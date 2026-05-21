@@ -1,0 +1,59 @@
+{
+  "name": "Hispanic Music",
+  "description": "Music of Hispanic America and Spain, and the genres shared between them.",
+  "url": "https://rateyourmusic.com/genre/hispanic-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Canción melódica",
+      "url": "https://rateyourmusic.com/genre/cancion-melodica/",
+      "description": "Sentimental vocal music sung in Spanish with a focus on the chorus, originally developed in the first half of the 20th century from a variety of traditional Hispanic genres.",
+      "level": "sub-2",
+      "parent": "Hispanic Music"
+    },
+    {
+      "name": "Hispanic American Music",
+      "url": "https://rateyourmusic.com/genre/hispanic-american-music/",
+      "description": "Includes all genres created by Hispanic Americans.",
+      "level": "sub-2",
+      "parent": "Hispanic Music"
+    },
+    {
+      "name": "Murga",
+      "url": "https://rateyourmusic.com/genre/murga/",
+      "description": "Popular carnival music traditional in some cities of Spain and Hispanic America.",
+      "level": "sub-2",
+      "parent": "Hispanic Music"
+    },
+    {
+      "name": "Nueva canción",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion/",
+      "description": "Latin American (Nueva canción latinoamericana) and Spanish (Nueva canción española) movement during the 1960s and 1970s.",
+      "level": "sub-2",
+      "parent": "Hispanic Music"
+    },
+    {
+      "name": "Philippine Rondalla",
+      "url": "https://rateyourmusic.com/genre/philippine-rondalla/",
+      "description": "Ensemble of plucked string instruments typically performed for traditional Filipino folk dances; known for its distinct sparkling and tinkling tremolo sound.",
+      "level": "sub-2",
+      "parent": "Hispanic Music"
+    },
+    {
+      "name": "Romance",
+      "url": "https://rateyourmusic.com/genre/romance-2/",
+      "description": "Form of narrative sung Poetry rooted in medieval Spanish oral tradition, characterized by octosyllabic verses and assonant rhyme. Evolving from epic Medieval Lyric Poetry, and later spread across Hispanic America.",
+      "level": "sub-2",
+      "parent": "Hispanic Music"
+    },
+    {
+      "name": "Spanish Music",
+      "url": "https://rateyourmusic.com/genre/spanish-music/",
+      "description": "Music of Spain.",
+      "level": "sub-2",
+      "parent": "Hispanic Music"
+    }
+  ]
+}

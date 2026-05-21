@@ -1,0 +1,80 @@
+{
+  "name": "Central American Music",
+  "description": "Music from the Central American region (including Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama).",
+  "url": "https://rateyourmusic.com/genre/central-american-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Brukdown",
+      "url": "https://rateyourmusic.com/genre/brukdown/",
+      "description": "Belizean Creole genre typified by the use of accordion, banjo, and a distinctive percussion section.",
+      "level": "sub-2",
+      "parent": "Central American Music"
+    },
+    {
+      "name": "Cumbia salvadoreña",
+      "url": "https://rateyourmusic.com/genre/cumbia-salvadorena/",
+      "description": "Takes influence from local Salvadoran music and traditionally features a distinctive ensemble.",
+      "level": "sub-2",
+      "parent": "Central American Music"
+    },
+    {
+      "name": "Garifuna Music",
+      "url": "https://rateyourmusic.com/genre/garifuna-music/",
+      "description": "Music of the Garifuna, an Afro-Indigenous people from Central America and Saint Vincent and the Grenadines.",
+      "level": "sub-2",
+      "parent": "Central American Music"
+    },
+    {
+      "name": "Palo de mayo",
+      "url": "https://rateyourmusic.com/genre/palo-de-mayo/",
+      "description": "Upbeat music accompanying maypole dancing from the Caribbean coast of Central America.",
+      "level": "sub-2",
+      "parent": "Central American Music"
+    },
+    {
+      "name": "Purísima",
+      "url": "https://rateyourmusic.com/genre/purisima/",
+      "description": "Nicaraguan Hymns to the Immaculate Conception of Mary, sung during holiday celebrations and in liturgical or parochial services.",
+      "level": "sub-2",
+      "parent": "Central American Music"
+    },
+    {
+      "name": "Son de pascua",
+      "url": "https://rateyourmusic.com/genre/son-de-pascua/",
+      "description": "Lively instrumental Christmas songs from Central America composed in 6/8 or triple meter.",
+      "level": "sub-2",
+      "parent": "Central American Music"
+    },
+    {
+      "name": "Son nica",
+      "url": "https://rateyourmusic.com/genre/son-nica/",
+      "description": "Nicaraguan popular rhythm in distinctive guitar strums, with lyrics relating to the countryside and peasant life.",
+      "level": "sub-2",
+      "parent": "Central American Music"
+    },
+    {
+      "name": "Tamborera",
+      "url": "https://rateyourmusic.com/genre/tamborera/",
+      "description": "Panamanian popular genre which mixes local Tamborito with Cuban Music rhythms featuring the tambora as the main percussion instrument.",
+      "level": "sub-2",
+      "parent": "Central American Music"
+    },
+    {
+      "name": "Tamborito",
+      "url": "https://rateyourmusic.com/genre/tamborito/",
+      "description": "Folk music and dance from Panama dating back to the 17th century.",
+      "level": "sub-2",
+      "parent": "Central American Music"
+    },
+    {
+      "name": "Xuc",
+      "url": "https://rateyourmusic.com/genre/xuc/",
+      "description": "Danceable style from El Salvador developed in the 1940s.",
+      "level": "sub-2",
+      "parent": "Central American Music"
+    }
+  ]
+}

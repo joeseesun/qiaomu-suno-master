@@ -1,0 +1,45 @@
+{
+  "name": "Melanesian Music",
+  "description": "Music of the Oceanian region of Melanesia.",
+  "url": "https://rateyourmusic.com/genre/melanesian-music/",
+  "parent": "Oceanian Music",
+  "level": "sub-2",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Fijian Music",
+      "url": "https://rateyourmusic.com/genre/fijian-music/",
+      "description": "Music of the Fijian people.",
+      "level": "sub-3",
+      "parent": "Melanesian Music"
+    },
+    {
+      "name": "Kaneka",
+      "url": "https://rateyourmusic.com/genre/kaneka/",
+      "description": "New Caledonian style of popular music that draws influence from traditional Melanesian music.",
+      "level": "sub-3",
+      "parent": "Melanesian Music"
+    },
+    {
+      "name": "Lokal musik",
+      "url": "https://rateyourmusic.com/genre/lokal-musik/",
+      "description": "Created by local, rural artists from Papua New Guinea that incorporate some elements of Papuan Folk Music into Pop.",
+      "level": "sub-3",
+      "parent": "Melanesian Music"
+    },
+    {
+      "name": "Papuan Folk Music",
+      "url": "https://rateyourmusic.com/genre/papuan-folk-music/",
+      "description": "Traditional Folk Music of the Papuan people of New Guinea.",
+      "level": "sub-3",
+      "parent": "Melanesian Music"
+    },
+    {
+      "name": "Tolai Rock",
+      "url": "https://rateyourmusic.com/genre/tolai-rock/",
+      "description": "Fuses the music of the Tolai people of Papua New Guinea with Rock.",
+      "level": "sub-3",
+      "parent": "Melanesian Music"
+    }
+  ]
+}

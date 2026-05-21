@@ -1,0 +1,24 @@
+{
+  "name": "Operetta",
+  "description": "Light opera interspersed with spoken dialogues, being usually satirical and/or humorous in nature and centered around romantic plots and dancing scenes.",
+  "url": "https://rateyourmusic.com/genre/operetta/",
+  "parent": "Opera",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Kalon'ny fahiny",
+      "url": "https://rateyourmusic.com/genre/kalonny-fahiny/",
+      "description": "Fusion of music from the highlands of Madagascar and western Operetta.",
+      "level": "sub-4",
+      "parent": "Operetta"
+    },
+    {
+      "name": "Kalon'ny fahiny",
+      "url": "https://rateyourmusic.com/genre/kalonny-fahiny/",
+      "description": "Fusion of music from the highlands of Madagascar and western Operetta.",
+      "level": "sub-2",
+      "parent": "Operetta"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Chicago Hard House",
+  "description": "Originated from Chicago around the mid-1990s as a development of Ghetto House, emphasizing hard-hitting, off-beat drum patterns, fast tempos, and lack of melodies.",
+  "url": "https://rateyourmusic.com/genre/chicago-hard-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "LA Hard House",
+      "url": "https://rateyourmusic.com/genre/la-hard-house/",
+      "description": "Distorted, minimalistic TR-909 derived rhythms, basic climaxing structures and heavy reliance on high-pitched synthesizer / hoover sounds.",
+      "level": "sub-4",
+      "parent": "Chicago Hard House"
+    },
+    {
+      "name": "LA Hard House",
+      "url": "https://rateyourmusic.com/genre/la-hard-house/",
+      "description": "Distorted, minimalistic TR-909 derived rhythms, basic climaxing structures and heavy reliance on high-pitched synthesizer / hoover sounds.",
+      "level": "sub-4",
+      "parent": "Chicago Hard House"
+    }
+  ]
+}

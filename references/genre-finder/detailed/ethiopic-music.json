@@ -1,0 +1,59 @@
+{
+  "name": "Ethiopic Music",
+  "description": "Music made by people who speak Ethiopian Semitic languages.",
+  "url": "https://rateyourmusic.com/genre/ethiopic-music/",
+  "parent": "Northeastern African Music",
+  "level": "sub-3",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Azmari",
+      "url": "https://rateyourmusic.com/genre/azmari/",
+      "description": "Ethiopian/Eritrean singer/songwriters or minstrels equivalent to the Western European bard, the West African griot or the Romanian wandering taraf.",
+      "level": "sub-4",
+      "parent": "Ethiopic Music"
+    },
+    {
+      "name": "Ethio-Jazz",
+      "url": "https://rateyourmusic.com/genre/ethio-jazz/",
+      "description": "Unique blend of traditional Ethiopic Music and Jazz.",
+      "level": "sub-4",
+      "parent": "Ethiopic Music"
+    },
+    {
+      "name": "Ethiopian Church Music",
+      "url": "https://rateyourmusic.com/genre/ethiopian-church-music/",
+      "description": "Sacred tradition of the Ethiopian Orthodox Tewahedo Church, sung in an ancient Semitic language called Ge'ez and credited with assembling the current Ethiopian notation system.",
+      "level": "sub-4",
+      "parent": "Ethiopic Music"
+    },
+    {
+      "name": "Gurage Music",
+      "url": "https://rateyourmusic.com/genre/gurage-music/",
+      "description": "Music of the Gurage people of Central Ethiopia.",
+      "level": "sub-4",
+      "parent": "Ethiopic Music"
+    },
+    {
+      "name": "Manzuma",
+      "url": "https://rateyourmusic.com/genre/manzuma/",
+      "description": "Melodic, devotional music performed by Sufi Islami communities in Ethiopia and neighboring countries",
+      "level": "sub-4",
+      "parent": "Ethiopic Music"
+    },
+    {
+      "name": "Tigrinya Music",
+      "url": "https://rateyourmusic.com/genre/tigrinya-music/",
+      "description": "Music of the Tigrinya, an ethnic group mainly found in Eritrea and Northern Ethiopia, the Tigray region more specifically.",
+      "level": "sub-4",
+      "parent": "Ethiopic Music"
+    },
+    {
+      "name": "Tizita",
+      "url": "https://rateyourmusic.com/genre/tizita/",
+      "description": "Melancholy song popular in Ethiopia and Eritrea, using the qegnet mode and tuning system.",
+      "level": "sub-4",
+      "parent": "Ethiopic Music"
+    }
+  ]
+}

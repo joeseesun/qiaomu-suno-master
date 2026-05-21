@@ -1,0 +1,31 @@
+{
+  "name": "Garifuna Music",
+  "description": "Music of the Garifuna, an Afro-Indigenous people from Central America and Saint Vincent and the Grenadines.",
+  "url": "https://rateyourmusic.com/genre/garifuna-music/",
+  "parent": "Caribbean Music",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Punta",
+      "url": "https://rateyourmusic.com/genre/punta/",
+      "description": "Garifuna Music with influences from other Caribbean genres such as Reggae, Soca, and Zouk, as well as Hispanic American Music.",
+      "level": "sub-3",
+      "parent": "Garifuna Music"
+    },
+    {
+      "name": "Punta",
+      "url": "https://rateyourmusic.com/genre/punta/",
+      "description": "Garifuna Music with influences from other Caribbean genres such as Reggae, Soca, and Zouk, as well as Hispanic American Music.",
+      "level": "sub-3",
+      "parent": "Garifuna Music"
+    },
+    {
+      "name": "Punta",
+      "url": "https://rateyourmusic.com/genre/punta/",
+      "description": "Garifuna Music with influences from other Caribbean genres such as Reggae, Soca, and Zouk, as well as Hispanic American Music.",
+      "level": "sub-3",
+      "parent": "Garifuna Music"
+    }
+  ]
+}

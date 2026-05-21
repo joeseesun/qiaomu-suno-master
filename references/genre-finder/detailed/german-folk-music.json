@@ -1,0 +1,38 @@
+{
+  "name": "German Folk Music",
+  "description": "Traditional Folk Music of Germany.",
+  "url": "https://rateyourmusic.com/genre/german-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Gstanzl",
+      "url": "https://rateyourmusic.com/genre/gstanzl/",
+      "description": "Short improvised traditional song form the larger Bavarian region (Southeastern Germany and Austria), satirical and often being accompanied with dances.",
+      "level": "sub-4",
+      "parent": "German Folk Music"
+    },
+    {
+      "name": "Gstanzl",
+      "url": "https://rateyourmusic.com/genre/gstanzl/",
+      "description": "Short improvised traditional song form the larger Bavarian region (Southeastern Germany and Austria), satirical and often being accompanied with dances.",
+      "level": "sub-4",
+      "parent": "German Folk Music"
+    },
+    {
+      "name": "Gstanzl",
+      "url": "https://rateyourmusic.com/genre/gstanzl/",
+      "description": "Short improvised traditional song form the larger Bavarian region (Southeastern Germany and Austria), satirical and often being accompanied with dances.",
+      "level": "sub-4",
+      "parent": "German Folk Music"
+    },
+    {
+      "name": "Gstanzl",
+      "url": "https://rateyourmusic.com/genre/gstanzl/",
+      "description": "Short improvised traditional song form the larger Bavarian region (Southeastern Germany and Austria), satirical and often being accompanied with dances.",
+      "level": "sub-4",
+      "parent": "German Folk Music"
+    }
+  ]
+}

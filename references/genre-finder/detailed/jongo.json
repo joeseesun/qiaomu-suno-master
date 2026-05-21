@@ -1,0 +1,38 @@
+{
+  "name": "Jongo",
+  "description": "Afro-Brazilian cultural manifestation involving music and dance; composed of percussion instruments and chants.",
+  "url": "https://rateyourmusic.com/genre/jongo/",
+  "parent": "Brazilian Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Ponto de umbanda",
+      "url": "https://rateyourmusic.com/genre/ponto-de-umbanda/",
+      "description": "Afro-Brazilian religious ritualistic praise sung by priests to evoke entities; typically accompanied by claps and traditional drums known as atabaque.",
+      "level": "sub-4",
+      "parent": "Jongo"
+    },
+    {
+      "name": "Ponto de umbanda",
+      "url": "https://rateyourmusic.com/genre/ponto-de-umbanda/",
+      "description": "Afro-Brazilian religious ritualistic praise sung by priests to evoke entities; typically accompanied by claps and traditional drums known as atabaque.",
+      "level": "sub-5",
+      "parent": "Jongo"
+    },
+    {
+      "name": "Ponto de umbanda",
+      "url": "https://rateyourmusic.com/genre/ponto-de-umbanda/",
+      "description": "Afro-Brazilian religious ritualistic praise sung by priests to evoke entities; typically accompanied by claps and traditional drums known as atabaque.",
+      "level": "sub-5",
+      "parent": "Jongo"
+    },
+    {
+      "name": "Ponto de umbanda",
+      "url": "https://rateyourmusic.com/genre/ponto-de-umbanda/",
+      "description": "Afro-Brazilian religious ritualistic praise sung by priests to evoke entities; typically accompanied by claps and traditional drums known as atabaque.",
+      "level": "sub-4",
+      "parent": "Jongo"
+    }
+  ]
+}

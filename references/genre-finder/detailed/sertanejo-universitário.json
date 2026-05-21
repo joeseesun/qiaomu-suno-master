@@ -1,0 +1,38 @@
+{
+  "name": "Sertanejo universitário",
+  "description": "Modernized style combining rural themes and acoustic instrumentation with commercial production and Electronic instrumentation.",
+  "url": "https://rateyourmusic.com/genre/sertanejo-universitario/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Arrocha sertanejo",
+      "url": "https://rateyourmusic.com/genre/arrocha-sertanejo/",
+      "description": "Merged the Arrocha style with the younger audience creating a more energetic and more danceable rhythm.",
+      "level": "sub-2",
+      "parent": "Sertanejo universitário"
+    },
+    {
+      "name": "Arrocha sertanejo",
+      "url": "https://rateyourmusic.com/genre/arrocha-sertanejo/",
+      "description": "Merged the Arrocha style with the younger audience creating a more energetic and more danceable rhythm.",
+      "level": "sub-5",
+      "parent": "Sertanejo universitário"
+    },
+    {
+      "name": "Funknejo",
+      "url": "https://rateyourmusic.com/genre/funknejo/",
+      "description": "Incorporates the rhythms, production, and idioms of Funk brasileiro into the universitário genre.",
+      "level": "sub-2",
+      "parent": "Sertanejo universitário"
+    },
+    {
+      "name": "Funknejo",
+      "url": "https://rateyourmusic.com/genre/funknejo/",
+      "description": "Incorporates the rhythms, production, and idioms of Funk brasileiro into the universitário genre.",
+      "level": "sub-5",
+      "parent": "Sertanejo universitário"
+    }
+  ]
+}

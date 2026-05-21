@@ -1,0 +1,17 @@
+{
+  "name": "Zydeco",
+  "description": "Uptempo accordion-led dance style mixing Creole and Cajun folk with African American popular music influences.",
+  "url": "https://rateyourmusic.com/genre/zydeco/",
+  "parent": "Louisiana Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Nouveau zydeco",
+      "url": "https://rateyourmusic.com/genre/nouveau-zydeco/",
+      "description": "Adds new elements into contemporary Zydeco, most importantly the incorporation of Funk, Contemporary R&B and Hip Hop characteristics.",
+      "level": "sub-4",
+      "parent": "Zydeco"
+    }
+  ]
+}

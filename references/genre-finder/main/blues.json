@@ -1,0 +1,71 @@
+{
+  "name": "Blues",
+  "description": "Originated toward the end of the 19th century in African American communities in the United States, particularly the Deep South; drew on traditional Spirituals and Work Song; highly influential to the whole of Western popular music.",
+  "url": "https://rateyourmusic.com/genre/blues/",
+  "sub_genres_count": 9,
+  "sub_genres": [
+    {
+      "name": "Acoustic Blues",
+      "url": "https://rateyourmusic.com/genre/acoustic-blues/",
+      "description": "Developed out of Work Song and Spirituals to become the most prominent early form of Blues.",
+      "level": "sub",
+      "parent": "Blues"
+    },
+    {
+      "name": "Boogie Woogie",
+      "url": "https://rateyourmusic.com/genre/boogie-woogie/",
+      "description": "Early, uptempo Blues featuring the piano as the main instrument, with soloing and improvisation played over the top of a repetitive eight note bassline.",
+      "level": "sub",
+      "parent": "Blues"
+    },
+    {
+      "name": "Country Blues",
+      "url": "https://rateyourmusic.com/genre/country-blues/",
+      "description": "Various styles of Blues originating in the rural US South, typically relying on expressive vocal delivery and featuring simple, usually acoustic instrumentation.",
+      "level": "sub",
+      "parent": "Blues"
+    },
+    {
+      "name": "Electric Blues",
+      "url": "https://rateyourmusic.com/genre/electric-blues/",
+      "description": "Major development in sound and reach of Blues when it became possible to amplify the instruments of small combos.",
+      "level": "sub",
+      "parent": "Blues"
+    },
+    {
+      "name": "Fife and Drum Blues",
+      "url": "https://rateyourmusic.com/genre/fife-and-drum-blues/",
+      "description": "Rooted in martial Fife and Drum Corps music, originated among Afro-American communities in Mississippi.",
+      "level": "sub",
+      "parent": "Blues"
+    },
+    {
+      "name": "Jump Blues",
+      "url": "https://rateyourmusic.com/genre/jump-blues/",
+      "description": "Emerged in the late 1930s with influence from Jazz styles such as Swing and Big Band, featuring fast tempos and raucous performances.",
+      "level": "sub",
+      "parent": "Blues"
+    },
+    {
+      "name": "Piano Blues",
+      "url": "https://rateyourmusic.com/genre/piano-blues/",
+      "description": "Features the piano as a lead instrument performed solo or with a small ensemble, ranging from mid-tempo ballads to fast-paced dance styles.",
+      "level": "sub",
+      "parent": "Blues"
+    },
+    {
+      "name": "Soul Blues",
+      "url": "https://rateyourmusic.com/genre/soul-blues/",
+      "description": "Shares similarities with Soul and incorporates the eponymous soulful inflections of Gospel, Jump Blues and soul into the vocals.",
+      "level": "sub",
+      "parent": "Blues"
+    },
+    {
+      "name": "Vaudeville Blues",
+      "url": "https://rateyourmusic.com/genre/vaudeville-blues/",
+      "description": "Vaudeville incorporating heavy Blues elements.",
+      "level": "sub",
+      "parent": "Blues"
+    }
+  ]
+}

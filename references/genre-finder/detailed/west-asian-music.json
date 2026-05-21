@@ -1,0 +1,115 @@
+{
+  "name": "West Asian Music",
+  "description": "Music of West Asia, a region covering most of what is commonly known as the Middle East but not extending into North Africa.",
+  "url": "https://rateyourmusic.com/genre/west-asian-music/",
+  "parent": "Asian Music",
+  "level": "sub-2",
+  "children_count": 15,
+  "children": [
+    {
+      "name": "Armenian Music",
+      "url": "https://rateyourmusic.com/genre/armenian-music/",
+      "description": "Music of Armenia.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Azerbaijani Music",
+      "url": "https://rateyourmusic.com/genre/azerbaijani-music/",
+      "description": "Music of the Azerbaijani people, who inhabit the modern day country of Azerbaijan, along with a significant population in the neighboring country of Iran.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Balochi Music",
+      "url": "https://rateyourmusic.com/genre/balochi-music/",
+      "description": "Music of the Baloch people.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Caucasian Music",
+      "url": "https://rateyourmusic.com/genre/caucasian-music/",
+      "description": "Music of the region of the Caucasus, a mountainous region bordered by Russia to the north and Turkey/Iran to the south, with the Black and Caspian seas to its sides.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Gilaki Music",
+      "url": "https://rateyourmusic.com/genre/gilaki-music/",
+      "description": "Music of the Gilak people of northern Iran.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Iraqi Maqam",
+      "url": "https://rateyourmusic.com/genre/iraqi-maqam/",
+      "description": "Highly structured but semi-improvised and rhythmically complex compositions built around set structures which consist of specific maqam modes.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Khaliji Music",
+      "url": "https://rateyourmusic.com/genre/khaliji-music/",
+      "description": "Musical traditions of Eastern Arabia and the Persian Gulf region, roughly covering the Arabic-speaking people of the modern countries of the United Arab Emirates, Bahrain, Kuwait, Qatar, Saudi Arabia, Oman, Iraq, and Iran.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Kurdish Music",
+      "url": "https://rateyourmusic.com/genre/kurdish-music/",
+      "description": "Traditional music of the Kurds, a distinct ethnic group inhabiting the region of Kurdistan, characterized by its mountainous terrain spanning southeastern Turkey, northern Iraq, northwestern Iran, and northeastern Syria.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Levantine Arabic Music",
+      "url": "https://rateyourmusic.com/genre/levantine-arabic-music/",
+      "description": "The musical traditions of the Levantine Arabs, roughly covering the Arabic people of the modern countries of Israel, Jordan, Lebanon, Palestine, and Syria.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Maftirim",
+      "url": "https://rateyourmusic.com/genre/maftirim/",
+      "description": "Paraliturgical songs of Sephardi Jews who lived in Ottoman Empire.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Mesopotamian Music",
+      "url": "https://rateyourmusic.com/genre/mesopotamian-music/",
+      "description": "Music of Mesopotamia, a historical region situated in West Asia within the Tigris–Euphrates river system, comprises the heritage of Sumerians and Akkadians.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Muzika mizrahit",
+      "url": "https://rateyourmusic.com/genre/muzika-mizrahit/",
+      "description": "Middle Eastern-flavored Israeli popular music, usually performed by Mizrahi Jews, and combining aspects of the music of the North African, Middle Eastern, and Central Asian countries from which they descended.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Persian Music",
+      "url": "https://rateyourmusic.com/genre/persian-music/",
+      "description": "Music of the Persian people.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "Turkish Music",
+      "url": "https://rateyourmusic.com/genre/turkish-music/",
+      "description": "Traditions developed by the Turkish people.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    },
+    {
+      "name": "West Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/west-asian-folk-music/",
+      "description": "Traditional Folk Music of West Asia, a region that covers much of what is commonly known in English as the Middle East (alternatively Southwestern Asia), includes the distinct but interconnected traditions of numerous ethnic groups.",
+      "level": "sub-3",
+      "parent": "West Asian Music"
+    }
+  ]
+}

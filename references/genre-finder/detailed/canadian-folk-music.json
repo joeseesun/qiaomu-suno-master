@@ -1,0 +1,94 @@
+{
+  "name": "Canadian Folk Music",
+  "description": "Traditional folk of the European settlers who arrived in Canada.",
+  "url": "https://rateyourmusic.com/genre/canadian-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Canadian Maritime Folk",
+      "url": "https://rateyourmusic.com/genre/canadian-maritime-folk/",
+      "description": "Traditional folk of Canada's Maritimes (Nova Scotia, Prince Edward Island, and New Brunswick).",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    },
+    {
+      "name": "Canadian Maritime Folk",
+      "url": "https://rateyourmusic.com/genre/canadian-maritime-folk/",
+      "description": "Traditional folk of Canada's Maritimes (Nova Scotia, Prince Edward Island, and New Brunswick).",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    },
+    {
+      "name": "Canadian Maritime Folk",
+      "url": "https://rateyourmusic.com/genre/canadian-maritime-folk/",
+      "description": "Traditional folk of Canada's Maritimes (Nova Scotia, Prince Edward Island, and New Brunswick).",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    },
+    {
+      "name": "French-Canadian Folk Music",
+      "url": "https://rateyourmusic.com/genre/french-canadian-folk-music/",
+      "description": "Brought by French colonists to their Nouvelle-France settlements, primarily based around French Folk Music with influences from English Folk Music and Celtic Folk Music, typically played during gatherings and holidays.",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    },
+    {
+      "name": "French-Canadian Folk Music",
+      "url": "https://rateyourmusic.com/genre/french-canadian-folk-music/",
+      "description": "Brought by French colonists to their Nouvelle-France settlements, primarily based around French Folk Music with influences from English Folk Music and Celtic Folk Music, typically played during gatherings and holidays.",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    },
+    {
+      "name": "French-Canadian Folk Music",
+      "url": "https://rateyourmusic.com/genre/french-canadian-folk-music/",
+      "description": "Brought by French colonists to their Nouvelle-France settlements, primarily based around French Folk Music with influences from English Folk Music and Celtic Folk Music, typically played during gatherings and holidays.",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    },
+    {
+      "name": "Métis Fiddling",
+      "url": "https://rateyourmusic.com/genre/metis-fiddling/",
+      "description": "Canadian style blending First Nations and European musical influences into an up-tempo style of fiddling characterized by the use of syncopation and indigenous rhythms.",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    },
+    {
+      "name": "Métis Fiddling",
+      "url": "https://rateyourmusic.com/genre/metis-fiddling/",
+      "description": "Canadian style blending First Nations and European musical influences into an up-tempo style of fiddling characterized by the use of syncopation and indigenous rhythms.",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    },
+    {
+      "name": "Métis Fiddling",
+      "url": "https://rateyourmusic.com/genre/metis-fiddling/",
+      "description": "Canadian style blending First Nations and European musical influences into an up-tempo style of fiddling characterized by the use of syncopation and indigenous rhythms.",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    },
+    {
+      "name": "Newfoundland Folk Music",
+      "url": "https://rateyourmusic.com/genre/newfoundland-folk-music/",
+      "description": "Traditional Folk Music of Newfoundland and Labrador, Canada's easternmost province.",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    },
+    {
+      "name": "Newfoundland Folk Music",
+      "url": "https://rateyourmusic.com/genre/newfoundland-folk-music/",
+      "description": "Traditional Folk Music of Newfoundland and Labrador, Canada's easternmost province.",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    },
+    {
+      "name": "Newfoundland Folk Music",
+      "url": "https://rateyourmusic.com/genre/newfoundland-folk-music/",
+      "description": "Traditional Folk Music of Newfoundland and Labrador, Canada's easternmost province.",
+      "level": "sub-3",
+      "parent": "Canadian Folk Music"
+    }
+  ]
+}

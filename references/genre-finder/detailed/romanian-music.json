@@ -1,0 +1,45 @@
+{
+  "name": "Romanian Music",
+  "description": "Music of the Romanian people.",
+  "url": "https://rateyourmusic.com/genre/romanian-music/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Manele",
+      "url": "https://rateyourmusic.com/genre/manele/",
+      "description": "Mixture of Romanian Music with Turkish, Middle Eastern, Balkan, and Romani influences, usually electronic in production.",
+      "level": "sub-3",
+      "parent": "Romanian Music"
+    },
+    {
+      "name": "Muzică de mahala",
+      "url": "https://rateyourmusic.com/genre/muzica-de-mahala/",
+      "description": "Appeared in the 1980s, incorporating modern instruments and based on the model of Balkan Pop-Folk in neighboring countries.",
+      "level": "sub-3",
+      "parent": "Romanian Music"
+    },
+    {
+      "name": "Romanian Etno Music",
+      "url": "https://rateyourmusic.com/genre/romanian-etno-music/",
+      "description": "Romanian style which emerged in the early 1990s as a revival of Romanian Folk Music, blending traditional music with dance-pop rhythms.",
+      "level": "sub-3",
+      "parent": "Romanian Music"
+    },
+    {
+      "name": "Romanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/romanian-folk-music/",
+      "description": "Traditional Folk Music of the Romanians.",
+      "level": "sub-3",
+      "parent": "Romanian Music"
+    },
+    {
+      "name": "Romanţe",
+      "url": "https://rateyourmusic.com/genre/romante/",
+      "description": "Expressive and poetic Romanian style, generally sung similar to a Chanson and composed for piano and guitar orchestral arrangements.",
+      "level": "sub-3",
+      "parent": "Romanian Music"
+    }
+  ]
+}

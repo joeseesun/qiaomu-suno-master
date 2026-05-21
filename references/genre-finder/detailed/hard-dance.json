@@ -1,0 +1,122 @@
+{
+  "name": "Hard Dance",
+  "description": "Umbrella term for EDM mainly developed out of Hard Trance and UK Hard House; usually characterized by fast tempos, hard kick drums and a \"bouncy\" syncopated groove.",
+  "url": "https://rateyourmusic.com/genre/hard-dance/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Hard Trance",
+      "url": "https://rateyourmusic.com/genre/hard-trance/",
+      "description": "Rave-oriented form of Trance infusing its atmospheres with faster, thumping rhythms and strong melodic / bassline sections, initially spawning out of the first wave in early-1990s Western Europe.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "Hard Trance",
+      "url": "https://rateyourmusic.com/genre/hard-trance/",
+      "description": "Rave-oriented form of Trance infusing its atmospheres with faster, thumping rhythms and strong melodic / bassline sections, initially spawning out of the first wave in early-1990s Western Europe.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "Hardstyle",
+      "url": "https://rateyourmusic.com/genre/hardstyle/",
+      "description": "Hard, four-on-the-floor kick drums, fast tempo around 150 BPM, reverse bass and harsh, distorted synths.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "Hardstyle",
+      "url": "https://rateyourmusic.com/genre/hardstyle/",
+      "description": "Hard, four-on-the-floor kick drums, fast tempo around 150 BPM, reverse bass and harsh, distorted synths.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "Hardtek",
+      "url": "https://rateyourmusic.com/genre/hardtek/",
+      "description": "Modern version of the \"tribecore\" sound featuring deep alternating basses and festival EDM-influenced drops.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "Hardtek",
+      "url": "https://rateyourmusic.com/genre/hardtek/",
+      "description": "Modern version of the \"tribecore\" sound featuring deep alternating basses and festival EDM-influenced drops.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "Jumpstyle",
+      "url": "https://rateyourmusic.com/genre/jumpstyle/",
+      "description": "Features a heavy 909 kick drum, four-on-the-floor beat, and a tempo between 140 and 150 BPM.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "Jumpstyle",
+      "url": "https://rateyourmusic.com/genre/jumpstyle/",
+      "description": "Features a heavy 909 kick drum, four-on-the-floor beat, and a tempo between 140 and 150 BPM.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "Lento violento",
+      "url": "https://rateyourmusic.com/genre/lento-violento/",
+      "description": "Features a \"slow and violent\" sound between 70-120 BPM with hard kicks inspired by Hardcore [EDM] and Hardstyle.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "Lento violento",
+      "url": "https://rateyourmusic.com/genre/lento-violento/",
+      "description": "Features a \"slow and violent\" sound between 70-120 BPM with hard kicks inspired by Hardcore [EDM] and Hardstyle.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "NRG",
+      "url": "https://rateyourmusic.com/genre/nrg/",
+      "description": "Derived from UK Hard House; featuring darker, more anthemic Trance beats and a tempo of 155-165 BPM.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "NRG",
+      "url": "https://rateyourmusic.com/genre/nrg/",
+      "description": "Derived from UK Hard House; featuring darker, more anthemic Trance beats and a tempo of 155-165 BPM.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "UK Hard House",
+      "url": "https://rateyourmusic.com/genre/uk-hard-house/",
+      "description": "Defined by offbeat bass patterns, compressed 909-style drums, buildup-drop structures, hoover sounds, and tempos between 120 and 155 BPM.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "UK Hard House",
+      "url": "https://rateyourmusic.com/genre/uk-hard-house/",
+      "description": "Defined by offbeat bass patterns, compressed 909-style drums, buildup-drop structures, hoover sounds, and tempos between 120 and 155 BPM.",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "UK Hardcore",
+      "url": "https://rateyourmusic.com/genre/uk-hardcore/",
+      "description": "Four-on-the-floor beat around 175 BPM, thick, prominent basslines, and uplifting synth leads, with a cleaner and more accessible sound than other forms of Hardcore [EDM].",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    },
+    {
+      "name": "UK Hardcore",
+      "url": "https://rateyourmusic.com/genre/uk-hardcore/",
+      "description": "Four-on-the-floor beat around 175 BPM, thick, prominent basslines, and uplifting synth leads, with a cleaner and more accessible sound than other forms of Hardcore [EDM].",
+      "level": "sub-3",
+      "parent": "Hard Dance"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Ainu Music",
+  "description": "Music of the Ainu people from Hokkaidō, the Kuril Islands, and part of Sakhalin.",
+  "url": "https://rateyourmusic.com/genre/ainu-music/",
+  "parent": "East Asian Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Upopo",
+      "url": "https://rateyourmusic.com/genre/upopo/",
+      "description": "Ainu everyday traditional song (as opposed to Yukar's sacred leanings).",
+      "level": "sub-4",
+      "parent": "Ainu Music"
+    },
+    {
+      "name": "Upopo",
+      "url": "https://rateyourmusic.com/genre/upopo/",
+      "description": "Ainu everyday traditional song (as opposed to Yukar's sacred leanings).",
+      "level": "sub-4",
+      "parent": "Ainu Music"
+    },
+    {
+      "name": "Yukar",
+      "url": "https://rateyourmusic.com/genre/yukar/",
+      "description": "Oral literature pertaining to Ainu culture and mythology.",
+      "level": "sub-4",
+      "parent": "Ainu Music"
+    },
+    {
+      "name": "Yukar",
+      "url": "https://rateyourmusic.com/genre/yukar/",
+      "description": "Oral literature pertaining to Ainu culture and mythology.",
+      "level": "sub-4",
+      "parent": "Ainu Music"
+    }
+  ]
+}

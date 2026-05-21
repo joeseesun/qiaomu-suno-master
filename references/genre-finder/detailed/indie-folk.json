@@ -1,0 +1,17 @@
+{
+  "name": "Indie Folk",
+  "description": "Combines the melodic sensibilities and production style of Indie Rock and Indie Pop with acoustic instrumentation and influences from Folk, Singer-Songwriter, and sometimes Country.",
+  "url": "https://rateyourmusic.com/genre/indie-folk/",
+  "parent": "Contemporary Folk",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Stomp and Holler",
+      "url": "https://rateyourmusic.com/genre/stomp-and-holler/",
+      "description": "Highlights driving \"stomping\" rhythms and shouted group vocal harmonies, often drawing influences from Pop Rock, Indie Folk, and other genres, while maintaining a characteristically mellow and commercial sound.",
+      "level": "sub-3",
+      "parent": "Indie Folk"
+    }
+  ]
+}

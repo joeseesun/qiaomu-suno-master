@@ -1,0 +1,45 @@
+{
+  "name": "Power Electronics",
+  "description": "Waves of feedback, screeching analog synthesizers, and harsh, screamed vocals.",
+  "url": "https://rateyourmusic.com/genre/power-electronics/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Death Industrial",
+      "url": "https://rateyourmusic.com/genre/death-industrial/",
+      "description": "Combines the abrasive textures of Noise and Industrial music with dark, brooding drones and atmospheres.",
+      "level": "sub-2",
+      "parent": "Power Electronics"
+    },
+    {
+      "name": "Death Industrial",
+      "url": "https://rateyourmusic.com/genre/death-industrial/",
+      "description": "Combines the abrasive textures of Noise and Industrial music with dark, brooding drones and atmospheres.",
+      "level": "sub-3",
+      "parent": "Power Electronics"
+    },
+    {
+      "name": "Death Industrial",
+      "url": "https://rateyourmusic.com/genre/death-industrial/",
+      "description": "Combines the abrasive textures of Noise and Industrial music with dark, brooding drones and atmospheres.",
+      "level": "sub-3",
+      "parent": "Power Electronics"
+    },
+    {
+      "name": "Death Industrial",
+      "url": "https://rateyourmusic.com/genre/death-industrial/",
+      "description": "Combines the abrasive textures of Noise and Industrial music with dark, brooding drones and atmospheres.",
+      "level": "sub-3",
+      "parent": "Power Electronics"
+    },
+    {
+      "name": "Death Industrial",
+      "url": "https://rateyourmusic.com/genre/death-industrial/",
+      "description": "Combines the abrasive textures of Noise and Industrial music with dark, brooding drones and atmospheres.",
+      "level": "sub-3",
+      "parent": "Power Electronics"
+    }
+  ]
+}

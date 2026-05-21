@@ -1,0 +1,337 @@
+{
+  "name": "Electronic",
+  "description": "Uses non-traditional electronic instrumentation and sound manipulation technology as the primary backbone of a composition.",
+  "url": "https://rateyourmusic.com/genre/electronic/",
+  "sub_genres_count": 47,
+  "sub_genres": [
+    {
+      "name": "Acholitronix",
+      "url": "https://rateyourmusic.com/genre/acholitronix/",
+      "description": "Fusion of traditional Acholi rhythms and melodies with Electronic production, originating in the city of Gulu.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Algorave",
+      "url": "https://rateyourmusic.com/genre/algorave/",
+      "description": "Generative dancefloor-oriented music produced live via algorithms.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Binaural Beats",
+      "url": "https://rateyourmusic.com/genre/binaural-beats/",
+      "description": "Auditory illusions created when two different frequencies are played simultaneously in separate ears.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Bit Music",
+      "url": "https://rateyourmusic.com/genre/bit-music/",
+      "description": "Created by sound chips, cards, and sequencers found in video game consoles, personal computers, and arcade machines, as well as synthesizers emulating these sounds.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Bitpop",
+      "url": "https://rateyourmusic.com/genre/bitpop/",
+      "description": "Fuses Bit Music with additional synths, beats, guitars and modern production values, emphasizing highly catchy melodies and relatively fast tempos.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Celtic Electronica",
+      "url": "https://rateyourmusic.com/genre/celtic-electronica/",
+      "description": "Fusion of Celtic Folk Music with various types of Electronic Dance Music.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Chillout",
+      "url": "https://rateyourmusic.com/genre/chillout/",
+      "description": "Broad category of many relaxed styles of Electronic music which predominantly draw influence from Electronic Dance Music subgenres and Ambient.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Digital Fusion",
+      "url": "https://rateyourmusic.com/genre/digital-fusion/",
+      "description": "Incorporates the hardware-limited sounds of Chiptune and other Bit Music into compositions drawing on Jazz, Cinematic Classical, progressive music, and other Electronic styles, sometimes augmented with live instrumentation.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Drift Phonk",
+      "url": "https://rateyourmusic.com/genre/drift-phonk/",
+      "description": "Busy, noisy production inspired by lo-fi Memphis Rap; frequently features 808 cowbell melodies and chopped, compressed samples.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Dungeon Synth",
+      "url": "https://rateyourmusic.com/genre/dungeon-synth/",
+      "description": "Focuses on evoking epic and atmospheric soundscapes primarily associated with fantasy and medieval settings through the usage of synthesizers, keyboards, lo-fi production, and drum machines.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Electro Hop",
+      "url": "https://rateyourmusic.com/genre/electro-hop/",
+      "description": "Emerged in the mid 2000s featuring upbeat rap verses and catchy hooks over four-on-the-floor Electropop and  Electro House-inspired production.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Electro-Industrial",
+      "url": "https://rateyourmusic.com/genre/electro-industrial/",
+      "description": "Formed in the late 1980s and early 1990s; grew out of a combination of EBM and Industrial.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Electroacoustic",
+      "url": "https://rateyourmusic.com/genre/electroacoustic/",
+      "description": "Manipulation and processing of sound sources to create atmospheric pieces.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Electronic Dance Music",
+      "url": "https://rateyourmusic.com/genre/electronic-dance-music/",
+      "description": "Broad category for subgenres mainly derived from Disco, featuring Electronic sounds, synthesizers, drum machines and varying BPM ranges.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Electropop",
+      "url": "https://rateyourmusic.com/genre/electropop/",
+      "description": "Dense, layered, and compressed production, usually coupled with a distinct fuzzy and \"warm\" low-frequency synthesizer style.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Epic Collage",
+      "url": "https://rateyourmusic.com/genre/epic-collage/",
+      "description": "Cinematic, dense digital collage; frequently utilizes a Deconstructed Club sonic palette and decontextualized novel samples.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Flashcore",
+      "url": "https://rateyourmusic.com/genre/flashcore/",
+      "description": "Fast-paced short sounds, complex structures with erratic progression, and often dense and atmospheric abstract sound design, featuring recontextualized elements from IDM, Speedcore, Industrial Hardcore, and Breakcore.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Folktronica",
+      "url": "https://rateyourmusic.com/genre/folktronica/",
+      "description": "Combines sound design techniques from IDM and Glitch with acoustic instrumentation inspired by Contemporary Folk.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Funktronica",
+      "url": "https://rateyourmusic.com/genre/funktronica/",
+      "description": "Originated in eastern North America around the turn of the 21st century, combining trends of Synth Funk and Italo-Disco.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Glitch",
+      "url": "https://rateyourmusic.com/genre/glitch/",
+      "description": "Uses abstract sound design and malfunctioning electronics—CD skips, data corruption, and hardware noise—as main compositional elements.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Glitch Hop",
+      "url": "https://rateyourmusic.com/genre/glitch-hop/",
+      "description": "Incorporation of IDM-derived production into drum patterns inspired by Hip Hop beats.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Graphical Sound",
+      "url": "https://rateyourmusic.com/genre/graphical-sound/",
+      "description": "Compositional technique in which markings are manually applied to a medium, then processed by a machine to produce synthetic sound from the markings in real time.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "HexD",
+      "url": "https://rateyourmusic.com/genre/hexd/",
+      "description": "Heavily bit-crushed vocals, sometimes sped-up and pitched-up, and highly compressed and distorted production, typically made from existing material of other genres.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Horror Synth",
+      "url": "https://rateyourmusic.com/genre/horror-synth/",
+      "description": "Combines eerie and haunting synth pads and sharp, abrasive sounds to create atmospheres that accentuated the dark, unnerving, violent, or ghostly themes of horror films.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Hyperpop",
+      "url": "https://rateyourmusic.com/genre/hyperpop/",
+      "description": "Developed and took inspiration from Bubblegum Bass and popular 2000s-2010s Electropop, characterized by eclectic, unconventional, mechanical-sounding and dense production; and by manipulated, usually auto-tuned vocals.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "IDM",
+      "url": "https://rateyourmusic.com/genre/idm/",
+      "description": "Emerged through the development of Electronic Dance Music idioms into a less club-oriented and more experimental direction, often incorporating unconventional sound design and complex rhythms.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Illbient",
+      "url": "https://rateyourmusic.com/genre/illbient/",
+      "description": "Combines Ambient soundscapes with Hip Hop drum patterns, breaks, and samples through the busy effect layering of Dub.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Indietronica",
+      "url": "https://rateyourmusic.com/genre/indietronica/",
+      "description": "Leftfield or DIY approach characterised by simpler Pop-informed melodies, often incorporating vocals or live instrumentation alongside Electronic production.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Latin Electronic",
+      "url": "https://rateyourmusic.com/genre/latin-electronic/",
+      "description": "Combines Electronic with Latin American influences; started at the end of the 1990s.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Livetronica",
+      "url": "https://rateyourmusic.com/genre/livetronica/",
+      "description": "Incorporates Electronic instrumentation into live Rock jamming, drawing on a wide variety of Electronic Dance Music and Downtempo styles.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Maloya électronique",
+      "url": "https://rateyourmusic.com/genre/maloya-electronique/",
+      "description": "Combines the 6/8 ternary rhythm with Electronic production, using computer music, synthesizers and drum machines.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Micromontage",
+      "url": "https://rateyourmusic.com/genre/micromontage/",
+      "description": "Arrangement of microsounds on an incredibly small time scale.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Minimal Wave",
+      "url": "https://rateyourmusic.com/genre/minimal-wave/",
+      "description": "Retrospective term for more Electronic and minimal forms of New Wave, Post-Punk, Synthpop, and related styles, tending towards a more sparse and lo-fi sound.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Moogsploitation",
+      "url": "https://rateyourmusic.com/genre/moogsploitation/",
+      "description": "Moog synthesizer-led music often associated with a wave of Novelty records in the 1960s and 1970s.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Nightcore",
+      "url": "https://rateyourmusic.com/genre/nightcore/",
+      "description": "Based around the technique of speeding and pitching up pre-existing songs.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Nu Jazz",
+      "url": "https://rateyourmusic.com/genre/nu-jazz/",
+      "description": "Electronic styles which feature aesthetics and occasionally instrumentation inspired by Jazz.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Power Electronics",
+      "url": "https://rateyourmusic.com/genre/power-electronics/",
+      "description": "Waves of feedback, screeching analog synthesizers, and harsh, screamed vocals.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Power Noise",
+      "url": "https://rateyourmusic.com/genre/power-noise/",
+      "description": "Combines looped samples of Noise with Electronic rhythms.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Progressive Electronic",
+      "url": "https://rateyourmusic.com/genre/progressive-electronic/",
+      "description": "Synthesizer-driven genre focusing on developing, often longform compositions and drawing inspiration from various sources such as Progressive Rock, Western Classical Music, and Ambient.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Space Ambient",
+      "url": "https://rateyourmusic.com/genre/space-ambient/",
+      "description": "Flowing and relaxing synthesizer-based music derived from Progressive Electronic, often oriented around imagery of outer space.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Synth Punk",
+      "url": "https://rateyourmusic.com/genre/synth-punk/",
+      "description": "Appropriates the harsh elements of Punk Rock but replaces the predominance of guitars with synthesizers and drum machines.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Synthpop",
+      "url": "https://rateyourmusic.com/genre/synthpop/",
+      "description": "Led by melodic synthesizer sounds, often with reverberating drum machine patterns; commonly associated with the 1980s.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Synthwave",
+      "url": "https://rateyourmusic.com/genre/synthwave/",
+      "description": "Rooted in 1980s synth music, characterized by large, throbbing \"retro\" synths and visual elements, often features upbeat percussion and/or epic, cinematic atmospheres.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Tecnobrega",
+      "url": "https://rateyourmusic.com/genre/tecnobrega/",
+      "description": "Fast and electronic-based style that evolved from Brega calypso, particularly associated with peripheral areas of the city of Belém.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Vapor",
+      "url": "https://rateyourmusic.com/genre/vapor/",
+      "description": "Meta-genre beginning with the rise of Vaporwave and the aesthetics that it spawned.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Wave",
+      "url": "https://rateyourmusic.com/genre/wave/",
+      "description": "Melancholic, atmospheric, melodic beats, defined by its Trap and Cloud Rap influence, ethereal and cold production style, and abundant use of sub bass.",
+      "level": "sub",
+      "parent": "Electronic"
+    },
+    {
+      "name": "Witch House",
+      "url": "https://rateyourmusic.com/genre/witch-house/",
+      "description": "Nocturnal, occult-themed/horror-inspired, and murky beats with altered, slowed down and heavily processed samples laid on top of slow Hip Hop-derived drum rhythms and droning, dense synthesizers.",
+      "level": "sub",
+      "parent": "Electronic"
+    }
+  ]
+}

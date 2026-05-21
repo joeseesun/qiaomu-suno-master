@@ -1,0 +1,24 @@
+{
+  "name": "Art Punk",
+  "description": "Combines the stripped-down aggression of rudimentary Punk Rock with frequent experimentation ranging from instrumental interplay, noise, dissonance, and/or influences from other genres such as Jazz or Funk.",
+  "url": "https://rateyourmusic.com/genre/art-punk/",
+  "parent": "Punk",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Egg Punk",
+      "url": "https://rateyourmusic.com/genre/egg-punk/",
+      "description": "Originated in the early 2010s; features lo-fi production, eccentric lyrics, quick tempos, nasally vocals, and cheap keyboard sounds.",
+      "level": "sub-2",
+      "parent": "Art Punk"
+    },
+    {
+      "name": "Egg Punk",
+      "url": "https://rateyourmusic.com/genre/egg-punk/",
+      "description": "Originated in the early 2010s; features lo-fi production, eccentric lyrics, quick tempos, nasally vocals, and cheap keyboard sounds.",
+      "level": "sub-2",
+      "parent": "Art Punk"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "name": "Samba",
+  "description": "Originated in the 19th century from a blend of various rhythmic styles of African Music, forming a new sound, structure, and a dance of the same name.",
+  "url": "https://rateyourmusic.com/genre/samba/",
+  "parent": "Brazilian Music",
+  "level": "sub-3",
+  "children_count": 17,
+  "children": [
+    {
+      "name": "Batucada",
+      "url": "https://rateyourmusic.com/genre/batucada/",
+      "description": "Heavily percussive and polyrhythmic Samba.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Bossa nova",
+      "url": "https://rateyourmusic.com/genre/bossa-nova/",
+      "description": "Conceived as a new style to perform original Samba, with major American Jazz influences.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Marchinha",
+      "url": "https://rateyourmusic.com/genre/marchinha/",
+      "description": "Originating from Portuguese popular street marches (marchas populares), featuring simple, joyful melodies and sometimes malicious lyrics.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Pagode",
+      "url": "https://rateyourmusic.com/genre/pagode/",
+      "description": "Used for Samba groups whose music was performed in the suburban Cariocas parties, with romantic lyrical content and improvisation.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Partido alto",
+      "url": "https://rateyourmusic.com/genre/partido-alto/",
+      "description": "Originating from the early roots of Samba primarily in Rio de Janeiro in the beginning of the 20th century, initially as a more danceable style with little or no vocals.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Samba de breque",
+      "url": "https://rateyourmusic.com/genre/samba-de-breque/",
+      "description": "Development of Samba-choro characterized by sudden pauses in its syncopated rhythms.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Samba de gafieira",
+      "url": "https://rateyourmusic.com/genre/samba-de-gafieira/",
+      "description": "Emerged in the 1930s, with the influence of Choro, Maxixe, Lundu, and Big Band from the the United States.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Samba de roda",
+      "url": "https://rateyourmusic.com/genre/samba-de-roda/",
+      "description": "Mixed Portuguese culture with African slave traditions, as well as sharing roots and similarities with Batuque and Jongo.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Samba de terreiro",
+      "url": "https://rateyourmusic.com/genre/samba-de-terreiro/",
+      "description": "Urban Samba from the samba schools of Rio de Janeiro, with short songs about everyday topics and love.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Samba-canção",
+      "url": "https://rateyourmusic.com/genre/samba-cancao/",
+      "description": "Romantic, commercial form of Samba that was popular in Brazil between the 1930s and the 1950s.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Samba-choro",
+      "url": "https://rateyourmusic.com/genre/samba-choro/",
+      "description": "Emerged in the 1930s as the result of a fusion of rhythmic elements and combining Samba with Choro.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Samba-enredo",
+      "url": "https://rateyourmusic.com/genre/samba-enredo/",
+      "description": "Developed in the 1930s in Brazilian samba schools (escola de samba) to be presented and performed at carnivals.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Samba-exaltação",
+      "url": "https://rateyourmusic.com/genre/samba-exaltacao/",
+      "description": "Developed in the early forties, with lyrics mainly exalting the culture of Brazil.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Samba-jazz",
+      "url": "https://rateyourmusic.com/genre/samba-jazz/",
+      "description": "Jazz genre from Brazil that incorporates Samba and/or Bossa nova elements.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Samba-joia",
+      "url": "https://rateyourmusic.com/genre/samba-joia/",
+      "description": "Emerged in the 1970s, featuring a strong influence from Bolero along with overly romantic lyrics.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Samba-rock",
+      "url": "https://rateyourmusic.com/genre/samba-rock/",
+      "description": "Blends Samba with influences from American genres such as Rock, Jazz and Soul.",
+      "level": "sub-4",
+      "parent": "Samba"
+    },
+    {
+      "name": "Sambalanço",
+      "url": "https://rateyourmusic.com/genre/sambalanco/",
+      "description": "Popular genre in Brazil during the 1950s and 1960s, with influence of Samba and Jazz.",
+      "level": "sub-4",
+      "parent": "Samba"
+    }
+  ]
+}

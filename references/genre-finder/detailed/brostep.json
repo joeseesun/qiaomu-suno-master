@@ -1,0 +1,80 @@
+{
+  "name": "Brostep",
+  "description": "Offshoot of Dubstep which replaces its sub-bass-oriented sound with an emphasis on catchy or aggressive mid-range melodies.",
+  "url": "https://rateyourmusic.com/genre/brostep/",
+  "parent": "Dubstep",
+  "level": "sub-3",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Briddim",
+      "url": "https://rateyourmusic.com/genre/briddim/",
+      "description": "Combining the kick-clap rhythms and syncopation of Riddim with Brostep sound design.",
+      "level": "sub-4",
+      "parent": "Brostep"
+    },
+    {
+      "name": "Briddim",
+      "url": "https://rateyourmusic.com/genre/briddim/",
+      "description": "Combining the kick-clap rhythms and syncopation of Riddim with Brostep sound design.",
+      "level": "sub-4",
+      "parent": "Brostep"
+    },
+    {
+      "name": "Colour Bass",
+      "url": "https://rateyourmusic.com/genre/colour-bass/",
+      "description": "Combines aggressive wobbling basses with the euphoric drops of Melodic Dubstep and Future Bass.",
+      "level": "sub-4",
+      "parent": "Brostep"
+    },
+    {
+      "name": "Colour Bass",
+      "url": "https://rateyourmusic.com/genre/colour-bass/",
+      "description": "Combines aggressive wobbling basses with the euphoric drops of Melodic Dubstep and Future Bass.",
+      "level": "sub-4",
+      "parent": "Brostep"
+    },
+    {
+      "name": "Deathstep",
+      "url": "https://rateyourmusic.com/genre/deathstep/",
+      "description": "Darker, heavier form of Brostep that uses \"machine gun\" basses, atonal synths, and elements from genres like Death Metal and Metalcore.",
+      "level": "sub-4",
+      "parent": "Brostep"
+    },
+    {
+      "name": "Deathstep",
+      "url": "https://rateyourmusic.com/genre/deathstep/",
+      "description": "Darker, heavier form of Brostep that uses \"machine gun\" basses, atonal synths, and elements from genres like Death Metal and Metalcore.",
+      "level": "sub-4",
+      "parent": "Brostep"
+    },
+    {
+      "name": "Drumstep",
+      "url": "https://rateyourmusic.com/genre/drumstep/",
+      "description": "Dancefloor-friendly, loud, and heavy combination of the drum programming and tempo of Jump-Up with the half-time rhythm and midrange LFO wobble of Brostep.",
+      "level": "sub-4",
+      "parent": "Brostep"
+    },
+    {
+      "name": "Drumstep",
+      "url": "https://rateyourmusic.com/genre/drumstep/",
+      "description": "Dancefloor-friendly, loud, and heavy combination of the drum programming and tempo of Jump-Up with the half-time rhythm and midrange LFO wobble of Brostep.",
+      "level": "sub-4",
+      "parent": "Brostep"
+    },
+    {
+      "name": "Tearout [Brostep]",
+      "url": "https://rateyourmusic.com/genre/tearout-brostep/",
+      "description": "Heavy and distorted, closely affiliated with Deathstep and other styles of Brostep.",
+      "level": "sub-4",
+      "parent": "Brostep"
+    },
+    {
+      "name": "Tearout [Brostep]",
+      "url": "https://rateyourmusic.com/genre/tearout-brostep/",
+      "description": "Heavy and distorted, closely affiliated with Deathstep and other styles of Brostep.",
+      "level": "sub-4",
+      "parent": "Brostep"
+    }
+  ]
+}

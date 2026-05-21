@@ -1,0 +1,24 @@
+{
+  "name": "New York Drill",
+  "description": "Emerged in the late 2010s, characterized by energetic, bouncy tresillo rhythms, creating a warmer, more booming tone than UK Drill, which prominently inspired it.",
+  "url": "https://rateyourmusic.com/genre/new-york-drill/",
+  "parent": "Drill",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Sample Drill",
+      "url": "https://rateyourmusic.com/genre/sample-drill/",
+      "description": "Prominent, recognizable samples set to tresillo-styled Drill hi-hats and counter snares.",
+      "level": "sub-3",
+      "parent": "New York Drill"
+    },
+    {
+      "name": "Sexy Drill",
+      "url": "https://rateyourmusic.com/genre/sexy-drill/",
+      "description": "Emotive and sensual melodies, samples, and basslines set to driving stomps and bouncy Drill percussion typically joined by lyrical themes of sex, love, clubbing, and heartbreak.",
+      "level": "sub-3",
+      "parent": "New York Drill"
+    }
+  ]
+}

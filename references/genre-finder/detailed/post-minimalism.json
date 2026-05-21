@@ -1,0 +1,17 @@
+{
+  "name": "Post-Minimalism",
+  "description": "Seeks to push Minimalism's linear composition style forward, and takes in influences from genres such as Jazz, Traditional Folk Music, and others.",
+  "url": "https://rateyourmusic.com/genre/post-minimalism/",
+  "parent": "Modern Classical",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Totalism",
+      "url": "https://rateyourmusic.com/genre/totalism/",
+      "description": "Adds complex rhythmic structures and emphasis on surface energy to Minimalism.",
+      "level": "sub-4",
+      "parent": "Post-Minimalism"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Bolero",
+  "description": "Ballad with a 2/4 time signature that appeared in eastern Cuba towards the end of the 19th century.",
+  "url": "https://rateyourmusic.com/genre/bolero/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Bolero son",
+      "url": "https://rateyourmusic.com/genre/bolero-son/",
+      "description": "Blend of Bolero and Son cubano that appeared during the 1920s.",
+      "level": "sub-4",
+      "parent": "Bolero"
+    },
+    {
+      "name": "Filin",
+      "url": "https://rateyourmusic.com/genre/filin/",
+      "description": "Emotional style that appeared in La Habana during the late 1940s, deeply influenced by the melodic and expressive style of Vocal Jazz.",
+      "level": "sub-4",
+      "parent": "Bolero"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Noise",
+  "description": "Strays away from conventional structure, tonality, and composition and consists predominantly of noise.",
+  "url": "https://rateyourmusic.com/genre/noise/",
+  "parent": "Experimental",
+  "level": "sub",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Ambient Noise Wall",
+      "url": "https://rateyourmusic.com/genre/ambient-noise-wall/",
+      "description": "Soft, sparse textures inspired by the static composition of Harsh Noise Wall.",
+      "level": "sub-2",
+      "parent": "Noise"
+    },
+    {
+      "name": "Ambient Noise Wall",
+      "url": "https://rateyourmusic.com/genre/ambient-noise-wall/",
+      "description": "Soft, sparse textures inspired by the static composition of Harsh Noise Wall.",
+      "level": "sub-2",
+      "parent": "Noise"
+    },
+    {
+      "name": "Black Noise",
+      "url": "https://rateyourmusic.com/genre/black-noise/",
+      "description": "Incorporates unconventional sounds with overpowering or constant Noise and Black Metal elements, often being heavily texture-oriented, abrasive, dissonant, atonal, or repetitive.",
+      "level": "sub-2",
+      "parent": "Noise"
+    },
+    {
+      "name": "Black Noise",
+      "url": "https://rateyourmusic.com/genre/black-noise/",
+      "description": "Incorporates unconventional sounds with overpowering or constant Noise and Black Metal elements, often being heavily texture-oriented, abrasive, dissonant, atonal, or repetitive.",
+      "level": "sub-2",
+      "parent": "Noise"
+    },
+    {
+      "name": "Gorenoise",
+      "url": "https://rateyourmusic.com/genre/gorenoise/",
+      "description": "Combines and subverts Goregrind and Grindcore with brash Noise and even faster drum tempos.",
+      "level": "sub-2",
+      "parent": "Noise"
+    },
+    {
+      "name": "Gorenoise",
+      "url": "https://rateyourmusic.com/genre/gorenoise/",
+      "description": "Combines and subverts Goregrind and Grindcore with brash Noise and even faster drum tempos.",
+      "level": "sub-2",
+      "parent": "Noise"
+    },
+    {
+      "name": "Harsh Noise",
+      "url": "https://rateyourmusic.com/genre/harsh-noise/",
+      "description": "Highly aggressive walls of sound that assault the listener.",
+      "level": "sub-2",
+      "parent": "Noise"
+    },
+    {
+      "name": "Harsh Noise",
+      "url": "https://rateyourmusic.com/genre/harsh-noise/",
+      "description": "Highly aggressive walls of sound that assault the listener.",
+      "level": "sub-2",
+      "parent": "Noise"
+    },
+    {
+      "name": "Power Electronics",
+      "url": "https://rateyourmusic.com/genre/power-electronics/",
+      "description": "Waves of feedback, screeching analog synthesizers, and harsh, screamed vocals.",
+      "level": "sub-2",
+      "parent": "Noise"
+    },
+    {
+      "name": "Power Electronics",
+      "url": "https://rateyourmusic.com/genre/power-electronics/",
+      "description": "Waves of feedback, screeching analog synthesizers, and harsh, screamed vocals.",
+      "level": "sub-2",
+      "parent": "Noise"
+    },
+    {
+      "name": "Power Noise",
+      "url": "https://rateyourmusic.com/genre/power-noise/",
+      "description": "Combines looped samples of Noise with Electronic rhythms.",
+      "level": "sub-2",
+      "parent": "Noise"
+    },
+    {
+      "name": "Power Noise",
+      "url": "https://rateyourmusic.com/genre/power-noise/",
+      "description": "Combines looped samples of Noise with Electronic rhythms.",
+      "level": "sub-2",
+      "parent": "Noise"
+    }
+  ]
+}

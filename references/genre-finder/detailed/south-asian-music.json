@@ -1,0 +1,164 @@
+{
+  "name": "South Asian Music",
+  "description": "Traditional and modern regional music of India, Pakistan, Bangladesh, Nepal, and Sri Lanka, which culturally have close connections.",
+  "url": "https://rateyourmusic.com/genre/south-asian-music/",
+  "parent": "Asian Music",
+  "level": "sub-2",
+  "children_count": 22,
+  "children": [
+    {
+      "name": "Adhunik geet",
+      "url": "https://rateyourmusic.com/genre/adhunik-geet/",
+      "description": "Nepali popular music which fuses elements of light Hindustani Classical Music, Ghazal and Western music.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Baila",
+      "url": "https://rateyourmusic.com/genre/baila/",
+      "description": "Sri Lankan popular music and dance genre that is believed to have its origins in Afro-Portuguese performance traditions brought to Sri Lanka during the Portuguese occupation.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Balochi Music",
+      "url": "https://rateyourmusic.com/genre/balochi-music/",
+      "description": "Music of the Baloch people.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Bhajan",
+      "url": "https://rateyourmusic.com/genre/bhajan/",
+      "description": "Song-based form of devotional music within Dharmic religions, with lyrical themes having an emphasis on deep adoration for a deity.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Bhangra",
+      "url": "https://rateyourmusic.com/genre/bhangra/",
+      "description": "Percussion-driven blend of Punjabi Folk Music with modern Pop, with its name coming from a traditional folk dance celebrating the harvest.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Dek Bass",
+      "url": "https://rateyourmusic.com/genre/dek-bass/",
+      "description": "Prominent heavy, sustained bass tones, percussion derived from South Asian Music, and often high-pitched sound effects or samples; commonly played at extreme volumes in DJ/sound system competitions.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Dhol tasha",
+      "url": "https://rateyourmusic.com/genre/dhol-tasha/",
+      "description": "Energetic, dense rhythms played on the dhol and tasha drums, which the genre is named after.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Filmi",
+      "url": "https://rateyourmusic.com/genre/filmi/",
+      "description": "Music of films in the Indian subcontinent, representing the shared styles of the linguistically segregated industries in India, Sri Lanka, Pakistan, Bangladesh, and Nepal.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Gaana",
+      "url": "https://rateyourmusic.com/genre/gaana/",
+      "description": "Style of Tamil music originating in northern Chennai's working-class communities, defined by fast-paced delivery and introspective lyrics often offering social commentary on everyday life.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Garba",
+      "url": "https://rateyourmusic.com/genre/garba/",
+      "description": "Swinging rhythms and use of clapping/stomping; traditionally performed with the instruments dhol, dholak, tabla, harmonium, and naal, though newer productions can contain Electronic elements.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Ginan",
+      "url": "https://rateyourmusic.com/genre/ginan/",
+      "description": "Form of musical recitation sacred to Nizari Ismaili Muslims.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Goan Music",
+      "url": "https://rateyourmusic.com/genre/goan-music/",
+      "description": "Music of Goa, a former Portuguese colony on the west coast of India, rooted in the traditions of its inhabitants.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Indian Pop",
+      "url": "https://rateyourmusic.com/genre/indian-pop/",
+      "description": "Commonly based out of India, Pakistan and Bangladesh and almost always sung in Hindi, Urdu or Bengali, implements South Asian Music in context of American and European Pop and Rock music.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Indo Jazz",
+      "url": "https://rateyourmusic.com/genre/indo-jazz/",
+      "description": "Fuses the various musical traditions of the Indian subcontinent with jazzy musical structures.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Pop Ghazal",
+      "url": "https://rateyourmusic.com/genre/pop-ghazal/",
+      "description": "Employs traditional Ghazal's verse, meter, and poetic inclinations in a pop form.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Rigsar",
+      "url": "https://rateyourmusic.com/genre/rigsar/",
+      "description": "Dominant form of popular music in Bhutan which broke traditions to move towards a more Western and Indian approach.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Sindhi Music",
+      "url": "https://rateyourmusic.com/genre/sindhi-music/",
+      "description": "Music rooted in the traditions of the Sindhi people.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "South Asian Classical Music",
+      "url": "https://rateyourmusic.com/genre/south-asian-classical-music/",
+      "description": "Meta-genre that covers the diverse forms of Classical Music from South Asia.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "South Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/south-asian-folk-music/",
+      "description": "Meta-genre which covers all the Traditional Folk Music forms from South Asia.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Sufi Rock",
+      "url": "https://rateyourmusic.com/genre/sufi-rock/",
+      "description": "Pakistani subgenre rooted in Sufi tradition, featuring South Asian instruments like the dhol, tabla, and sitar within a Rock band format with lyrics and imagery inspired by traditional Sufi poets.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Sufiana kalam",
+      "url": "https://rateyourmusic.com/genre/sufiana-kalam/",
+      "description": "Classical music from Kashmir, the northernmost part of the Indian subcontinent.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    },
+    {
+      "name": "Vedic Chant",
+      "url": "https://rateyourmusic.com/genre/vedic-chant/",
+      "description": "Sacred Hindu chants rooted in the ancient Vedas, and primarily recited as mantras, requiring strict precision and diligence.",
+      "level": "sub-3",
+      "parent": "South Asian Music"
+    }
+  ]
+}

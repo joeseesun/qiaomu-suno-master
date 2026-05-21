@@ -1,0 +1,38 @@
+{
+  "name": "Catalan Folk Music",
+  "description": "Blend of local styles and influences from the Iberian Peninsula region and the Catalonian area of Southern France.",
+  "url": "https://rateyourmusic.com/genre/catalan-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Sardana",
+      "url": "https://rateyourmusic.com/genre/sardana/",
+      "description": "Traditional dance dating from the 16th century performed by large ensembles called 'Cobla' and danced by people holding hands in a circle.",
+      "level": "sub-4",
+      "parent": "Catalan Folk Music"
+    },
+    {
+      "name": "Sardana",
+      "url": "https://rateyourmusic.com/genre/sardana/",
+      "description": "Traditional dance dating from the 16th century performed by large ensembles called 'Cobla' and danced by people holding hands in a circle.",
+      "level": "sub-4",
+      "parent": "Catalan Folk Music"
+    },
+    {
+      "name": "Sardana",
+      "url": "https://rateyourmusic.com/genre/sardana/",
+      "description": "Traditional dance dating from the 16th century performed by large ensembles called 'Cobla' and danced by people holding hands in a circle.",
+      "level": "sub-4",
+      "parent": "Catalan Folk Music"
+    },
+    {
+      "name": "Sardana",
+      "url": "https://rateyourmusic.com/genre/sardana/",
+      "description": "Traditional dance dating from the 16th century performed by large ensembles called 'Cobla' and danced by people holding hands in a circle.",
+      "level": "sub-4",
+      "parent": "Catalan Folk Music"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "name": "Pop Rock",
+  "description": "Fuses conventional verse-chorus song structure and especially melodic songwriting with usage of guitars, drums, and propulsive rhythms.",
+  "url": "https://rateyourmusic.com/genre/pop-rock/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 26,
+  "children": [
+    {
+      "name": "Beat",
+      "url": "https://rateyourmusic.com/genre/beat/",
+      "description": "Emerged in the early 1960s in the United Kingdom, drawing on Rock & Roll and the late 1950s Skiffle revival in a simple guitar-band format with strong melodies.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Beat",
+      "url": "https://rateyourmusic.com/genre/beat/",
+      "description": "Emerged in the early 1960s in the United Kingdom, drawing on Rock & Roll and the late 1950s Skiffle revival in a simple guitar-band format with strong melodies.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Beat Rock",
+      "url": "https://rateyourmusic.com/genre/beat-rock/",
+      "description": "Japan-exclusive subgenre which combines Pop melodicism with a punchy, driving sound drawing on Punk Rock and New Wave.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Beat Rock",
+      "url": "https://rateyourmusic.com/genre/beat-rock/",
+      "description": "Japan-exclusive subgenre which combines Pop melodicism with a punchy, driving sound drawing on Punk Rock and New Wave.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Big Music",
+      "url": "https://rateyourmusic.com/genre/big-music/",
+      "description": "Rooted in Post-Punk and popular in the 1980s, with anthemic songwriting and a grandiose, stadium-ready sound.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Big Music",
+      "url": "https://rateyourmusic.com/genre/big-music/",
+      "description": "Rooted in Post-Punk and popular in the 1980s, with anthemic songwriting and a grandiose, stadium-ready sound.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Britpop",
+      "url": "https://rateyourmusic.com/genre/britpop/",
+      "description": "Emerged in the United Kingdom in the early 1990s, with a style hearkening back to the traditional guitar-driven songs and melodic hooks found in the British Pop Rock of the 1960s.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Britpop",
+      "url": "https://rateyourmusic.com/genre/britpop/",
+      "description": "Emerged in the United Kingdom in the early 1990s, with a style hearkening back to the traditional guitar-driven songs and melodic hooks found in the British Pop Rock of the 1960s.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Jangle Pop",
+      "url": "https://rateyourmusic.com/genre/jangle-pop/",
+      "description": "Treble-heavy guitars with arpeggiated melodies, distinct basslines, and often propulsive, repetitive strum-rhythms; frequently influenced by Post-Punk.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Jangle Pop",
+      "url": "https://rateyourmusic.com/genre/jangle-pop/",
+      "description": "Treble-heavy guitars with arpeggiated melodies, distinct basslines, and often propulsive, repetitive strum-rhythms; frequently influenced by Post-Punk.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Piano Rock",
+      "url": "https://rateyourmusic.com/genre/piano-rock/",
+      "description": "Primarily based around piano riffs and melodies, rather than having guitar as the focal instrument.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Piano Rock",
+      "url": "https://rateyourmusic.com/genre/piano-rock/",
+      "description": "Primarily based around piano riffs and melodies, rather than having guitar as the focal instrument.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Pop Yeh-Yeh",
+      "url": "https://rateyourmusic.com/genre/pop-yeh-yeh/",
+      "description": "Blends Western Beat and Psychedelia styles with asli singing and melodies drawn from Malay Folk Music.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Pop Yeh-Yeh",
+      "url": "https://rateyourmusic.com/genre/pop-yeh-yeh/",
+      "description": "Blends Western Beat and Psychedelia styles with asli singing and melodies drawn from Malay Folk Music.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Post-Britpop",
+      "url": "https://rateyourmusic.com/genre/post-britpop/",
+      "description": "Emerged in the late 1990s as a Britpop expansion mainly characterized by acoustic-leaning instrumentation, lush string arrangements, and mid-tempo song structures, as well as less apparent lyrical concerns for Britain in favor of introspective, contemplative themes.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Post-Britpop",
+      "url": "https://rateyourmusic.com/genre/post-britpop/",
+      "description": "Emerged in the late 1990s as a Britpop expansion mainly characterized by acoustic-leaning instrumentation, lush string arrangements, and mid-tempo song structures, as well as less apparent lyrical concerns for Britain in favor of introspective, contemplative themes.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Power Pop",
+      "url": "https://rateyourmusic.com/genre/power-pop/",
+      "description": "Combines 1960s Pop melodies with loud power chords; characterized by prominent, sometimes jangly electric guitars, clear vocals, crisp harmonies, and economical arrangements.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Power Pop",
+      "url": "https://rateyourmusic.com/genre/power-pop/",
+      "description": "Combines 1960s Pop melodies with loud power chords; characterized by prominent, sometimes jangly electric guitars, clear vocals, crisp harmonies, and economical arrangements.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Soft Rock",
+      "url": "https://rateyourmusic.com/genre/soft-rock/",
+      "description": "Clean production and light instrumentation paired with harmonious, radio-friendly songwriting; gained huge commercial success in the 1970s.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Soft Rock",
+      "url": "https://rateyourmusic.com/genre/soft-rock/",
+      "description": "Clean production and light instrumentation paired with harmonious, radio-friendly songwriting; gained huge commercial success in the 1970s.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Stereo",
+      "url": "https://rateyourmusic.com/genre/stereo/",
+      "description": "Burmese Pop Rock genre which emerged in the mid-1960s.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Stereo",
+      "url": "https://rateyourmusic.com/genre/stereo/",
+      "description": "Burmese Pop Rock genre which emerged in the mid-1960s.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Twee Pop",
+      "url": "https://rateyourmusic.com/genre/twee-pop/",
+      "description": "Distinct Post-Punk background and often jangling guitars, defined by a cute aesthetic and lyrics combined with an indie/DIY attitude and a simplicity often indebted to Punk Rock.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Twee Pop",
+      "url": "https://rateyourmusic.com/genre/twee-pop/",
+      "description": "Distinct Post-Punk background and often jangling guitars, defined by a cute aesthetic and lyrics combined with an indie/DIY attitude and a simplicity often indebted to Punk Rock.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Vocal Surf",
+      "url": "https://rateyourmusic.com/genre/vocal-surf/",
+      "description": "Appropriates the sounds of instrumental Surf Rock, combining surfing- and car-themed lyrics with a style that draws primarily from Doo-Wop and Rock & Roll.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    },
+    {
+      "name": "Vocal Surf",
+      "url": "https://rateyourmusic.com/genre/vocal-surf/",
+      "description": "Appropriates the sounds of instrumental Surf Rock, combining surfing- and car-themed lyrics with a style that draws primarily from Doo-Wop and Rock & Roll.",
+      "level": "sub-2",
+      "parent": "Pop Rock"
+    }
+  ]
+}

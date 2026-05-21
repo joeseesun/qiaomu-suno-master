@@ -1,0 +1,38 @@
+{
+  "name": "Deathcore",
+  "description": "Integrates brutal palm-muted and tremolo-picked riffing, blast beat-focused drumming, and guttural vocals of Death Metal with groovy breakdown sections.",
+  "url": "https://rateyourmusic.com/genre/deathcore/",
+  "parent": "Metalcore",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Downtempo Deathcore",
+      "url": "https://rateyourmusic.com/genre/downtempo-deathcore/",
+      "description": "Slow and minimal songs emphasizing breakdowns, atmosphere, and dissonance with downtuned guitars.",
+      "level": "sub-3",
+      "parent": "Deathcore"
+    },
+    {
+      "name": "Downtempo Deathcore",
+      "url": "https://rateyourmusic.com/genre/downtempo-deathcore/",
+      "description": "Slow and minimal songs emphasizing breakdowns, atmosphere, and dissonance with downtuned guitars.",
+      "level": "sub-4",
+      "parent": "Deathcore"
+    },
+    {
+      "name": "Downtempo Deathcore",
+      "url": "https://rateyourmusic.com/genre/downtempo-deathcore/",
+      "description": "Slow and minimal songs emphasizing breakdowns, atmosphere, and dissonance with downtuned guitars.",
+      "level": "sub-4",
+      "parent": "Deathcore"
+    },
+    {
+      "name": "Downtempo Deathcore",
+      "url": "https://rateyourmusic.com/genre/downtempo-deathcore/",
+      "description": "Slow and minimal songs emphasizing breakdowns, atmosphere, and dissonance with downtuned guitars.",
+      "level": "sub-4",
+      "parent": "Deathcore"
+    }
+  ]
+}

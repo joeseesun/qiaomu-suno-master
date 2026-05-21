@@ -1,0 +1,24 @@
+{
+  "name": "Progressive Bluegrass",
+  "description": "Modernization with varied influences including Jazz, Folk, Rock, and other forms of Country.",
+  "url": "https://rateyourmusic.com/genre/progressive-bluegrass/",
+  "parent": "Bluegrass",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Jamgrass",
+      "url": "https://rateyourmusic.com/genre/jamgrass/",
+      "description": "Emphasizes instrumental jamming and extended performances with many outside influences.",
+      "level": "sub-3",
+      "parent": "Progressive Bluegrass"
+    },
+    {
+      "name": "Jamgrass",
+      "url": "https://rateyourmusic.com/genre/jamgrass/",
+      "description": "Emphasizes instrumental jamming and extended performances with many outside influences.",
+      "level": "sub-5",
+      "parent": "Progressive Bluegrass"
+    }
+  ]
+}

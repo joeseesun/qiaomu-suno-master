@@ -1,0 +1,31 @@
+{
+  "name": "Pop Minang",
+  "description": "Combines Minangkabau traditions with Pop structures and instrumentation.",
+  "url": "https://rateyourmusic.com/genre/pop-minang/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Talempong goyang",
+      "url": "https://rateyourmusic.com/genre/talempong-goyang/",
+      "description": "Blends traditional Talempong elements with contemporary Pop influences, often featuring a female vocalist, and encourages audience participation.",
+      "level": "sub-2",
+      "parent": "Pop Minang"
+    },
+    {
+      "name": "Talempong goyang",
+      "url": "https://rateyourmusic.com/genre/talempong-goyang/",
+      "description": "Blends traditional Talempong elements with contemporary Pop influences, often featuring a female vocalist, and encourages audience participation.",
+      "level": "sub-6",
+      "parent": "Pop Minang"
+    },
+    {
+      "name": "Talempong goyang",
+      "url": "https://rateyourmusic.com/genre/talempong-goyang/",
+      "description": "Blends traditional Talempong elements with contemporary Pop influences, often featuring a female vocalist, and encourages audience participation.",
+      "level": "sub-4",
+      "parent": "Pop Minang"
+    }
+  ]
+}

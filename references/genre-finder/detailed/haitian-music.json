@@ -1,0 +1,66 @@
+{
+  "name": "Haitian Music",
+  "description": "Encompasses the styles of music developed by the Haitian people.",
+  "url": "https://rateyourmusic.com/genre/haitian-music/",
+  "parent": "French Caribbean Music",
+  "level": "sub-3",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Cadence rampa",
+      "url": "https://rateyourmusic.com/genre/cadence-rampa/",
+      "description": "Developed in parallel with Compas, based on Méringue with a stronger Cuban influence.",
+      "level": "sub-4",
+      "parent": "Haitian Music"
+    },
+    {
+      "name": "Compas",
+      "url": "https://rateyourmusic.com/genre/compas/",
+      "description": "Popular genre from Haiti, updating the older Méringue style with influences from Mambo and Jazz.",
+      "level": "sub-4",
+      "parent": "Haitian Music"
+    },
+    {
+      "name": "Haitian Vodou Drumming",
+      "url": "https://rateyourmusic.com/genre/haitian-vodou-drumming/",
+      "description": "Form of rhythmic performance by Haitian Vodou practitioners, played at associated ceremonies.",
+      "level": "sub-4",
+      "parent": "Haitian Music"
+    },
+    {
+      "name": "Méringue",
+      "url": "https://rateyourmusic.com/genre/meringue/",
+      "description": "Haitian genre that dates back to the early 19th century; the roots of Compas.",
+      "level": "sub-4",
+      "parent": "Haitian Music"
+    },
+    {
+      "name": "Rabòday",
+      "url": "https://rateyourmusic.com/genre/raboday/",
+      "description": "Fast-paced rhythm inspired by Rara, with Electronic instrumentation and humorous sexual and political lyrics.",
+      "level": "sub-4",
+      "parent": "Haitian Music"
+    },
+    {
+      "name": "Rara",
+      "url": "https://rateyourmusic.com/genre/rara/",
+      "description": "Derived from the Haitian Vodou Drumming tradition, often played at street festivals and carnivals and usually having celebratory or political lyrics.",
+      "level": "sub-4",
+      "parent": "Haitian Music"
+    },
+    {
+      "name": "Rasin",
+      "url": "https://rateyourmusic.com/genre/rasin/",
+      "description": "Blends the highly rhythmic drumming of traditional Haitian Vodou music with Rock-influenced electric instrumentation such as guitar, keyboard, and bass.",
+      "level": "sub-4",
+      "parent": "Haitian Music"
+    },
+    {
+      "name": "Twoubadou",
+      "url": "https://rateyourmusic.com/genre/twoubadou/",
+      "description": "Pastoral, often satirical Haitian style usually performed by small groups centered around the acoustic guitar.",
+      "level": "sub-4",
+      "parent": "Haitian Music"
+    }
+  ]
+}

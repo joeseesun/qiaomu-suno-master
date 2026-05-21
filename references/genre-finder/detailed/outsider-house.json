@@ -1,0 +1,24 @@
+{
+  "name": "Outsider House",
+  "description": "Mostly derived from Deep House; intentional use of rough, lo-fi production, often utilizing a mix of analog/analog-like and digital instrumentation.",
+  "url": "https://rateyourmusic.com/genre/outsider-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Lo-Fi House",
+      "url": "https://rateyourmusic.com/genre/lo-fi-house/",
+      "description": "Primarily distinguished from earlier styles of outsider house by its stricter reliance on deep house elements, cranky, nocturnal, and nostalgic atmospheres, and a distinct dreamy, lo-fi aesthetic.",
+      "level": "sub-4",
+      "parent": "Outsider House"
+    },
+    {
+      "name": "Lo-Fi House",
+      "url": "https://rateyourmusic.com/genre/lo-fi-house/",
+      "description": "Primarily distinguished from earlier styles of outsider house by its stricter reliance on deep house elements, cranky, nocturnal, and nostalgic atmospheres, and a distinct dreamy, lo-fi aesthetic.",
+      "level": "sub-4",
+      "parent": "Outsider House"
+    }
+  ]
+}

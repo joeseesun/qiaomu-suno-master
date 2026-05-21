@@ -1,0 +1,45 @@
+{
+  "name": "Greek Music",
+  "description": "Music of the Greek people.",
+  "url": "https://rateyourmusic.com/genre/greek-music/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Ancient Greek Music",
+      "url": "https://rateyourmusic.com/genre/ancient-greek-music/",
+      "description": "Music of ancient Greek civilization.",
+      "level": "sub-3",
+      "parent": "Greek Music"
+    },
+    {
+      "name": "Byzantine Music",
+      "url": "https://rateyourmusic.com/genre/byzantine-music/",
+      "description": "Music from Byzantine era.",
+      "level": "sub-3",
+      "parent": "Greek Music"
+    },
+    {
+      "name": "Entechna",
+      "url": "https://rateyourmusic.com/genre/entechna/",
+      "description": "First appeared in Greece in the late 1950s, featuring orchestrated arrangements with influence from Greek Folk Music and the popular Laika style.",
+      "level": "sub-3",
+      "parent": "Greek Music"
+    },
+    {
+      "name": "Greek Folk Music",
+      "url": "https://rateyourmusic.com/genre/greek-folk-music/",
+      "description": "Greek folk traditions.",
+      "level": "sub-3",
+      "parent": "Greek Music"
+    },
+    {
+      "name": "Laika",
+      "url": "https://rateyourmusic.com/genre/laika/",
+      "description": "Greek popular music played with local instruments like the bouzouki, Greek baglama, and the jouras.",
+      "level": "sub-3",
+      "parent": "Greek Music"
+    }
+  ]
+}

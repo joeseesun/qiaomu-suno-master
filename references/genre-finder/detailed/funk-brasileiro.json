@@ -1,0 +1,129 @@
+{
+  "name": "Funk brasileiro",
+  "description": "Hip Hop-influenced dance style originating from the favelas of Rio de Janeiro and known primarily as \"funk\" in Brazil.",
+  "url": "https://rateyourmusic.com/genre/funk-brasileiro/",
+  "parent": "Brazilian Music",
+  "level": "sub-3",
+  "children_count": 17,
+  "children": [
+    {
+      "name": "Arrocha funk",
+      "url": "https://rateyourmusic.com/genre/arrocha-funk/",
+      "description": "Slow and gritty Reggaetón-like drums with an emphasis on brass sections influenced by Arrocha.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Beat bolha",
+      "url": "https://rateyourmusic.com/genre/beat-bolha/",
+      "description": "Defined by its squeaky wisps and chopped bubbling samples, usually played around 130 to 170 BPM.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Beat fino",
+      "url": "https://rateyourmusic.com/genre/beat-fino/",
+      "description": "High pitched or sped up metallic percussion and Beatboxing loops with little to no bass.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Brega funk",
+      "url": "https://rateyourmusic.com/genre/brega-funk/",
+      "description": "Rooted in Tecnobrega, features glossy syncopated MIDI pianos and synths, distinct pitched metallic snares and vocal chops over a wonky kick rhythm.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Eletrofunk",
+      "url": "https://rateyourmusic.com/genre/eletrofunk/",
+      "description": "Blends Funk brasileiro vocals with production from popular late 2000s and early 2010s House.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Funk 150 bpm",
+      "url": "https://rateyourmusic.com/genre/funk-150-bpm/",
+      "description": "Fast tempos, typically reaching 150 bpm and sometimes beyond it, heightened energy and typically faster flows as well.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Funk carioca",
+      "url": "https://rateyourmusic.com/genre/funk-carioca-1/",
+      "description": "Early scene of Funk brasileiro that began in Rio de Janeiro, developed from a local take on American Miami Bass.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Funk de BH",
+      "url": "https://rateyourmusic.com/genre/funk-de-bh/",
+      "description": "Atmospheric, mellow and minimalistic production with sparse percussion, often featuring sound effects or filtered samples.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Funk mandelão",
+      "url": "https://rateyourmusic.com/genre/funk-mandelao/",
+      "description": "Simple lyricism, raw and minimalistic production, and distinct drops with bursting bass.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Funk melody",
+      "url": "https://rateyourmusic.com/genre/funk-melody/",
+      "description": "Light and melodic take on Funk brasileiro, developed alongside Funk carioca.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Funk ostentação",
+      "url": "https://rateyourmusic.com/genre/funk-ostentacao/",
+      "description": "Late 2000s take on Funk brasileiro from São Paulo state, featuring Pop Rap influences, having a more accessible sound.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Funknejo",
+      "url": "https://rateyourmusic.com/genre/funknejo/",
+      "description": "Incorporates the rhythms, production, and idioms of Funk brasileiro into the universitário genre.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Mega funk",
+      "url": "https://rateyourmusic.com/genre/mega-funk/",
+      "description": "Blends funk vocal performances with production derived from mainstage 2010s House genres like Brazilian Bass and Slap House.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Noiadance",
+      "url": "https://rateyourmusic.com/genre/noiadance/",
+      "description": "Blends Dutch House production with Funk brasileiro vocals and drumming on top of Moombahton rhythms.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Rasteirinha",
+      "url": "https://rateyourmusic.com/genre/rasteirinha/",
+      "description": "Slow-paced, highly rhythmic with instrumentation derived from Samba and Axé, and Dancehall-inspired grooves.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Tecnofunk",
+      "url": "https://rateyourmusic.com/genre/tecnofunk/",
+      "description": "Raw and vulgar Tecnobrega and Funk brasileiro fusion developed in the late 2010s by DJs in Belém do Pará.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    },
+    {
+      "name": "Trapfunk",
+      "url": "https://rateyourmusic.com/genre/trapfunk/",
+      "description": "Heavy beats and prominent bass, common in Trap, along with the energy and fast-paced funk rhythm.",
+      "level": "sub-4",
+      "parent": "Funk brasileiro"
+    }
+  ]
+}

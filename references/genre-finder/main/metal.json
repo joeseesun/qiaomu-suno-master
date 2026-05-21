@@ -1,0 +1,197 @@
+{
+  "name": "Metal",
+  "description": "Driving and distorted riffs, aggressive drumming, vigorous vocals, and an all-around show of brute force in its early days, since branching into dozens of subgenres.",
+  "url": "https://rateyourmusic.com/genre/metal/",
+  "sub_genres_count": 27,
+  "sub_genres": [
+    {
+      "name": "Alternative Metal",
+      "url": "https://rateyourmusic.com/genre/alternative-metal/",
+      "description": "Mid-tempo style emphasizing melodicism and rhythmic heaviness; branches outside of the stylistic conventions of Metal.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Avant-Garde Metal",
+      "url": "https://rateyourmusic.com/genre/avant-garde-metal/",
+      "description": "Often breaking the bounds of the genre through experimental structures and instrumentation, or by incorporating outside influences.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Black Metal",
+      "url": "https://rateyourmusic.com/genre/black-metal/",
+      "description": "Highly distorted, treble-heavy guitars, tremolo-picked riffs, blast beats and double bass drumming, shrieked vocals, and raw, lo-fi production; often focuses on occult, dark imagery and atmosphere.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Death Metal",
+      "url": "https://rateyourmusic.com/genre/death-metal/",
+      "description": "Heavily distorted, down-tuned guitars, palm-muted, tremolo-picked riffs, double-kick and blast beat percussion, chromatic chord progressions, minor keys, abrupt changes in tempo, and guttural vocals.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Djent",
+      "url": "https://rateyourmusic.com/genre/djent/",
+      "description": "Groovy polymeters, syncopated power chord chugs, palm-muted, distorted guitars, and significant focus on production and tone.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Doom Metal",
+      "url": "https://rateyourmusic.com/genre/doom-metal/",
+      "description": "Plodding tempos, repeated chords, and thick, distorted, down-tuned guitars in a style focused on foreboding, atmosphere, and tension.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Drone Metal",
+      "url": "https://rateyourmusic.com/genre/drone-metal/",
+      "description": "Extremely slow tempos, highly sustained, repetitive guitar notes, and minimalist song structures often omitting a traditional rhythm section and vocals.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Folk Metal",
+      "url": "https://rateyourmusic.com/genre/folk-metal/",
+      "description": "Features influences from various types of Traditional Folk Music expressed through melodies and/or traditional instrumentation, notably having a large scene in Europe.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Gothic Metal",
+      "url": "https://rateyourmusic.com/genre/gothic-metal/",
+      "description": "Features heavy, low-mid tempo riffs, somber, gloomy atmosphere accentuated by ethereal keyboards and synthesizer layers, and vocal styles ranging from raspy growls to female operatic singing.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Grindcore",
+      "url": "https://rateyourmusic.com/genre/grindcore/",
+      "description": "Brief and intense song structures featuring a plethora of blast beats, down-tuned and tremolo-picked guitars, and abrasive, usually raw production.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Groove Metal",
+      "url": "https://rateyourmusic.com/genre/groove-metal/",
+      "description": "Midtempo riffs influenced by Thrash Metal but with a greater focus on rhythmic syncopation and heaviness over speed.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Heavy Metal",
+      "url": "https://rateyourmusic.com/genre/heavy-metal/",
+      "description": "Heavier outgrowth of Hard Rock featuring greater distortion and intensity along with lesser Blues influences.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Industrial Metal",
+      "url": "https://rateyourmusic.com/genre/industrial-metal/",
+      "description": "Incorporates the abrasive and heavy sound of Industrial into Metal, using elements like synthesizers and drum machines.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Kawaii Metal",
+      "url": "https://rateyourmusic.com/genre/kawaii-metal/",
+      "description": "Fuses various Metal substyles with J-Pop's upbeat melodicism and song structures, utilizing kawaii lyricism and an idol music aesthetic.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Metalcore",
+      "url": "https://rateyourmusic.com/genre/metalcore/",
+      "description": "Drop-tuned guitar riffs, constant double kick drumming with varying tempos and techniques, breakdown sections, and screaming or shouting vocals.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Neoclassical Metal",
+      "url": "https://rateyourmusic.com/genre/neoclassical-metal/",
+      "description": "Greatly influenced by Western Classical Music in its style of playing and composing.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Post-Metal",
+      "url": "https://rateyourmusic.com/genre/post-metal/",
+      "description": "Atmospheric and dense metallic riffs, unconventional songwriting, sonic experimentation, and adoption of eclectic influences.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Power Metal",
+      "url": "https://rateyourmusic.com/genre/power-metal/",
+      "description": "Developed from Heavy Metal and Speed Metal, emphasizing speed, vocal melody and harmonized lead guitars.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Progressive Metal",
+      "url": "https://rateyourmusic.com/genre/progressive-metal/",
+      "description": "Fuses amplified, guitar-driven sound with technical proficiency, virtuosity, complex compositions, innovative arrangements, eclecticism, and additional instrumentation.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Sludge Metal",
+      "url": "https://rateyourmusic.com/genre/sludge-metal/",
+      "description": "Mixes Doom Metal's slow pacing, down-tuned riffing style and dark atmosphere with Hardcore Punk's aggression, abrasiveness and harsh vocals.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Southern Metal",
+      "url": "https://rateyourmusic.com/genre/southern-metal/",
+      "description": "Blues-influenced style that primarily incorporates Sludge Metal and Stoner Metal with metallic Southern Rock riffs.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Stenchcore",
+      "url": "https://rateyourmusic.com/genre/stenchcore/",
+      "description": "Heavier, more metallic form of Crust Punk drawing influence from Thrash Metal as well as Death Metal and Heavy Metal.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Stoner Metal",
+      "url": "https://rateyourmusic.com/genre/stoner-metal/",
+      "description": "Combines elements of Doom Metal with elements of Psychedelic Rock and Blues Rock to create a melodic yet heavy sound.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Symphonic Metal",
+      "url": "https://rateyourmusic.com/genre/symphonic-metal/",
+      "description": "Incorporates elements of symphonic and Orchestral Music.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Thrash Metal",
+      "url": "https://rateyourmusic.com/genre/thrash-metal/",
+      "description": "Blistering tempos, palm-muted, technical riffing influenced by Speed Metal, aggressive drumming utilizing double-kick and skank beats, and diverse vocal styles ranging from harsh to clean techniques.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Trance Metal",
+      "url": "https://rateyourmusic.com/genre/trance-metal/",
+      "description": "Tempo between 130 and 160 BPM, played with keyboards and metal instrumentation, sung with harsh and aggressive vocals including many clean melodic styles; regularly uses elements of Melodic Death Metal, Symphonic Metal, and Electronic Dance Music.",
+      "level": "sub",
+      "parent": "Metal"
+    },
+    {
+      "name": "Viking Metal",
+      "url": "https://rateyourmusic.com/genre/viking-metal/",
+      "description": "Developed out of Black Metal and embodies an epic, Viking-like aesthetic.",
+      "level": "sub",
+      "parent": "Metal"
+    }
+  ]
+}

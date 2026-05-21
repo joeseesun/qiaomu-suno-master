@@ -1,0 +1,274 @@
+{
+  "name": "Jazz",
+  "description": "Originating in African American communities in the Southern United States around the turn of the 20th century, building on New Orleans Brass Band ensemble and influences from Ragtime and Blues to become a very popular style by the emergence of Swing in the 1930s.",
+  "url": "https://rateyourmusic.com/genre/jazz/",
+  "sub_genres_count": 38,
+  "sub_genres": [
+    {
+      "name": "Afro-Jazz",
+      "url": "https://rateyourmusic.com/genre/afro-jazz/",
+      "description": "African-styled percussion and rhythms.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Arabic Jazz",
+      "url": "https://rateyourmusic.com/genre/arabic-jazz/",
+      "description": "Blending of Arabic Music and Jazz.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Avant-Garde Jazz",
+      "url": "https://rateyourmusic.com/genre/avant-garde-jazz/",
+      "description": "Combines traditional or mainstream Jazz stylings with non-traditional techniques of avant-garde art music by experimenting with characteristics such as rhythm, harmony, structure, melody, and instrumentation.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Bebop",
+      "url": "https://rateyourmusic.com/genre/bebop/",
+      "description": "Fast tempos, improvisation, melodic chromaticism, and complex harmonies and chord progressions.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Big Band",
+      "url": "https://rateyourmusic.com/genre/big-band/",
+      "description": "Commonly associated with the golden era of Swing in the 1930s and 1940s, performed by a large ensemble including brass, woodwinds, and usually a rhythm section.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "British Dance Band",
+      "url": "https://rateyourmusic.com/genre/british-dance-band/",
+      "description": "Came from the dancehalls of the 1920s and 1930s, combining a British take on Jazz with the Music Hall tradition.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Bulawayo Jazz",
+      "url": "https://rateyourmusic.com/genre/bulawayo-jazz/",
+      "description": "Emerged from the city of Bulawayo, Zimbabwe in the early 1950s, led by the alto sax and accompanied by ensembles.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Cape Jazz",
+      "url": "https://rateyourmusic.com/genre/cape-jazz/",
+      "description": "Developed parallel to American Jazz in the early 20th century, named for its origin in Cape Town, South Africa.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Cartoon Music",
+      "url": "https://rateyourmusic.com/genre/cartoon-music/",
+      "description": "Zany and uptempo; incorporates elements of Western Classical Music and Modern Classical into frantic Big Band arrangements, playfully chaotic to match the on-screen actions of Cartoon characters and the beat of their movements.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Chamber Jazz",
+      "url": "https://rateyourmusic.com/genre/chamber-jazz/",
+      "description": "Made by mostly small acoustic-based ensembles with emphasized improvisation and influenced by Neoclassicism and Traditional Folk Music.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Cool Jazz",
+      "url": "https://rateyourmusic.com/genre/cool-jazz/",
+      "description": "Developed in the late 1940s alongside and in response to Bebop, featuring a more restrained, emotionally \"cool\" style.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Crime Jazz",
+      "url": "https://rateyourmusic.com/genre/crime-jazz/",
+      "description": "Gritty, moody style that emerged in the mid-1950s to accompany film noir movies and hard-boiled detective/crime-themed TV shows.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Dark Jazz",
+      "url": "https://rateyourmusic.com/genre/dark-jazz/",
+      "description": "Melancholic and gloomy Film noir-inspired atmosphere and influence from Crime Jazz and Dark Ambient.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Dixieland",
+      "url": "https://rateyourmusic.com/genre/dixieland/",
+      "description": "Developed in New Orleans in the 1910s, incorporating influences from Ragtime and Blues into cacophonous, polyphonic arrangements with instruments trading places between accompaniment and soloist.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "ECM Style Jazz",
+      "url": "https://rateyourmusic.com/genre/ecm-style-jazz/",
+      "description": "Primarily associated with ECM Records, combining elements of Jazz Fusion with the subdued atmosphere of Cool Jazz and the Western Classical Music bent of Third Stream.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Ethio-Jazz",
+      "url": "https://rateyourmusic.com/genre/ethio-jazz/",
+      "description": "Unique blend of traditional Ethiopic Music and Jazz.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Flamenco Jazz",
+      "url": "https://rateyourmusic.com/genre/flamenco-jazz/",
+      "description": "Combination of Jazz with Flamenco nuevo, the contemporary style of Flamenco, which was pioneered in the late 1960s.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Hard Bop",
+      "url": "https://rateyourmusic.com/genre/hard-bop/",
+      "description": "A continuation of Bebop that reintroduces more traditional African-American musical features, such as bluesy melodies, slow to medium tempos, and a more groove-oriented sound, while retaining the expressive improvisation.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Indo Jazz",
+      "url": "https://rateyourmusic.com/genre/indo-jazz/",
+      "description": "Fuses the various musical traditions of the Indian subcontinent with jazzy musical structures.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Jazz Fusion",
+      "url": "https://rateyourmusic.com/genre/jazz-fusion/",
+      "description": "Near-universal usage of electric guitars and keyboards coupled with influences from genres such as Rock, Rhythm & Blues, Funk, and Traditional Folk Music, and a relative degree of harmonic simplicity.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Jazz Poetry",
+      "url": "https://rateyourmusic.com/genre/jazz-poetry/",
+      "description": "Emerged in the 1920s, incorporating the style and rhythms of Jazz as both art forms spread throughout African-American communities in the United States.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Jazz manouche",
+      "url": "https://rateyourmusic.com/genre/jazz-manouche/",
+      "description": "Combines Jazz with several aspects of Romani Folk Music.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Jazz-Funk",
+      "url": "https://rateyourmusic.com/genre/jazz-funk/",
+      "description": "Jazz highly influenced by Funk.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Kréyol djaz",
+      "url": "https://rateyourmusic.com/genre/kreyol-djaz/",
+      "description": "Combines Jazz with various styles of French Caribbean Music.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Latin Jazz",
+      "url": "https://rateyourmusic.com/genre/latin-jazz/",
+      "description": "Fusion with Latin American rhythms, especially those of African origin.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Marabi",
+      "url": "https://rateyourmusic.com/genre/marabi/",
+      "description": "South African Jazz with origins in the 1920s and rooted in traditional South African music.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Modal Jazz",
+      "url": "https://rateyourmusic.com/genre/modal-jazz/",
+      "description": "Utilizes musical modes as harmonic framework over traditionally used chord progressions.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Post-Bop",
+      "url": "https://rateyourmusic.com/genre/post-bop/",
+      "description": "Grew out of Hard Bop in the early to mid-1960s incorporating certain untraditional elements inspired largely in part from Avant-Garde Jazz, Modal Jazz and eventually, Free Jazz, such as non-diatonic chord progressions, irregular rhythms and amelodic forms.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Smooth Jazz",
+      "url": "https://rateyourmusic.com/genre/smooth-jazz/",
+      "description": "Simple melodies and slick production influenced by Pop and R&B.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Soul Jazz",
+      "url": "https://rateyourmusic.com/genre/soul-jazz/",
+      "description": "Appeared during the 1950s when Gospel, Rhythm & Blues and later Soul started to influence the style of prolific Jazz musicians.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Spiritual Jazz",
+      "url": "https://rateyourmusic.com/genre/spiritual-jazz/",
+      "description": "Emerged in the 1960s, marked by a mixture of Jazz with approximations of ethnic styles, religious music of non-Christian traditions, and the ecstatic, transcendental aspects of Free Jazz.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Spy Music",
+      "url": "https://rateyourmusic.com/genre/spy-music/",
+      "description": "Meant to evoke the action and drama of Spy films.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Stride",
+      "url": "https://rateyourmusic.com/genre/stride/",
+      "description": "Early form of Ragtime-derived Jazz with improvisational tendencies; named for the performers' left hand \"striding\" across the piano keyboard.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Sweet Jazz",
+      "url": "https://rateyourmusic.com/genre/sweet-jazz/",
+      "description": "Early form developed by white bandleaders and highly popular with white audiences in the 1920s, emphasizing arrangements and strong melodies with a straighter rhythmic feel, de-emphasizing improvisation compared to \"hot\" Dixieland.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Swing",
+      "url": "https://rateyourmusic.com/genre/swing/",
+      "description": "Distinctive rhythm and large backing rhythm section over which solos are performed.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Third Stream",
+      "url": "https://rateyourmusic.com/genre/third-stream/",
+      "description": "A fusion of Jazz and Western Classical Music, with improvisation as a vital component.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "Vocal Jazz",
+      "url": "https://rateyourmusic.com/genre/vocal-jazz/",
+      "description": "Focused on vocals, generally using a more traditional, poppy strong structure and reducing the role of improvisation.",
+      "level": "sub",
+      "parent": "Jazz"
+    },
+    {
+      "name": "West Coast Jazz",
+      "url": "https://rateyourmusic.com/genre/west-coast-jazz/",
+      "description": "Laidback style of jazz related aesthetically to Cool Jazz, developed by musicians based in Los Angeles and San Francisco, California in the 1950s.",
+      "level": "sub",
+      "parent": "Jazz"
+    }
+  ]
+}

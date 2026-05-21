@@ -1,0 +1,31 @@
+{
+  "name": "Arabic Bellydance Music",
+  "description": "Accompaniment to traditional belly dances.",
+  "url": "https://rateyourmusic.com/genre/arabic-bellydance-music/",
+  "parent": "Arabic Folk Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Raqs baladi",
+      "url": "https://rateyourmusic.com/genre/raqs-baladi/",
+      "description": "Egyptian folk dance and its associated musical accompaniment, appearing in the 20th century.",
+      "level": "sub-4",
+      "parent": "Arabic Bellydance Music"
+    },
+    {
+      "name": "Raqs baladi",
+      "url": "https://rateyourmusic.com/genre/raqs-baladi/",
+      "description": "Egyptian folk dance and its associated musical accompaniment, appearing in the 20th century.",
+      "level": "sub-4",
+      "parent": "Arabic Bellydance Music"
+    },
+    {
+      "name": "Raqs baladi",
+      "url": "https://rateyourmusic.com/genre/raqs-baladi/",
+      "description": "Egyptian folk dance and its associated musical accompaniment, appearing in the 20th century.",
+      "level": "sub-4",
+      "parent": "Arabic Bellydance Music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Speedcore",
+  "description": "Exceedingly fast tempos, frequently above 300 BPM, and often aggressive themes and samples.",
+  "url": "https://rateyourmusic.com/genre/speedcore/",
+  "parent": "Hardcore [EDM]",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Extratone",
+      "url": "https://rateyourmusic.com/genre/extratone/",
+      "description": "At and above the threshold of 1000 BPM where sequences of kick drums begin to form a continuous pitch.",
+      "level": "sub-4",
+      "parent": "Speedcore"
+    },
+    {
+      "name": "Extratone",
+      "url": "https://rateyourmusic.com/genre/extratone/",
+      "description": "At and above the threshold of 1000 BPM where sequences of kick drums begin to form a continuous pitch.",
+      "level": "sub-4",
+      "parent": "Speedcore"
+    },
+    {
+      "name": "Splittercore",
+      "url": "https://rateyourmusic.com/genre/splittercore/",
+      "description": "Faster version of Speedcore with BPM ranging from around 600 to 1000.",
+      "level": "sub-4",
+      "parent": "Speedcore"
+    },
+    {
+      "name": "Splittercore",
+      "url": "https://rateyourmusic.com/genre/splittercore/",
+      "description": "Faster version of Speedcore with BPM ranging from around 600 to 1000.",
+      "level": "sub-4",
+      "parent": "Speedcore"
+    }
+  ]
+}

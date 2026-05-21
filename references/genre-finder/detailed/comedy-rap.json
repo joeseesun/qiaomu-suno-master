@@ -1,0 +1,24 @@
+{
+  "name": "Comedy Rap",
+  "description": "Primarily intended to be humorous, through the use of comedic lyrics, production, delivery, or other musical aspects.",
+  "url": "https://rateyourmusic.com/genre/comedy-rap/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Chap Hop",
+      "url": "https://rateyourmusic.com/genre/chap-hop/",
+      "description": "Satirises British cultural stereotypes with posh rapping and a distinctive retro aesthetic drawn from the \"chap\" and steampunk subcultures, often with elements of Music Hall.",
+      "level": "sub-2",
+      "parent": "Comedy Rap"
+    },
+    {
+      "name": "Chap Hop",
+      "url": "https://rateyourmusic.com/genre/chap-hop/",
+      "description": "Satirises British cultural stereotypes with posh rapping and a distinctive retro aesthetic drawn from the \"chap\" and steampunk subcultures, often with elements of Music Hall.",
+      "level": "sub-3",
+      "parent": "Comedy Rap"
+    }
+  ]
+}

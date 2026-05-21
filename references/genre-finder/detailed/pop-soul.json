@@ -1,0 +1,24 @@
+{
+  "name": "Pop Soul",
+  "description": "Fusion of Pop and Soul; originated in the 1960s as an attempt to give soul crossover success.",
+  "url": "https://rateyourmusic.com/genre/pop-soul/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Motown Sound",
+      "url": "https://rateyourmusic.com/genre/motown-sound/",
+      "description": "Succinct, catchy song structures; complex arrangements; Gospel-influenced vocals; highly melodic and rhythmic bass lines; 4-4 drum patterns; often syncopated piano parts; regular use of horn and string sections; and historically a distinctive reverb and treble-heavy production.",
+      "level": "sub-2",
+      "parent": "Pop Soul"
+    },
+    {
+      "name": "Motown Sound",
+      "url": "https://rateyourmusic.com/genre/motown-sound/",
+      "description": "Succinct, catchy song structures; complex arrangements; Gospel-influenced vocals; highly melodic and rhythmic bass lines; 4-4 drum patterns; often syncopated piano parts; regular use of horn and string sections; and historically a distinctive reverb and treble-heavy production.",
+      "level": "sub-3",
+      "parent": "Pop Soul"
+    }
+  ]
+}

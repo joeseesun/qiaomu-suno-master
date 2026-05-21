@@ -1,0 +1,31 @@
+{
+  "name": "Animal Sounds",
+  "description": "Recordings which are done in order to capture sounds produced by animals.",
+  "url": "https://rateyourmusic.com/genre/animal-sounds/",
+  "parent": "Nature Recordings",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Bird Sounds",
+      "url": "https://rateyourmusic.com/genre/bird-sounds/",
+      "description": "Recordings of birds, including vocalizations (songs and calls) and mechanical sounds produced by bills, wings, or feathers.",
+      "level": "sub-3",
+      "parent": "Animal Sounds"
+    },
+    {
+      "name": "Insect Sounds",
+      "url": "https://rateyourmusic.com/genre/insect-sounds/",
+      "description": "Recordings that capture the sounds produced by insects.",
+      "level": "sub-3",
+      "parent": "Animal Sounds"
+    },
+    {
+      "name": "Whale Song",
+      "url": "https://rateyourmusic.com/genre/whale-song/",
+      "description": "Low-frequency, complex vocalizations produced by baleen whales.",
+      "level": "sub-3",
+      "parent": "Animal Sounds"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Southern Brazilian Music",
+  "description": "Traditional music originating from Southern Brazil.",
+  "url": "https://rateyourmusic.com/genre/southern-brazilian-music/",
+  "parent": "Brazilian Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Bandinha",
+      "url": "https://rateyourmusic.com/genre/bandinha/",
+      "description": "Popular style of music from the Southern region of Brazil. Borrows elements from German Folk Music, Sertanejo romântico and Brega.",
+      "level": "sub-4",
+      "parent": "Southern Brazilian Music"
+    },
+    {
+      "name": "Música gaúcha",
+      "url": "https://rateyourmusic.com/genre/musica-gaucha/",
+      "description": "Popular music style of southern Brazil, based on the traditional Polka and other European rhythms.",
+      "level": "sub-4",
+      "parent": "Southern Brazilian Music"
+    }
+  ]
+}

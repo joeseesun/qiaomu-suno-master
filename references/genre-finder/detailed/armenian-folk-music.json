@@ -1,0 +1,38 @@
+{
+  "name": "Armenian Folk Music",
+  "description": "Traditional Folk Music of the Armenians, which is attested in historic Armenia since antiquity, with unique regional dialects unified by general melodic structure.",
+  "url": "https://rateyourmusic.com/genre/armenian-folk-music/",
+  "parent": "West Asian Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Kef Music",
+      "url": "https://rateyourmusic.com/genre/kef-music/",
+      "description": "Dance-oriented Armenian American music with prominent presence of Anatolian instruments and folkloric melodies (often in the 10/8 meter) paired with novel lyrics relating to a variety of topics.",
+      "level": "sub-4",
+      "parent": "Armenian Folk Music"
+    },
+    {
+      "name": "Kef Music",
+      "url": "https://rateyourmusic.com/genre/kef-music/",
+      "description": "Dance-oriented Armenian American music with prominent presence of Anatolian instruments and folkloric melodies (often in the 10/8 meter) paired with novel lyrics relating to a variety of topics.",
+      "level": "sub-5",
+      "parent": "Armenian Folk Music"
+    },
+    {
+      "name": "Kef Music",
+      "url": "https://rateyourmusic.com/genre/kef-music/",
+      "description": "Dance-oriented Armenian American music with prominent presence of Anatolian instruments and folkloric melodies (often in the 10/8 meter) paired with novel lyrics relating to a variety of topics.",
+      "level": "sub-5",
+      "parent": "Armenian Folk Music"
+    },
+    {
+      "name": "Kef Music",
+      "url": "https://rateyourmusic.com/genre/kef-music/",
+      "description": "Dance-oriented Armenian American music with prominent presence of Anatolian instruments and folkloric melodies (often in the 10/8 meter) paired with novel lyrics relating to a variety of topics.",
+      "level": "sub-4",
+      "parent": "Armenian Folk Music"
+    }
+  ]
+}

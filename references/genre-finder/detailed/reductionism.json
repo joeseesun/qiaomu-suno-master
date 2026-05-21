@@ -1,0 +1,24 @@
+{
+  "name": "Reductionism",
+  "description": "Experimental music that centers around quiet dynamics and use of silence.",
+  "url": "https://rateyourmusic.com/genre/reductionism/",
+  "parent": "Experimental",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Lowercase",
+      "url": "https://rateyourmusic.com/genre/lowercase/",
+      "description": "Centered around the digital amplification and processing of quiet sounds.",
+      "level": "sub-2",
+      "parent": "Reductionism"
+    },
+    {
+      "name": "Onkyo",
+      "url": "https://rateyourmusic.com/genre/onkyo/",
+      "description": "Exploration of the physical traits of sound rather than music as expression.",
+      "level": "sub-2",
+      "parent": "Reductionism"
+    }
+  ]
+}

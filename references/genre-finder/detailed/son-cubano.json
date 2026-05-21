@@ -1,0 +1,38 @@
+{
+  "name": "Son cubano",
+  "description": "Cuban style popular from the 1920s to the 1950s that combines the structure of Spanish song-oriented styles with African rhythms and percussion.",
+  "url": "https://rateyourmusic.com/genre/son-cubano/",
+  "parent": "Cuban Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Bolero son",
+      "url": "https://rateyourmusic.com/genre/bolero-son/",
+      "description": "Blend of Bolero and Son cubano that appeared during the 1920s.",
+      "level": "sub-4",
+      "parent": "Son cubano"
+    },
+    {
+      "name": "Bolero son",
+      "url": "https://rateyourmusic.com/genre/bolero-son/",
+      "description": "Blend of Bolero and Son cubano that appeared during the 1920s.",
+      "level": "sub-5",
+      "parent": "Son cubano"
+    },
+    {
+      "name": "Son montuno",
+      "url": "https://rateyourmusic.com/genre/son-montuno/",
+      "description": "Developed in the 1940s, characterized by more elaborate instrumental arrangements and larger ensembles typically adding a horn section, conga drums, and piano.",
+      "level": "sub-4",
+      "parent": "Son cubano"
+    },
+    {
+      "name": "Son montuno",
+      "url": "https://rateyourmusic.com/genre/son-montuno/",
+      "description": "Developed in the 1940s, characterized by more elaborate instrumental arrangements and larger ensembles typically adding a horn section, conga drums, and piano.",
+      "level": "sub-5",
+      "parent": "Son cubano"
+    }
+  ]
+}

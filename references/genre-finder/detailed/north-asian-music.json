@@ -1,0 +1,94 @@
+{
+  "name": "North Asian Music",
+  "description": "Music of the indigenous peoples of Siberia, the Russian Far East, and outlying islands.",
+  "url": "https://rateyourmusic.com/genre/north-asian-music/",
+  "parent": "Asian Music",
+  "level": "sub-2",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Ainu Music",
+      "url": "https://rateyourmusic.com/genre/ainu-music/",
+      "description": "Music of the Ainu people from Hokkaidō, the Kuril Islands, and part of Sakhalin.",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    },
+    {
+      "name": "Altai Music",
+      "url": "https://rateyourmusic.com/genre/altai-music/",
+      "description": "Music of the Altai people, an ethnic group who live in central Russia near the border of Mongolia and Kazakhstan.",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    },
+    {
+      "name": "Chukchi Folk Music",
+      "url": "https://rateyourmusic.com/genre/chukchi-folk-music/",
+      "description": "Traditional Folk Music of the Chukchi people.",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    },
+    {
+      "name": "Kai",
+      "url": "https://rateyourmusic.com/genre/kai/",
+      "description": "Prevalent in the Altai-Sayan region and rooted in Shamanic traditions, it is renowned for its emphasis on the low vocal register and is revered as a sacred medium for communicating with all nature and the spirits.",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    },
+    {
+      "name": "Khakas Traditional Music",
+      "url": "https://rateyourmusic.com/genre/khakas-traditional-music/",
+      "description": "Traditions of the Khakas Republic (part of the Russian Federation), a form of Turkic music related to the musics of neighboring Tuva, Altai and Mongolia.",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    },
+    {
+      "name": "Manchu Music",
+      "url": "https://rateyourmusic.com/genre/manchu-music/",
+      "description": "Music of the Manchu people.",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    },
+    {
+      "name": "Mongolian Music",
+      "url": "https://rateyourmusic.com/genre/mongolian-music/",
+      "description": "Music of the Mongols.",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    },
+    {
+      "name": "Nivkh Music",
+      "url": "https://rateyourmusic.com/genre/nivkh-music/",
+      "description": "Music of the Nivkh people inhabiting northern Sakhalin, the adjacent coast of the Russian Far East, and regions around the Amur River.",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    },
+    {
+      "name": "Ob-Ugric Folk Music",
+      "url": "https://rateyourmusic.com/genre/ob-ugric-folk-music/",
+      "description": "Traditional Folk Music of the Ob-Ugric people of West Siberia Plain.",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    },
+    {
+      "name": "Sakha Traditional Music",
+      "url": "https://rateyourmusic.com/genre/sakha-traditional-music/",
+      "description": "Traditional music of Sakha (a.k.a. Yakut) people, mostly living in their homeland - Republic of Sakha (Yakutia) (part of Russian Federation).",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    },
+    {
+      "name": "Samoyedic Folk Music",
+      "url": "https://rateyourmusic.com/genre/samoyedic-folk-music/",
+      "description": "Traditional Folk Music of the Samoyedic peoples.",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    },
+    {
+      "name": "Tuvan Throat Singing",
+      "url": "https://rateyourmusic.com/genre/tuvan-throat-singing/",
+      "description": "Traditional style of singing found in Tuva, an autonomous region of the Russian Federation situated in southern Siberia.",
+      "level": "sub-3",
+      "parent": "North Asian Music"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Mesoamerican Music",
+  "description": "Diverse styles and genres developed by the Indigenous peoples of Mesoamerica, a cultural region extending from central and southern Mexico through parts of Central America.",
+  "url": "https://rateyourmusic.com/genre/mesoamerican-music/",
+  "parent": "Indigenous American Music",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Maya Music",
+      "url": "https://rateyourmusic.com/genre/maya-music/",
+      "description": "Music of the Maya peoples.",
+      "level": "sub-3",
+      "parent": "Mesoamerican Music"
+    },
+    {
+      "name": "Nahua Music",
+      "url": "https://rateyourmusic.com/genre/nahua-music/",
+      "description": "Musical traditions of the Nahuas, a major grouping of indigenous peoples inhabiting various regions in Mesoamerica, most notably Mexico.",
+      "level": "sub-3",
+      "parent": "Mesoamerican Music"
+    },
+    {
+      "name": "Pirekua",
+      "url": "https://rateyourmusic.com/genre/pirekua/",
+      "description": "Traditional style of the P’urhépecha people, typically slow and in 3/8 or 6/8 time.",
+      "level": "sub-3",
+      "parent": "Mesoamerican Music"
+    }
+  ]
+}

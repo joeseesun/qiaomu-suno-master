@@ -1,0 +1,178 @@
+{
+  "name": "Southeast Asian Classical Music",
+  "description": "Formal music developed in Southeast Asian countries (Burma, Cambodia, Thailand, Indonesia, Malaysia, Philippines, East Timor, Brunei Darussalam) usually in form of gong-chime orchestras such as gamelan, kulintang and pi phat.",
+  "url": "https://rateyourmusic.com/genre/southeast-asian-classical-music/",
+  "parent": "Classical Music",
+  "level": "sub",
+  "children_count": 24,
+  "children": [
+    {
+      "name": "Burmese Classical Music",
+      "url": "https://rateyourmusic.com/genre/burmese-classical-music/",
+      "description": "Traditional court music of Myanmar, developed from Southeast Asian, Hindu and Chinese influences.",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Burmese Classical Music",
+      "url": "https://rateyourmusic.com/genre/burmese-classical-music/",
+      "description": "Traditional court music of Myanmar, developed from Southeast Asian, Hindu and Chinese influences.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Gamelan",
+      "url": "https://rateyourmusic.com/genre/gamelan/",
+      "description": "Originated in the island of Java; played by an ensemble typically consisting of metallophones and gongs, sometimes augmented with drums, flutes, and human voices.",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Gamelan",
+      "url": "https://rateyourmusic.com/genre/gamelan/",
+      "description": "Originated in the island of Java; played by an ensemble typically consisting of metallophones and gongs, sometimes augmented with drums, flutes, and human voices.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Kacapi suling",
+      "url": "https://rateyourmusic.com/genre/kacapi-suling/",
+      "description": "Sundanese music played by an ensemble consisting of one or two kacapis (zithers), one suling (flute), and occasionally a set of kendangs (drums).",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Kacapi suling",
+      "url": "https://rateyourmusic.com/genre/kacapi-suling/",
+      "description": "Sundanese music played by an ensemble consisting of one or two kacapis (zithers), one suling (flute), and occasionally a set of kendangs (drums).",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Kakawin",
+      "url": "https://rateyourmusic.com/genre/kakawin/",
+      "description": "Form of Indonesian poetry written in Kawi, performed melodically using a structured pattern of long and short syllables.",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Kakawin",
+      "url": "https://rateyourmusic.com/genre/kakawin/",
+      "description": "Form of Indonesian poetry written in Kawi, performed melodically using a structured pattern of long and short syllables.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Kulintang",
+      "url": "https://rateyourmusic.com/genre/kulintang/",
+      "description": "Southeast Asian gong-chime ensemble consisting mainly of gong-chimes of various sizes, with the addition of larger gongs, various drums, and occasionally xylophones and non-percussion instruments.",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Kulintang",
+      "url": "https://rateyourmusic.com/genre/kulintang/",
+      "description": "Southeast Asian gong-chime ensemble consisting mainly of gong-chimes of various sizes, with the addition of larger gongs, various drums, and occasionally xylophones and non-percussion instruments.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Mahori",
+      "url": "https://rateyourmusic.com/genre/mahori/",
+      "description": "Thai and Khmer traditional orchestra combining xylophones and gong-chimes of Piphat/Pinpeat with strings of Khrueang sai ensemble.",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Mahori",
+      "url": "https://rateyourmusic.com/genre/mahori/",
+      "description": "Thai and Khmer traditional orchestra combining xylophones and gong-chimes of Piphat/Pinpeat with strings of Khrueang sai ensemble.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Malay Classical Music",
+      "url": "https://rateyourmusic.com/genre/malay-classical-music/",
+      "description": "Traditionally played in the royal courts of the several Malay kingdoms, empires and sultanates that existed throughout history.",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Malay Classical Music",
+      "url": "https://rateyourmusic.com/genre/malay-classical-music/",
+      "description": "Traditionally played in the royal courts of the several Malay kingdoms, empires and sultanates that existed throughout history.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Pinpeat",
+      "url": "https://rateyourmusic.com/genre/pinpeat/",
+      "description": "Orchestra of wind and percussion instruments having its origins in the Khmer Empire era.",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Pinpeat",
+      "url": "https://rateyourmusic.com/genre/pinpeat/",
+      "description": "Orchestra of wind and percussion instruments having its origins in the Khmer Empire era.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Saluang klasik",
+      "url": "https://rateyourmusic.com/genre/saluang-klasik/",
+      "description": "Played by a duo or a trio of musicians, including a saluang (a kind of end-blown bamboo flute) player and a traditional singer.",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Saluang klasik",
+      "url": "https://rateyourmusic.com/genre/saluang-klasik/",
+      "description": "Played by a duo or a trio of musicians, including a saluang (a kind of end-blown bamboo flute) player and a traditional singer.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Talempong",
+      "url": "https://rateyourmusic.com/genre/talempong/",
+      "description": "Gong-chime ensemble focused around the talempong kettle gong.",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Talempong",
+      "url": "https://rateyourmusic.com/genre/talempong/",
+      "description": "Gong-chime ensemble focused around the talempong kettle gong.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Tembang Sunda Cianjuran",
+      "url": "https://rateyourmusic.com/genre/tembang-sunda-cianjuran/",
+      "description": "Sung free-verse poetry in Sundanese language, usually by a solo vocalist, accompanied by a mellow-sounding Kacapi suling ensemble.",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Tembang Sunda Cianjuran",
+      "url": "https://rateyourmusic.com/genre/tembang-sunda-cianjuran/",
+      "description": "Sung free-verse poetry in Sundanese language, usually by a solo vocalist, accompanied by a mellow-sounding Kacapi suling ensemble.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Thai Classical Music",
+      "url": "https://rateyourmusic.com/genre/thai-classical-music/",
+      "description": "Emerged from the royal courts of Central Thailand around the 13th century, based on a traditional Thai sound-scale of seven tempered notes.",
+      "level": "sub-2",
+      "parent": "Southeast Asian Classical Music"
+    },
+    {
+      "name": "Thai Classical Music",
+      "url": "https://rateyourmusic.com/genre/thai-classical-music/",
+      "description": "Emerged from the royal courts of Central Thailand around the 13th century, based on a traditional Thai sound-scale of seven tempered notes.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Classical Music"
+    }
+  ]
+}

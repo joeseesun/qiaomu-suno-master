@@ -1,0 +1,22 @@
+{
+  "name": "Mantra",
+  "description": "Sounds, words or phrases, often repeatedly chanted, used in religions originating in the Indian subcontinent, and spiritual practices influenced by them.",
+  "url": "https://rateyourmusic.com/genre/mantra/",
+  "sub_genres_count": 2,
+  "sub_genres": [
+    {
+      "name": "Tibetan Buddhist Chant",
+      "url": "https://rateyourmusic.com/genre/tibetan-buddhist-chant/",
+      "description": "Ritual vocal music of the Tibetan Buddhist faith characterized by its low pitch, droning repetitiousness, and frequent use of overtone singing.",
+      "level": "sub",
+      "parent": "Mantra"
+    },
+    {
+      "name": "Vedic Chant",
+      "url": "https://rateyourmusic.com/genre/vedic-chant/",
+      "description": "Sacred Hindu chants rooted in the ancient Vedas, and primarily recited as mantras, requiring strict precision and diligence.",
+      "level": "sub",
+      "parent": "Mantra"
+    }
+  ]
+}

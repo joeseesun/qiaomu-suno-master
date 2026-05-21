@@ -1,0 +1,38 @@
+{
+  "name": "Soft Rock",
+  "description": "Clean production and light instrumentation paired with harmonious, radio-friendly songwriting; gained huge commercial success in the 1970s.",
+  "url": "https://rateyourmusic.com/genre/soft-rock/",
+  "parent": "Pop Rock",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Tropical Rock",
+      "url": "https://rateyourmusic.com/genre/tropical-rock/",
+      "description": "Combines influences from Country Rock and Caribbean Music to create an acoustic and breezy \"island\" themed sound.",
+      "level": "sub-3",
+      "parent": "Soft Rock"
+    },
+    {
+      "name": "Tropical Rock",
+      "url": "https://rateyourmusic.com/genre/tropical-rock/",
+      "description": "Combines influences from Country Rock and Caribbean Music to create an acoustic and breezy \"island\" themed sound.",
+      "level": "sub-3",
+      "parent": "Soft Rock"
+    },
+    {
+      "name": "Yacht Rock",
+      "url": "https://rateyourmusic.com/genre/yacht-rock/",
+      "description": "Slick Pop Rock influenced by smoother R&B styles, popular in the late 1970s and often associated with California.",
+      "level": "sub-3",
+      "parent": "Soft Rock"
+    },
+    {
+      "name": "Yacht Rock",
+      "url": "https://rateyourmusic.com/genre/yacht-rock/",
+      "description": "Slick Pop Rock influenced by smoother R&B styles, popular in the late 1970s and often associated with California.",
+      "level": "sub-3",
+      "parent": "Soft Rock"
+    }
+  ]
+}

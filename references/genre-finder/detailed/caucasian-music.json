@@ -1,0 +1,52 @@
+{
+  "name": "Caucasian Music",
+  "description": "Music of the region of the Caucasus, a mountainous region bordered by Russia to the north and Turkey/Iran to the south, with the Black and Caspian seas to its sides.",
+  "url": "https://rateyourmusic.com/genre/caucasian-music/",
+  "parent": "West Asian Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Caucasian Folk Music",
+      "url": "https://rateyourmusic.com/genre/caucasian-folk-music/",
+      "description": "Folk of the Caucasus region, a mountainous area that connects Eastern Europe to Asia.",
+      "level": "sub-4",
+      "parent": "Caucasian Music"
+    },
+    {
+      "name": "Caucasian Folk Music",
+      "url": "https://rateyourmusic.com/genre/caucasian-folk-music/",
+      "description": "Folk of the Caucasus region, a mountainous area that connects Eastern Europe to Asia.",
+      "level": "sub-3",
+      "parent": "Caucasian Music"
+    },
+    {
+      "name": "Karachay-Balkarian Music",
+      "url": "https://rateyourmusic.com/genre/karachay-balkarian-music/",
+      "description": "Music of the Karachay and Balkar peoples of the Northwestern Caucasus, who reside in the republics of Karachay-Cherkessia and Kabardino-Balkaria.",
+      "level": "sub-4",
+      "parent": "Caucasian Music"
+    },
+    {
+      "name": "Karachay-Balkarian Music",
+      "url": "https://rateyourmusic.com/genre/karachay-balkarian-music/",
+      "description": "Music of the Karachay and Balkar peoples of the Northwestern Caucasus, who reside in the republics of Karachay-Cherkessia and Kabardino-Balkaria.",
+      "level": "sub-3",
+      "parent": "Caucasian Music"
+    },
+    {
+      "name": "Rabiz",
+      "url": "https://rateyourmusic.com/genre/rabiz/",
+      "description": "Elements of Armenian folk in its instrumentation, oftentimes incorporating influences from Arabic and other West Asian forms on a background of synthesizer arrangements.",
+      "level": "sub-4",
+      "parent": "Caucasian Music"
+    },
+    {
+      "name": "Rabiz",
+      "url": "https://rateyourmusic.com/genre/rabiz/",
+      "description": "Elements of Armenian folk in its instrumentation, oftentimes incorporating influences from Arabic and other West Asian forms on a background of synthesizer arrangements.",
+      "level": "sub-3",
+      "parent": "Caucasian Music"
+    }
+  ]
+}

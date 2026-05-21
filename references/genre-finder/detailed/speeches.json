@@ -1,0 +1,17 @@
+{
+  "name": "Speeches",
+  "description": "Rhetorical acts performed publicly wherein a speaker typically monologues around a particular topic.",
+  "url": "https://rateyourmusic.com/genre/speeches/",
+  "parent": "Spoken Word",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Sermons",
+      "url": "https://rateyourmusic.com/genre/sermons/",
+      "description": "Religious oral addresses delivered with the intent to uplift or educate an audience.",
+      "level": "sub-2",
+      "parent": "Speeches"
+    }
+  ]
+}

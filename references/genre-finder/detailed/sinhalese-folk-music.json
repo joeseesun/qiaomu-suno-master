@@ -1,0 +1,31 @@
+{
+  "name": "Sinhalese Folk Music",
+  "description": "Folk of the Sinhalese people, the majority ethnic group of Sri Lanka.",
+  "url": "https://rateyourmusic.com/genre/sinhalese-folk-music/",
+  "parent": "South Asian Folk Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Sarala gee",
+      "url": "https://rateyourmusic.com/genre/sarala-gee/",
+      "description": "Blend of Hindustani Classical Music with Sinhalese Folk Music.",
+      "level": "sub-4",
+      "parent": "Sinhalese Folk Music"
+    },
+    {
+      "name": "Sarala gee",
+      "url": "https://rateyourmusic.com/genre/sarala-gee/",
+      "description": "Blend of Hindustani Classical Music with Sinhalese Folk Music.",
+      "level": "sub-5",
+      "parent": "Sinhalese Folk Music"
+    },
+    {
+      "name": "Sarala gee",
+      "url": "https://rateyourmusic.com/genre/sarala-gee/",
+      "description": "Blend of Hindustani Classical Music with Sinhalese Folk Music.",
+      "level": "sub-4",
+      "parent": "Sinhalese Folk Music"
+    }
+  ]
+}

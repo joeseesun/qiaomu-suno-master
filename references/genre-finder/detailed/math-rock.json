@@ -1,0 +1,17 @@
+{
+  "name": "Math Rock",
+  "description": "Explores complex and unconventional rhythmic patterns through unusual syncopation, stop-start structures, polyrhythms and complex time signatures, angular melodies, and technical instrumental performances.",
+  "url": "https://rateyourmusic.com/genre/math-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Math Pop",
+      "url": "https://rateyourmusic.com/genre/math-pop/",
+      "description": "Indie Rock that incorporates clean, melodic vocals and Pop-informed songwriting into the progressive and polyrhythmic instrumentation of Math Rock.",
+      "level": "sub-2",
+      "parent": "Math Rock"
+    }
+  ]
+}

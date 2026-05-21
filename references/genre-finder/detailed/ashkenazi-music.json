@@ -1,0 +1,52 @@
+{
+  "name": "Ashkenazi Music",
+  "description": "Encompasses the various traditions and genres of the Ashkenazi Jews, an ethnoreligious group that was prominent and influential in Europe throughout most of the Middle Ages and the modern period.",
+  "url": "https://rateyourmusic.com/genre/ashkenazi-music/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Ashkenazi Cantorial Music",
+      "url": "https://rateyourmusic.com/genre/ashkenazi-cantorial-music/",
+      "description": "Artistic, refined form of Chazzanut that greatly borrows from and implements elements of Western Classical Music and Christian Liturgical Music into the context of liturgical singing and chanting.",
+      "level": "sub-3",
+      "parent": "Ashkenazi Music"
+    },
+    {
+      "name": "Ashkenazi Cantorial Music",
+      "url": "https://rateyourmusic.com/genre/ashkenazi-cantorial-music/",
+      "description": "Artistic, refined form of Chazzanut that greatly borrows from and implements elements of Western Classical Music and Christian Liturgical Music into the context of liturgical singing and chanting.",
+      "level": "sub-3",
+      "parent": "Ashkenazi Music"
+    },
+    {
+      "name": "Klezmer",
+      "url": "https://rateyourmusic.com/genre/klezmer/",
+      "description": "Secular Ashkenazi Music traditionally used in ceremonies such as weddings and bar and bat mitzvahs.",
+      "level": "sub-3",
+      "parent": "Ashkenazi Music"
+    },
+    {
+      "name": "Klezmer",
+      "url": "https://rateyourmusic.com/genre/klezmer/",
+      "description": "Secular Ashkenazi Music traditionally used in ceremonies such as weddings and bar and bat mitzvahs.",
+      "level": "sub-3",
+      "parent": "Ashkenazi Music"
+    },
+    {
+      "name": "Yiddish Folksong",
+      "url": "https://rateyourmusic.com/genre/yiddish-folksong/",
+      "description": "Traditional folk developed in Ashkenazi Jewish communities, particularly those of Yiddish-speaking Eastern and Central Europe.",
+      "level": "sub-3",
+      "parent": "Ashkenazi Music"
+    },
+    {
+      "name": "Yiddish Folksong",
+      "url": "https://rateyourmusic.com/genre/yiddish-folksong/",
+      "description": "Traditional folk developed in Ashkenazi Jewish communities, particularly those of Yiddish-speaking Eastern and Central Europe.",
+      "level": "sub-3",
+      "parent": "Ashkenazi Music"
+    }
+  ]
+}

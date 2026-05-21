@@ -1,0 +1,80 @@
+{
+  "name": "Peruvian Music",
+  "description": "Music developed by the Peruvian people.",
+  "url": "https://rateyourmusic.com/genre/peruvian-music/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Chimaychi",
+      "url": "https://rateyourmusic.com/genre/chimaychi/",
+      "description": "Slower variant, traditionally lacking guitar or mandolin, found in the eastern provinces of Áncash department.",
+      "level": "sub-4",
+      "parent": "Peruvian Music"
+    },
+    {
+      "name": "Chimaychi",
+      "url": "https://rateyourmusic.com/genre/chimaychi/",
+      "description": "Slower variant, traditionally lacking guitar or mandolin, found in the eastern provinces of Áncash department.",
+      "level": "sub-3",
+      "parent": "Peruvian Music"
+    },
+    {
+      "name": "Cumbia peruana",
+      "url": "https://rateyourmusic.com/genre/cumbia-peruana/",
+      "description": "Developed in Peru and diversified into various subgenres, each with its own regional influences.",
+      "level": "sub-4",
+      "parent": "Peruvian Music"
+    },
+    {
+      "name": "Cumbia peruana",
+      "url": "https://rateyourmusic.com/genre/cumbia-peruana/",
+      "description": "Developed in Peru and diversified into various subgenres, each with its own regional influences.",
+      "level": "sub-3",
+      "parent": "Peruvian Music"
+    },
+    {
+      "name": "Huaylarsh",
+      "url": "https://rateyourmusic.com/genre/huaylarsh/",
+      "description": "Festive Andean music with vibrant rhythm featuring saxophones and violins, typical of the central Peruvian region.",
+      "level": "sub-4",
+      "parent": "Peruvian Music"
+    },
+    {
+      "name": "Huaylarsh",
+      "url": "https://rateyourmusic.com/genre/huaylarsh/",
+      "description": "Festive Andean music with vibrant rhythm featuring saxophones and violins, typical of the central Peruvian region.",
+      "level": "sub-3",
+      "parent": "Peruvian Music"
+    },
+    {
+      "name": "Música criolla peruana",
+      "url": "https://rateyourmusic.com/genre/musica-criolla-peruana/",
+      "description": "Combination of African, Spanish, and Andean influences that originated after the time of the arrival of Spanish colonists and African slaves to Peru.",
+      "level": "sub-4",
+      "parent": "Peruvian Music"
+    },
+    {
+      "name": "Música criolla peruana",
+      "url": "https://rateyourmusic.com/genre/musica-criolla-peruana/",
+      "description": "Combination of African, Spanish, and Andean influences that originated after the time of the arrival of Spanish colonists and African slaves to Peru.",
+      "level": "sub-3",
+      "parent": "Peruvian Music"
+    },
+    {
+      "name": "Tunantada",
+      "url": "https://rateyourmusic.com/genre/tunantada/",
+      "description": "Originating in the central Peruvian region, characterized by cheerful and festive rhythm, with indigenous and mestizo influences.",
+      "level": "sub-4",
+      "parent": "Peruvian Music"
+    },
+    {
+      "name": "Tunantada",
+      "url": "https://rateyourmusic.com/genre/tunantada/",
+      "description": "Originating in the central Peruvian region, characterized by cheerful and festive rhythm, with indigenous and mestizo influences.",
+      "level": "sub-3",
+      "parent": "Peruvian Music"
+    }
+  ]
+}

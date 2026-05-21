@@ -1,0 +1,17 @@
+{
+  "name": "Doujin Music",
+  "description": "Independently-released music derived from the wider doujin movement in Japan, largely released at events such as Comiket and M3, and primarily focused on otaku interests.",
+  "url": "https://rateyourmusic.com/genre/doujin-music/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Touhou Music",
+      "url": "https://rateyourmusic.com/genre/touhou-music/",
+      "description": "Stemming from doujin bullet hell video game franchise Touhou Project, including original music and derivative fan arrangements of varying styles.",
+      "level": "sub-2",
+      "parent": "Doujin Music"
+    }
+  ]
+}

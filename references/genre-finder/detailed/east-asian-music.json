@@ -1,0 +1,73 @@
+{
+  "name": "East Asian Music",
+  "description": "Covers the different forms of music with origins in Japan, Korea, China, Taiwan, and Vietnam.",
+  "url": "https://rateyourmusic.com/genre/east-asian-music/",
+  "parent": "Asian Music",
+  "level": "sub-2",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Ainu Music",
+      "url": "https://rateyourmusic.com/genre/ainu-music/",
+      "description": "Music of the Ainu people from Hokkaidō, the Kuril Islands, and part of Sakhalin.",
+      "level": "sub-3",
+      "parent": "East Asian Music"
+    },
+    {
+      "name": "Chinese Music",
+      "url": "https://rateyourmusic.com/genre/chinese-music/",
+      "description": "Music of the Chinese people, which is primarily derived from the culture of the Han Chinese.",
+      "level": "sub-3",
+      "parent": "East Asian Music"
+    },
+    {
+      "name": "East Asian Classical Music",
+      "url": "https://rateyourmusic.com/genre/east-asian-classical-music/",
+      "description": "Covers all the forms of pan-East Asian Classical Music sharing origins in Chinese Classical Music.",
+      "level": "sub-3",
+      "parent": "East Asian Music"
+    },
+    {
+      "name": "East Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/east-asian-folk-music/",
+      "description": "All the forms of Traditional Folk Music from East Asia, including Japanese Folk Music, Chinese Folk Music, and Korean Folk Music.",
+      "level": "sub-3",
+      "parent": "East Asian Music"
+    },
+    {
+      "name": "Japanese Music",
+      "url": "https://rateyourmusic.com/genre/japanese-music/",
+      "description": "Japanese meta-genre covers all forms of music, traditional or contemporary, rooted in Japanese Folk Music.",
+      "level": "sub-3",
+      "parent": "East Asian Music"
+    },
+    {
+      "name": "Korean Music",
+      "url": "https://rateyourmusic.com/genre/korean-music/",
+      "description": "Music of the Korean people.",
+      "level": "sub-3",
+      "parent": "East Asian Music"
+    },
+    {
+      "name": "Manchu Music",
+      "url": "https://rateyourmusic.com/genre/manchu-music/",
+      "description": "Music of the Manchu people.",
+      "level": "sub-3",
+      "parent": "East Asian Music"
+    },
+    {
+      "name": "Ryukyuan Music",
+      "url": "https://rateyourmusic.com/genre/ryukyuan-music/",
+      "description": "Music of the Ryukyuan people of the Ryukyu Islands in the southwest of Japan.",
+      "level": "sub-3",
+      "parent": "East Asian Music"
+    },
+    {
+      "name": "Vietnamese Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-music/",
+      "description": "Music of the Vietnamese people.",
+      "level": "sub-3",
+      "parent": "East Asian Music"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Malay Music",
+  "description": "Music of the Malay people.",
+  "url": "https://rateyourmusic.com/genre/malay-music/",
+  "parent": "Southeast Asian Music",
+  "level": "sub-3",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Dikir barat",
+      "url": "https://rateyourmusic.com/genre/dikir-barat/",
+      "description": "Vocal Malay Music that revolves around group singing, often for the purpose of competitions.",
+      "level": "sub-4",
+      "parent": "Malay Music"
+    },
+    {
+      "name": "Dikir barat",
+      "url": "https://rateyourmusic.com/genre/dikir-barat/",
+      "description": "Vocal Malay Music that revolves around group singing, often for the purpose of competitions.",
+      "level": "sub-3",
+      "parent": "Malay Music"
+    },
+    {
+      "name": "Dondang sayang",
+      "url": "https://rateyourmusic.com/genre/dondang-sayang/",
+      "description": "Typically performed by two vocalists of opposite gender, featuring a musical dialogue of Malay vocal poetry on topics of love and romance.",
+      "level": "sub-4",
+      "parent": "Malay Music"
+    },
+    {
+      "name": "Dondang sayang",
+      "url": "https://rateyourmusic.com/genre/dondang-sayang/",
+      "description": "Typically performed by two vocalists of opposite gender, featuring a musical dialogue of Malay vocal poetry on topics of love and romance.",
+      "level": "sub-3",
+      "parent": "Malay Music"
+    },
+    {
+      "name": "Malay Classical Music",
+      "url": "https://rateyourmusic.com/genre/malay-classical-music/",
+      "description": "Traditionally played in the royal courts of the several Malay kingdoms, empires and sultanates that existed throughout history.",
+      "level": "sub-4",
+      "parent": "Malay Music"
+    },
+    {
+      "name": "Malay Classical Music",
+      "url": "https://rateyourmusic.com/genre/malay-classical-music/",
+      "description": "Traditionally played in the royal courts of the several Malay kingdoms, empires and sultanates that existed throughout history.",
+      "level": "sub-3",
+      "parent": "Malay Music"
+    },
+    {
+      "name": "Malay Folk Music",
+      "url": "https://rateyourmusic.com/genre/malay-folk-music/",
+      "description": "Traditional Folk Music of the Malay people, who are native to Malaysia, Singapore, Brunei, northern Indonesia, and southern Thailand.",
+      "level": "sub-4",
+      "parent": "Malay Music"
+    },
+    {
+      "name": "Malay Folk Music",
+      "url": "https://rateyourmusic.com/genre/malay-folk-music/",
+      "description": "Traditional Folk Music of the Malay people, who are native to Malaysia, Singapore, Brunei, northern Indonesia, and southern Thailand.",
+      "level": "sub-3",
+      "parent": "Malay Music"
+    },
+    {
+      "name": "Pop Yeh-Yeh",
+      "url": "https://rateyourmusic.com/genre/pop-yeh-yeh/",
+      "description": "Blends Western Beat and Psychedelia styles with asli singing and melodies drawn from Malay Folk Music.",
+      "level": "sub-4",
+      "parent": "Malay Music"
+    },
+    {
+      "name": "Pop Yeh-Yeh",
+      "url": "https://rateyourmusic.com/genre/pop-yeh-yeh/",
+      "description": "Blends Western Beat and Psychedelia styles with asli singing and melodies drawn from Malay Folk Music.",
+      "level": "sub-3",
+      "parent": "Malay Music"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Surf Rock",
+  "description": "Short instrumental songs with Rock & Roll rhythms overlaid with cheerful melodies played on reverb-drenched tremolo guitar.",
+  "url": "https://rateyourmusic.com/genre/surf-rock/",
+  "parent": "Surf Music",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Eleki",
+      "url": "https://rateyourmusic.com/genre/eleki/",
+      "description": "Japanese Surf Rock that emerged during the early to mid-1960s, incorporating elements of Japanese Folk Music.",
+      "level": "sub-3",
+      "parent": "Surf Rock"
+    },
+    {
+      "name": "Rautalanka",
+      "url": "https://rateyourmusic.com/genre/rautalanka/",
+      "description": "Nordic guitar style mainly influenced by Rock & Roll, and traditional European Schlager.",
+      "level": "sub-3",
+      "parent": "Surf Rock"
+    },
+    {
+      "name": "Wong shadow",
+      "url": "https://rateyourmusic.com/genre/wong-shadow/",
+      "description": "Small, short-lived guitar Pop movement in Thailand in the 1960s, fusing Surf Rock  with local melodies.",
+      "level": "sub-3",
+      "parent": "Surf Rock"
+    }
+  ]
+}

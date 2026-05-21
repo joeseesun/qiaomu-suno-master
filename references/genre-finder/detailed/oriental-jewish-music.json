@@ -1,0 +1,17 @@
+{
+  "name": "Oriental Jewish Music",
+  "description": "Comprises the many traditions and styles of the various groups of Jews from the cultural East, loosely covering the Jewish groups of the Middle East, North Africa, and Central Asia.",
+  "url": "https://rateyourmusic.com/genre/oriental-jewish-music/",
+  "parent": "Jewish Music",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Baqashot",
+      "url": "https://rateyourmusic.com/genre/baqashot/",
+      "description": "Collection of prayers, songs, supplications, and poems traditionally sung by Sephardic Jewish communities on Saturdays mornings.",
+      "level": "sub-3",
+      "parent": "Oriental Jewish Music"
+    }
+  ]
+}

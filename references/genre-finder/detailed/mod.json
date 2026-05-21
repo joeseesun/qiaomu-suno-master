@@ -1,0 +1,17 @@
+{
+  "name": "Mod",
+  "description": "1960s youth subculture in the United Kingdom, drawing from British Rhythm & Blues, Beat, Garage Rock, and Pop sensibilities alongside a distinctive fashion style.",
+  "url": "https://rateyourmusic.com/genre/mod/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Mod Revival",
+      "url": "https://rateyourmusic.com/genre/mod-revival/",
+      "description": "Late 1970s and early 1980s revival of Mod fashion and music, featuring influence from the nascent Punk Rock scene.",
+      "level": "sub-2",
+      "parent": "Mod"
+    }
+  ]
+}

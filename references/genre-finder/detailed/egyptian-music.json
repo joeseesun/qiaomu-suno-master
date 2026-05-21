@@ -1,0 +1,52 @@
+{
+  "name": "Egyptian Music",
+  "description": "Music of the people of Egypt.",
+  "url": "https://rateyourmusic.com/genre/egyptian-music/",
+  "parent": "North African Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Al jeel",
+      "url": "https://rateyourmusic.com/genre/al-jeel/",
+      "description": "Emerged in the 1970s as an alternative to Shaabi, taking influence from foreign Pop and incorporating rhythms of Reggae while retaining a distinctly Egyptian sound.",
+      "level": "sub-4",
+      "parent": "Egyptian Music"
+    },
+    {
+      "name": "Ancient Egyptian Music",
+      "url": "https://rateyourmusic.com/genre/ancient-egyptian-music/",
+      "description": "Music of ancient Egyptian civilization.",
+      "level": "sub-4",
+      "parent": "Egyptian Music"
+    },
+    {
+      "name": "Coptic Music",
+      "url": "https://rateyourmusic.com/genre/coptic-music/",
+      "description": "Church music specifically made for worship in the Coptic (Egyptian) Orthodox Church.",
+      "level": "sub-4",
+      "parent": "Egyptian Music"
+    },
+    {
+      "name": "Raqs baladi",
+      "url": "https://rateyourmusic.com/genre/raqs-baladi/",
+      "description": "Egyptian folk dance and its associated musical accompaniment, appearing in the 20th century.",
+      "level": "sub-4",
+      "parent": "Egyptian Music"
+    },
+    {
+      "name": "Sa'idi",
+      "url": "https://rateyourmusic.com/genre/saidi/",
+      "description": "Traditional folkloric performance and form of Arabic Folk Music originating from Upper Egypt.",
+      "level": "sub-4",
+      "parent": "Egyptian Music"
+    },
+    {
+      "name": "Shaabi",
+      "url": "https://rateyourmusic.com/genre/shaabi/",
+      "description": "Developed in Egypt during the early 1970s, typically created by and for the urban working class with witty lyrics that reflect this.",
+      "level": "sub-4",
+      "parent": "Egyptian Music"
+    }
+  ]
+}

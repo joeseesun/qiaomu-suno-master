@@ -1,0 +1,17 @@
+{
+  "name": "Lullabies",
+  "description": "Soothing, melodic songs that are typically used to help young children sleep.",
+  "url": "https://rateyourmusic.com/genre/lullabies/",
+  "parent": "Children's Music",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Batonebi Songs",
+      "url": "https://rateyourmusic.com/genre/batonebi-songs/",
+      "description": "Traditional Georgian Lullabies often meant to soothe sick children.",
+      "level": "sub-2",
+      "parent": "Lullabies"
+    }
+  ]
+}

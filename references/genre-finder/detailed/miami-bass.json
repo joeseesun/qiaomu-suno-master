@@ -1,0 +1,52 @@
+{
+  "name": "Miami Bass",
+  "description": "Sustained Roland TR-808 kick drums and faster tempos, along with a distinct Electro influence.",
+  "url": "https://rateyourmusic.com/genre/miami-bass/",
+  "parent": "Dance",
+  "level": "sub",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Atlanta Bass",
+      "url": "https://rateyourmusic.com/genre/atlanta-bass/",
+      "description": "Originated in Atlanta, slower tempos and a more melodic approach than Miami Bass.",
+      "level": "sub-2",
+      "parent": "Miami Bass"
+    },
+    {
+      "name": "Atlanta Bass",
+      "url": "https://rateyourmusic.com/genre/atlanta-bass/",
+      "description": "Originated in Atlanta, slower tempos and a more melodic approach than Miami Bass.",
+      "level": "sub-2",
+      "parent": "Miami Bass"
+    },
+    {
+      "name": "Tamborzão",
+      "url": "https://rateyourmusic.com/genre/tamborzao/",
+      "description": "Adds Afro-Brazilian percussive elements such as the atabaque sound into the Miami Bass kick drums.",
+      "level": "sub-2",
+      "parent": "Miami Bass"
+    },
+    {
+      "name": "Tamborzão",
+      "url": "https://rateyourmusic.com/genre/tamborzao/",
+      "description": "Adds Afro-Brazilian percussive elements such as the atabaque sound into the Miami Bass kick drums.",
+      "level": "sub-2",
+      "parent": "Miami Bass"
+    },
+    {
+      "name": "Techno Bass",
+      "url": "https://rateyourmusic.com/genre/techno-bass/",
+      "description": "Minimal, stripped-down with an emphasis on low-frequency bass partitions.",
+      "level": "sub-2",
+      "parent": "Miami Bass"
+    },
+    {
+      "name": "Techno Bass",
+      "url": "https://rateyourmusic.com/genre/techno-bass/",
+      "description": "Minimal, stripped-down with an emphasis on low-frequency bass partitions.",
+      "level": "sub-2",
+      "parent": "Miami Bass"
+    }
+  ]
+}

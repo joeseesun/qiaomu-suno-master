@@ -1,0 +1,17 @@
+{
+  "name": "YTPMV",
+  "description": "Internet-based musical remixes which sequence small samples from audiovisual material as a method of composition, usually with a humorous or memetic approach.",
+  "url": "https://rateyourmusic.com/genre/ytpmv/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "OtoMAD",
+      "url": "https://rateyourmusic.com/genre/otomad/",
+      "description": "Music-driven remixes that take heavy inspiration from Japanese internet culture.",
+      "level": "sub-2",
+      "parent": "YTPMV"
+    }
+  ]
+}

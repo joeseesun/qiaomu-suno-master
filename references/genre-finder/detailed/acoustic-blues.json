@@ -1,0 +1,38 @@
+{
+  "name": "Acoustic Blues",
+  "description": "Developed out of Work Song and Spirituals to become the most prominent early form of Blues.",
+  "url": "https://rateyourmusic.com/genre/acoustic-blues/",
+  "parent": "Blues",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Acoustic Chicago Blues",
+      "url": "https://rateyourmusic.com/genre/acoustic-chicago-blues/",
+      "description": "Unplugged Blues made in the Chicago region, primarily during the 1930s and 1940s.",
+      "level": "sub-2",
+      "parent": "Acoustic Blues"
+    },
+    {
+      "name": "Acoustic Texas Blues",
+      "url": "https://rateyourmusic.com/genre/acoustic-texas-blues/",
+      "description": "Laid-back swing rhythms and guitar ornamentation, including solos.",
+      "level": "sub-2",
+      "parent": "Acoustic Blues"
+    },
+    {
+      "name": "Jug Band",
+      "url": "https://rateyourmusic.com/genre/jug-band/",
+      "description": "Usually features a jug as the bass instrument as well as other homemade (or easily affordable) instruments, such as kazoos and washboards.",
+      "level": "sub-2",
+      "parent": "Acoustic Blues"
+    },
+    {
+      "name": "Piedmont Blues",
+      "url": "https://rateyourmusic.com/genre/piedmont-blues/",
+      "description": "Developed in the early 20th century in the southern Appalachian foothills and characterized by a syncopated but melodic Ragtime-based finger-picking acoustic guitar style.",
+      "level": "sub-2",
+      "parent": "Acoustic Blues"
+    }
+  ]
+}

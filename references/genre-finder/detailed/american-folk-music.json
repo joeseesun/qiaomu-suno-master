@@ -1,0 +1,262 @@
+{
+  "name": "American Folk Music",
+  "description": "Traces back through the history of European and West African settlement and migration to North America, including parts of northern Mexico and Canada in addition to the United States.",
+  "url": "https://rateyourmusic.com/genre/american-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 36,
+  "children": [
+    {
+      "name": "Appalachian Folk Music",
+      "url": "https://rateyourmusic.com/genre/appalachian-folk-music/",
+      "description": "Folk of the Appalachian Mountains in the Eastern United States.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Appalachian Folk Music",
+      "url": "https://rateyourmusic.com/genre/appalachian-folk-music/",
+      "description": "Folk of the Appalachian Mountains in the Eastern United States.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Appalachian Folk Music",
+      "url": "https://rateyourmusic.com/genre/appalachian-folk-music/",
+      "description": "Folk of the Appalachian Mountains in the Eastern United States.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Country Blues",
+      "url": "https://rateyourmusic.com/genre/country-blues/",
+      "description": "Various styles of Blues originating in the rural US South, typically relying on expressive vocal delivery and featuring simple, usually acoustic instrumentation.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Country Blues",
+      "url": "https://rateyourmusic.com/genre/country-blues/",
+      "description": "Various styles of Blues originating in the rural US South, typically relying on expressive vocal delivery and featuring simple, usually acoustic instrumentation.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Country Blues",
+      "url": "https://rateyourmusic.com/genre/country-blues/",
+      "description": "Various styles of Blues originating in the rural US South, typically relying on expressive vocal delivery and featuring simple, usually acoustic instrumentation.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Field Hollers",
+      "url": "https://rateyourmusic.com/genre/field-hollers/",
+      "description": "Created by African-American slaves working on cotton plantations, featuring expressive vocals to no strict rhythm.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Field Hollers",
+      "url": "https://rateyourmusic.com/genre/field-hollers/",
+      "description": "Created by African-American slaves working on cotton plantations, featuring expressive vocals to no strict rhythm.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Field Hollers",
+      "url": "https://rateyourmusic.com/genre/field-hollers/",
+      "description": "Created by African-American slaves working on cotton plantations, featuring expressive vocals to no strict rhythm.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Fife and Drum Blues",
+      "url": "https://rateyourmusic.com/genre/fife-and-drum-blues/",
+      "description": "Rooted in martial Fife and Drum Corps music, originated among Afro-American communities in Mississippi.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Fife and Drum Blues",
+      "url": "https://rateyourmusic.com/genre/fife-and-drum-blues/",
+      "description": "Rooted in martial Fife and Drum Corps music, originated among Afro-American communities in Mississippi.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Fife and Drum Blues",
+      "url": "https://rateyourmusic.com/genre/fife-and-drum-blues/",
+      "description": "Rooted in martial Fife and Drum Corps music, originated among Afro-American communities in Mississippi.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Jug Band",
+      "url": "https://rateyourmusic.com/genre/jug-band/",
+      "description": "Usually features a jug as the bass instrument as well as other homemade (or easily affordable) instruments, such as kazoos and washboards.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Jug Band",
+      "url": "https://rateyourmusic.com/genre/jug-band/",
+      "description": "Usually features a jug as the bass instrument as well as other homemade (or easily affordable) instruments, such as kazoos and washboards.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Jug Band",
+      "url": "https://rateyourmusic.com/genre/jug-band/",
+      "description": "Usually features a jug as the bass instrument as well as other homemade (or easily affordable) instruments, such as kazoos and washboards.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Ring Shout",
+      "url": "https://rateyourmusic.com/genre/ring-shout/",
+      "description": "Ritual practiced by African-Americans in the US South, characterized by shouting, chanting and people dancing in a circle while praying and clapping.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Ring Shout",
+      "url": "https://rateyourmusic.com/genre/ring-shout/",
+      "description": "Ritual practiced by African-Americans in the US South, characterized by shouting, chanting and people dancing in a circle while praying and clapping.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Ring Shout",
+      "url": "https://rateyourmusic.com/genre/ring-shout/",
+      "description": "Ritual practiced by African-Americans in the US South, characterized by shouting, chanting and people dancing in a circle while praying and clapping.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Sacred Harp Singing",
+      "url": "https://rateyourmusic.com/genre/sacred-harp-singing/",
+      "description": "Predominantly 19th-century English hymns with tunes derived from old folk melodies.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Sacred Harp Singing",
+      "url": "https://rateyourmusic.com/genre/sacred-harp-singing/",
+      "description": "Predominantly 19th-century English hymns with tunes derived from old folk melodies.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Sacred Harp Singing",
+      "url": "https://rateyourmusic.com/genre/sacred-harp-singing/",
+      "description": "Predominantly 19th-century English hymns with tunes derived from old folk melodies.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Spirituals",
+      "url": "https://rateyourmusic.com/genre/spirituals/",
+      "description": "Predecessor to Gospel that began as unaccompanied singing by American slaves; shares some of the characteristics of Work Song.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Spirituals",
+      "url": "https://rateyourmusic.com/genre/spirituals/",
+      "description": "Predecessor to Gospel that began as unaccompanied singing by American slaves; shares some of the characteristics of Work Song.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Spirituals",
+      "url": "https://rateyourmusic.com/genre/spirituals/",
+      "description": "Predecessor to Gospel that began as unaccompanied singing by American slaves; shares some of the characteristics of Work Song.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Talking Blues",
+      "url": "https://rateyourmusic.com/genre/talking-blues/",
+      "description": "American Folk Music with spoken or nearly spoken vocals; often features dry humor and social commentary.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Talking Blues",
+      "url": "https://rateyourmusic.com/genre/talking-blues/",
+      "description": "American Folk Music with spoken or nearly spoken vocals; often features dry humor and social commentary.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Talking Blues",
+      "url": "https://rateyourmusic.com/genre/talking-blues/",
+      "description": "American Folk Music with spoken or nearly spoken vocals; often features dry humor and social commentary.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Traditional Black Gospel",
+      "url": "https://rateyourmusic.com/genre/traditional-black-gospel/",
+      "description": "Born out of Spirituals in the early 20th century with influence from Southern Gospel and Blues, often featuring passionate or energetic vocal performances, motifs of salvation, and testaments of hardship.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Traditional Black Gospel",
+      "url": "https://rateyourmusic.com/genre/traditional-black-gospel/",
+      "description": "Born out of Spirituals in the early 20th century with influence from Southern Gospel and Blues, often featuring passionate or energetic vocal performances, motifs of salvation, and testaments of hardship.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Traditional Black Gospel",
+      "url": "https://rateyourmusic.com/genre/traditional-black-gospel/",
+      "description": "Born out of Spirituals in the early 20th century with influence from Southern Gospel and Blues, often featuring passionate or energetic vocal performances, motifs of salvation, and testaments of hardship.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Traditional Cajun Music",
+      "url": "https://rateyourmusic.com/genre/traditional-cajun-music/",
+      "description": "Earliest and most \"pure\" form of Cajun Music, employing basic rhythms and frequent fiddle double stops.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Traditional Cajun Music",
+      "url": "https://rateyourmusic.com/genre/traditional-cajun-music/",
+      "description": "Earliest and most \"pure\" form of Cajun Music, employing basic rhythms and frequent fiddle double stops.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Traditional Cajun Music",
+      "url": "https://rateyourmusic.com/genre/traditional-cajun-music/",
+      "description": "Earliest and most \"pure\" form of Cajun Music, employing basic rhythms and frequent fiddle double stops.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Traditional Country",
+      "url": "https://rateyourmusic.com/genre/traditional-country/",
+      "description": "Closely aligned with American Folk Music and Blues roots, from country's inception in Appalachia and the American South until the popularity of Honky Tonk and Country Pop in the 1950s.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Traditional Country",
+      "url": "https://rateyourmusic.com/genre/traditional-country/",
+      "description": "Closely aligned with American Folk Music and Blues roots, from country's inception in Appalachia and the American South until the popularity of Honky Tonk and Country Pop in the 1950s.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    },
+    {
+      "name": "Traditional Country",
+      "url": "https://rateyourmusic.com/genre/traditional-country/",
+      "description": "Closely aligned with American Folk Music and Blues roots, from country's inception in Appalachia and the American South until the popularity of Honky Tonk and Country Pop in the 1950s.",
+      "level": "sub-3",
+      "parent": "American Folk Music"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Drift Phonk",
+  "description": "Busy, noisy production inspired by lo-fi Memphis Rap; frequently features 808 cowbell melodies and chopped, compressed samples.",
+  "url": "https://rateyourmusic.com/genre/drift-phonk/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Brazilian Phonk",
+      "url": "https://rateyourmusic.com/genre/brazilian-phonk/",
+      "description": "Merges Funk automotivo's rhythms, vocals, and energy, with the energetic and nocturnal production typical of the Drift Phonk scene, and Phonk House.",
+      "level": "sub-2",
+      "parent": "Drift Phonk"
+    },
+    {
+      "name": "Phonk House",
+      "url": "https://rateyourmusic.com/genre/phonk-house/",
+      "description": "Merges Drift Phonk's nocturnal atmospheres, cowbell melodies, vocal samples, and energetic production, with House rhythms and tempos, characterized by a banging and upbeat sound.",
+      "level": "sub-2",
+      "parent": "Drift Phonk"
+    }
+  ]
+}

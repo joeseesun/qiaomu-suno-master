@@ -1,0 +1,17 @@
+{
+  "name": "Hasidic Music",
+  "description": "Covers the music of Hasidic Jews, primarily characterized by spiritual, intense, and devotional, singing and melodies.",
+  "url": "https://rateyourmusic.com/genre/hasidic-music/",
+  "parent": "Jewish Music",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Nigun",
+      "url": "https://rateyourmusic.com/genre/nigun/",
+      "description": "Form of spiritual, repetitive and immersive tunes that developed in Hasidic Jewish communities, typically vocal-led.",
+      "level": "sub-3",
+      "parent": "Hasidic Music"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Sōkyoku",
+  "description": "Gained popularity during the Edo period, played with a koto or a guzheng and sometimes accompanied by shamisen and/or shakuhachi.",
+  "url": "https://rateyourmusic.com/genre/sokyoku/",
+  "parent": "Japanese Classical Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Danmono",
+      "url": "https://rateyourmusic.com/genre/danmono/",
+      "description": "Sōkyoku composed for koto, a thirteen-string traditional instrument.",
+      "level": "sub-4",
+      "parent": "Sōkyoku"
+    },
+    {
+      "name": "Danmono",
+      "url": "https://rateyourmusic.com/genre/danmono/",
+      "description": "Sōkyoku composed for koto, a thirteen-string traditional instrument.",
+      "level": "sub-6",
+      "parent": "Sōkyoku"
+    },
+    {
+      "name": "Danmono",
+      "url": "https://rateyourmusic.com/genre/danmono/",
+      "description": "Sōkyoku composed for koto, a thirteen-string traditional instrument.",
+      "level": "sub-6",
+      "parent": "Sōkyoku"
+    },
+    {
+      "name": "Kumiuta",
+      "url": "https://rateyourmusic.com/genre/kumiuta/",
+      "description": "Typically performed by a single singer playing koto or less often shamisen for accompaniment, often with lyrics adapted from classical poetry.",
+      "level": "sub-4",
+      "parent": "Sōkyoku"
+    },
+    {
+      "name": "Kumiuta",
+      "url": "https://rateyourmusic.com/genre/kumiuta/",
+      "description": "Typically performed by a single singer playing koto or less often shamisen for accompaniment, often with lyrics adapted from classical poetry.",
+      "level": "sub-6",
+      "parent": "Sōkyoku"
+    },
+    {
+      "name": "Kumiuta",
+      "url": "https://rateyourmusic.com/genre/kumiuta/",
+      "description": "Typically performed by a single singer playing koto or less often shamisen for accompaniment, often with lyrics adapted from classical poetry.",
+      "level": "sub-6",
+      "parent": "Sōkyoku"
+    }
+  ]
+}

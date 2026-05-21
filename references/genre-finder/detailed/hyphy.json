@@ -1,0 +1,17 @@
+{
+  "name": "Hyphy",
+  "description": "Party-focused style with upbeat tempos, heavy bass and prominent synths, all underpinned by a distinctive West Coast-style rhythm, claps on beats 2 and 4, and a strong kick drum on beats 1, 2, and either 3 or 4.",
+  "url": "https://rateyourmusic.com/genre/hyphy/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Jerk Rap",
+      "url": "https://rateyourmusic.com/genre/jerk-rap/",
+      "description": "Sparse beats, simple melodies, and party-centric lyrics geared towards a style of dance called “jerkin’.”",
+      "level": "sub-2",
+      "parent": "Hyphy"
+    }
+  ]
+}

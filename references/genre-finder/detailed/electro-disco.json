@@ -1,0 +1,94 @@
+{
+  "name": "Electro-Disco",
+  "description": "Disco instrumentation is largely - if not entirely - replaced by synthesizers and augmented with futuristic elements such as the vocoder.",
+  "url": "https://rateyourmusic.com/genre/electro-disco/",
+  "parent": "Disco",
+  "level": "sub-2",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Hi-NRG",
+      "url": "https://rateyourmusic.com/genre/hi-nrg/",
+      "description": "Emerged in the late 1970s and quickly became the most popular form of Electronic Dance Music in the LGBT club scenes of San Francisco and New York, characterized by its uptempo, high-energy sound.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    },
+    {
+      "name": "Hi-NRG",
+      "url": "https://rateyourmusic.com/genre/hi-nrg/",
+      "description": "Emerged in the late 1970s and quickly became the most popular form of Electronic Dance Music in the LGBT club scenes of San Francisco and New York, characterized by its uptempo, high-energy sound.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    },
+    {
+      "name": "Hi-NRG",
+      "url": "https://rateyourmusic.com/genre/hi-nrg/",
+      "description": "Emerged in the late 1970s and quickly became the most popular form of Electronic Dance Music in the LGBT club scenes of San Francisco and New York, characterized by its uptempo, high-energy sound.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    },
+    {
+      "name": "Italo-Disco",
+      "url": "https://rateyourmusic.com/genre/italo-disco/",
+      "description": "Produced primarily in Italy and is characterized by the use of synthesizers, drum machines, and sometimes vocoders to create a mechanical, Electronic version of Disco with futuristic atmosphere.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    },
+    {
+      "name": "Italo-Disco",
+      "url": "https://rateyourmusic.com/genre/italo-disco/",
+      "description": "Produced primarily in Italy and is characterized by the use of synthesizers, drum machines, and sometimes vocoders to create a mechanical, Electronic version of Disco with futuristic atmosphere.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    },
+    {
+      "name": "Italo-Disco",
+      "url": "https://rateyourmusic.com/genre/italo-disco/",
+      "description": "Produced primarily in Italy and is characterized by the use of synthesizers, drum machines, and sometimes vocoders to create a mechanical, Electronic version of Disco with futuristic atmosphere.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    },
+    {
+      "name": "Red Disco",
+      "url": "https://rateyourmusic.com/genre/red-disco/",
+      "description": "Continuum of various eclectic forms, derived mainly from late Euro-Disco, but also Italo-Disco, Hi-NRG and Eurobeat, and developed in the Soviet Union in the mid-to-late 1980s.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    },
+    {
+      "name": "Red Disco",
+      "url": "https://rateyourmusic.com/genre/red-disco/",
+      "description": "Continuum of various eclectic forms, derived mainly from late Euro-Disco, but also Italo-Disco, Hi-NRG and Eurobeat, and developed in the Soviet Union in the mid-to-late 1980s.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    },
+    {
+      "name": "Red Disco",
+      "url": "https://rateyourmusic.com/genre/red-disco/",
+      "description": "Continuum of various eclectic forms, derived mainly from late Euro-Disco, but also Italo-Disco, Hi-NRG and Eurobeat, and developed in the Soviet Union in the mid-to-late 1980s.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    },
+    {
+      "name": "Space Disco",
+      "url": "https://rateyourmusic.com/genre/space-disco/",
+      "description": "Emerged in Europe in the mid-to-late 1970s, characterized by layers of oscillating synth, space-oriented sound effects, and a futuristic sound inspired by contemporary sci-fi media.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    },
+    {
+      "name": "Space Disco",
+      "url": "https://rateyourmusic.com/genre/space-disco/",
+      "description": "Emerged in Europe in the mid-to-late 1970s, characterized by layers of oscillating synth, space-oriented sound effects, and a futuristic sound inspired by contemporary sci-fi media.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    },
+    {
+      "name": "Space Disco",
+      "url": "https://rateyourmusic.com/genre/space-disco/",
+      "description": "Emerged in Europe in the mid-to-late 1970s, characterized by layers of oscillating synth, space-oriented sound effects, and a futuristic sound inspired by contemporary sci-fi media.",
+      "level": "sub-3",
+      "parent": "Electro-Disco"
+    }
+  ]
+}

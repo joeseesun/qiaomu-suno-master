@@ -1,0 +1,17 @@
+{
+  "name": "IDM",
+  "description": "Emerged through the development of Electronic Dance Music idioms into a less club-oriented and more experimental direction, often incorporating unconventional sound design and complex rhythms.",
+  "url": "https://rateyourmusic.com/genre/idm/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Drill and Bass",
+      "url": "https://rateyourmusic.com/genre/drill-and-bass/",
+      "description": "Frenzied, intricate beat programming inspired by Drum and Bass.",
+      "level": "sub-2",
+      "parent": "IDM"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Basque Folk Music",
+  "description": "Traditional Folk Music of the Basque people.",
+  "url": "https://rateyourmusic.com/genre/basque-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Trikitixa",
+      "url": "https://rateyourmusic.com/genre/trikitixa/",
+      "description": "Form of Basque folk music characterized by the use of accordion and tambourine.",
+      "level": "sub-4",
+      "parent": "Basque Folk Music"
+    },
+    {
+      "name": "Trikitixa",
+      "url": "https://rateyourmusic.com/genre/trikitixa/",
+      "description": "Form of Basque folk music characterized by the use of accordion and tambourine.",
+      "level": "sub-4",
+      "parent": "Basque Folk Music"
+    },
+    {
+      "name": "Trikitixa",
+      "url": "https://rateyourmusic.com/genre/trikitixa/",
+      "description": "Form of Basque folk music characterized by the use of accordion and tambourine.",
+      "level": "sub-4",
+      "parent": "Basque Folk Music"
+    },
+    {
+      "name": "Trikitixa",
+      "url": "https://rateyourmusic.com/genre/trikitixa/",
+      "description": "Form of Basque folk music characterized by the use of accordion and tambourine.",
+      "level": "sub-4",
+      "parent": "Basque Folk Music"
+    }
+  ]
+}

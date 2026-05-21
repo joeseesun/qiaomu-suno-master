@@ -1,0 +1,325 @@
+{
+  "name": "Brazilian Folk Music",
+  "description": "Comprises the various traditions of folk music found in Brazil, often resulting from the interplay of Indigenous, African and European music.",
+  "url": "https://rateyourmusic.com/genre/brazilian-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 45,
+  "children": [
+    {
+      "name": "Aboio",
+      "url": "https://rateyourmusic.com/genre/aboio/",
+      "description": "Cattle-herding songs originating in rural Northeastern Brazil.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Aboio",
+      "url": "https://rateyourmusic.com/genre/aboio/",
+      "description": "Cattle-herding songs originating in rural Northeastern Brazil.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Aboio",
+      "url": "https://rateyourmusic.com/genre/aboio/",
+      "description": "Cattle-herding songs originating in rural Northeastern Brazil.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Banda de pífano",
+      "url": "https://rateyourmusic.com/genre/banda-de-pifano/",
+      "description": "Lively music played by bands consisting of two fifes and percussion.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Banda de pífano",
+      "url": "https://rateyourmusic.com/genre/banda-de-pifano/",
+      "description": "Lively music played by bands consisting of two fifes and percussion.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Banda de pífano",
+      "url": "https://rateyourmusic.com/genre/banda-de-pifano/",
+      "description": "Lively music played by bands consisting of two fifes and percussion.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Candomblé Music",
+      "url": "https://rateyourmusic.com/genre/candomble-music/",
+      "description": "Music of the Afro-Brazilian Candomblé religion that influenced the secular Afoxé.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Candomblé Music",
+      "url": "https://rateyourmusic.com/genre/candomble-music/",
+      "description": "Music of the Afro-Brazilian Candomblé religion that influenced the secular Afoxé.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Candomblé Music",
+      "url": "https://rateyourmusic.com/genre/candomble-music/",
+      "description": "Music of the Afro-Brazilian Candomblé religion that influenced the secular Afoxé.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Cantoria",
+      "url": "https://rateyourmusic.com/genre/cantoria/",
+      "description": "Sung poetry of itinerant cantadores from Northeastern Brazil.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Cantoria",
+      "url": "https://rateyourmusic.com/genre/cantoria/",
+      "description": "Sung poetry of itinerant cantadores from Northeastern Brazil.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Cantoria",
+      "url": "https://rateyourmusic.com/genre/cantoria/",
+      "description": "Sung poetry of itinerant cantadores from Northeastern Brazil.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Capoeira Music",
+      "url": "https://rateyourmusic.com/genre/capoeira-music/",
+      "description": "Afro-Brazilian style that accompanies and sets the rhythm and energy of the capoeira martial art, originating in the 19th century with the relocation of African slaves to the states of Bahia and Rio de Janeiro.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Capoeira Music",
+      "url": "https://rateyourmusic.com/genre/capoeira-music/",
+      "description": "Afro-Brazilian style that accompanies and sets the rhythm and energy of the capoeira martial art, originating in the 19th century with the relocation of African slaves to the states of Bahia and Rio de Janeiro.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Capoeira Music",
+      "url": "https://rateyourmusic.com/genre/capoeira-music/",
+      "description": "Afro-Brazilian style that accompanies and sets the rhythm and energy of the capoeira martial art, originating in the 19th century with the relocation of African slaves to the states of Bahia and Rio de Janeiro.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Fandango caiçara",
+      "url": "https://rateyourmusic.com/genre/fandango-caicara/",
+      "description": "Style of fandango born in coastal Southern Brazil amidst the Caiçara people.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Fandango caiçara",
+      "url": "https://rateyourmusic.com/genre/fandango-caicara/",
+      "description": "Style of fandango born in coastal Southern Brazil amidst the Caiçara people.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Fandango caiçara",
+      "url": "https://rateyourmusic.com/genre/fandango-caicara/",
+      "description": "Style of fandango born in coastal Southern Brazil amidst the Caiçara people.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Jongo",
+      "url": "https://rateyourmusic.com/genre/jongo/",
+      "description": "Afro-Brazilian cultural manifestation involving music and dance; composed of percussion instruments and chants.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Jongo",
+      "url": "https://rateyourmusic.com/genre/jongo/",
+      "description": "Afro-Brazilian cultural manifestation involving music and dance; composed of percussion instruments and chants.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Jongo",
+      "url": "https://rateyourmusic.com/genre/jongo/",
+      "description": "Afro-Brazilian cultural manifestation involving music and dance; composed of percussion instruments and chants.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Lundu",
+      "url": "https://rateyourmusic.com/genre/lundu/",
+      "description": "Afro-Brazilian musical genre that emerged in the 18th century with influences from African drumming with European Fandango.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Lundu",
+      "url": "https://rateyourmusic.com/genre/lundu/",
+      "description": "Afro-Brazilian musical genre that emerged in the 18th century with influences from African drumming with European Fandango.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Lundu",
+      "url": "https://rateyourmusic.com/genre/lundu/",
+      "description": "Afro-Brazilian musical genre that emerged in the 18th century with influences from African drumming with European Fandango.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Maracatu",
+      "url": "https://rateyourmusic.com/genre/maracatu/",
+      "description": "Afro-Brazilian genre which accompanies the cultural manifestation of the same name, hailing from the northeastern state of Pernambuco.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Maracatu",
+      "url": "https://rateyourmusic.com/genre/maracatu/",
+      "description": "Afro-Brazilian genre which accompanies the cultural manifestation of the same name, hailing from the northeastern state of Pernambuco.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Maracatu",
+      "url": "https://rateyourmusic.com/genre/maracatu/",
+      "description": "Afro-Brazilian genre which accompanies the cultural manifestation of the same name, hailing from the northeastern state of Pernambuco.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Modinha",
+      "url": "https://rateyourmusic.com/genre/modinha/",
+      "description": "Popular during the 18th and 19th centuries in Brazil; characterized by sentimental works with amorous themes, poetic lyrics, acoustic instrumentation and operatic vocals.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Modinha",
+      "url": "https://rateyourmusic.com/genre/modinha/",
+      "description": "Popular during the 18th and 19th centuries in Brazil; characterized by sentimental works with amorous themes, poetic lyrics, acoustic instrumentation and operatic vocals.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Modinha",
+      "url": "https://rateyourmusic.com/genre/modinha/",
+      "description": "Popular during the 18th and 19th centuries in Brazil; characterized by sentimental works with amorous themes, poetic lyrics, acoustic instrumentation and operatic vocals.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Rasqueado",
+      "url": "https://rateyourmusic.com/genre/rasqueado/",
+      "description": "Regional dance and its accompanying music from the Brazilian midwest, predominantly the state of Mato Grosso.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Rasqueado",
+      "url": "https://rateyourmusic.com/genre/rasqueado/",
+      "description": "Regional dance and its accompanying music from the Brazilian midwest, predominantly the state of Mato Grosso.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Rasqueado",
+      "url": "https://rateyourmusic.com/genre/rasqueado/",
+      "description": "Regional dance and its accompanying music from the Brazilian midwest, predominantly the state of Mato Grosso.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Samba de roda",
+      "url": "https://rateyourmusic.com/genre/samba-de-roda/",
+      "description": "Mixed Portuguese culture with African slave traditions, as well as sharing roots and similarities with Batuque and Jongo.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Samba de roda",
+      "url": "https://rateyourmusic.com/genre/samba-de-roda/",
+      "description": "Mixed Portuguese culture with African slave traditions, as well as sharing roots and similarities with Batuque and Jongo.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Samba de roda",
+      "url": "https://rateyourmusic.com/genre/samba-de-roda/",
+      "description": "Mixed Portuguese culture with African slave traditions, as well as sharing roots and similarities with Batuque and Jongo.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Sertanejo de raiz",
+      "url": "https://rateyourmusic.com/genre/sertanejo-de-raiz/",
+      "description": "Earliest form of Sertanejo, emerging in pre-World War II rural Brazil during the late 1920s; quickly strummed acoustic guitars, most commonly the 10-string viola caipira and classical guitar, and a highly emotive vocal style.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Sertanejo de raiz",
+      "url": "https://rateyourmusic.com/genre/sertanejo-de-raiz/",
+      "description": "Earliest form of Sertanejo, emerging in pre-World War II rural Brazil during the late 1920s; quickly strummed acoustic guitars, most commonly the 10-string viola caipira and classical guitar, and a highly emotive vocal style.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Sertanejo de raiz",
+      "url": "https://rateyourmusic.com/genre/sertanejo-de-raiz/",
+      "description": "Earliest form of Sertanejo, emerging in pre-World War II rural Brazil during the late 1920s; quickly strummed acoustic guitars, most commonly the 10-string viola caipira and classical guitar, and a highly emotive vocal style.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Toada de Boi",
+      "url": "https://rateyourmusic.com/genre/toada-de-boi/",
+      "description": "Slow, heavy-percussed tunes celebrating the folkloric Ox, originally from Bumba-meu-boi June parties in Northeastern Brazil.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Toada de Boi",
+      "url": "https://rateyourmusic.com/genre/toada-de-boi/",
+      "description": "Slow, heavy-percussed tunes celebrating the folkloric Ox, originally from Bumba-meu-boi June parties in Northeastern Brazil.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Toada de Boi",
+      "url": "https://rateyourmusic.com/genre/toada-de-boi/",
+      "description": "Slow, heavy-percussed tunes celebrating the folkloric Ox, originally from Bumba-meu-boi June parties in Northeastern Brazil.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Xaxado",
+      "url": "https://rateyourmusic.com/genre/xaxado/",
+      "description": "Features a strong rhythmic beat, sliding tap dances, and stories of backland bandits.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Xaxado",
+      "url": "https://rateyourmusic.com/genre/xaxado/",
+      "description": "Features a strong rhythmic beat, sliding tap dances, and stories of backland bandits.",
+      "level": "sub-4",
+      "parent": "Brazilian Folk Music"
+    },
+    {
+      "name": "Xaxado",
+      "url": "https://rateyourmusic.com/genre/xaxado/",
+      "description": "Features a strong rhythmic beat, sliding tap dances, and stories of backland bandits.",
+      "level": "sub-3",
+      "parent": "Brazilian Folk Music"
+    }
+  ]
+}

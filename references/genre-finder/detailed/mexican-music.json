@@ -1,0 +1,80 @@
+{
+  "name": "Mexican Music",
+  "description": "Music of Mexico and those deeply rooted in Mexican traditions.",
+  "url": "https://rateyourmusic.com/genre/mexican-music/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Bandas de viento de México",
+      "url": "https://rateyourmusic.com/genre/bandas-de-viento-de-mexico/",
+      "description": "Mexican ensemble with many regional variations dating back to the 1860s and 1870s, when locals attempted to imitate the military bands that were present in the country.",
+      "level": "sub-4",
+      "parent": "Mexican Music"
+    },
+    {
+      "name": "Chilena",
+      "url": "https://rateyourmusic.com/genre/chilena/",
+      "description": "Developed when music from the Costa Chica of Guerrero and Oaxaca in Mexico mixed with Cueca brought by Chilean sailors to the region in the 19th century.",
+      "level": "sub-4",
+      "parent": "Mexican Music"
+    },
+    {
+      "name": "Corrido",
+      "url": "https://rateyourmusic.com/genre/corrido/",
+      "description": "Narrative ballad which arose in the late 18th century and flourished after the Mexican Independence War, originally meant for folk singers to spread news throughout Mexico accompanied by a guitar.",
+      "level": "sub-4",
+      "parent": "Mexican Music"
+    },
+    {
+      "name": "Cumbia mexicana",
+      "url": "https://rateyourmusic.com/genre/cumbia-mexicana/",
+      "description": "Incorporation of Rock & Roll, Mexican popular music, and Cuban influences, often adopting electric instruments, brass ensembles, accordion, and Cuban timbales, while retaining a beat-driven sound and traditional Colombian features.",
+      "level": "sub-4",
+      "parent": "Mexican Music"
+    },
+    {
+      "name": "Cumbiatón",
+      "url": "https://rateyourmusic.com/genre/cumbiaton/",
+      "description": "Combining Reggaetón  with Cumbia mexicana, and less frequently with other forms of traditional Mexican Music.",
+      "level": "sub-4",
+      "parent": "Mexican Music"
+    },
+    {
+      "name": "Mariachi",
+      "url": "https://rateyourmusic.com/genre/mariachi/",
+      "description": "Mexican style performed in unique costumes by ensembles known as mariachi bands, with a distinctive sound combining high, bright tones with low and rich voicings.",
+      "level": "sub-4",
+      "parent": "Mexican Music"
+    },
+    {
+      "name": "Mexican Folk Music",
+      "url": "https://rateyourmusic.com/genre/mexican-folk-music/",
+      "description": "Traditional Folk Music of the Mexican people.",
+      "level": "sub-4",
+      "parent": "Mexican Music"
+    },
+    {
+      "name": "Norteño",
+      "url": "https://rateyourmusic.com/genre/norteno/",
+      "description": "More traditional, rural version of Tejano Music whose name translates to \"northern\".",
+      "level": "sub-4",
+      "parent": "Mexican Music"
+    },
+    {
+      "name": "Ranchera",
+      "url": "https://rateyourmusic.com/genre/ranchera/",
+      "description": "Originating in rural Mexico in the 19th century and popularized in the 1930s; emphasizes passionate and emotional performances and love-focused lyrics, often performed with a Mariachi ensemble.",
+      "level": "sub-4",
+      "parent": "Mexican Music"
+    },
+    {
+      "name": "Tejano Music",
+      "url": "https://rateyourmusic.com/genre/tejano-music/",
+      "description": "Mexican-American style infusing the conjunto Norteño ensemble with European dances and American popular music.",
+      "level": "sub-4",
+      "parent": "Mexican Music"
+    }
+  ]
+}

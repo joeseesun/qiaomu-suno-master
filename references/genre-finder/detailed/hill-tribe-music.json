@@ -1,0 +1,31 @@
+{
+  "name": "Hill Tribe Music",
+  "description": "Music of the various ethnic groups residing in the hills of Mainland Southeast Asia and Southwest China, also known as the region of Zomia.",
+  "url": "https://rateyourmusic.com/genre/hill-tribe-music/",
+  "parent": "Southeast Asian Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Hmong Folk Music",
+      "url": "https://rateyourmusic.com/genre/hmong-folk-music/",
+      "description": "Folk traditions of the Hmong people, an ethnic group localized in Laos, Vietnam, China, and Thailand.",
+      "level": "sub-4",
+      "parent": "Hill Tribe Music"
+    },
+    {
+      "name": "Hmong Pop",
+      "url": "https://rateyourmusic.com/genre/hmong-pop/",
+      "description": "Popular music of the Hmong ethnicity, with roots in the Hmong Folk Music and influenced by Western and East Asian forms of Pop music.",
+      "level": "sub-4",
+      "parent": "Hill Tribe Music"
+    },
+    {
+      "name": "Lisu Music",
+      "url": "https://rateyourmusic.com/genre/lisu-music/",
+      "description": "Rooted in the traditions of the Lisu people, an ethnic minority of southern China, Myanmar, Thailand and Arunachal Pradesh, India.",
+      "level": "sub-4",
+      "parent": "Hill Tribe Music"
+    }
+  ]
+}

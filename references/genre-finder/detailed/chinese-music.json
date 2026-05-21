@@ -1,0 +1,108 @@
+{
+  "name": "Chinese Music",
+  "description": "Music of the Chinese people, which is primarily derived from the culture of the Han Chinese.",
+  "url": "https://rateyourmusic.com/genre/chinese-music/",
+  "parent": "East Asian Music",
+  "level": "sub-3",
+  "children_count": 14,
+  "children": [
+    {
+      "name": "Ancient Chinese Music",
+      "url": "https://rateyourmusic.com/genre/ancient-chinese-music/",
+      "description": "Covers a very large era of creation from approximately 2100 BCE to 200 CE.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Campus Folk",
+      "url": "https://rateyourmusic.com/genre/campus-folk/",
+      "description": "Born in Taiwan in the mid-1970s, this movement originated with university students creating their own modern-style songs in the wake of international tensions like Taiwan's isolation from the United Nations and the United States' embrace of the PRC as a diplomatic partner.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Chinese Classical Music",
+      "url": "https://rateyourmusic.com/genre/chinese-classical-music/",
+      "description": "Classical Music of China, encompassing royal court music.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Chinese Folk Music",
+      "url": "https://rateyourmusic.com/genre/chinese-folk-music/",
+      "description": "Traditional folk of the Chinese people.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Chinese Opera",
+      "url": "https://rateyourmusic.com/genre/chinese-opera/",
+      "description": "Traditional Chinese theatre, existing in several regional variations, combining traditional instruments and vocals along with other art forms like Poetry, dance, acrobatics, and martial arts.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Minyue",
+      "url": "https://rateyourmusic.com/genre/minyue/",
+      "description": "Modernized composition for Chinese instruments on the basis of Chinese Folk Music, incorporating aspects of Western Classical Music.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Naxi Music",
+      "url": "https://rateyourmusic.com/genre/naxi-music/",
+      "description": "Musical traditions of the Naxi peoples, fusing Chinese Music with local Naxi influences.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Quyi",
+      "url": "https://rateyourmusic.com/genre/quyi/",
+      "description": "Category of traditional Chinese storytelling, featuring a narrative structure and a combination of speaking and singing.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Shidaiqu",
+      "url": "https://rateyourmusic.com/genre/shidaiqu/",
+      "description": "Fusion of Chinese popular music and Jazz that began in the 1920s in Shanghai.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Sizhu Music",
+      "url": "https://rateyourmusic.com/genre/sizhu-music/",
+      "description": "Traditional string and wind instrument based chamber music ensembles, prevalent in Southern China.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Taoist Ritual Music",
+      "url": "https://rateyourmusic.com/genre/taoist-ritual-music/",
+      "description": "Originating in chants and instrumental accompaniment for Taoist ritual practice.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Xibei feng",
+      "url": "https://rateyourmusic.com/genre/xibei-feng/",
+      "description": "Blends Traditional Folk Music elements from northwestern China with Western Rock, Pop, Contemporary Folk, and other styles, characterized by its rugged and bold style.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Xinyao",
+      "url": "https://rateyourmusic.com/genre/xinyao/",
+      "description": "Singaporean Mandarin-language style, generally featuring harmonised group vocals and backed mainly by acoustic guitar.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    },
+    {
+      "name": "Zhongguo feng",
+      "url": "https://rateyourmusic.com/genre/zhongguo-feng/",
+      "description": "Inspired by traditional elements of Chinese Music with lyrical themes constantly revolving around Chinese culture and tales.",
+      "level": "sub-4",
+      "parent": "Chinese Music"
+    }
+  ]
+}

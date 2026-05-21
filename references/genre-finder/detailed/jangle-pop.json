@@ -1,0 +1,94 @@
+{
+  "name": "Jangle Pop",
+  "description": "Treble-heavy guitars with arpeggiated melodies, distinct basslines, and often propulsive, repetitive strum-rhythms; frequently influenced by Post-Punk.",
+  "url": "https://rateyourmusic.com/genre/jangle-pop/",
+  "parent": "Pop Rock",
+  "level": "sub-2",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "C86",
+      "url": "https://rateyourmusic.com/genre/c86/",
+      "description": "Distinctly ramshackle, often Twee Pop-infused combination of British Indie Rock and Jangle Pop.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    },
+    {
+      "name": "C86",
+      "url": "https://rateyourmusic.com/genre/c86/",
+      "description": "Distinctly ramshackle, often Twee Pop-infused combination of British Indie Rock and Jangle Pop.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    },
+    {
+      "name": "C86",
+      "url": "https://rateyourmusic.com/genre/c86/",
+      "description": "Distinctly ramshackle, often Twee Pop-infused combination of British Indie Rock and Jangle Pop.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    },
+    {
+      "name": "Dolewave",
+      "url": "https://rateyourmusic.com/genre/dolewave/",
+      "description": "Loose, low-key, and sardonic with erudite lyrics and considerable influence from the Dunedin Sound and Slacker Rock; came to prominence in Melbourne in the early 2010s.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    },
+    {
+      "name": "Dolewave",
+      "url": "https://rateyourmusic.com/genre/dolewave/",
+      "description": "Loose, low-key, and sardonic with erudite lyrics and considerable influence from the Dunedin Sound and Slacker Rock; came to prominence in Melbourne in the early 2010s.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    },
+    {
+      "name": "Dolewave",
+      "url": "https://rateyourmusic.com/genre/dolewave/",
+      "description": "Loose, low-key, and sardonic with erudite lyrics and considerable influence from the Dunedin Sound and Slacker Rock; came to prominence in Melbourne in the early 2010s.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    },
+    {
+      "name": "Neo-Acoustic",
+      "url": "https://rateyourmusic.com/genre/neo-acoustic/",
+      "description": "Cross-section of Indie Pop and Jangle Pop with more prominent acoustic instrumentation and songwriting/arrangements that draw from Sophisti-Pop.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    },
+    {
+      "name": "Neo-Acoustic",
+      "url": "https://rateyourmusic.com/genre/neo-acoustic/",
+      "description": "Cross-section of Indie Pop and Jangle Pop with more prominent acoustic instrumentation and songwriting/arrangements that draw from Sophisti-Pop.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    },
+    {
+      "name": "Neo-Acoustic",
+      "url": "https://rateyourmusic.com/genre/neo-acoustic/",
+      "description": "Cross-section of Indie Pop and Jangle Pop with more prominent acoustic instrumentation and songwriting/arrangements that draw from Sophisti-Pop.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    },
+    {
+      "name": "Paisley Underground",
+      "url": "https://rateyourmusic.com/genre/paisley-underground/",
+      "description": "Emerged in Los Angeles in the early 1980s, featuring the energy of Power Pop and New Wave adorned with retro Psychedelia.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    },
+    {
+      "name": "Paisley Underground",
+      "url": "https://rateyourmusic.com/genre/paisley-underground/",
+      "description": "Emerged in Los Angeles in the early 1980s, featuring the energy of Power Pop and New Wave adorned with retro Psychedelia.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    },
+    {
+      "name": "Paisley Underground",
+      "url": "https://rateyourmusic.com/genre/paisley-underground/",
+      "description": "Emerged in Los Angeles in the early 1980s, featuring the energy of Power Pop and New Wave adorned with retro Psychedelia.",
+      "level": "sub-3",
+      "parent": "Jangle Pop"
+    }
+  ]
+}

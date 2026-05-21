@@ -1,0 +1,38 @@
+{
+  "name": "Sertanejo de raiz",
+  "description": "Earliest form of Sertanejo, emerging in pre-World War II rural Brazil during the late 1920s; quickly strummed acoustic guitars, most commonly the 10-string viola caipira and classical guitar, and a highly emotive vocal style.",
+  "url": "https://rateyourmusic.com/genre/sertanejo-de-raiz/",
+  "parent": "Brazilian Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Moda de viola",
+      "url": "https://rateyourmusic.com/genre/moda-de-viola/",
+      "description": "Style of Sertanejo de raiz predominant in southeast, south, and west-central Brazil.",
+      "level": "sub-4",
+      "parent": "Sertanejo de raiz"
+    },
+    {
+      "name": "Moda de viola",
+      "url": "https://rateyourmusic.com/genre/moda-de-viola/",
+      "description": "Style of Sertanejo de raiz predominant in southeast, south, and west-central Brazil.",
+      "level": "sub-5",
+      "parent": "Sertanejo de raiz"
+    },
+    {
+      "name": "Moda de viola",
+      "url": "https://rateyourmusic.com/genre/moda-de-viola/",
+      "description": "Style of Sertanejo de raiz predominant in southeast, south, and west-central Brazil.",
+      "level": "sub-5",
+      "parent": "Sertanejo de raiz"
+    },
+    {
+      "name": "Moda de viola",
+      "url": "https://rateyourmusic.com/genre/moda-de-viola/",
+      "description": "Style of Sertanejo de raiz predominant in southeast, south, and west-central Brazil.",
+      "level": "sub-4",
+      "parent": "Sertanejo de raiz"
+    }
+  ]
+}

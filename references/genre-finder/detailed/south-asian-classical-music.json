@@ -1,0 +1,52 @@
+{
+  "name": "South Asian Classical Music",
+  "description": "Meta-genre that covers the diverse forms of Classical Music from South Asia.",
+  "url": "https://rateyourmusic.com/genre/south-asian-classical-music/",
+  "parent": "Classical Music",
+  "level": "sub",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Carnatic Classical Music",
+      "url": "https://rateyourmusic.com/genre/carnatic-classical-music/",
+      "description": "Culture shared by the Dravidian cultures in South India separate from regional folk genres.",
+      "level": "sub-2",
+      "parent": "South Asian Classical Music"
+    },
+    {
+      "name": "Carnatic Classical Music",
+      "url": "https://rateyourmusic.com/genre/carnatic-classical-music/",
+      "description": "Culture shared by the Dravidian cultures in South India separate from regional folk genres.",
+      "level": "sub-4",
+      "parent": "South Asian Classical Music"
+    },
+    {
+      "name": "Hindustani Classical Music",
+      "url": "https://rateyourmusic.com/genre/hindustani-classical-music/",
+      "description": "North Indian traditional music (including parts of Pakistan, Afghanistan, Nepal, Bangladesh, and Bhutan) with roots reaching back to the 12th century CE.",
+      "level": "sub-2",
+      "parent": "South Asian Classical Music"
+    },
+    {
+      "name": "Hindustani Classical Music",
+      "url": "https://rateyourmusic.com/genre/hindustani-classical-music/",
+      "description": "North Indian traditional music (including parts of Pakistan, Afghanistan, Nepal, Bangladesh, and Bhutan) with roots reaching back to the 12th century CE.",
+      "level": "sub-4",
+      "parent": "South Asian Classical Music"
+    },
+    {
+      "name": "Odissi Classical Music",
+      "url": "https://rateyourmusic.com/genre/odissi-classical-music/",
+      "description": "Traditional dance and classical music from the Odisha region of Eastern India.",
+      "level": "sub-2",
+      "parent": "South Asian Classical Music"
+    },
+    {
+      "name": "Odissi Classical Music",
+      "url": "https://rateyourmusic.com/genre/odissi-classical-music/",
+      "description": "Traditional dance and classical music from the Odisha region of Eastern India.",
+      "level": "sub-4",
+      "parent": "South Asian Classical Music"
+    }
+  ]
+}

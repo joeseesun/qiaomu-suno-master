@@ -1,0 +1,66 @@
+{
+  "name": "Folk Rock",
+  "description": "Influenced by Folk, particularly in the use of acoustic instrumentation and relatively simple arrangements; has its origins in the American Contemporary Folk movement of the 1960s.",
+  "url": "https://rateyourmusic.com/genre/folk-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Alpenrock",
+      "url": "https://rateyourmusic.com/genre/alpenrock/",
+      "description": "Mixes Hard Rock and Blues Rock with traditional Alpine Folk Music elements such as Yodeling and use of the accordion.",
+      "level": "sub-2",
+      "parent": "Folk Rock"
+    },
+    {
+      "name": "British Folk Rock",
+      "url": "https://rateyourmusic.com/genre/british-folk-rock/",
+      "description": "Developed in the late 1960s; influenced by traditional British folk music, particularly English Folk Music.",
+      "level": "sub-2",
+      "parent": "Folk Rock"
+    },
+    {
+      "name": "Celtic Rock",
+      "url": "https://rateyourmusic.com/genre/celtic-rock/",
+      "description": "Incorporates influences from Celtic Folk Music and its regional variants.",
+      "level": "sub-2",
+      "parent": "Folk Rock"
+    },
+    {
+      "name": "Mittelalter-Rock",
+      "url": "https://rateyourmusic.com/genre/mittelalter-rock/",
+      "description": "Emerged in the 1990s from the German Neo-Medieval movement, incorporating medieval instruments with Rock music.",
+      "level": "sub-2",
+      "parent": "Folk Rock"
+    },
+    {
+      "name": "Nordic Folk Rock",
+      "url": "https://rateyourmusic.com/genre/nordic-folk-rock/",
+      "description": "Fusion of Nordic Folk Music and Rock.",
+      "level": "sub-2",
+      "parent": "Folk Rock"
+    },
+    {
+      "name": "Phleng phuea chiwit",
+      "url": "https://rateyourmusic.com/genre/phleng-phuea-chiwit/",
+      "description": "Political Thai Folk Rock born out of the 1973 student uprising, with a name translating to \"songs for life\".",
+      "level": "sub-2",
+      "parent": "Folk Rock"
+    },
+    {
+      "name": "Pinoy Folk Rock",
+      "url": "https://rateyourmusic.com/genre/pinoy-folk-rock/",
+      "description": "Typically sung in Tagalog and pioneered in the 1970s, incorporating elements of indigenous music such as Kulintang gong music and the kubing bamboo jaw harp.",
+      "level": "sub-2",
+      "parent": "Folk Rock"
+    },
+    {
+      "name": "Rock rural",
+      "url": "https://rateyourmusic.com/genre/rock-rural/",
+      "description": "Brazilian Folk Rock that emerged in the 1970s, incorporating elements of Sertanejo, Country Rock, and MPB.",
+      "level": "sub-2",
+      "parent": "Folk Rock"
+    }
+  ]
+}

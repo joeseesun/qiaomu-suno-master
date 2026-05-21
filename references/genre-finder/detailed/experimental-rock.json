@@ -1,0 +1,24 @@
+{
+  "name": "Experimental Rock",
+  "description": "Eschews accessibility and convention, experimenting with song structures, time signatures, rhythm, dissonance, instrumentation, noise, electronics, studio manipulation, and other techniques not traditionally associated with Rock.",
+  "url": "https://rateyourmusic.com/genre/experimental-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Avant-Prog",
+      "url": "https://rateyourmusic.com/genre/avant-prog/",
+      "description": "Focuses on highly complex, dense arrangements often featuring high amounts of dissonance and uncommon time signatures, sometimes extending towards atonality, free time, improvisation, and other avant-garde techniques.",
+      "level": "sub-2",
+      "parent": "Experimental Rock"
+    },
+    {
+      "name": "Krautrock",
+      "url": "https://rateyourmusic.com/genre/krautrock/",
+      "description": "Brings together elements of Psychedelic Rock with avant-garde influences, often incorporating hypnotic rhythms, extended improvisation, and Electronic textures.",
+      "level": "sub-2",
+      "parent": "Experimental Rock"
+    }
+  ]
+}

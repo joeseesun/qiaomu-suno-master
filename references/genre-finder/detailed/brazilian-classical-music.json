@@ -1,0 +1,24 @@
+{
+  "name": "Brazilian Classical Music",
+  "description": "Originated in the late 19th century, taking the European music that had been brought to the country by colonists and brought in parts of Brazilian Music.",
+  "url": "https://rateyourmusic.com/genre/brazilian-classical-music/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Valsa brasileira",
+      "url": "https://rateyourmusic.com/genre/valsa-brasileira/",
+      "description": "Brazillian Waltz characterized by its slow rhythms and romantic sound.",
+      "level": "sub-3",
+      "parent": "Brazilian Classical Music"
+    },
+    {
+      "name": "Valsa brasileira",
+      "url": "https://rateyourmusic.com/genre/valsa-brasileira/",
+      "description": "Brazillian Waltz characterized by its slow rhythms and romantic sound.",
+      "level": "sub-4",
+      "parent": "Brazilian Classical Music"
+    }
+  ]
+}

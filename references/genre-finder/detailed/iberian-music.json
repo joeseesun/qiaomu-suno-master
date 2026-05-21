@@ -1,0 +1,59 @@
+{
+  "name": "Iberian Music",
+  "description": "Music of the Iberian peninsula.",
+  "url": "https://rateyourmusic.com/genre/iberian-music/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Basque Folk Music",
+      "url": "https://rateyourmusic.com/genre/basque-folk-music/",
+      "description": "Traditional Folk Music of the Basque people.",
+      "level": "sub-3",
+      "parent": "Iberian Music"
+    },
+    {
+      "name": "Catalan Folk Music",
+      "url": "https://rateyourmusic.com/genre/catalan-folk-music/",
+      "description": "Blend of local styles and influences from the Iberian Peninsula region and the Catalonian area of Southern France.",
+      "level": "sub-3",
+      "parent": "Iberian Music"
+    },
+    {
+      "name": "Euskal kantagintza berria",
+      "url": "https://rateyourmusic.com/genre/euskal-kantagintza-berria/",
+      "description": "Basque genre born during the 1960s inspired by Nova cançó and Chanson.",
+      "level": "sub-3",
+      "parent": "Iberian Music"
+    },
+    {
+      "name": "Nova cançó",
+      "url": "https://rateyourmusic.com/genre/nova-canco/",
+      "description": "Arose in Catalonia during the Franco dictatorship, sung in Catalan as a way to resist restrictions placed on regional languages in Spain and retain a regional identity.",
+      "level": "sub-3",
+      "parent": "Iberian Music"
+    },
+    {
+      "name": "Portuguese Music",
+      "url": "https://rateyourmusic.com/genre/portuguese-music/",
+      "description": "Music of Portugal.",
+      "level": "sub-3",
+      "parent": "Iberian Music"
+    },
+    {
+      "name": "Spanish Music",
+      "url": "https://rateyourmusic.com/genre/spanish-music/",
+      "description": "Music of Spain.",
+      "level": "sub-3",
+      "parent": "Iberian Music"
+    },
+    {
+      "name": "Villancico",
+      "url": "https://rateyourmusic.com/genre/villancico/",
+      "description": "Style of polyphonic lyric poetry popular between the 14th and 18th centuries that developed in Spain, Portugal, and their associated colonies.",
+      "level": "sub-3",
+      "parent": "Iberian Music"
+    }
+  ]
+}

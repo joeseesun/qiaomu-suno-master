@@ -1,0 +1,24 @@
+{
+  "name": "Country Rock",
+  "description": "Combination of contemporary Rock with more traditional American Country.",
+  "url": "https://rateyourmusic.com/genre/country-rock/",
+  "parent": "Northern American Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Cosmic Country",
+      "url": "https://rateyourmusic.com/genre/cosmic-country/",
+      "description": "Synthesizes various American musical influences and the exploratory ethoses of Psychedelia and Progressive Country to create an ethereal and more experimental sound still rooted in traditional Country.",
+      "level": "sub-3",
+      "parent": "Country Rock"
+    },
+    {
+      "name": "Cosmic Country",
+      "url": "https://rateyourmusic.com/genre/cosmic-country/",
+      "description": "Synthesizes various American musical influences and the exploratory ethoses of Psychedelia and Progressive Country to create an ethereal and more experimental sound still rooted in traditional Country.",
+      "level": "sub-2",
+      "parent": "Country Rock"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Progressive Electronic",
+  "description": "Synthesizer-driven genre focusing on developing, often longform compositions and drawing inspiration from various sources such as Progressive Rock, Western Classical Music, and Ambient.",
+  "url": "https://rateyourmusic.com/genre/progressive-electronic/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Berlin School",
+      "url": "https://rateyourmusic.com/genre/berlin-school/",
+      "description": "Atmospheric, multi-layered synthesizer textures; pioneered in Berlin in the 1970s as an offshoot to the Krautrock movement.",
+      "level": "sub-2",
+      "parent": "Progressive Electronic"
+    }
+  ]
+}

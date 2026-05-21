@@ -1,0 +1,52 @@
+{
+  "name": "Central Asian Throat Singing",
+  "description": "Shared polyphonic vocal tradition of Mongolia and southern Siberia characterised by complex manipulation of harmonics.",
+  "url": "https://rateyourmusic.com/genre/central-asian-throat-singing/",
+  "parent": "Central Asian Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Kai",
+      "url": "https://rateyourmusic.com/genre/kai/",
+      "description": "Prevalent in the Altai-Sayan region and rooted in Shamanic traditions, it is renowned for its emphasis on the low vocal register and is revered as a sacred medium for communicating with all nature and the spirits.",
+      "level": "sub-4",
+      "parent": "Central Asian Throat Singing"
+    },
+    {
+      "name": "Kai",
+      "url": "https://rateyourmusic.com/genre/kai/",
+      "description": "Prevalent in the Altai-Sayan region and rooted in Shamanic traditions, it is renowned for its emphasis on the low vocal register and is revered as a sacred medium for communicating with all nature and the spirits.",
+      "level": "sub-3",
+      "parent": "Central Asian Throat Singing"
+    },
+    {
+      "name": "Mongolian Throat Singing",
+      "url": "https://rateyourmusic.com/genre/mongolian-throat-singing/",
+      "description": "Traditional music from Mongolia characterized by many throat singing techniques.",
+      "level": "sub-4",
+      "parent": "Central Asian Throat Singing"
+    },
+    {
+      "name": "Mongolian Throat Singing",
+      "url": "https://rateyourmusic.com/genre/mongolian-throat-singing/",
+      "description": "Traditional music from Mongolia characterized by many throat singing techniques.",
+      "level": "sub-3",
+      "parent": "Central Asian Throat Singing"
+    },
+    {
+      "name": "Tuvan Throat Singing",
+      "url": "https://rateyourmusic.com/genre/tuvan-throat-singing/",
+      "description": "Traditional style of singing found in Tuva, an autonomous region of the Russian Federation situated in southern Siberia.",
+      "level": "sub-4",
+      "parent": "Central Asian Throat Singing"
+    },
+    {
+      "name": "Tuvan Throat Singing",
+      "url": "https://rateyourmusic.com/genre/tuvan-throat-singing/",
+      "description": "Traditional style of singing found in Tuva, an autonomous region of the Russian Federation situated in southern Siberia.",
+      "level": "sub-3",
+      "parent": "Central Asian Throat Singing"
+    }
+  ]
+}

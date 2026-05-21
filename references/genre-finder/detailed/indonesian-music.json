@@ -1,0 +1,101 @@
+{
+  "name": "Indonesian Music",
+  "description": "Music of the Indonesian people, including those of the majority groups residing in Java, Sumatra, Kalimantan, Bali and other major native areas.",
+  "url": "https://rateyourmusic.com/genre/indonesian-music/",
+  "parent": "Southeast Asian Music",
+  "level": "sub-3",
+  "children_count": 13,
+  "children": [
+    {
+      "name": "Balinese Music",
+      "url": "https://rateyourmusic.com/genre/balinese-music/",
+      "description": "Music of the Balinese people.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Batak Music",
+      "url": "https://rateyourmusic.com/genre/batak-music/",
+      "description": "Music of the Batak people, an Austronesian people native to Sumatra.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Dangdut",
+      "url": "https://rateyourmusic.com/genre/dangdut/",
+      "description": "Indonesian popular music distinguished by a rhythmic blend of Indian, Arabic, Western, Malay, Sundanese, and Javanese influences within Indonesian Music, characterized by a unique rhythmic pattern from kendang.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Gambang kromong",
+      "url": "https://rateyourmusic.com/genre/gambang-kromong/",
+      "description": "Betawi traditional music which combines elements of Gamelan, Western music and a Chinese-derived pentatonic scale.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Javanese Music",
+      "url": "https://rateyourmusic.com/genre/javanese-music/",
+      "description": "Music of the Javanese people.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Kakawin",
+      "url": "https://rateyourmusic.com/genre/kakawin/",
+      "description": "Form of Indonesian poetry written in Kawi, performed melodically using a structured pattern of long and short syllables.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Keroncong",
+      "url": "https://rateyourmusic.com/genre/keroncong/",
+      "description": "Early form of popular Indonesian Music from the 19th-20th century, inspired by Portuguese sailor songs brought to the archipelago during the colonial era.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Minangkabau Music",
+      "url": "https://rateyourmusic.com/genre/minangkabau-music/",
+      "description": "Music of the Minangkabau people.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Orkes gambus",
+      "url": "https://rateyourmusic.com/genre/orkes-gambus/",
+      "description": "Indonesian songs based on Arabic hits, adapted for a small ensemble featuring the gambus lute, percussion, and electric instruments.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Qasidah modern",
+      "url": "https://rateyourmusic.com/genre/qasidah-modern/",
+      "description": "Islamic pop that emerged on the Indonesian island of Java during the 1970s, updating a form of classic Arabic Poetry known as \"qasidah\".",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Rapai dabõih",
+      "url": "https://rateyourmusic.com/genre/rapai-daboih/",
+      "description": "Religious music meant to accompany the dabõih ceremony of the Acehnese people.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Sundanese Music",
+      "url": "https://rateyourmusic.com/genre/sundanese-music/",
+      "description": "Music of the Sundanese people.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    },
+    {
+      "name": "Tanjidor",
+      "url": "https://rateyourmusic.com/genre/tanjidor/",
+      "description": "Betawi form of street music ensemble derived from colonial Marching Bands.",
+      "level": "sub-4",
+      "parent": "Indonesian Music"
+    }
+  ]
+}

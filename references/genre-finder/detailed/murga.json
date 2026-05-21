@@ -1,0 +1,24 @@
+{
+  "name": "Murga",
+  "description": "Popular carnival music traditional in some cities of Spain and Hispanic America.",
+  "url": "https://rateyourmusic.com/genre/murga/",
+  "parent": "Musical Theatre and Entertainment",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Murga uruguaya",
+      "url": "https://rateyourmusic.com/genre/murga-uruguaya/",
+      "description": "Variant originated in Montevideo that stands out for its rhythms, nasal vocals and choral arrangements.",
+      "level": "sub-2",
+      "parent": "Murga"
+    },
+    {
+      "name": "Murga uruguaya",
+      "url": "https://rateyourmusic.com/genre/murga-uruguaya/",
+      "description": "Variant originated in Montevideo that stands out for its rhythms, nasal vocals and choral arrangements.",
+      "level": "sub-3",
+      "parent": "Murga"
+    }
+  ]
+}

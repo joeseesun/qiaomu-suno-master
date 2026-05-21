@@ -1,0 +1,38 @@
+{
+  "name": "Alternative Dance",
+  "description": "Incorporates rhythms and synthesizers from Electronic Dance Music within the context of Alternative Rock and related styles; predominantly popular in the 1990s.",
+  "url": "https://rateyourmusic.com/genre/alternative-dance/",
+  "parent": "Dance",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Grebo",
+      "url": "https://rateyourmusic.com/genre/grebo/",
+      "description": "Short-lived English subculture and associated music; raw, futuristic, sample-heavy form of Alternative Dance with a dirty guitar sound.",
+      "level": "sub-2",
+      "parent": "Alternative Dance"
+    },
+    {
+      "name": "Grebo",
+      "url": "https://rateyourmusic.com/genre/grebo/",
+      "description": "Short-lived English subculture and associated music; raw, futuristic, sample-heavy form of Alternative Dance with a dirty guitar sound.",
+      "level": "sub-3",
+      "parent": "Alternative Dance"
+    },
+    {
+      "name": "New Rave",
+      "url": "https://rateyourmusic.com/genre/new-rave/",
+      "description": "High energy mid-2000s style combining the tight and punchy grooves of Dance-Punk Revival with synths and four-on-the-floor rhythms from genres like Electroclash and Electro House.",
+      "level": "sub-2",
+      "parent": "Alternative Dance"
+    },
+    {
+      "name": "New Rave",
+      "url": "https://rateyourmusic.com/genre/new-rave/",
+      "description": "High energy mid-2000s style combining the tight and punchy grooves of Dance-Punk Revival with synths and four-on-the-floor rhythms from genres like Electroclash and Electro House.",
+      "level": "sub-3",
+      "parent": "Alternative Dance"
+    }
+  ]
+}

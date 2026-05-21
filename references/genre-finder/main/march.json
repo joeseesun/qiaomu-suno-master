@@ -1,0 +1,29 @@
+{
+  "name": "March",
+  "description": "Strong and regular rhythm originally written to walk in step easier or to back events like parades or marches.",
+  "url": "https://rateyourmusic.com/genre/march/",
+  "sub_genres_count": 3,
+  "sub_genres": [
+    {
+      "name": "Circus March",
+      "url": "https://rateyourmusic.com/genre/circus-march/",
+      "description": "Marches composed for use in circuses, one of the most popular forms of entertainment in the early 20th century.",
+      "level": "sub",
+      "parent": "March"
+    },
+    {
+      "name": "Dobrado",
+      "url": "https://rateyourmusic.com/genre/dobrado/",
+      "description": "Brazilian musical genre, played by military bands with wooden, brass and also percussive instruments.",
+      "level": "sub",
+      "parent": "March"
+    },
+    {
+      "name": "Funeral March",
+      "url": "https://rateyourmusic.com/genre/funeral-march/",
+      "description": "Slow, solemn marches usually in a minor key; meant to invoke the feeling of a funeral procession.",
+      "level": "sub",
+      "parent": "March"
+    }
+  ]
+}

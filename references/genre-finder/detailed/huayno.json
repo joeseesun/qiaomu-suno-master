@@ -1,0 +1,73 @@
+{
+  "name": "Huayno",
+  "description": "Andean dance music that incorporates both pre-Hispanic and Western musical elements.",
+  "url": "https://rateyourmusic.com/genre/huayno/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Bolivian Huayño",
+      "url": "https://rateyourmusic.com/genre/bolivian-huayno/",
+      "description": "One of the most popular genres of Andean music in Bolivia, particularly present in the departments of Cochabamba, Chuquisaca, La Paz, Oruro and Potosí.",
+      "level": "sub-4",
+      "parent": "Huayno"
+    },
+    {
+      "name": "Bolivian Huayño",
+      "url": "https://rateyourmusic.com/genre/bolivian-huayno/",
+      "description": "One of the most popular genres of Andean music in Bolivia, particularly present in the departments of Cochabamba, Chuquisaca, La Paz, Oruro and Potosí.",
+      "level": "sub-4",
+      "parent": "Huayno"
+    },
+    {
+      "name": "Bolivian Huayño",
+      "url": "https://rateyourmusic.com/genre/bolivian-huayno/",
+      "description": "One of the most popular genres of Andean music in Bolivia, particularly present in the departments of Cochabamba, Chuquisaca, La Paz, Oruro and Potosí.",
+      "level": "sub-4",
+      "parent": "Huayno"
+    },
+    {
+      "name": "Carnavalito",
+      "url": "https://rateyourmusic.com/genre/carnavalito/",
+      "description": "Fast and lively; mostly played in northwestern Argentina in the provinces of Jujuy, Salta, and Tucumán.",
+      "level": "sub-4",
+      "parent": "Huayno"
+    },
+    {
+      "name": "Carnavalito",
+      "url": "https://rateyourmusic.com/genre/carnavalito/",
+      "description": "Fast and lively; mostly played in northwestern Argentina in the provinces of Jujuy, Salta, and Tucumán.",
+      "level": "sub-4",
+      "parent": "Huayno"
+    },
+    {
+      "name": "Carnavalito",
+      "url": "https://rateyourmusic.com/genre/carnavalito/",
+      "description": "Fast and lively; mostly played in northwestern Argentina in the provinces of Jujuy, Salta, and Tucumán.",
+      "level": "sub-4",
+      "parent": "Huayno"
+    },
+    {
+      "name": "Chimaychi",
+      "url": "https://rateyourmusic.com/genre/chimaychi/",
+      "description": "Slower variant, traditionally lacking guitar or mandolin, found in the eastern provinces of Áncash department.",
+      "level": "sub-4",
+      "parent": "Huayno"
+    },
+    {
+      "name": "Chimaychi",
+      "url": "https://rateyourmusic.com/genre/chimaychi/",
+      "description": "Slower variant, traditionally lacking guitar or mandolin, found in the eastern provinces of Áncash department.",
+      "level": "sub-4",
+      "parent": "Huayno"
+    },
+    {
+      "name": "Chimaychi",
+      "url": "https://rateyourmusic.com/genre/chimaychi/",
+      "description": "Slower variant, traditionally lacking guitar or mandolin, found in the eastern provinces of Áncash department.",
+      "level": "sub-4",
+      "parent": "Huayno"
+    }
+  ]
+}

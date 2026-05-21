@@ -1,0 +1,38 @@
+{
+  "name": "Vaporwave",
+  "description": "Sample-based, involves heavily synthesized and processed manipulation of corporate mood and background (elevator) music; though source material can also include genres such as Pop, Contemporary R&B, and Synth Funk.",
+  "url": "https://rateyourmusic.com/genre/vaporwave/",
+  "parent": "Vapor",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Broken Transmission",
+      "url": "https://rateyourmusic.com/genre/broken-transmission/",
+      "description": "Manipulates samples from TV broadcasts, advertisements, film, radio, and other sources.",
+      "level": "sub-3",
+      "parent": "Vaporwave"
+    },
+    {
+      "name": "Eccojams",
+      "url": "https://rateyourmusic.com/genre/eccojams/",
+      "description": "Simple, prototypical Vaporwave style, heavily influenced by Chopped and Screwed and Glitch, that features short, slowed-down, lyric focused, sampled loops smothered in reverb and continuously repeated, usually taken from late 20th century music.",
+      "level": "sub-3",
+      "parent": "Vaporwave"
+    },
+    {
+      "name": "Mallsoft",
+      "url": "https://rateyourmusic.com/genre/mallsoft/",
+      "description": "Blends the main characteristics of Vaporwave with what can be described as background/elevator music.",
+      "level": "sub-3",
+      "parent": "Vaporwave"
+    },
+    {
+      "name": "Slushwave",
+      "url": "https://rateyourmusic.com/genre/slushwave/",
+      "description": "Utilizes a distinct form of sample manipulation to create a “slushy” sound, usually sequenced in soft Ambient-based soundscapes.",
+      "level": "sub-3",
+      "parent": "Vaporwave"
+    }
+  ]
+}

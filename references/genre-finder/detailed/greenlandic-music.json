@@ -1,0 +1,66 @@
+{
+  "name": "Greenlandic Music",
+  "description": "Majorly from Inuit ethnic groups in Greenland, a large island between the Atlantic and Arctic Oceans.",
+  "url": "https://rateyourmusic.com/genre/greenlandic-music/",
+  "parent": "Nordic Music",
+  "level": "sub-3",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Kalattut",
+      "url": "https://rateyourmusic.com/genre/kalattut/",
+      "description": "Distinctive Folk tradition shaped by European cultural exchanges and indigenous Greenlandic heritage.",
+      "level": "sub-4",
+      "parent": "Greenlandic Music"
+    },
+    {
+      "name": "Kalattut",
+      "url": "https://rateyourmusic.com/genre/kalattut/",
+      "description": "Distinctive Folk tradition shaped by European cultural exchanges and indigenous Greenlandic heritage.",
+      "level": "sub-3",
+      "parent": "Greenlandic Music"
+    },
+    {
+      "name": "Tivaner inngernerlu",
+      "url": "https://rateyourmusic.com/genre/tivaner-inngernerlu/",
+      "description": "Pre-colonial Inuit Folk tradition centered around the qilaat (drum).",
+      "level": "sub-4",
+      "parent": "Greenlandic Music"
+    },
+    {
+      "name": "Tivaner inngernerlu",
+      "url": "https://rateyourmusic.com/genre/tivaner-inngernerlu/",
+      "description": "Pre-colonial Inuit Folk tradition centered around the qilaat (drum).",
+      "level": "sub-3",
+      "parent": "Greenlandic Music"
+    },
+    {
+      "name": "Uaajeerneq",
+      "url": "https://rateyourmusic.com/genre/uaajeerneq/",
+      "description": "Ancient Greenlandic-Inuit dramatic performance characterized by percussion and idiosyncratic expression.",
+      "level": "sub-4",
+      "parent": "Greenlandic Music"
+    },
+    {
+      "name": "Uaajeerneq",
+      "url": "https://rateyourmusic.com/genre/uaajeerneq/",
+      "description": "Ancient Greenlandic-Inuit dramatic performance characterized by percussion and idiosyncratic expression.",
+      "level": "sub-3",
+      "parent": "Greenlandic Music"
+    },
+    {
+      "name": "Vaigat",
+      "url": "https://rateyourmusic.com/genre/vaigat/",
+      "description": "Contemporary popular music shaped by American cultural exchanges and indigenous Greenlandic heritage.",
+      "level": "sub-4",
+      "parent": "Greenlandic Music"
+    },
+    {
+      "name": "Vaigat",
+      "url": "https://rateyourmusic.com/genre/vaigat/",
+      "description": "Contemporary popular music shaped by American cultural exchanges and indigenous Greenlandic heritage.",
+      "level": "sub-3",
+      "parent": "Greenlandic Music"
+    }
+  ]
+}

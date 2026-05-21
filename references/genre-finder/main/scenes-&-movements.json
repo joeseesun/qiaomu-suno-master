@@ -1,0 +1,1513 @@
+{
+  "name": "Scenes & Movements",
+  "description": "",
+  "url": "https://rateyourmusic.com/genre/scenes-and-movements/",
+  "sub_genres_count": 215,
+  "sub_genres": [
+    {
+      "name": "Afrofuturism",
+      "url": "https://rateyourmusic.com/genre/afrofuturism/",
+      "description": "Movement rooted in Jazz and Funk, blending futuristic aesthetics and themes with African and Afrodiasporic culture.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Akron Sound",
+      "url": "https://rateyourmusic.com/genre/akron-sound/",
+      "description": "Early Punk and New Wave scene in Akron, Ohio and nearby Kent from the mid-1970s to the early 1980s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Alté",
+      "url": "https://rateyourmusic.com/genre/alte/",
+      "description": "More subdued, atmospheric, minimalist, and eclectic production and vocal styles compared to earlier styles, as well as more socially conscious lyrics.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Anarcho-Punk",
+      "url": "https://rateyourmusic.com/genre/anarcho-punk/",
+      "description": "Intentionally rougher and sloppier sound, with lyrics pertaining to anarchist ideology and sociopolitical injustices.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Asian Underground",
+      "url": "https://rateyourmusic.com/genre/asian-underground/",
+      "description": "South Asian diasporic movement defined by musical acts, producers and DJs fusing contemporary Electronic music with Bhangra and other traditional styles.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Aussie Pub Rock",
+      "url": "https://rateyourmusic.com/genre/aussie-pub-rock/",
+      "description": "Straightforward Rock acts associated with the Australian pub circuit of the 1970s and 1980s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Authenticité",
+      "url": "https://rateyourmusic.com/genre/authenticite/",
+      "description": "Post-independence cultural movement born in socialist Guinea aiming to reclaim pre-colonial heritage and forge a shared national identity, largely through government-funded programs, national orchestras, and radical rejection of European influences.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Bay Area Thrash Metal",
+      "url": "https://rateyourmusic.com/genre/bay-area-thrash-metal/",
+      "description": "Highly influential Thrash Metal scene centered around the San Francisco Bay Area.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Beach Music",
+      "url": "https://rateyourmusic.com/genre/beach-music/",
+      "description": "Danceable 4/4 \"blues shuffle\" rhythmic structure, vocal harmonies, and moderate tempos.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Beijing New Sound",
+      "url": "https://rateyourmusic.com/genre/beijing-new-sound/",
+      "description": "Pioneering Chinese indie Rock movement in the late '90s that renewed the heavy narratives of early '90s Chinese rock with its stylish sound and personal themes.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Bernese Dialect Scene",
+      "url": "https://rateyourmusic.com/genre/bernese-dialect-scene/",
+      "description": "Influential scene of artists centered in the Swiss city of Bern, featuring poetic lyrics in Bernese German.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Bloghouse",
+      "url": "https://rateyourmusic.com/genre/bloghouse/",
+      "description": "Internet-based movement from the mid-to-late-2000s which broadly distilled scenes most associated with online music blogging, mp3-sharing and remix culture, intersecting within Dance styles such as Electroclash, Electro House, New Rave and Nu-Disco in a brash and carefree fashion.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Bosstown Sound",
+      "url": "https://rateyourmusic.com/genre/bosstown-sound/",
+      "description": "Short-lived Psychedelic Rock and Psychedelic Pop scene in Boston, Massachusetts; marketed by MGM Records as Boston’s response to the San Francisco Sound.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Bristol Sound",
+      "url": "https://rateyourmusic.com/genre/bristol-sound/",
+      "description": "UK-based scene associated with Bristol's soundsystem culture and early Trip Hop within the late 1980s to late 1990s, featuring a bass-heavy, spaced-out sound largely inspired by Dub, Soul and Hip Hop.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "British Rhythm & Blues",
+      "url": "https://rateyourmusic.com/genre/british-rhythm-and-blues/",
+      "description": "A style infusing Rock and R&B that was hugely popular in the United Kingdom between 1963 and 1966.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "British Trad Jazz",
+      "url": "https://rateyourmusic.com/genre/british-trad-jazz/",
+      "description": "Popular mid-1950s to early '60s revival of Dixieland; pushed out commercially by Beat music in 1963.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Britpop",
+      "url": "https://rateyourmusic.com/genre/britpop/",
+      "description": "Emerged in the United Kingdom in the early 1990s, with a style hearkening back to the traditional guitar-driven songs and melodic hooks found in the British Pop Rock of the 1960s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Brno Alternative Scene",
+      "url": "https://rateyourmusic.com/genre/brno-alternative-scene/",
+      "description": "Semi-official, avant-garde scene active primarily in the the 1980s in the Czech Socialist Republic.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Brony Music",
+      "url": "https://rateyourmusic.com/genre/brony-music/",
+      "description": "Fan works, created by the brony community, relating to the My Little Pony franchise.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Burger-Highlife",
+      "url": "https://rateyourmusic.com/genre/burger-highlife/",
+      "description": "Created by Ghanaian immigrants to Germany in the late 1970s, generally employing synthesizers and Western post-production techniques alongside guitar-driven Highlife instrumentation.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Bérite Club",
+      "url": "https://rateyourmusic.com/genre/berite-club/",
+      "description": "Originated in the underground club scene of Paris in the mid-to-late 2010s, drawing on a variety of international club styles for its combination of prominent and erratic drum programming with freezing and looping chopped-up samples.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "C-Pop",
+      "url": "https://rateyourmusic.com/genre/c-pop/",
+      "description": "Commercialized style performed by Chinese communities across China and Taiwan, alongside its large diaspora.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "CBGB Scene",
+      "url": "https://rateyourmusic.com/genre/cbgb-scene/",
+      "description": "Early Punk scene built around artists who frequently played at the East Village's CBGB club in the mid-1970s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "CCM",
+      "url": "https://rateyourmusic.com/genre/ccm/",
+      "description": "Popular music focused on Christian spirituality and faith.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Campus Folk",
+      "url": "https://rateyourmusic.com/genre/campus-folk/",
+      "description": "Born in Taiwan in the mid-1970s, this movement originated with university students creating their own modern-style songs in the wake of international tensions like Taiwan's isolation from the United Nations and the United States' embrace of the PRC as a diplomatic partner.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Canterbury Scene",
+      "url": "https://rateyourmusic.com/genre/canterbury-scene/",
+      "description": "Developed in the counterculture of Canterbury in the late 1960s, emphasizing the influence of Jazz-Rock and Jazz Fusion.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Cascadian Black Metal",
+      "url": "https://rateyourmusic.com/genre/cascadian-black-metal/",
+      "description": "Scene hailing from the Pacific Northwest region of the United States and Canada marked by nature-centric imagery, oftentimes incorporating elements of Post-Metal.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Chicago No Wave",
+      "url": "https://rateyourmusic.com/genre/chicago-no-wave/",
+      "description": "1990s Experimental Rock scene in Chicago, Illinois; so named due to its deconstructionist approach to Rock music, similar to that of the No Wave scene in late 1970s New York City.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Chicago School",
+      "url": "https://rateyourmusic.com/genre/chicago-school/",
+      "description": "Predominantly 1990s Post-Rock scene which blends influences from Indie Rock and Jazz with an expanded instrumental palette and a diverse approach to sonic exploration.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Christian Hardcore",
+      "url": "https://rateyourmusic.com/genre/christian-hardcore/",
+      "description": "Developed in the 1990s in the United States, incorporating faith-based Christian messages into Hardcore [Punk] music.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Cleveland Punk",
+      "url": "https://rateyourmusic.com/genre/cleveland-punk/",
+      "description": "Early Punk scene in Cleveland, Ohio during the 1970s and early 1980s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Clube da esquina",
+      "url": "https://rateyourmusic.com/genre/clube-da-esquina/",
+      "description": "Brazilian movement from the state of Minas Gerais, mostly active in the 1960s and 1970s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Cocktail Nation",
+      "url": "https://rateyourmusic.com/genre/cocktail-nation/",
+      "description": "Decidedly ironic take on Lounge that emerged in the early 1990s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Dariacore",
+      "url": "https://rateyourmusic.com/genre/dariacore/",
+      "description": "SoundCloud-based scene developed in the early 2020s, combining prominent vocal samples and distorted, dense production with influences from a wide range of Electronic Dance Music genres, often incorporating musical and visual references to popular media and internet culture.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Darmstadt School",
+      "url": "https://rateyourmusic.com/genre/darmstadt-school/",
+      "description": "Circle of post-World War II Western European composers of avant-garde Modern Classical, exploring Serialism and other innovations.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Dek Bass",
+      "url": "https://rateyourmusic.com/genre/dek-bass/",
+      "description": "Prominent heavy, sustained bass tones, percussion derived from South Asian Music, and often high-pitched sound effects or samples; commonly played at extreme volumes in DJ/sound system competitions.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Demoscene",
+      "url": "https://rateyourmusic.com/genre/demoscene/",
+      "description": "Computer art subculture originating in the 1980s based on the creation of demos and overcoming technical limitations.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Desi Hip Hop",
+      "url": "https://rateyourmusic.com/genre/desi-hip-hop/",
+      "description": "Hip hop music created on the Indian subcontinent and the South Asian diaspora, especially India, Pakistan, and Bangladesh.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Deutschrock",
+      "url": "https://rateyourmusic.com/genre/deutschrock/",
+      "description": "Lyrics address German life, culture, and identity wrapped in upbeat songs, anthemic ballads, and a strong focus on the personality of the lead singer.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Dolewave",
+      "url": "https://rateyourmusic.com/genre/dolewave/",
+      "description": "Loose, low-key, and sardonic with erudite lyrics and considerable influence from the Dunedin Sound and Slacker Rock; came to prominence in Melbourne in the early 2010s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Donosti Sound",
+      "url": "https://rateyourmusic.com/genre/donosti-sound/",
+      "description": "Sentimental and melancholic scene, influenced by Twee Pop, that emerged in the late 1980s in Donostia / San Sebastián, Spain.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Doujin Music",
+      "url": "https://rateyourmusic.com/genre/doujin-music/",
+      "description": "Independently-released music derived from the wider doujin movement in Japan, largely released at events such as Comiket and M3, and primarily focused on otaku interests.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Dunedin Sound",
+      "url": "https://rateyourmusic.com/genre/dunedin-sound/",
+      "description": "Emerged in Dunedin, New Zealand in the early 1980s, featuring a murky, lo-fi sound that overlaps with contemporaneous Jangle Pop and Slacker Rock styles.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Düsseldorf School",
+      "url": "https://rateyourmusic.com/genre/dusseldorf-school/",
+      "description": "Krautrock scene which developed alongside Berlin School music in the early 1970s; known for its characteristic ‘motorik beat,’ as well as for playing a major role in the evolution of Electronic music.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "East Coast Hip Hop",
+      "url": "https://rateyourmusic.com/genre/east-coast-hip-hop/",
+      "description": "Highly influential Hip Hop scene that developed in New York City, particularly in the South Bronx, during the 1970s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Emo Revival",
+      "url": "https://rateyourmusic.com/genre/emo-revival/",
+      "description": "Movement beginning in the late 2000s inspired by the styles of 1990s Midwest Emo, often associated with Math Rock-inflected \"twinkly\" style.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "English Underground",
+      "url": "https://rateyourmusic.com/genre/english-underground/",
+      "description": "Countercultural scene in the United Kingdom, centred around London clubs like UFO and Middle Earth, which peaked in 1966 and 1967.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Epadunk",
+      "url": "https://rateyourmusic.com/genre/epadunk/",
+      "description": "Swedish party-oriented scene emerging in the early 2020s, featuring Electronic Dance Music-leaning sound and vulgar lyrics.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Filk",
+      "url": "https://rateyourmusic.com/genre/filk/",
+      "description": "Broad fandom-focused movement that emerged from Science Fiction conventions in the 1950s, based around original lyrics about fannish interests set to popular melodies or original compositions in an eclectic range of genres.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "First Wave of Detroit Techno",
+      "url": "https://rateyourmusic.com/genre/first-wave-of-detroit-techno/",
+      "description": "Influential 1980s scene that invented Detroit Techno and was active in Electro, House, and Synthpop.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Florida Fast Music",
+      "url": "https://rateyourmusic.com/genre/florida-fast-music/",
+      "description": "DJing and production technique originally developed in South Florida, that primarily involves speeding up Hip Hop, Contemporary R&B, and East Coast Club records.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Fort Thunder Scene",
+      "url": "https://rateyourmusic.com/genre/fort-thunder-scene/",
+      "description": "Late '90s – early 2000s Noise and Noise Rock scene that formed around an art commune in Providence, Rhode Island.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Franco-Flemish School",
+      "url": "https://rateyourmusic.com/genre/franco-flemish-school/",
+      "description": "Musical movement centered in the Low Countries, known for its intricate polyphony, emotional expression, and influence on European sacred and secular music from the 1440s to 1550.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Frapcore",
+      "url": "https://rateyourmusic.com/genre/frapcore/",
+      "description": "Emerged in France in the mid-2010s, uses French rapping with 4-on-the-floor Hardcore [EDM] and especially Gabber instrumentals.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Free Noise",
+      "url": "https://rateyourmusic.com/genre/free-noise/",
+      "description": "1990s New Zealand scene consisting of Rock-based groups with a focus on Free Improvisation, Drone, and Noise music.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "French Hip Hop",
+      "url": "https://rateyourmusic.com/genre/french-hip-hop/",
+      "description": "Hip Hop originating from France, typically performed in the French language.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Friese bries",
+      "url": "https://rateyourmusic.com/genre/friese-bries/",
+      "description": "New Wave and Punk inspired music scene located in the province of Friesland in the Netherlands in the mid-1980s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Furry Music",
+      "url": "https://rateyourmusic.com/genre/furry-music/",
+      "description": "Created by and for the furry fandom/subculture, an independent art movement focused on anthropomorphic characters.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Futurism",
+      "url": "https://rateyourmusic.com/genre/futurism/",
+      "description": "Radical and militant attitude, rejection of Western Classical Music and traditional criteria of craft, non-conformity, and a fascination with machines.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Gothenburg Sound",
+      "url": "https://rateyourmusic.com/genre/gothenburg-sound/",
+      "description": "Pioneering Melodic Death Metal scene of Gothenburg, Sweden.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Grebo",
+      "url": "https://rateyourmusic.com/genre/grebo/",
+      "description": "Short-lived English subculture and associated music; raw, futuristic, sample-heavy form of Alternative Dance with a dirty guitar sound.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Greenwich Village Scene",
+      "url": "https://rateyourmusic.com/genre/greenwich-village-scene/",
+      "description": "Collective of folk singers who mainly performed in small venues (basements, bars, and coffee houses) throughout Greenwich Village from the late 1950s to mid-1960s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Group Sounds",
+      "url": "https://rateyourmusic.com/genre/group-sounds/",
+      "description": "Japanese bands in the mid-to-late 1960s who began performing a style of Beat primarily in English.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Hamburger Schule",
+      "url": "https://rateyourmusic.com/genre/hamburger-schule/",
+      "description": "Combines traditions of the Neue Deutsche Welle based on Grunge with Pop hooks and elements of Punk Rock.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Harlem Renaissance",
+      "url": "https://rateyourmusic.com/genre/harlem-renaissance/",
+      "description": "Influential 1920s and '30s cultural movement centered on the African American community in Harlem, New York.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Hauntology",
+      "url": "https://rateyourmusic.com/genre/hauntology/",
+      "description": "Movement that, through techniques found within Ambient and Sound Collage, aims to warp musical styles and broadcast media from the mid-20th century post-war era into an uncanny, lost, \"haunted\" atmosphere.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Hellenic Black Metal",
+      "url": "https://rateyourmusic.com/genre/hellenic-black-metal/",
+      "description": "Black metal scene in Greece with more mid-tempo songwriting and pronounced Heavy Metal influence.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "High Quality Rip",
+      "url": "https://rateyourmusic.com/genre/high-quality-rip/",
+      "description": "Community based on bait-and-switch remixes of music, localized online.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Hip-hopolo",
+      "url": "https://rateyourmusic.com/genre/hip-hopolo/",
+      "description": "2000s Polish Hip Hop scene focused on a mainstream approach; received massive popularity and overwhelming criticism from the hip hop community.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Hipco",
+      "url": "https://rateyourmusic.com/genre/hipco/",
+      "description": "Developed in Liberia, often featuring conscious and political lyrics and influences from local dance styles.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Hoboken Sound",
+      "url": "https://rateyourmusic.com/genre/hoboken-sound/",
+      "description": "Predominantly 1980s New Jersey scene that blended contemporary Post-Punk and New Wave with Power Pop melodicism and Garage Rock directness, becoming heavily influential to early American Jangle Pop and Alternative Rock as a whole.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Holy Terror",
+      "url": "https://rateyourmusic.com/genre/holy-terror/",
+      "description": "Offshoot of the Process Church of Final Judgement and The Abraxas Foundation sects, focused on the occult and demonology, as well as apocalyptic, misanthropic themes.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Hưng ca",
+      "url": "https://rateyourmusic.com/genre/hưng-ca/",
+      "description": "Diasporic Vietnamese movement originating in the United States during the 1980s; characterised by nationalistic and socio-political lyrics.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "J-Pop",
+      "url": "https://rateyourmusic.com/genre/j-pop/",
+      "description": "Commercial Pop of Japan after the advent of the Heisei era (1989), characterized by modernized production, a more eclectic sound palette, and a more westernized vocal style.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "J-core",
+      "url": "https://rateyourmusic.com/genre/j-core/",
+      "description": "Eclectic scene of Japanese Hardcore [EDM] heavily associated with Doujin Music.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Japanese Hardcore",
+      "url": "https://rateyourmusic.com/genre/japanese-hardcore/",
+      "description": "Bands from Japan, performing styles such as Burning Spirits, Crust Punk, and Thrashcore.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Japanese Hip Hop",
+      "url": "https://rateyourmusic.com/genre/japanese-hip-hop/",
+      "description": "Hip Hop which is created by artists who are either based in or from Japan.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Japanese Idol",
+      "url": "https://rateyourmusic.com/genre/japanese-idol/",
+      "description": "Contemporary Japanese singer-dancers valued mainly for their personality and charisma, often performing as groups in a cutesy and youthful style.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Jersey Shore Sound",
+      "url": "https://rateyourmusic.com/genre/jersey-shore-sound/",
+      "description": "Stylistically correlated to Heartland Rock, with cultural origins in coastal New Jersey; characterized by its horn-heavy mixture of 1960s Rock & Roll, Rhythm & Blues, and Doo-Wop.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Jovem Guarda",
+      "url": "https://rateyourmusic.com/genre/jovem-guarda/",
+      "description": "1960s Brazilian youth-oriented Pop Rock, with romantic lyrics and influenced by Merseybeat and Rockabilly.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "K-Pop",
+      "url": "https://rateyourmusic.com/genre/k-pop/",
+      "description": "Contemporary style from South Korea, based on multiple mainstream influences such as Contemporary R&B, Dance-Pop, and Hip Hop.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Kansai No Wave",
+      "url": "https://rateyourmusic.com/genre/kansai-no-wave/",
+      "description": "Late '70s to early '80s scene from the Kansai region of Japan, sharing the brash oppositional, anti-music attitude of New York City No Wave.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Kawaii Metal",
+      "url": "https://rateyourmusic.com/genre/kawaii-metal/",
+      "description": "Fuses various Metal substyles with J-Pop's upbeat melodicism and song structures, utilizing kawaii lyricism and an idol music aesthetic.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "LA Beat Scene",
+      "url": "https://rateyourmusic.com/genre/la-beat-scene/",
+      "description": "Los Angeles scene from the 2000s to mid-2010s where DJs and beatmakers added off-kilter rhythms and textures to Hip Hop and Electronic.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Laurel Canyon Scene",
+      "url": "https://rateyourmusic.com/genre/laurel-canyon-scene/",
+      "description": "1960s and 1970s Rock counterculture originating from the Laurel Canyon neighborhood of Los Angeles, highly influential to the development of contemporary Folk Rock and Soft Rock.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Leningrad Rock Club Scene",
+      "url": "https://rateyourmusic.com/genre/leningrad-rock-club-scene/",
+      "description": "Community of primarily Post-Punk and New Wave bands in the 1980s USSR that sprung up around the Leningrad Rock Club, the first legal venue of its kind allowed under cautious government oversight.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Little Band Scene",
+      "url": "https://rateyourmusic.com/genre/little-band-scene/",
+      "description": "Experimental Post-Punk scene which occurred in Melbourne in 1978-1981, based around intentionally short-lived bands with a small amount of material.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Loft Jazz",
+      "url": "https://rateyourmusic.com/genre/loft-jazz/",
+      "description": "New York based independent Jazz scene defined by casual performances in lofts and apartments.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Louisville Sound",
+      "url": "https://rateyourmusic.com/genre/louisville-sound/",
+      "description": "Predominantly Punk and indie scene from Kentucky in the 1980s and 1990s, heavily influential in the development of Post-Hardcore, Math Rock, and a distinctly American form of Post-Rock.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Madchester",
+      "url": "https://rateyourmusic.com/genre/madchester/",
+      "description": "Manchester-based eclectic, Dance-infused music and cultural phenomenon from the late 1980s to the early 1990s emphasising drug and rave culture.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Maidcore",
+      "url": "https://rateyourmusic.com/genre/maidcore/",
+      "description": "Eclectic internet music scene mixing elements of Metal, Post-Rock, and Electronic that originated on Russian social media in the mid-2010s; comprised of artists portrayed as 'maid' characters derived from the Japanese Nijiura imageboard.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Manguebeat",
+      "url": "https://rateyourmusic.com/genre/manguebeat/",
+      "description": "Counterculture fusion of traditional Northeastern Brazilian Music genres with modern Rock and Hip Hop.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Manila Sound",
+      "url": "https://rateyourmusic.com/genre/manila-sound/",
+      "description": "Mid-to-late 1970s scene that emerged in Manila, Philippines, drawing from Soft Rock, Disco, Hard Rock, as well as Funk, with themes of romance and urban life.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Mentai Rock",
+      "url": "https://rateyourmusic.com/genre/mentai-rock/",
+      "description": "Japanese Rock & Roll artists from Fukuoka from the late 1970s to early 1980s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Merseybeat",
+      "url": "https://rateyourmusic.com/genre/merseybeat/",
+      "description": "Light, highly melodic style of Beat popular in the UK during the early 1960s, named due to the abundance of bands from Liverpool beside the River Mersey.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Minneapolis Sound",
+      "url": "https://rateyourmusic.com/genre/minneapolis-sound/",
+      "description": "Emerged in late 1970s Minneapolis, characterized by glossy Contemporary R&B-influenced production techniques, angular New Wave-inspired rhythms, and a larger emphasis on electric guitar layers.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Mod",
+      "url": "https://rateyourmusic.com/genre/mod/",
+      "description": "1960s youth subculture in the United Kingdom, drawing from British Rhythm & Blues, Beat, Garage Rock, and Pop sensibilities alongside a distinctive fashion style.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Moscow School",
+      "url": "https://rateyourmusic.com/genre/moscow-school/",
+      "description": "School of Russian Western Classical Music composers centered on Moscow in the mid-to-late 19th century.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Motswako",
+      "url": "https://rateyourmusic.com/genre/motswako/",
+      "description": "Mainly rapped in a mixture of Setswana and English, incorporating additional languages and local South African and Botswanan influences, particularly Kwaito.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Movida madrileña",
+      "url": "https://rateyourmusic.com/genre/movida-madrilena/",
+      "description": "Countercultural scene developed in Madrid, Spain, in the late 1970s as a reflection of the newfound freedom after the end of the Franco’s dictatorship; mainly playing New Wave, Synthpop and Post-Punk.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Młoda Polska",
+      "url": "https://rateyourmusic.com/genre/mloda-polska/",
+      "description": "Neoromantic composers attempting to create a new Polish national style.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "NOLA Sludge",
+      "url": "https://rateyourmusic.com/genre/nola-sludge/",
+      "description": "New Orleans–based Louisiana Metal scene, commonly cited as the birthplace of Sludge Metal.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "NWOBHM",
+      "url": "https://rateyourmusic.com/genre/nwobhm/",
+      "description": "Acronym for new wave of British Heavy Metal, which occurred in the late 1970s, taking some influence from Punk Rock.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Nardcore",
+      "url": "https://rateyourmusic.com/genre/nardcore/",
+      "description": "Hardcore Punk scene originating in Oxnard, California, in the early 1980s which often emphasizes speed, aggression, and technicality, and is heavily associated with the local southern California skateboarding culture and a D.I.Y. ethos.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Nederbeat",
+      "url": "https://rateyourmusic.com/genre/nederbeat/",
+      "description": "Dutch answer to the British Beat boom of the 1960s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Nerdcore Hip Hop",
+      "url": "https://rateyourmusic.com/genre/nerdcore-hip-hop/",
+      "description": "Themes touch on such nerd mainstays as science, computers, and science fiction.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Nerdcore Techno",
+      "url": "https://rateyourmusic.com/genre/nerdcore-techno/",
+      "description": "Stylistically diverse form of underground Japanese Electronic Dance Music utilizing energetic beats built around samples from pop and/or nerd culture.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Neue Deutsche Welle",
+      "url": "https://rateyourmusic.com/genre/neue-deutsche-welle/",
+      "description": "Eclectic German scene influenced by Synthpop and various styles of Punk, sometimes associated with Industrial.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Neue Volksmusik",
+      "url": "https://rateyourmusic.com/genre/neue-volksmusik/",
+      "description": "Emerged in the Southern German region from  in the 1980s onwards as a reaction to the conservatism of Alpine Folk Music scenes, combining the genre with outside sources and paired with a strong sense of irony and progressive political views.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Brunswick Basement Scene",
+      "url": "https://rateyourmusic.com/genre/new-brunswick-basement-scene/",
+      "description": "Underground Punk Rock, Emo, and Indie Rock scene centred around Rutgers University in New Brunswick, New Jersey.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New London Jazz",
+      "url": "https://rateyourmusic.com/genre/new-london-jazz/",
+      "description": "Contemporary and eclectic Jazz scene based in London, UK, that pulls from a variety of styles, including Spiritual Jazz, Afro-Jazz, and Jazz Fusion, and is often influenced by other genres such as Electronic, Dub, and Hip Hop.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Music",
+      "url": "https://rateyourmusic.com/genre/new-music/",
+      "description": "Developed when Japanese Singer-Songwriters incorporated elements of Contemporary Folk and Pop Rock with Kayōkyoku songwriting.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Orleans Blues",
+      "url": "https://rateyourmusic.com/genre/new-orleans-blues/",
+      "description": "Diverse scene in New Orleans since the beginning of the 20th century, commonly associated with a sound led by rollicking pianos with syncopated beats and backed by horns.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Partisans",
+      "url": "https://rateyourmusic.com/genre/new-partisans/",
+      "description": "Short-lived movement in the mid-to-late 1980s in Sarajevo which attempted to synthesise Pop Rock with elements of Yugoslav Folk music and the ideals of the 1940s Yugoslav partisan movement.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Pop",
+      "url": "https://rateyourmusic.com/genre/new-pop/",
+      "description": "British-centric movement of 1980s acts utilising Post-Punk ideals in a mainstream Pop context, characterised by cross-style experimentation and a strong focus on visual aesthetics.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Primitivism",
+      "url": "https://rateyourmusic.com/genre/new-primitivism/",
+      "description": "Cross-media movement in Sarajevo, active primarily in the 1980s and inspired by Yugoslav New Wave and Yugoslav Punk.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Romantic",
+      "url": "https://rateyourmusic.com/genre/new-romantic/",
+      "description": "UK cultural movement associated with the early 1980s and defined by a distinct, flamboyant fashion sense.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Tone",
+      "url": "https://rateyourmusic.com/genre/new-tone/",
+      "description": "Musically and socio-politically progressive movement noted for combatting prejudices and mixing together different styles of music, such as Electronic, Hip Hop, or Emo.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Wave of New Wave",
+      "url": "https://rateyourmusic.com/genre/new-wave-of-new-wave/",
+      "description": "Short-lived British New Wave and Punk Rock revival scene, active primarily around 1993-94 before being pushed out by the mass popularity of Britpop; often derided as a media construct.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Way of Danish Fuck You",
+      "url": "https://rateyourmusic.com/genre/new-way-of-danish-fuck-you/",
+      "description": "Copenhagen underground scene active in the late 2000s and early 2010s, drawing on Post-Punk, Industrial, Noise, Hardcore Punk, and Black Metal and embracing a raw, lo-fi, cassette-based recording style and DIY ethos.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Weird America",
+      "url": "https://rateyourmusic.com/genre/new-weird-america/",
+      "description": "Diverse movement that originated in the Northeastern United States during the late 1990s and 2000s which reshaped mid-20th century Contemporary Folk influences through a psychedelic and avant-garde approach.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New Weird Finland",
+      "url": "https://rateyourmusic.com/genre/new-weird-finland/",
+      "description": "Rose to prominence in the early 2000s, based around a collective of musicians living primarily in the Finnish cities of Tampere, Turku and Helsinki and with a sound primarily rooted in Psychedelia, particularly Psychedelic Folk and its subgenres Free Folk and Freak Folk.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New York Hardcore",
+      "url": "https://rateyourmusic.com/genre/new-york-hardcore/",
+      "description": "Hardcore Punk bands from New York City from the 1980s and onwards.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "New York School",
+      "url": "https://rateyourmusic.com/genre/new-york-school/",
+      "description": "Circle of avant-garde composers based in 1950s New York, most well known for pioneering the use of chance as a method of composition.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "No Wave",
+      "url": "https://rateyourmusic.com/genre/no-wave/",
+      "description": "Underground, avant-garde, anti-art movement and music scene based in New York City around 1976-1980; commonly incorporates elements like dissonance, atonality, and stream-of-consciousness lyrics into various genres.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Northern Gothic",
+      "url": "https://rateyourmusic.com/genre/northern-gothic/",
+      "description": "Modern recontexualisation of Gothic music, influenced by the regional politics, culture and geography of post-industrial 21st-century Northern England.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Northern Soul",
+      "url": "https://rateyourmusic.com/genre/northern-soul/",
+      "description": "Soul popular in northern England in the late 1960s and early 1970s, consisting primarily of lesser-known American artists in the mid-1960s copying the Motown Sound.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Nova srpska scena",
+      "url": "https://rateyourmusic.com/genre/nova-srpska-scena/",
+      "description": "Serbian Alternative Rock scene subject to media interest in the '00s and early '10s; influenced by the Yugoslav New Wave and contemporary Indie Rock.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Nova vanguarda paulistana",
+      "url": "https://rateyourmusic.com/genre/nova-vanguarda-paulistana/",
+      "description": "Southeastern Brazilian scene that emerged in the late 2000s based on experimentation with Samba and MPB styles.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Novaya scena",
+      "url": "https://rateyourmusic.com/genre/novaya-scena/",
+      "description": "Diverse Ukrainian avant-garde scene which emerged in the late 1980s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Novo Dub",
+      "url": "https://rateyourmusic.com/genre/novo-dub/",
+      "description": "Alternative Electronic scene incorporating various influences, predominant in France.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Nueva canción",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion/",
+      "description": "Latin American (Nueva canción latinoamericana) and Spanish (Nueva canción española) movement during the 1960s and 1970s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Nueva ola",
+      "url": "https://rateyourmusic.com/genre/nueva-ola/",
+      "description": "Latin American movement in the late 1950s and the 1960s incorporating assorted styles of Western popular music, primarily Rock & Roll and Pop.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "OPM",
+      "url": "https://rateyourmusic.com/genre/opm/",
+      "description": "Filipino ballads prominent in the 1970s to early 1980s, combining the sentimentality, lush arrangements and vocal techniques of Kundiman with the instrumentations and rhythms of Manila Sound and Soft Rock.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Onkyo",
+      "url": "https://rateyourmusic.com/genre/onkyo/",
+      "description": "Exploration of the physical traits of sound rather than music as expression.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "P-Pop",
+      "url": "https://rateyourmusic.com/genre/p-pop/",
+      "description": "Commercialized style from the Philippines, which served as the successor of Manila Sound and OPM, featuring various contemporary Western influences and primarily sung in Tagalog and English.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Paisley Underground",
+      "url": "https://rateyourmusic.com/genre/paisley-underground/",
+      "description": "Emerged in Los Angeles in the early 1980s, featuring the energy of Power Pop and New Wave adorned with retro Psychedelia.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Palm Desert Scene",
+      "url": "https://rateyourmusic.com/genre/palm-desert-scene/",
+      "description": "Originated during the 1990s in Palm Desert, California, based in classic Hard Rock, Psychedelic Rock and the Alternative Rock sounds of the era.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Pansy Craze",
+      "url": "https://rateyourmusic.com/genre/pansy-craze/",
+      "description": "Period of popularity and visibility of LGBT+ and drag performers in US cities from the late 1920s to mid-1930s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Pop Kreatif",
+      "url": "https://rateyourmusic.com/genre/pop-kreatif/",
+      "description": "Scene from Indonesia made popular in the 1970s-80s; commonly features lush melodies and progressive arrangements borrowed from modern styles of Jazz, Pop Rock and R&B.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Pop Yeh-Yeh",
+      "url": "https://rateyourmusic.com/genre/pop-yeh-yeh/",
+      "description": "Blends Western Beat and Psychedelia styles with asli singing and melodies drawn from Malay Folk Music.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Positive Punk",
+      "url": "https://rateyourmusic.com/genre/positive-punk/",
+      "description": "Early goth scene in London that grew out of the Anarcho-Punk movement and promoted themes of virtue and mysticism; commonly features wailing vocals, screeching guitars, prominent basslines, and eclectic drum patterns.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Progg",
+      "url": "https://rateyourmusic.com/genre/progg/",
+      "description": "Swedish movement centred around left-wing politics; emerged in the late 1960s and declined by the late 1970s due to internal divisions and the changing political climate.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Psichedelia occulta italiana",
+      "url": "https://rateyourmusic.com/genre/psichedelia-occulta-italiana/",
+      "description": "Psychedelic scene from Italy with a distinctly brooding, dark atmosphere indebted to the country's media and a warped approach to Italian cultural memory.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Psychsploitation",
+      "url": "https://rateyourmusic.com/genre/psychsploitation/",
+      "description": "Short-lived genre seeking to capitalise on the popularity of Psychedelia in the 1960s, featuring quickly and cheaply recorded material played by session musicians and put out by budget labels.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Q-Pop",
+      "url": "https://rateyourmusic.com/genre/q-pop/",
+      "description": "Glamorous, catchy pop scene that emerged in Kazakhstan in the 2010s, inspired by K-Pop.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Queercore",
+      "url": "https://rateyourmusic.com/genre/queercore/",
+      "description": "Movement mainly distinguished by its lyrical content expressing the viewpoints of the LGBTQ+ community, as well as promoting queer pride and unity.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "RABM",
+      "url": "https://rateyourmusic.com/genre/rabm/",
+      "description": "Leftist movement related to Crust Punk that variably espouses Marxist, environmentalist, and anarchist views.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Red Dirt",
+      "url": "https://rateyourmusic.com/genre/red-dirt/",
+      "description": "Oklahoman and Texan acts descended from the Stillwater, Oklahoma independent Country scene of the 1980s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Revolution Summer",
+      "url": "https://rateyourmusic.com/genre/revolution-summer/",
+      "description": "Collection of bands coalesced around the goal of rejuvenating the Washington DC Hardcore Punk scene in the summer of 1985, creating the early foundations for Post-Hardcore and Emo in the process.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Riot Grrrl",
+      "url": "https://rateyourmusic.com/genre/riot-grrrl/",
+      "description": "Underground feminist Punk movement originating in the United States in the early 1990s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Road Rap",
+      "url": "https://rateyourmusic.com/genre/road-rap/",
+      "description": "Emerged in the mid 2000s from Brixton and Peckham featuring abrasive tones, prominent Grime influence, and lyrics depicting circumstances of street gang violence in the UK.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Rock barrial",
+      "url": "https://rateyourmusic.com/genre/rock-barrial/",
+      "description": "Argentinian scene that started in the 1990s, inspired by Rock & Roll, Blues Rock, Roots Rock, and sometimes Hard Rock, directed to a national public and dismissing modern international trends, often featuring lyrics describing the life in low-income neighbourhoods.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Rock in Opposition",
+      "url": "https://rateyourmusic.com/genre/rock-in-opposition/",
+      "description": "Short-lived, international movement of ‘uncommercial’ Progressive Rock bands with left-wing politics; began its activity in early 1978 and faded out by the end of 1980, with 'reunion' festivals taking place from 2007 onwards.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Rock radical vasco",
+      "url": "https://rateyourmusic.com/genre/rock-radical-vasco/",
+      "description": "Punk music movement developed around 1983 by Basque Country and Navarre bands with a crude and abrasive sound and a 'radical' stance against the system, religion, the police and the 'Spanish State'.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Rock subterráneo",
+      "url": "https://rateyourmusic.com/genre/rock-subterraneo/",
+      "description": "Peruvian artistic and countercultural movement that emerged after the return to democracy in 1980, diversifying into various Punk styles between 1983 and 1992.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Rock sónico",
+      "url": "https://rateyourmusic.com/genre/rock-sonico/",
+      "description": "Argentinian scene emerging in the early 1990s, influenced by Shoegaze, Noise Pop, Neo-Psychedelia, and sometimes Downtempo or Slacker Rock, defined by noisy, reverb-soaked guitars, introspective lyrics and lo-fi production.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Rock urbano español",
+      "url": "https://rateyourmusic.com/genre/rock-urbano-espanol/",
+      "description": "Spanish scene originating in the mid-to-late 1970s that gained dominance with the end of the Francoist dictatorship and the end of censorship around lyrical topics like social issues.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Rock urbano mexicano",
+      "url": "https://rateyourmusic.com/genre/rock-urbano-mexicano/",
+      "description": "Scene born in the mid-to-late 1980s mainly in the marginal areas of Mexico City that took elements from Blues Rock, Hard Rock and Folk Rock.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Roman School",
+      "url": "https://rateyourmusic.com/genre/roman-school/",
+      "description": "Composers of primarily Christian Liturgical Music active in Rome in the 16th and 17th centuries, developing a musically conservative compositional style seen as appropriate for church performance.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Romanticism",
+      "url": "https://rateyourmusic.com/genre/romanticism/",
+      "description": "Expressive and emotional qualities, especially in terms of melody.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Russemusikk",
+      "url": "https://rateyourmusic.com/genre/russemusikk/",
+      "description": "Norwegian music crafted for the country's graduate celebrations known as russefeiring, typically features melodic, danceable, energetic production, and party-oriented, explicit singing and rapping.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "San Diego Sound",
+      "url": "https://rateyourmusic.com/genre/san-diego-sound/",
+      "description": "Artistically diverse Punk and indie scene based around San Diego in the 1990s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "San Francisco Sound",
+      "url": "https://rateyourmusic.com/genre/san-francisco-sound/",
+      "description": "Influential Psychedelic Rock scene that developed out of Folk Rock in the mid 1960s; often emphasized atypical chord progressions and instrumental improvisation in the form of roving basslines and “cross-talking” guitars.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Scene",
+      "url": "https://rateyourmusic.com/genre/scene/",
+      "description": "Youth subculture popularized in the 2000s via MySpace, spanning Metalcore, Pop Punk, Post-Hardcore, and related genres; associated with androgynous hairstyles, mall-sourced fashion, the Warped Tour festival circuit, and varied crossover with Electronic music.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Scottish Folk Revival",
+      "url": "https://rateyourmusic.com/genre/scottish-folk-revival/",
+      "description": "Revival of Scottish Folk Music which began around 1950 in Scotland and stagnated in the early 1970s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Seapunk",
+      "url": "https://rateyourmusic.com/genre/seapunk/",
+      "description": "Short-lived early 2010s internet movement associated with oceanic imagery and computer graphics, deriving into vivid fashion trends, often incorporating aquatic elements into Electronic styles and visual aesthetics as well as influences by prominent tropes of 1990s rave culture.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Second British Folk Revival",
+      "url": "https://rateyourmusic.com/genre/second-british-folk-revival/",
+      "description": "Revival of Folk music in the United Kingdom which began at the end of the Second World War, peaked in the early-to-mid 1970s, and lost wider relevance by the end of the decade.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Second Viennese School",
+      "url": "https://rateyourmusic.com/genre/second-viennese-school/",
+      "description": "Influential circle of composers of very late Romanticism and Modern Classical who developed Expressionism and Serialism.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Shibuya-kei",
+      "url": "https://rateyourmusic.com/genre/shibuya-kei/",
+      "description": "Eclectic scene emerging from the Shibuya district of Tokyo near the end of the 1980s; often borrows kitschy, retro-inspired aesthetics alongside diverse musical influences from Indie Pop, 1960s Pop and Easy Listening, Jazz, and Electronic styles.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Shimokita-kei",
+      "url": "https://rateyourmusic.com/genre/shimokita-kei/",
+      "description": "Japanese style closely related to the Shimokitazawa indie scene, featuring Pop-informed songwriting, melodic guitar leads, expressive vocals, and often loud, prominent overdriven guitars.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Siberian Punk",
+      "url": "https://rateyourmusic.com/genre/siberian-punk/",
+      "description": "Emerged in the late 1980s, often blending the noisy, abrasive sound of Garage Punk and Post-Punk with radical anti-totalitarian lyrics drawing from British Punk influences.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "SoundClown",
+      "url": "https://rateyourmusic.com/genre/soundclown/",
+      "description": "Scene focused on comedic, often ironic edits of pre-existing music, popular on SoundCloud in the mid-2010s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Southern Hip Hop",
+      "url": "https://rateyourmusic.com/genre/southern-hip-hop/",
+      "description": "Hip Hop from artists based in the Southern region of the United States.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Sovietwave",
+      "url": "https://rateyourmusic.com/genre/sovietwave/",
+      "description": "Scene of Synthwave that emerged in the early 2010s, taking its inspiration from Soviet Electronic electronic music and Soviet pop.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Straight Edge",
+      "url": "https://rateyourmusic.com/genre/straight-edge/",
+      "description": "Developed in the early 1980s DC Hardcore Punk scene, promoting abstinence from the use of substances such as alcohol, tobacco, and other drugs.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Sunset Strip Glam Metal",
+      "url": "https://rateyourmusic.com/genre/sunset-strip-glam-metal/",
+      "description": "1980s Glam Metal scene based in West Hollywood, California, United States.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Swing Revival",
+      "url": "https://rateyourmusic.com/genre/swing-revival/",
+      "description": "Born out of 1990s alternative music; sometimes incorporating elements from newer genres such as Rockabilly, Ska, and Punk Rock.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "T-Pop",
+      "url": "https://rateyourmusic.com/genre/t-pop/",
+      "description": "Mainstream Pop from Thailand made popular since the early 1980s, predominantly sung in Central Thai dialect and featuring westernized compositions ranging within various styles.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Taqwacore",
+      "url": "https://rateyourmusic.com/genre/taqwacore/",
+      "description": "Punk subculture that emerged in the United States during the early 2000s, exploring Islam, its culture, and interpretations.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Teutonic Thrash Metal",
+      "url": "https://rateyourmusic.com/genre/teutonic-thrash-metal/",
+      "description": "Influential German Thrash Metal scene originating in the early 1980s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Texas Psychedelia",
+      "url": "https://rateyourmusic.com/genre/texas-psychedelia/",
+      "description": "Influential, pioneering Psychedelic Rock scene active primarily in the mid- to late 1960s that grew out of the Texas Garage Rock scene.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "The Wave",
+      "url": "https://rateyourmusic.com/genre/the-wave/",
+      "description": "Group of American Post-Hardcore bands in the 2010s performing an aggressive style of '90s-inspired music in the wake of Emo-Pop's waning popularity.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Tontipop",
+      "url": "https://rateyourmusic.com/genre/tontipop/",
+      "description": "Spanish scene known for its exuberant, child-like sound drawing directly from British Twee Pop, as well as Yé-yé, Bubblegum, and Synthpop.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Tropicanibalismo",
+      "url": "https://rateyourmusic.com/genre/tropicanibalismo/",
+      "description": "Colombian scene born in the early 2000s with the intention of reinventing Colombian coastal music, from a more current and experimental approach.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Tropicália",
+      "url": "https://rateyourmusic.com/genre/tropicalia/",
+      "description": "Blends Brazilian popular styles with the influence of Anglo-American Psychedelia; emerged as part of Brazil's late-1960s counterculture.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Trova rosarina",
+      "url": "https://rateyourmusic.com/genre/trova-rosarina/",
+      "description": "1970s Argentine movement of socially conscious Singer-Songwriters from Rosario.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "UK Hip Hop",
+      "url": "https://rateyourmusic.com/genre/uk-hip-hop/",
+      "description": "Scene of the United Kingdom, influenced by American rap.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "UK82",
+      "url": "https://rateyourmusic.com/genre/uk82/",
+      "description": "UK scene that occurred during the early 1980s, consisting of developing hardcore styles such as early Street Punk and D-Beat bands.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Udigrudi",
+      "url": "https://rateyourmusic.com/genre/udigrudi/",
+      "description": "Movement that emerged in the Brazilian city of Recife during the 1970s that combines psychedelic elements with music of Northeastern Brazil.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Ultra",
+      "url": "https://rateyourmusic.com/genre/ultra/",
+      "description": "Late 1970s and 1980s Dutch DIY scene of musicians influenced by Post-Punk and experimental Electronic music.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Urban Grooves",
+      "url": "https://rateyourmusic.com/genre/urban-grooves/",
+      "description": "Scene of Zimbabwean music that emerged in the 2000s, primarily inspired by popular American and European music of the time mixed with local elements.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "V-Pop",
+      "url": "https://rateyourmusic.com/genre/v-pop/",
+      "description": "Western-sounding Pop with Vietnamese lyrics, or pop that borrows sounds from popular Vietnamese genres and re-imagines them with more accessible and/or upbeat structures.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Vanguarda paulista",
+      "url": "https://rateyourmusic.com/genre/vanguarda-paulista/",
+      "description": "Brazilian cultural movement that began in the city of São Paulo and lasted from 1979 to 1985; united a variety of artists who had no access to major labels due to their experimental, avant-garde approach to MPB.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Vietnamese New Wave",
+      "url": "https://rateyourmusic.com/genre/vietnamese-new-wave/",
+      "description": "Youth culture popularized within the Vietnamese American diaspora in the 1980s, known for its stylish fashion sense and musically led by Euro-Disco and Dance-Pop covers.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Visual kei",
+      "url": "https://rateyourmusic.com/genre/visual-kei/",
+      "description": "Fashion-oriented styles that take influence from Gothic Rock, Glam Rock, and Heavy Metal.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Vixa",
+      "url": "https://rateyourmusic.com/genre/vixa/",
+      "description": "Polish club scene, derived from various House subgenres and focused on bootleg remixes of popular songs",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Vocaloid Scene",
+      "url": "https://rateyourmusic.com/genre/vocaloid-scene/",
+      "description": "Associated with the online scene centered around use of character-focused vocal synthesis software such as Vocaloid or UTAU, marketed specifically to fans, and often accompanied by animated music videos featuring the characters.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Voëlvry Movement",
+      "url": "https://rateyourmusic.com/genre/voelvry-movement/",
+      "description": "Anti-apartheid songwriting movement in the Afrikaans language.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Warez Scene",
+      "url": "https://rateyourmusic.com/genre/warez-scene/",
+      "description": "Underground online subculture of piracy groups specializing in obtaining, cracking, and distributing digital media.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "West Coast Hip Hop",
+      "url": "https://rateyourmusic.com/genre/west-coast-hip-hop/",
+      "description": "Artists who originate from the West Coast region of the United States.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "West Coast Sound of Holland",
+      "url": "https://rateyourmusic.com/genre/west-coast-sound-of-holland/",
+      "description": "Underground scene of primarily Techno and Electro emphasizing a stripped-down, throwback sound.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "West Side Sound",
+      "url": "https://rateyourmusic.com/genre/west-side-sound/",
+      "description": "Created in the 1950s by working-class Mexican-American teenagers in San Antonio, Texas, as a result of significant stylistic cross-pollination and an accommodating racial climate; features prominent tenor sax sections and Hammond organs.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Windmill Scene",
+      "url": "https://rateyourmusic.com/genre/windmill-scene/",
+      "description": "Eclectic scene built around The Windmill pub in Brixton that emerged in the 2010s; commonly associated with erratic Post-Punk-inspired instrumentation and spoken vocals.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Wizard Rock",
+      "url": "https://rateyourmusic.com/genre/wizard-rock/",
+      "description": "Rock-oriented Harry Potter fan music scene.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Women's Music Movement",
+      "url": "https://rateyourmusic.com/genre/womens-music-movement/",
+      "description": "Movement and network of female artists and music professionals, most active in America in the 1970s, associated with the underground women's separatist (and particularly lesbian separatist) branches of feminism.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Xibei feng",
+      "url": "https://rateyourmusic.com/genre/xibei-feng/",
+      "description": "Blends Traditional Folk Music elements from northwestern China with Western Rock, Pop, Contemporary Folk, and other styles, characterized by its rugged and bold style.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "YTPMV",
+      "url": "https://rateyourmusic.com/genre/ytpmv/",
+      "description": "Internet-based musical remixes which sequence small samples from audiovisual material as a method of composition, usually with a humorous or memetic approach.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Yass",
+      "url": "https://rateyourmusic.com/genre/yass/",
+      "description": "Coined in the early 1990s by a group of Polish Avant-Garde Jazz musicians to describe their cross-genre, often arrhythmic, improvised sound.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Yugoslav New Wave",
+      "url": "https://rateyourmusic.com/genre/yugoslav-new-wave/",
+      "description": "Punk and New Wave-influenced scene in late-1970s and early '80s Yugoslavia.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Zamrock",
+      "url": "https://rateyourmusic.com/genre/zamrock/",
+      "description": "Developed in the Copperbelt region of Zambia in the 1970s, characterized by its blend of local sounds with influence from Funk, Hard Rock, and Blues Rock.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Zimdancehall",
+      "url": "https://rateyourmusic.com/genre/zimdancehall/",
+      "description": "Zimbabwean form of Dancehall that emerged in the 2000s.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Česká alternativní scéna",
+      "url": "https://rateyourmusic.com/genre/ceska-alternativni-scena/",
+      "description": "Semi-official scene active during the Normalisation era in the Czech Socialist Republic.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Česká nová vlna",
+      "url": "https://rateyourmusic.com/genre/ceska-nova-vlna/",
+      "description": "Diverse New Wave scene active intermittently in the 1980s in the Czech Socialist Republic.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    },
+    {
+      "name": "Český underground",
+      "url": "https://rateyourmusic.com/genre/cesky-underground/",
+      "description": "Antiestablishment musical counterculture active primarily in the 1970s and 1980s in the Czech Socialist Republic.",
+      "level": "sub",
+      "parent": "Scenes & Movements"
+    }
+  ]
+}

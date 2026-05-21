@@ -1,0 +1,24 @@
+{
+  "name": "Big Band",
+  "description": "Commonly associated with the golden era of Swing in the 1930s and 1940s, performed by a large ensemble including brass, woodwinds, and usually a rhythm section.",
+  "url": "https://rateyourmusic.com/genre/big-band/",
+  "parent": "Jazz",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Experimental Big Band",
+      "url": "https://rateyourmusic.com/genre/experimental-big-band/",
+      "description": "Dispensing with traditional Jazz structures and Swing sounds, instead performing Avant-Garde Jazz and pushing the boundaries of the medium.",
+      "level": "sub-2",
+      "parent": "Big Band"
+    },
+    {
+      "name": "Progressive Big Band",
+      "url": "https://rateyourmusic.com/genre/progressive-big-band/",
+      "description": "Introduces Western Classical Music compositional techniques into Big Band.",
+      "level": "sub-2",
+      "parent": "Big Band"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Trap [EDM]",
+  "description": "Trap-influenced syncopated percussion with 808 samples and fast-paced hi-hats.",
+  "url": "https://rateyourmusic.com/genre/trap-edm/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Festival Trap",
+      "url": "https://rateyourmusic.com/genre/festival-trap/",
+      "description": "Massive, sub-bass-heavy drops with simple melodies, synth leads and production influenced by Big Room House; highly popular from 2013 to 2015.",
+      "level": "sub-3",
+      "parent": "Trap [EDM]"
+    },
+    {
+      "name": "Festival Trap",
+      "url": "https://rateyourmusic.com/genre/festival-trap/",
+      "description": "Massive, sub-bass-heavy drops with simple melodies, synth leads and production influenced by Big Room House; highly popular from 2013 to 2015.",
+      "level": "sub-3",
+      "parent": "Trap [EDM]"
+    },
+    {
+      "name": "Hard Trap",
+      "url": "https://rateyourmusic.com/genre/hard-trap/",
+      "description": "Often abrasive subgenre of Trap [EDM] with heavy influence from Hardstyle.",
+      "level": "sub-3",
+      "parent": "Trap [EDM]"
+    },
+    {
+      "name": "Hard Trap",
+      "url": "https://rateyourmusic.com/genre/hard-trap/",
+      "description": "Often abrasive subgenre of Trap [EDM] with heavy influence from Hardstyle.",
+      "level": "sub-3",
+      "parent": "Trap [EDM]"
+    },
+    {
+      "name": "Heaven Trap",
+      "url": "https://rateyourmusic.com/genre/heaven-trap/",
+      "description": "Blends Trap [EDM]’s signature percussion and sub-basses with euphoric, uplifting, melodious drops prominently derived from Festival Progressive House, contrary to the gritty, \"dirty\" nature of other EDM trap styles.",
+      "level": "sub-3",
+      "parent": "Trap [EDM]"
+    },
+    {
+      "name": "Heaven Trap",
+      "url": "https://rateyourmusic.com/genre/heaven-trap/",
+      "description": "Blends Trap [EDM]’s signature percussion and sub-basses with euphoric, uplifting, melodious drops prominently derived from Festival Progressive House, contrary to the gritty, \"dirty\" nature of other EDM trap styles.",
+      "level": "sub-3",
+      "parent": "Trap [EDM]"
+    },
+    {
+      "name": "Hybrid Trap",
+      "url": "https://rateyourmusic.com/genre/hybrid-trap/",
+      "description": "Blending Trap [EDM]'s typical percussion and sub-basses with major influences from heavy bass music genres, and in particular, metallic, gritty, and off-kilter sound design, originally derived from Brostep.",
+      "level": "sub-3",
+      "parent": "Trap [EDM]"
+    },
+    {
+      "name": "Hybrid Trap",
+      "url": "https://rateyourmusic.com/genre/hybrid-trap/",
+      "description": "Blending Trap [EDM]'s typical percussion and sub-basses with major influences from heavy bass music genres, and in particular, metallic, gritty, and off-kilter sound design, originally derived from Brostep.",
+      "level": "sub-3",
+      "parent": "Trap [EDM]"
+    },
+    {
+      "name": "Twerk",
+      "url": "https://rateyourmusic.com/genre/twerk/",
+      "description": "Fast-paced; draws influence from Bounce and Miami Bass.",
+      "level": "sub-3",
+      "parent": "Trap [EDM]"
+    },
+    {
+      "name": "Twerk",
+      "url": "https://rateyourmusic.com/genre/twerk/",
+      "description": "Fast-paced; draws influence from Bounce and Miami Bass.",
+      "level": "sub-3",
+      "parent": "Trap [EDM]"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Sound Collage",
+  "description": "Compositional method emphasizing the rough layering of sampled elements, presenting an impression similar to a visual collage.",
+  "url": "https://rateyourmusic.com/genre/sound-collage/",
+  "parent": "Experimental",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Epic Collage",
+      "url": "https://rateyourmusic.com/genre/epic-collage/",
+      "description": "Cinematic, dense digital collage; frequently utilizes a Deconstructed Club sonic palette and decontextualized novel samples.",
+      "level": "sub-2",
+      "parent": "Sound Collage"
+    }
+  ]
+}

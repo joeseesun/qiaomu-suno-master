@@ -1,0 +1,283 @@
+{
+  "name": "Southeast Asian Folk Music",
+  "description": "Meta-genre covering all folk forms from Southeast Asia, like Gondang, Hmong, Iban, Karen, Keroncong, Khmer, Lao, Lun Bawang, Molam, and Orang Ulu.",
+  "url": "https://rateyourmusic.com/genre/southeast-asian-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 39,
+  "children": [
+    {
+      "name": "Balitaw",
+      "url": "https://rateyourmusic.com/genre/balitaw/",
+      "description": "Folk originating in the Visayas islands of the Philippines; dialogue or debate in which a man and a woman compete at improvising romantic verses.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Balitaw",
+      "url": "https://rateyourmusic.com/genre/balitaw/",
+      "description": "Folk originating in the Visayas islands of the Philippines; dialogue or debate in which a man and a woman compete at improvising romantic verses.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Balitaw",
+      "url": "https://rateyourmusic.com/genre/balitaw/",
+      "description": "Folk originating in the Visayas islands of the Philippines; dialogue or debate in which a man and a woman compete at improvising romantic verses.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Bamar Folk Music",
+      "url": "https://rateyourmusic.com/genre/bamar-folk-music/",
+      "description": "Traditional Folk Music of the majority ethnic group of Myanmar.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Bamar Folk Music",
+      "url": "https://rateyourmusic.com/genre/bamar-folk-music/",
+      "description": "Traditional Folk Music of the majority ethnic group of Myanmar.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Bamar Folk Music",
+      "url": "https://rateyourmusic.com/genre/bamar-folk-music/",
+      "description": "Traditional Folk Music of the majority ethnic group of Myanmar.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Gondang",
+      "url": "https://rateyourmusic.com/genre/gondang/",
+      "description": "Traditional ensemble in Bataknese traditional music of North Sumatra, taking its name from its leading instrument - a unique set of toned drums.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Gondang",
+      "url": "https://rateyourmusic.com/genre/gondang/",
+      "description": "Traditional ensemble in Bataknese traditional music of North Sumatra, taking its name from its leading instrument - a unique set of toned drums.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Gondang",
+      "url": "https://rateyourmusic.com/genre/gondang/",
+      "description": "Traditional ensemble in Bataknese traditional music of North Sumatra, taking its name from its leading instrument - a unique set of toned drums.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Harana",
+      "url": "https://rateyourmusic.com/genre/harana/",
+      "description": "Hispanic-influenced lyrical courtship music traditionally sung by men, accompanied by guitar based on the danza rhythm.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Harana",
+      "url": "https://rateyourmusic.com/genre/harana/",
+      "description": "Hispanic-influenced lyrical courtship music traditionally sung by men, accompanied by guitar based on the danza rhythm.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Harana",
+      "url": "https://rateyourmusic.com/genre/harana/",
+      "description": "Hispanic-influenced lyrical courtship music traditionally sung by men, accompanied by guitar based on the danza rhythm.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Hmong Folk Music",
+      "url": "https://rateyourmusic.com/genre/hmong-folk-music/",
+      "description": "Folk traditions of the Hmong people, an ethnic group localized in Laos, Vietnam, China, and Thailand.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Hmong Folk Music",
+      "url": "https://rateyourmusic.com/genre/hmong-folk-music/",
+      "description": "Folk traditions of the Hmong people, an ethnic group localized in Laos, Vietnam, China, and Thailand.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Hmong Folk Music",
+      "url": "https://rateyourmusic.com/genre/hmong-folk-music/",
+      "description": "Folk traditions of the Hmong people, an ethnic group localized in Laos, Vietnam, China, and Thailand.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Khmer Folk Music",
+      "url": "https://rateyourmusic.com/genre/khmer-folk-music/",
+      "description": "Folk of the Khmer people, who mainly reside in Cambodia.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Khmer Folk Music",
+      "url": "https://rateyourmusic.com/genre/khmer-folk-music/",
+      "description": "Folk of the Khmer people, who mainly reside in Cambodia.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Khmer Folk Music",
+      "url": "https://rateyourmusic.com/genre/khmer-folk-music/",
+      "description": "Folk of the Khmer people, who mainly reside in Cambodia.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Kuda kepang",
+      "url": "https://rateyourmusic.com/genre/kuda-kepang/",
+      "description": "Accompanies a traditional Javanese dance of the same name, featuring a stripped-back version of a Gamelan ensemble that removes softer instruments.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Kuda kepang",
+      "url": "https://rateyourmusic.com/genre/kuda-kepang/",
+      "description": "Accompanies a traditional Javanese dance of the same name, featuring a stripped-back version of a Gamelan ensemble that removes softer instruments.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Kuda kepang",
+      "url": "https://rateyourmusic.com/genre/kuda-kepang/",
+      "description": "Accompanies a traditional Javanese dance of the same name, featuring a stripped-back version of a Gamelan ensemble that removes softer instruments.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Lao Folk Music",
+      "url": "https://rateyourmusic.com/genre/lao-folk-music/",
+      "description": "Traditional Folk Music of the Lao people.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Lao Folk Music",
+      "url": "https://rateyourmusic.com/genre/lao-folk-music/",
+      "description": "Traditional Folk Music of the Lao people.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Lao Folk Music",
+      "url": "https://rateyourmusic.com/genre/lao-folk-music/",
+      "description": "Traditional Folk Music of the Lao people.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Malay Folk Music",
+      "url": "https://rateyourmusic.com/genre/malay-folk-music/",
+      "description": "Traditional Folk Music of the Malay people, who are native to Malaysia, Singapore, Brunei, northern Indonesia, and southern Thailand.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Malay Folk Music",
+      "url": "https://rateyourmusic.com/genre/malay-folk-music/",
+      "description": "Traditional Folk Music of the Malay people, who are native to Malaysia, Singapore, Brunei, northern Indonesia, and southern Thailand.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Malay Folk Music",
+      "url": "https://rateyourmusic.com/genre/malay-folk-music/",
+      "description": "Traditional Folk Music of the Malay people, who are native to Malaysia, Singapore, Brunei, northern Indonesia, and southern Thailand.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Philippine Rondalla",
+      "url": "https://rateyourmusic.com/genre/philippine-rondalla/",
+      "description": "Ensemble of plucked string instruments typically performed for traditional Filipino folk dances; known for its distinct sparkling and tinkling tremolo sound.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Philippine Rondalla",
+      "url": "https://rateyourmusic.com/genre/philippine-rondalla/",
+      "description": "Ensemble of plucked string instruments typically performed for traditional Filipino folk dances; known for its distinct sparkling and tinkling tremolo sound.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Philippine Rondalla",
+      "url": "https://rateyourmusic.com/genre/philippine-rondalla/",
+      "description": "Ensemble of plucked string instruments typically performed for traditional Filipino folk dances; known for its distinct sparkling and tinkling tremolo sound.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Tarawangsa",
+      "url": "https://rateyourmusic.com/genre/tarawangsa/",
+      "description": "Sacred ceremonial music originating in the Rancakalong district, played with the jentreng harp and the tarawangsa bowed lute.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Tarawangsa",
+      "url": "https://rateyourmusic.com/genre/tarawangsa/",
+      "description": "Sacred ceremonial music originating in the Rancakalong district, played with the jentreng harp and the tarawangsa bowed lute.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Tarawangsa",
+      "url": "https://rateyourmusic.com/genre/tarawangsa/",
+      "description": "Sacred ceremonial music originating in the Rancakalong district, played with the jentreng harp and the tarawangsa bowed lute.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Thai Folk Music",
+      "url": "https://rateyourmusic.com/genre/thai-folk-music/",
+      "description": "Traditional Folk Music of the Thai people.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Thai Folk Music",
+      "url": "https://rateyourmusic.com/genre/thai-folk-music/",
+      "description": "Traditional Folk Music of the Thai people.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Thai Folk Music",
+      "url": "https://rateyourmusic.com/genre/thai-folk-music/",
+      "description": "Traditional Folk Music of the Thai people.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Vietnamese Folk Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-folk-music/",
+      "description": "Traditional Folk Music of the Vietnamese people, with traditions influenced by both Chinese Music and Austronesian culture through the Cham people.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Vietnamese Folk Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-folk-music/",
+      "description": "Traditional Folk Music of the Vietnamese people, with traditions influenced by both Chinese Music and Austronesian culture through the Cham people.",
+      "level": "sub-4",
+      "parent": "Southeast Asian Folk Music"
+    },
+    {
+      "name": "Vietnamese Folk Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-folk-music/",
+      "description": "Traditional Folk Music of the Vietnamese people, with traditions influenced by both Chinese Music and Austronesian culture through the Cham people.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Folk Music"
+    }
+  ]
+}

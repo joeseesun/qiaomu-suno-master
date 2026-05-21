@@ -1,0 +1,38 @@
+{
+  "name": "Vietnamese Court Music",
+  "description": "Traditional court music of Vietnam, specifically that of the Nguyễn dynasty.",
+  "url": "https://rateyourmusic.com/genre/vietnamese-court-music/",
+  "parent": "East Asian Classical Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Vietnamese Opera",
+      "url": "https://rateyourmusic.com/genre/vietnamese-opera/",
+      "description": "Classical musical theatre and its associated form of Vietnamese Court Music, related strongly to Chinese Opera.",
+      "level": "sub-3",
+      "parent": "Vietnamese Court Music"
+    },
+    {
+      "name": "Vietnamese Opera",
+      "url": "https://rateyourmusic.com/genre/vietnamese-opera/",
+      "description": "Classical musical theatre and its associated form of Vietnamese Court Music, related strongly to Chinese Opera.",
+      "level": "sub-5",
+      "parent": "Vietnamese Court Music"
+    },
+    {
+      "name": "Vietnamese Opera",
+      "url": "https://rateyourmusic.com/genre/vietnamese-opera/",
+      "description": "Classical musical theatre and its associated form of Vietnamese Court Music, related strongly to Chinese Opera.",
+      "level": "sub-5",
+      "parent": "Vietnamese Court Music"
+    },
+    {
+      "name": "Vietnamese Opera",
+      "url": "https://rateyourmusic.com/genre/vietnamese-opera/",
+      "description": "Classical musical theatre and its associated form of Vietnamese Court Music, related strongly to Chinese Opera.",
+      "level": "sub-5",
+      "parent": "Vietnamese Court Music"
+    }
+  ]
+}

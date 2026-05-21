@@ -1,0 +1,24 @@
+{
+  "name": "Footwork",
+  "description": "Extensive use of drum fills, tom drums, handclaps, and snares within fast-paced, highly syncopated beats not bound to a 4/4 kick rhythm.",
+  "url": "https://rateyourmusic.com/genre/footwork/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Footwork Jungle",
+      "url": "https://rateyourmusic.com/genre/footwork-jungle/",
+      "description": "Combining Footwork's archetypal percussion, skittering drum fills, handclaps, and syncopated rhythms, with Drum and Bass drum programming and breakbeats, merging the two into unconventional, frantic drumming and dense, off-kilter rhythms.",
+      "level": "sub-3",
+      "parent": "Footwork"
+    },
+    {
+      "name": "Footwork Jungle",
+      "url": "https://rateyourmusic.com/genre/footwork-jungle/",
+      "description": "Combining Footwork's archetypal percussion, skittering drum fills, handclaps, and syncopated rhythms, with Drum and Bass drum programming and breakbeats, merging the two into unconventional, frantic drumming and dense, off-kilter rhythms.",
+      "level": "sub-3",
+      "parent": "Footwork"
+    }
+  ]
+}

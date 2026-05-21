@@ -1,0 +1,50 @@
+{
+  "name": "New Age",
+  "description": "Broad genre centered on peaceful, meditative melodies, using a wide variety of instrumentation.",
+  "url": "https://rateyourmusic.com/genre/new-age/",
+  "sub_genres_count": 6,
+  "sub_genres": [
+    {
+      "name": "Andean New Age",
+      "url": "https://rateyourmusic.com/genre/andean-new-age/",
+      "description": "Takes heavy influence from Indigenous Andean Music, emphasizing a peaceful and harmonious atmosphere and often using the flute.",
+      "level": "sub",
+      "parent": "New Age"
+    },
+    {
+      "name": "Celtic New Age",
+      "url": "https://rateyourmusic.com/genre/celtic-new-age/",
+      "description": "Incorporates influences and performing styles from Celtic Folk Music, emphasizing pastoral imagery and wistful themes.",
+      "level": "sub",
+      "parent": "New Age"
+    },
+    {
+      "name": "Native American New Age",
+      "url": "https://rateyourmusic.com/genre/native-american-new-age/",
+      "description": "Takes heavy influence from Indigenous North American Music, emphasizing a peaceful and harmonious atmosphere and utilizing chants, drumming, and flutes.",
+      "level": "sub",
+      "parent": "New Age"
+    },
+    {
+      "name": "Neoclassical New Age",
+      "url": "https://rateyourmusic.com/genre/neoclassical-new-age/",
+      "description": "Strongly influenced by and sometimes also based upon early music and the Baroque Music or Classical Period.",
+      "level": "sub",
+      "parent": "New Age"
+    },
+    {
+      "name": "New Age Kirtan",
+      "url": "https://rateyourmusic.com/genre/new-age-kirtan/",
+      "description": "American development of Kirtan, fusing it with New Age and Western music.",
+      "level": "sub",
+      "parent": "New Age"
+    },
+    {
+      "name": "Tibetan New Age",
+      "url": "https://rateyourmusic.com/genre/tibetan-new-age/",
+      "description": "Incorporates perceived elements of Tibetan Music, particularly singing bowls.",
+      "level": "sub",
+      "parent": "New Age"
+    }
+  ]
+}

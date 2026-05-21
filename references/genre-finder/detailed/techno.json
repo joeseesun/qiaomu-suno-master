@@ -1,0 +1,192 @@
+{
+  "name": "Techno",
+  "description": "Highly beat-driven, repetitive, and mechanical, typically featuring minimal chord variation and melodies, focuses on rhythms and timbral variety; generally produced for club environments.",
+  "url": "https://rateyourmusic.com/genre/techno/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 26,
+  "children": [
+    {
+      "name": "Acid Techno",
+      "url": "https://rateyourmusic.com/genre/acid-techno/",
+      "description": "Incorporates \"squelching\" synths from Acid House into a mechanical and usually more energetic Techno context.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Acid Techno",
+      "url": "https://rateyourmusic.com/genre/acid-techno/",
+      "description": "Incorporates \"squelching\" synths from Acid House into a mechanical and usually more energetic Techno context.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Ambient Techno",
+      "url": "https://rateyourmusic.com/genre/ambient-techno/",
+      "description": "Blends the mechanical, repetitive beats of Techno with atmospheres and textures inspired by Ambient music, resulting in slower tempos and more understated rhythms.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Ambient Techno",
+      "url": "https://rateyourmusic.com/genre/ambient-techno/",
+      "description": "Blends the mechanical, repetitive beats of Techno with atmospheres and textures inspired by Ambient music, resulting in slower tempos and more understated rhythms.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Belgian Techno",
+      "url": "https://rateyourmusic.com/genre/belgian-techno/",
+      "description": "Early form of Hardcore [EDM], resulting from the further evolution of New Beat due to the strong influence of Techno and EBM.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Belgian Techno",
+      "url": "https://rateyourmusic.com/genre/belgian-techno/",
+      "description": "Early form of Hardcore [EDM], resulting from the further evolution of New Beat due to the strong influence of Techno and EBM.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Bleep Techno",
+      "url": "https://rateyourmusic.com/genre/bleep-techno/",
+      "description": "Established in the late 1980s in the breakdancing and early rave scene of Yorkshire in the North of England, notable for its \"bleepy\" synth lines and heavy sub-bass.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Bleep Techno",
+      "url": "https://rateyourmusic.com/genre/bleep-techno/",
+      "description": "Established in the late 1980s in the breakdancing and early rave scene of Yorkshire in the North of England, notable for its \"bleepy\" synth lines and heavy sub-bass.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Detroit Techno",
+      "url": "https://rateyourmusic.com/genre/detroit-techno/",
+      "description": "Features a signature mechanical, detached sound that echoed the atmosphere of Detroit's nightlife and incorporated influences from Electro, Chicago House, as well as Synthpop and Electro-Disco.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Detroit Techno",
+      "url": "https://rateyourmusic.com/genre/detroit-techno/",
+      "description": "Features a signature mechanical, detached sound that echoed the atmosphere of Detroit's nightlife and incorporated influences from Electro, Chicago House, as well as Synthpop and Electro-Disco.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Freetekno",
+      "url": "https://rateyourmusic.com/genre/freetekno/",
+      "description": "Originated in the early 1990s, commonly played at free parties in Europe, and features a repetitive pounding kick drum at tempos of 170 BPM or above.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Freetekno",
+      "url": "https://rateyourmusic.com/genre/freetekno/",
+      "description": "Originated in the early 1990s, commonly played at free parties in Europe, and features a repetitive pounding kick drum at tempos of 170 BPM or above.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Hard Techno",
+      "url": "https://rateyourmusic.com/genre/hard-techno/",
+      "description": "Typically rave-oriented form characterized by hard, prominent kick drums, pounding rhythms, fast tempos around 140-160 BPM, and aggressive, often distorted sounds.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Hard Techno",
+      "url": "https://rateyourmusic.com/genre/hard-techno/",
+      "description": "Typically rave-oriented form characterized by hard, prominent kick drums, pounding rhythms, fast tempos around 140-160 BPM, and aggressive, often distorted sounds.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Hardgroove Techno",
+      "url": "https://rateyourmusic.com/genre/hardgroove-techno/",
+      "description": "Features shuffling grooves with heavy emphasis on layered percussive elements; often includes a mix of samples and drum machines played at a range of 135-140 BPM.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Hardgroove Techno",
+      "url": "https://rateyourmusic.com/genre/hardgroove-techno/",
+      "description": "Features shuffling grooves with heavy emphasis on layered percussive elements; often includes a mix of samples and drum machines played at a range of 135-140 BPM.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Industrial Techno",
+      "url": "https://rateyourmusic.com/genre/industrial-techno/",
+      "description": "Harder, darker style of Techno which draws parallels with factories and the rhythm of machinery.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Industrial Techno",
+      "url": "https://rateyourmusic.com/genre/industrial-techno/",
+      "description": "Harder, darker style of Techno which draws parallels with factories and the rhythm of machinery.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Melodic Techno",
+      "url": "https://rateyourmusic.com/genre/melodic-techno/",
+      "description": "Trance-influenced subgenre that was established in the mid-to-late 2010s, characterized by gradually progressing structure, and hypnotizing, atmospheric sound with arpeggiated, minor melodies, playing at around 120-125 BPM.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Melodic Techno",
+      "url": "https://rateyourmusic.com/genre/melodic-techno/",
+      "description": "Trance-influenced subgenre that was established in the mid-to-late 2010s, characterized by gradually progressing structure, and hypnotizing, atmospheric sound with arpeggiated, minor melodies, playing at around 120-125 BPM.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Minimal Techno",
+      "url": "https://rateyourmusic.com/genre/minimal-techno/",
+      "description": "Stripped-down and sparse, often featuring a dark sound and a slow, steady development through the track.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Minimal Techno",
+      "url": "https://rateyourmusic.com/genre/minimal-techno/",
+      "description": "Stripped-down and sparse, often featuring a dark sound and a slow, steady development through the track.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Peak Time Techno",
+      "url": "https://rateyourmusic.com/genre/peak-time-techno/",
+      "description": "Hard, dynamic, energetic and accessible subgenre featuring strong kicks, massive dirty synths, tempos around 130 BPM, more suspenseful structures with breaks and build-ups, and big, modern, festival-oriented sound; rose to high popularity in the late 2010s.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Peak Time Techno",
+      "url": "https://rateyourmusic.com/genre/peak-time-techno/",
+      "description": "Hard, dynamic, energetic and accessible subgenre featuring strong kicks, massive dirty synths, tempos around 130 BPM, more suspenseful structures with breaks and build-ups, and big, modern, festival-oriented sound; rose to high popularity in the late 2010s.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Wonky Techno",
+      "url": "https://rateyourmusic.com/genre/wonky-techno/",
+      "description": "Strays from the standard beat of Techno, opting for a more fractured sound.",
+      "level": "sub-3",
+      "parent": "Techno"
+    },
+    {
+      "name": "Wonky Techno",
+      "url": "https://rateyourmusic.com/genre/wonky-techno/",
+      "description": "Strays from the standard beat of Techno, opting for a more fractured sound.",
+      "level": "sub-3",
+      "parent": "Techno"
+    }
+  ]
+}

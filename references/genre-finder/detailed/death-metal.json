@@ -1,0 +1,80 @@
+{
+  "name": "Death Metal",
+  "description": "Heavily distorted, down-tuned guitars, palm-muted, tremolo-picked riffs, double-kick and blast beat percussion, chromatic chord progressions, minor keys, abrupt changes in tempo, and guttural vocals.",
+  "url": "https://rateyourmusic.com/genre/death-metal/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Brutal Death Metal",
+      "url": "https://rateyourmusic.com/genre/brutal-death-metal/",
+      "description": "Emphasizes abrasiveness, chunky rhythmic atonal riffs, and low guttural vocals.",
+      "level": "sub-2",
+      "parent": "Death Metal"
+    },
+    {
+      "name": "Brutal Death Metal",
+      "url": "https://rateyourmusic.com/genre/brutal-death-metal/",
+      "description": "Emphasizes abrasiveness, chunky rhythmic atonal riffs, and low guttural vocals.",
+      "level": "sub-3",
+      "parent": "Death Metal"
+    },
+    {
+      "name": "Death 'n' Roll",
+      "url": "https://rateyourmusic.com/genre/death-n-roll/",
+      "description": "Incorporates a groove-oriented, Hard Rock-influenced approach while retaining heavily distorted rhythm guitars and gruff or occasionally growled vocals.",
+      "level": "sub-2",
+      "parent": "Death Metal"
+    },
+    {
+      "name": "Death 'n' Roll",
+      "url": "https://rateyourmusic.com/genre/death-n-roll/",
+      "description": "Incorporates a groove-oriented, Hard Rock-influenced approach while retaining heavily distorted rhythm guitars and gruff or occasionally growled vocals.",
+      "level": "sub-3",
+      "parent": "Death Metal"
+    },
+    {
+      "name": "Deathgrind",
+      "url": "https://rateyourmusic.com/genre/deathgrind/",
+      "description": "Combines the intensity and high-pitched screams of Grindcore with the technicality and low guttural vocals of Death Metal.",
+      "level": "sub-2",
+      "parent": "Death Metal"
+    },
+    {
+      "name": "Deathgrind",
+      "url": "https://rateyourmusic.com/genre/deathgrind/",
+      "description": "Combines the intensity and high-pitched screams of Grindcore with the technicality and low guttural vocals of Death Metal.",
+      "level": "sub-3",
+      "parent": "Death Metal"
+    },
+    {
+      "name": "Melodic Death Metal",
+      "url": "https://rateyourmusic.com/genre/melodic-death-metal/",
+      "description": "Utilizes the guitar harmonies and melodic focus of Heavy Metal while generally retaining down-tuned, heavily distorted guitars and a harsh, aggressive sound.",
+      "level": "sub-2",
+      "parent": "Death Metal"
+    },
+    {
+      "name": "Melodic Death Metal",
+      "url": "https://rateyourmusic.com/genre/melodic-death-metal/",
+      "description": "Utilizes the guitar harmonies and melodic focus of Heavy Metal while generally retaining down-tuned, heavily distorted guitars and a harsh, aggressive sound.",
+      "level": "sub-3",
+      "parent": "Death Metal"
+    },
+    {
+      "name": "Technical Death Metal",
+      "url": "https://rateyourmusic.com/genre/technical-death-metal/",
+      "description": "Focuses on challenging, demanding songwriting and instrumental skill.",
+      "level": "sub-2",
+      "parent": "Death Metal"
+    },
+    {
+      "name": "Technical Death Metal",
+      "url": "https://rateyourmusic.com/genre/technical-death-metal/",
+      "description": "Focuses on challenging, demanding songwriting and instrumental skill.",
+      "level": "sub-3",
+      "parent": "Death Metal"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Rap Rock",
+  "description": "Fusion of Hip Hop and Rock, often featuring the former’s rhythmic vocal delivery and the latter’s heavy, distorted instrumentation.",
+  "url": "https://rateyourmusic.com/genre/rap-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Rap Metal",
+      "url": "https://rateyourmusic.com/genre/rap-metal/",
+      "description": "Features rapped vocals, typically formed around heavy, mid-tempo, and groove-oriented playing in addition to elements of Hip Hop beats such as record scratching.",
+      "level": "sub-2",
+      "parent": "Rap Rock"
+    }
+  ]
+}

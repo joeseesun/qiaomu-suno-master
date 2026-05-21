@@ -1,0 +1,94 @@
+{
+  "name": "Indigenous Andean Music",
+  "description": "Diverse styles and genres developed by the indigenous peoples of the Andes.",
+  "url": "https://rateyourmusic.com/genre/indigenous-andean-music/",
+  "parent": "Indigenous American Music",
+  "level": "sub-2",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Baguala",
+      "url": "https://rateyourmusic.com/genre/baguala/",
+      "description": "Slow, triple-meter form of traditional Indigenous Andean Music originally performed by Diaguita people in present-day North-Western Argentina.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    },
+    {
+      "name": "Baguala",
+      "url": "https://rateyourmusic.com/genre/baguala/",
+      "description": "Slow, triple-meter form of traditional Indigenous Andean Music originally performed by Diaguita people in present-day North-Western Argentina.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    },
+    {
+      "name": "Harawi",
+      "url": "https://rateyourmusic.com/genre/harawi/",
+      "description": "Repeating phrases of sung poetry dealing with emotional topics.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    },
+    {
+      "name": "Harawi",
+      "url": "https://rateyourmusic.com/genre/harawi/",
+      "description": "Repeating phrases of sung poetry dealing with emotional topics.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    },
+    {
+      "name": "Huaylarsh",
+      "url": "https://rateyourmusic.com/genre/huaylarsh/",
+      "description": "Festive Andean music with vibrant rhythm featuring saxophones and violins, typical of the central Peruvian region.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    },
+    {
+      "name": "Huaylarsh",
+      "url": "https://rateyourmusic.com/genre/huaylarsh/",
+      "description": "Festive Andean music with vibrant rhythm featuring saxophones and violins, typical of the central Peruvian region.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    },
+    {
+      "name": "Huayno",
+      "url": "https://rateyourmusic.com/genre/huayno/",
+      "description": "Andean dance music that incorporates both pre-Hispanic and Western musical elements.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    },
+    {
+      "name": "Huayno",
+      "url": "https://rateyourmusic.com/genre/huayno/",
+      "description": "Andean dance music that incorporates both pre-Hispanic and Western musical elements.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    },
+    {
+      "name": "Morenada",
+      "url": "https://rateyourmusic.com/genre/morenada/",
+      "description": "Vibrant and culturally significant music originating in Bolivia and characterized by the sound of the matraca and a marked and rigid duple meter with a slow march-like tempo.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    },
+    {
+      "name": "Morenada",
+      "url": "https://rateyourmusic.com/genre/morenada/",
+      "description": "Vibrant and culturally significant music originating in Bolivia and characterized by the sound of the matraca and a marked and rigid duple meter with a slow march-like tempo.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    },
+    {
+      "name": "Tonada potosina",
+      "url": "https://rateyourmusic.com/genre/tonada-potosina/",
+      "description": "Traditional folk sung in Quechua, played on charangos and guitarillas, with a catchy, lively rhythm.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    },
+    {
+      "name": "Tonada potosina",
+      "url": "https://rateyourmusic.com/genre/tonada-potosina/",
+      "description": "Traditional folk sung in Quechua, played on charangos and guitarillas, with a catchy, lively rhythm.",
+      "level": "sub-3",
+      "parent": "Indigenous Andean Music"
+    }
+  ]
+}

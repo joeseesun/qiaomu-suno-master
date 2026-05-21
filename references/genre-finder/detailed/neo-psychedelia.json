@@ -1,0 +1,45 @@
+{
+  "name": "Neo-Psychedelia",
+  "description": "Developments in Psychedelia since the early 1980s, building on the drug-inspired styles developed in the 1960s.",
+  "url": "https://rateyourmusic.com/genre/neo-psychedelia/",
+  "parent": "Psychedelia",
+  "level": "sub",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Baggy",
+      "url": "https://rateyourmusic.com/genre/baggy/",
+      "description": "Blends Dance and Funk-based grooves with a laid-back, psychedelic atmosphere; frequently features jangly guitars, looping basslines, four-bar drum patterns, and a hypnotic, carefree feel that originated in the Madchester scene of the late 1980s.",
+      "level": "sub-2",
+      "parent": "Neo-Psychedelia"
+    },
+    {
+      "name": "Dream Pop",
+      "url": "https://rateyourmusic.com/genre/dream-pop/",
+      "description": "Reverberated guitars, effects-laden vocals, and dense productions, creating a psychedelic, spacious, and dreamlike sound.",
+      "level": "sub-2",
+      "parent": "Neo-Psychedelia"
+    },
+    {
+      "name": "Hypnagogic Pop",
+      "url": "https://rateyourmusic.com/genre/hypnagogic-pop/",
+      "description": "21st century style that refracts the pop culture of past decades through surreal, low-fidelity production and emulation of outdated media formats or equipment.",
+      "level": "sub-2",
+      "parent": "Neo-Psychedelia"
+    },
+    {
+      "name": "Paisley Underground",
+      "url": "https://rateyourmusic.com/genre/paisley-underground/",
+      "description": "Emerged in Los Angeles in the early 1980s, featuring the energy of Power Pop and New Wave adorned with retro Psychedelia.",
+      "level": "sub-2",
+      "parent": "Neo-Psychedelia"
+    },
+    {
+      "name": "Space Rock Revival",
+      "url": "https://rateyourmusic.com/genre/space-rock-revival/",
+      "description": "Draws from the aesthetics and atmospheric soundscapes of Space Rock combined with the more minimal, back-to-basics approach of the Post-Punk era.",
+      "level": "sub-2",
+      "parent": "Neo-Psychedelia"
+    }
+  ]
+}

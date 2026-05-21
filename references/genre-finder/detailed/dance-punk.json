@@ -1,0 +1,24 @@
+{
+  "name": "Dance-Punk",
+  "description": "Mixes the energy of Punk Rock with the danceable rhythms of Funk and Disco.",
+  "url": "https://rateyourmusic.com/genre/dance-punk/",
+  "parent": "Post-Punk",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Dance-Punk Revival",
+      "url": "https://rateyourmusic.com/genre/dance-punk-revival/",
+      "description": "Punchy and danceable variant of Post-Punk Revival that features Electronic instrumentation and influence from Alternative Dance.",
+      "level": "sub-3",
+      "parent": "Dance-Punk"
+    },
+    {
+      "name": "Dance-Punk Revival",
+      "url": "https://rateyourmusic.com/genre/dance-punk-revival/",
+      "description": "Punchy and danceable variant of Post-Punk Revival that features Electronic instrumentation and influence from Alternative Dance.",
+      "level": "sub-3",
+      "parent": "Dance-Punk"
+    }
+  ]
+}

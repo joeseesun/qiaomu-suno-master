@@ -1,0 +1,220 @@
+{
+  "name": "Northern American Music",
+  "description": "Regional styles with roots in Northern America (America north of Mexico, including Canada, United States, Greenland, Saint-Pierre and Miquelon, and Bermuda), typically drawing from European Folk Music and Classical Music as well as West African Music and Indigenous American Music influences.",
+  "url": "https://rateyourmusic.com/genre/northern-american-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 30,
+  "children": [
+    {
+      "name": "Ambient Americana",
+      "url": "https://rateyourmusic.com/genre/ambient-americana/",
+      "description": "Made using traditional Americana and Country instrumentation, typically to evoke a pastoral atmosphere.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "American Folk Music",
+      "url": "https://rateyourmusic.com/genre/american-folk-music/",
+      "description": "Traces back through the history of European and West African settlement and migration to North America, including parts of northern Mexico and Canada in addition to the United States.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "American Primitivism",
+      "url": "https://rateyourmusic.com/genre/american-primitivism/",
+      "description": "Blends avant-garde and neo-classical compositions with traditional Country Blues fingerpicking techniques.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Americana",
+      "url": "https://rateyourmusic.com/genre/americana/",
+      "description": "Incorporates a broad swath of American Folk Music and Contemporary Folk influences, evolving alongside Alt-Country.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Barbershop",
+      "url": "https://rateyourmusic.com/genre/barbershop/",
+      "description": "Harmonized singing consisting of four vocal elements: the 'lead' (2nd tenor), the 1st tenor, the baritone, and the bass.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Boogie Woogie",
+      "url": "https://rateyourmusic.com/genre/boogie-woogie/",
+      "description": "Early, uptempo Blues featuring the piano as the main instrument, with soloing and improvisation played over the top of a repetitive eight note bassline.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Canadian Folk Music",
+      "url": "https://rateyourmusic.com/genre/canadian-folk-music/",
+      "description": "Traditional folk of the European settlers who arrived in Canada.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Chanson québécoise",
+      "url": "https://rateyourmusic.com/genre/chanson-quebecoise/",
+      "description": "French-language music of the Québécois singer-songwriters.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Chicago Polka",
+      "url": "https://rateyourmusic.com/genre/chicago-polka/",
+      "description": "Polish-American style known for slower tempo, improvisation and the ensemble typically including the clarinet, trumpet, and concertina.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Coon Song",
+      "url": "https://rateyourmusic.com/genre/coon-song/",
+      "description": "Lyrical trend popular in the United States from around 1880 to 1920 that presents a racist and highly stereotyped image of African Americans connected with the subject matter and style of minstrel shows.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Country",
+      "url": "https://rateyourmusic.com/genre/country/",
+      "description": "American genre derived from Southern and Appalachian forms of American Folk Music and later Rock and Pop influences, with a focus on the life and culture of rural America.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Country Rock",
+      "url": "https://rateyourmusic.com/genre/country-rock/",
+      "description": "Combination of contemporary Rock with more traditional American Country.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Cowboy Poetry",
+      "url": "https://rateyourmusic.com/genre/cowboy-poetry/",
+      "description": "Descended from the oral traditions of cowboys and ranchers, written with traditional use of rhyme and meter, using humor and slang, and primarily concerning the cowboy profession, lifestyle, and legacy.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Eastern-Style Polka",
+      "url": "https://rateyourmusic.com/genre/eastern-style-polka/",
+      "description": "Fast, urban Polish-American style performed by a Big Band-like ensemble.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Foxtrot",
+      "url": "https://rateyourmusic.com/genre/foxtrot/",
+      "description": "Lightly syncopated ballroom dance form in 4/4, most popular in the 1930s and closely associated with early Big Band Jazz.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Greenlandic Music",
+      "url": "https://rateyourmusic.com/genre/greenlandic-music/",
+      "description": "Majorly from Inuit ethnic groups in Greenland, a large island between the Atlantic and Arctic Oceans.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Hapa haole",
+      "url": "https://rateyourmusic.com/genre/hapa-haole/",
+      "description": "Hawaiian musical traditions adapted to popular American Jazz and Pop styles.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Indigenous North American Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-north-american-music/",
+      "description": "Diverse styles and genres developed by the indigenous peoples of present-day Canada, the United States and northwestern Mexico.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Louisiana Music",
+      "url": "https://rateyourmusic.com/genre/louisiana-music/",
+      "description": "Regional Music from the US state of Louisiana.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Minstrelsy",
+      "url": "https://rateyourmusic.com/genre/minstrelsy/",
+      "description": "Popular song and entertainment tradition from the U.S. engendered in variety shows employing racist caricature and blackface.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "New Mexico Music",
+      "url": "https://rateyourmusic.com/genre/new-mexico-music/",
+      "description": "Derived from the Traditional Folk Music of New Mexico mixed with influences from Western, Country and Norteño, particularly associated with Spanish-speaking Nuevomexicanos.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Pep Band",
+      "url": "https://rateyourmusic.com/genre/pep-band/",
+      "description": "Performs at athletic events, and typically performs modified versions of Pop songs.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Ragtime",
+      "url": "https://rateyourmusic.com/genre/ragtime/",
+      "description": "Emerged in the 1890s; piano-led and characterized by a heavily syncopated rhythm.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Roots Rock",
+      "url": "https://rateyourmusic.com/genre/roots-rock/",
+      "description": "Consciously and predominantly incorporates elements of its predecessors and original roots such as Country, Blues, Rhythm & Blues, Rock & Roll, and American Folk Music, but also many other American traditions.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Sacred Steel",
+      "url": "https://rateyourmusic.com/genre/sacred-steel/",
+      "description": "Focused on instrumentals and played on the steel guitar.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Shaker Music",
+      "url": "https://rateyourmusic.com/genre/shaker-music/",
+      "description": "Created by the United Society of Believers in Christ's Second Appearing, better known as Shakers, for worship.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Southern Gospel",
+      "url": "https://rateyourmusic.com/genre/southern-gospel/",
+      "description": "Initially sung A cappella by a Vocal Group quartet, sometimes with a pianist or guitar as accompaniment, with lyrics and messages primarily revolving around the teachings found within Christianity.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Texan Music",
+      "url": "https://rateyourmusic.com/genre/texan-music/",
+      "description": "Regional Music from the US state of Texas.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Tin Pan Alley",
+      "url": "https://rateyourmusic.com/genre/tin-pan-alley/",
+      "description": "Early era of popular song in the USA, broadly from the 1890s-1930s; influences include Ragtime, Vaudeville, and Parlour Music.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    },
+    {
+      "name": "Vaudeville",
+      "url": "https://rateyourmusic.com/genre/vaudeville/",
+      "description": "Performed in American musical theaters typically as part of a lowbrow, often comedic variety performance.",
+      "level": "sub-2",
+      "parent": "Northern American Music"
+    }
+  ]
+}

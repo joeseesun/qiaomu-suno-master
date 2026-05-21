@@ -1,0 +1,24 @@
+{
+  "name": "Gabber",
+  "description": "Fast-paced and energetic, often in the 160-220 BPM range, with a hallmark of a distinctive distorted kick sound.",
+  "url": "https://rateyourmusic.com/genre/gabber/",
+  "parent": "Hardcore [EDM]",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Nu Style Gabber",
+      "url": "https://rateyourmusic.com/genre/nu-style-gabber/",
+      "description": "Emerged near the end of the 1990s; deeper, more harmonic bassdrums with constant use of supersaw melodies, breakdown sections and slower tempos closer to the 150-180 BPM range.",
+      "level": "sub-4",
+      "parent": "Gabber"
+    },
+    {
+      "name": "Nu Style Gabber",
+      "url": "https://rateyourmusic.com/genre/nu-style-gabber/",
+      "description": "Emerged near the end of the 1990s; deeper, more harmonic bassdrums with constant use of supersaw melodies, breakdown sections and slower tempos closer to the 150-180 BPM range.",
+      "level": "sub-4",
+      "parent": "Gabber"
+    }
+  ]
+}

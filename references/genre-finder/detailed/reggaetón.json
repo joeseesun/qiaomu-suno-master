@@ -1,0 +1,59 @@
+{
+  "name": "Reggaetón",
+  "description": "Rooted in Dancehall and mainly characterized by its heavy emphasis on the \"dembow\" rhythm; developed in Puerto Rico in the early 1990s under heavy influence from Hip Hop.",
+  "url": "https://rateyourmusic.com/genre/reggaeton/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Bachatón",
+      "url": "https://rateyourmusic.com/genre/bachaton/",
+      "description": "Mixes Bachata melodies and instrumentation with Reggaetón rhythms, rapping, and DJing.",
+      "level": "sub-4",
+      "parent": "Reggaetón"
+    },
+    {
+      "name": "Cubaton",
+      "url": "https://rateyourmusic.com/genre/cubaton/",
+      "description": "Rhythmically and vocally inspired by major elements of Cuban Music.",
+      "level": "sub-4",
+      "parent": "Reggaetón"
+    },
+    {
+      "name": "Cumbiatón",
+      "url": "https://rateyourmusic.com/genre/cumbiaton/",
+      "description": "Combining Reggaetón  with Cumbia mexicana, and less frequently with other forms of traditional Mexican Music.",
+      "level": "sub-4",
+      "parent": "Reggaetón"
+    },
+    {
+      "name": "Doble paso",
+      "url": "https://rateyourmusic.com/genre/doble-paso/",
+      "description": "Frenetic and intense high tempo variant in comparison to the standard drum patterns, often used to accompany the dance of the same name.",
+      "level": "sub-4",
+      "parent": "Reggaetón"
+    },
+    {
+      "name": "Neoperreo",
+      "url": "https://rateyourmusic.com/genre/neoperreo/",
+      "description": "Heavy emphasis on rhythm, influence from global trends in club music, and generally progressive lyrics.",
+      "level": "sub-4",
+      "parent": "Reggaetón"
+    },
+    {
+      "name": "RKT",
+      "url": "https://rateyourmusic.com/genre/rkt/",
+      "description": "Emerged in the early 2010s, characterized by minimalistic, rhythm-centric production heavily influenced by Cumbia villera and other Cumbia argentina styles.",
+      "level": "sub-4",
+      "parent": "Reggaetón"
+    },
+    {
+      "name": "Romantic Style",
+      "url": "https://rateyourmusic.com/genre/romantic-style/",
+      "description": "Melodic and sentimental style characterized by emotive vocals and mellow sound with a less explicit tone, emphasizing romantic love themes, blending Contemporary R&B, Latin Pop and romantic ballad influences, popularized during early 2000s to 2010s.",
+      "level": "sub-4",
+      "parent": "Reggaetón"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "German Music",
+  "description": "Music of the German-speaking people, spanning predominately central Europe, primarily Germany, Austria, and Switzerland, among others.",
+  "url": "https://rateyourmusic.com/genre/german-music/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Alsatian Folk Music",
+      "url": "https://rateyourmusic.com/genre/alsatian-folk-music/",
+      "description": "Traditional music of the Alsatians.",
+      "level": "sub-3",
+      "parent": "German Music"
+    },
+    {
+      "name": "German Folk Music",
+      "url": "https://rateyourmusic.com/genre/german-folk-music/",
+      "description": "Traditional Folk Music of Germany.",
+      "level": "sub-3",
+      "parent": "German Music"
+    },
+    {
+      "name": "Guggenmusik",
+      "url": "https://rateyourmusic.com/genre/guggenmusik/",
+      "description": "Alemannic type of Marching Band played at carnival events, featuring a cacophonous, seemingly \"out of tune\" sound.",
+      "level": "sub-3",
+      "parent": "German Music"
+    },
+    {
+      "name": "Lied",
+      "url": "https://rateyourmusic.com/genre/lied/",
+      "description": "Form of song arising from 19th century German Romanticism, usually for solo vocalist & piano with a text derived from poetry.",
+      "level": "sub-3",
+      "parent": "German Music"
+    },
+    {
+      "name": "Liedermacher",
+      "url": "https://rateyourmusic.com/genre/liedermacher/",
+      "description": "German style having its origins in literature and theatre rather than American forms like Blues or Rock.",
+      "level": "sub-3",
+      "parent": "German Music"
+    },
+    {
+      "name": "Luxembourgish Folk Music",
+      "url": "https://rateyourmusic.com/genre/luxembourgish-folk-music/",
+      "description": "Traditional folk music of the Luxembourgish people.",
+      "level": "sub-3",
+      "parent": "German Music"
+    },
+    {
+      "name": "Ländler",
+      "url": "https://rateyourmusic.com/genre/landler/",
+      "description": "Swiss-German dance band music based on the accordion, combining traditional Alpine Folk Music with elements from Schlager and Jazz.",
+      "level": "sub-3",
+      "parent": "German Music"
+    },
+    {
+      "name": "Romantische Oper",
+      "url": "https://rateyourmusic.com/genre/romantische-oper/",
+      "description": "Early 19th century Germanic style of Opera influenced by German Folk Music and legends with a focus on fantasy, emotivity, heroic figures, and nationalism.",
+      "level": "sub-3",
+      "parent": "German Music"
+    },
+    {
+      "name": "Volkstümliche Musik",
+      "url": "https://rateyourmusic.com/genre/volkstumliche-musik/",
+      "description": "Light Pop with borrowings from German Folk Music (volksmusik), often misleadingly labeled as being volksmusik.",
+      "level": "sub-3",
+      "parent": "German Music"
+    },
+    {
+      "name": "Zeitoper",
+      "url": "https://rateyourmusic.com/genre/zeitoper/",
+      "description": "Short-lived scene in Weimar Germany, often having satirical plots and allusions to popular music.",
+      "level": "sub-3",
+      "parent": "German Music"
+    }
+  ]
+}

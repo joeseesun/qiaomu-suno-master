@@ -1,0 +1,52 @@
+{
+  "name": "Hawaiian Music",
+  "description": "Includes a variety of syncopated rhythms, percussion and vocal styles, including chanting (mele) and falsetto.",
+  "url": "https://rateyourmusic.com/genre/hawaiian-music/",
+  "parent": "Polynesian Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Hapa haole",
+      "url": "https://rateyourmusic.com/genre/hapa-haole/",
+      "description": "Hawaiian musical traditions adapted to popular American Jazz and Pop styles.",
+      "level": "sub-4",
+      "parent": "Hawaiian Music"
+    },
+    {
+      "name": "Hapa haole",
+      "url": "https://rateyourmusic.com/genre/hapa-haole/",
+      "description": "Hawaiian musical traditions adapted to popular American Jazz and Pop styles.",
+      "level": "sub-4",
+      "parent": "Hawaiian Music"
+    },
+    {
+      "name": "Jawaiian",
+      "url": "https://rateyourmusic.com/genre/jawaiian/",
+      "description": "Hawaiian branch of Reggae, typically blends local traditional melodies, harmonies, incorporating specialty instruments such as ukulele and steel guitar.",
+      "level": "sub-4",
+      "parent": "Hawaiian Music"
+    },
+    {
+      "name": "Jawaiian",
+      "url": "https://rateyourmusic.com/genre/jawaiian/",
+      "description": "Hawaiian branch of Reggae, typically blends local traditional melodies, harmonies, incorporating specialty instruments such as ukulele and steel guitar.",
+      "level": "sub-4",
+      "parent": "Hawaiian Music"
+    },
+    {
+      "name": "Slack-Key Guitar",
+      "url": "https://rateyourmusic.com/genre/slack-key-guitar/",
+      "description": "Originated in Hawaii and typically played with one's thumb in an alternating-bass pattern on the lower two or three strings.",
+      "level": "sub-4",
+      "parent": "Hawaiian Music"
+    },
+    {
+      "name": "Slack-Key Guitar",
+      "url": "https://rateyourmusic.com/genre/slack-key-guitar/",
+      "description": "Originated in Hawaii and typically played with one's thumb in an alternating-bass pattern on the lower two or three strings.",
+      "level": "sub-4",
+      "parent": "Hawaiian Music"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Chilean Music",
+  "description": "Music developed by the Chilean people.",
+  "url": "https://rateyourmusic.com/genre/chilean-music/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 18,
+  "children": [
+    {
+      "name": "Canto a lo poeta",
+      "url": "https://rateyourmusic.com/genre/canto-a-lo-poeta/",
+      "description": "Sung poetry traditional to Chile and transmitted orally from one generation to another.",
+      "level": "sub-4",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Canto a lo poeta",
+      "url": "https://rateyourmusic.com/genre/canto-a-lo-poeta/",
+      "description": "Sung poetry traditional to Chile and transmitted orally from one generation to another.",
+      "level": "sub-3",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Chilote Music",
+      "url": "https://rateyourmusic.com/genre/chilote-music/",
+      "description": "Music of the Chiloé Archipelago.",
+      "level": "sub-4",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Chilote Music",
+      "url": "https://rateyourmusic.com/genre/chilote-music/",
+      "description": "Music of the Chiloé Archipelago.",
+      "level": "sub-3",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Cumbia chilena",
+      "url": "https://rateyourmusic.com/genre/cumbia-chilena/",
+      "description": "Incorporates Chilean Music into the traditional sound of Cumbia.",
+      "level": "sub-4",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Cumbia chilena",
+      "url": "https://rateyourmusic.com/genre/cumbia-chilena/",
+      "description": "Incorporates Chilean Music into the traditional sound of Cumbia.",
+      "level": "sub-3",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Jazz guachaca",
+      "url": "https://rateyourmusic.com/genre/jazz-guachaca/",
+      "description": "Encompasses Jazz influences with Hispanic American Music styles such as Cueca, Bolero, Tango and Corrido.",
+      "level": "sub-4",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Jazz guachaca",
+      "url": "https://rateyourmusic.com/genre/jazz-guachaca/",
+      "description": "Encompasses Jazz influences with Hispanic American Music styles such as Cueca, Bolero, Tango and Corrido.",
+      "level": "sub-3",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Mambo chileno",
+      "url": "https://rateyourmusic.com/genre/mambo-chileno/",
+      "description": "Emerged in the early 2010s in Chile, characterized by upbeat rhythms and rapping, usually on topics of parties, dancing, and urban life.",
+      "level": "sub-4",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Mambo chileno",
+      "url": "https://rateyourmusic.com/genre/mambo-chileno/",
+      "description": "Emerged in the early 2010s in Chile, characterized by upbeat rhythms and rapping, usually on topics of parties, dancing, and urban life.",
+      "level": "sub-3",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Música cebolla",
+      "url": "https://rateyourmusic.com/genre/musica-cebolla/",
+      "description": "Chilean offshoot of Canción melódica that expresses a much more melancholic or nostalgic side.",
+      "level": "sub-4",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Música cebolla",
+      "url": "https://rateyourmusic.com/genre/musica-cebolla/",
+      "description": "Chilean offshoot of Canción melódica that expresses a much more melancholic or nostalgic side.",
+      "level": "sub-3",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Música típica chilena",
+      "url": "https://rateyourmusic.com/genre/musica-tipica-chilena/",
+      "description": "Incorporation of rural folklore music to urban fields, adding vocal groups accompanied mainly by guitar and a \"huaso\" symbolism.",
+      "level": "sub-4",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Música típica chilena",
+      "url": "https://rateyourmusic.com/genre/musica-tipica-chilena/",
+      "description": "Incorporation of rural folklore music to urban fields, adding vocal groups accompanied mainly by guitar and a \"huaso\" symbolism.",
+      "level": "sub-3",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Nueva canción chilena",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-chilena/",
+      "description": "Socially conscious style that sought to recover traditional Chilean folk music and fuse it with the broader musical trends of Latin America.",
+      "level": "sub-4",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Nueva canción chilena",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-chilena/",
+      "description": "Socially conscious style that sought to recover traditional Chilean folk music and fuse it with the broader musical trends of Latin America.",
+      "level": "sub-3",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Tonada chilena",
+      "url": "https://rateyourmusic.com/genre/tonada-chilena/",
+      "description": "Traditional folk from the Chilean countryside distinguished by its prominent melody.",
+      "level": "sub-4",
+      "parent": "Chilean Music"
+    },
+    {
+      "name": "Tonada chilena",
+      "url": "https://rateyourmusic.com/genre/tonada-chilena/",
+      "description": "Traditional folk from the Chilean countryside distinguished by its prominent melody.",
+      "level": "sub-3",
+      "parent": "Chilean Music"
+    }
+  ]
+}

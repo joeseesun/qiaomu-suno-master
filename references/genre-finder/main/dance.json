@@ -1,0 +1,50 @@
+{
+  "name": "Dance",
+  "description": "Rooted in Disco and developed largely within Electronic Dance Music; emphasizes rhythm and is generally produced for play by DJs at clubs, parties, or festivals.",
+  "url": "https://rateyourmusic.com/genre/dance/",
+  "sub_genres_count": 6,
+  "sub_genres": [
+    {
+      "name": "Alternative Dance",
+      "url": "https://rateyourmusic.com/genre/alternative-dance/",
+      "description": "Incorporates rhythms and synthesizers from Electronic Dance Music within the context of Alternative Rock and related styles; predominantly popular in the 1990s.",
+      "level": "sub",
+      "parent": "Dance"
+    },
+    {
+      "name": "Dance-Pop",
+      "url": "https://rateyourmusic.com/genre/dance-pop/",
+      "description": "Simple, yet catchy melodies and throbbing beats inspired initially by Disco and later various House styles.",
+      "level": "sub",
+      "parent": "Dance"
+    },
+    {
+      "name": "Disco",
+      "url": "https://rateyourmusic.com/genre/disco/",
+      "description": "Combines the lush orchestration of Philly Soul and bass grooves of Funk with a four-on-the-floor rhythm.",
+      "level": "sub",
+      "parent": "Dance"
+    },
+    {
+      "name": "Electronic Dance Music",
+      "url": "https://rateyourmusic.com/genre/electronic-dance-music/",
+      "description": "Broad category for subgenres mainly derived from Disco, featuring Electronic sounds, synthesizers, drum machines and varying BPM ranges.",
+      "level": "sub",
+      "parent": "Dance"
+    },
+    {
+      "name": "Miami Bass",
+      "url": "https://rateyourmusic.com/genre/miami-bass/",
+      "description": "Sustained Roland TR-808 kick drums and faster tempos, along with a distinct Electro influence.",
+      "level": "sub",
+      "parent": "Dance"
+    },
+    {
+      "name": "Wa Euro",
+      "url": "https://rateyourmusic.com/genre/wa-euro/",
+      "description": "Traditional form of J-Pop that emerged in the second half of the 1980s from late Hi-NRG, '80s British Dance-Pop and Italo-Disco/Eurobeat.",
+      "level": "sub",
+      "parent": "Dance"
+    }
+  ]
+}

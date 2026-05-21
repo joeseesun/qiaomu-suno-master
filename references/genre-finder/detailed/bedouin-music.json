@@ -1,0 +1,38 @@
+{
+  "name": "Bedouin Music",
+  "description": "Music made by the Bedouin, nomadic Arab tribes that have historically inhabited desert regions all across the Arab world.",
+  "url": "https://rateyourmusic.com/genre/bedouin-music/",
+  "parent": "Arabic Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Aita",
+      "url": "https://rateyourmusic.com/genre/aita/",
+      "description": "Arabic Folk Music from rural Morocco with piercing singing, scratchy viola, and rollicking hand drums.",
+      "level": "sub-3",
+      "parent": "Bedouin Music"
+    },
+    {
+      "name": "Ayyalah",
+      "url": "https://rateyourmusic.com/genre/ayyalah/",
+      "description": "Traditional Khaliji-Bedouin weapon performance, commonly found across the United Arab Emirates and Northwestern Oman.",
+      "level": "sub-3",
+      "parent": "Bedouin Music"
+    },
+    {
+      "name": "Samri",
+      "url": "https://rateyourmusic.com/genre/samri/",
+      "description": "Traditional dance from Najd, Saudi Arabia, performed by two opposing rows of men who face each other, dancing and moving to the rhythm, in addition to a percussion ensemble.",
+      "level": "sub-3",
+      "parent": "Bedouin Music"
+    },
+    {
+      "name": "Shilla",
+      "url": "https://rateyourmusic.com/genre/shilla/",
+      "description": "Traditional style of sung Nabati poetry, prevalent across the Arabian Peninsula.",
+      "level": "sub-3",
+      "parent": "Bedouin Music"
+    }
+  ]
+}

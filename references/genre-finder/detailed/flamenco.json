@@ -1,0 +1,52 @@
+{
+  "name": "Flamenco",
+  "description": "Traditional Spanish style based around fiery acoustic guitar rhythms, emotional vocals, and accompaniment from traditional percussion and dance.",
+  "url": "https://rateyourmusic.com/genre/flamenco/",
+  "parent": "Spanish Music",
+  "level": "sub-4",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Bulería",
+      "url": "https://rateyourmusic.com/genre/buleria/",
+      "description": "Fast flamenco made up of a 12 beat cycle characterized by its vibrant, spontaneous and festive style.",
+      "level": "sub-5",
+      "parent": "Flamenco"
+    },
+    {
+      "name": "Bulería",
+      "url": "https://rateyourmusic.com/genre/buleria/",
+      "description": "Fast flamenco made up of a 12 beat cycle characterized by its vibrant, spontaneous and festive style.",
+      "level": "sub-4",
+      "parent": "Flamenco"
+    },
+    {
+      "name": "Flamenco nuevo",
+      "url": "https://rateyourmusic.com/genre/flamenco-nuevo/",
+      "description": "Contemporary style of Flamenco which departs from tradition by incorporating influences from other genres like Jazz, Blues, and Rock.",
+      "level": "sub-5",
+      "parent": "Flamenco"
+    },
+    {
+      "name": "Flamenco nuevo",
+      "url": "https://rateyourmusic.com/genre/flamenco-nuevo/",
+      "description": "Contemporary style of Flamenco which departs from tradition by incorporating influences from other genres like Jazz, Blues, and Rock.",
+      "level": "sub-4",
+      "parent": "Flamenco"
+    },
+    {
+      "name": "Rumba flamenca",
+      "url": "https://rateyourmusic.com/genre/rumba-flamenca/",
+      "description": "Flamenco subgenre, derived from the exchange of influences between Spain and Latin America.",
+      "level": "sub-5",
+      "parent": "Flamenco"
+    },
+    {
+      "name": "Rumba flamenca",
+      "url": "https://rateyourmusic.com/genre/rumba-flamenca/",
+      "description": "Flamenco subgenre, derived from the exchange of influences between Spain and Latin America.",
+      "level": "sub-4",
+      "parent": "Flamenco"
+    }
+  ]
+}

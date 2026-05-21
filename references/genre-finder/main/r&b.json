@@ -1,0 +1,85 @@
+{
+  "name": "R&B",
+  "description": "Umbrella of styles covering the most popular forms of Black American music from the late 1940s, when the term Rhythm & Blues first appeared; includes the developments of Soul and Funk in the '60s and '70s, and the Contemporary R&B of the 1980s onward.",
+  "url": "https://rateyourmusic.com/genre/randb/",
+  "sub_genres_count": 11,
+  "sub_genres": [
+    {
+      "name": "Acid Jazz",
+      "url": "https://rateyourmusic.com/genre/acid-jazz/",
+      "description": "Eclectic scene consisting of influences from Jazz, Funk, Hip Hop, Soul, and various styles of Dance that gained popularity during the 1990s.",
+      "level": "sub",
+      "parent": "R&B"
+    },
+    {
+      "name": "Beach Music",
+      "url": "https://rateyourmusic.com/genre/beach-music/",
+      "description": "Danceable 4/4 \"blues shuffle\" rhythmic structure, vocal harmonies, and moderate tempos.",
+      "level": "sub",
+      "parent": "R&B"
+    },
+    {
+      "name": "Blue-Eyed Soul",
+      "url": "https://rateyourmusic.com/genre/blue-eyed-soul/",
+      "description": "Usually refers to a Pop or Pop Rock song that contains strong Gospel-like elements, primarily popularized by white American and British singers in the 1960s through the 1980s.",
+      "level": "sub",
+      "parent": "R&B"
+    },
+    {
+      "name": "Boogie",
+      "url": "https://rateyourmusic.com/genre/boogie/",
+      "description": "Continuation of the Disco sound with increased influence from Funk, Synth Funk, and R&B and a slower tempo, often featuring drum machines and filter modulated synthesizers.",
+      "level": "sub",
+      "parent": "R&B"
+    },
+    {
+      "name": "Contemporary R&B",
+      "url": "https://rateyourmusic.com/genre/contemporary-randb/",
+      "description": "Soulful, passionate and melismatic vocals originally derived from popular Soul and Disco, as well as smooth, lush and often synthesized production variously influenced by Hip Hop, Funk, and related strands of Pop.",
+      "level": "sub",
+      "parent": "R&B"
+    },
+    {
+      "name": "Doo-Wop",
+      "url": "https://rateyourmusic.com/genre/doo-wop/",
+      "description": "Heavy emphasis on male four-part harmonies and light instrumentation; peaked in popularity in the 1950s.",
+      "level": "sub",
+      "parent": "R&B"
+    },
+    {
+      "name": "Funk",
+      "url": "https://rateyourmusic.com/genre/funk/",
+      "description": "Danceable, syncopated grooves carried by bass and drums alongside percussive guitar, keyboard, and/or horn parts, with rhythmic emphasis on the downbeat.",
+      "level": "sub",
+      "parent": "R&B"
+    },
+    {
+      "name": "New Orleans R&B",
+      "url": "https://rateyourmusic.com/genre/new-orleans-randb/",
+      "description": "Increased rhythmic complexity with added focus on piano and horns.",
+      "level": "sub",
+      "parent": "R&B"
+    },
+    {
+      "name": "Rhythm & Blues",
+      "url": "https://rateyourmusic.com/genre/rhythm-and-blues/",
+      "description": "Predominantly African American style that retains the defined backbeats, Blues chord progressions/melodies and passionate singing/shouting of Jump Blues, while appealing more to an urban audience with smaller bands and reduced Jazz influence.",
+      "level": "sub",
+      "parent": "R&B"
+    },
+    {
+      "name": "Soul",
+      "url": "https://rateyourmusic.com/genre/soul/",
+      "description": "Originated in the African American culture of the 20th century, resulting from the combination of the ecstatic vocals of Gospel with the upbeat instrumentation of Rhythm & Blues, consisting of guitar, bass and percussion.",
+      "level": "sub",
+      "parent": "R&B"
+    },
+    {
+      "name": "Soul Blues",
+      "url": "https://rateyourmusic.com/genre/soul-blues/",
+      "description": "Shares similarities with Soul and incorporates the eponymous soulful inflections of Gospel, Jump Blues and soul into the vocals.",
+      "level": "sub",
+      "parent": "R&B"
+    }
+  ]
+}

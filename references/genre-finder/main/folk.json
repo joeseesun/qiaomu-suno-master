@@ -1,0 +1,22 @@
+{
+  "name": "Folk",
+  "description": "Rooted in mostly oral traditions of the peoples of the world, encompassing international Traditional Folk Music as well as Western Contemporary Folk which arose in the 1940s.",
+  "url": "https://rateyourmusic.com/genre/folk/",
+  "sub_genres_count": 2,
+  "sub_genres": [
+    {
+      "name": "Contemporary Folk",
+      "url": "https://rateyourmusic.com/genre/contemporary-folk/",
+      "description": "Generally acoustic and rooted in modernized Traditional Folk Music, originated with the 20th century American folk revival.",
+      "level": "sub",
+      "parent": "Folk"
+    },
+    {
+      "name": "Traditional Folk Music",
+      "url": "https://rateyourmusic.com/genre/traditional-folk-music/",
+      "description": "Informed by a long history of tradition in a specific culture or region, mostly associated with the peasantry and non-aristocratic public.",
+      "level": "sub",
+      "parent": "Folk"
+    }
+  ]
+}

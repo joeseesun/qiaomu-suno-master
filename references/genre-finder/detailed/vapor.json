@@ -1,0 +1,66 @@
+{
+  "name": "Vapor",
+  "description": "Meta-genre beginning with the rise of Vaporwave and the aesthetics that it spawned.",
+  "url": "https://rateyourmusic.com/genre/vapor/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Barber Beats",
+      "url": "https://rateyourmusic.com/genre/barber-beats/",
+      "description": "Borrows elements from Downtempo, Trip Hop, and Instrumental Hip Hop; emulates 1990s and 2000s Chillout music.",
+      "level": "sub-2",
+      "parent": "Vapor"
+    },
+    {
+      "name": "Dreampunk",
+      "url": "https://rateyourmusic.com/genre/dreampunk/",
+      "description": "Accentuates ambiance and a dreamy, futuristic atmosphere, taking influence from Progressive Electronic, as well as Cyberpunk and Dystopian movies.",
+      "level": "sub-2",
+      "parent": "Vapor"
+    },
+    {
+      "name": "Future Funk",
+      "url": "https://rateyourmusic.com/genre/future-funk/",
+      "description": "Sample-based form of House which formed out of Vaporwave in the early 2010s.",
+      "level": "sub-2",
+      "parent": "Vapor"
+    },
+    {
+      "name": "Hardvapour",
+      "url": "https://rateyourmusic.com/genre/hardvapour/",
+      "description": "Influenced by Hardcore [EDM] and Techno and made in response to the Vaporwave movement.",
+      "level": "sub-2",
+      "parent": "Vapor"
+    },
+    {
+      "name": "Utopian Virtual",
+      "url": "https://rateyourmusic.com/genre/utopian-virtual/",
+      "description": "Emulates late 20th century futuristic and corporate aesthetics, often using \"tacky\"-sounding instruments likened to MIDI Music, in contrast to Vaporwave's sample-based approach.",
+      "level": "sub-2",
+      "parent": "Vapor"
+    },
+    {
+      "name": "Vapornoise",
+      "url": "https://rateyourmusic.com/genre/vapornoise/",
+      "description": "Uses Noise and other avant-garde techniques not typically found in Vaporwave.",
+      "level": "sub-2",
+      "parent": "Vapor"
+    },
+    {
+      "name": "Vaportrap",
+      "url": "https://rateyourmusic.com/genre/vaportrap/",
+      "description": "Incorporates a blend of Trap percussion set to the re-utilization of old samples, such as 1990s pop culture or old computer library sounds.",
+      "level": "sub-2",
+      "parent": "Vapor"
+    },
+    {
+      "name": "Vaporwave",
+      "url": "https://rateyourmusic.com/genre/vaporwave/",
+      "description": "Sample-based, involves heavily synthesized and processed manipulation of corporate mood and background (elevator) music; though source material can also include genres such as Pop, Contemporary R&B, and Synth Funk.",
+      "level": "sub-2",
+      "parent": "Vapor"
+    }
+  ]
+}

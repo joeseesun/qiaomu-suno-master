@@ -1,0 +1,17 @@
+{
+  "name": "Minimalism",
+  "description": "Developed in the United States in the 1960s; recognized for its repetitive nature and use of static harmony.",
+  "url": "https://rateyourmusic.com/genre/minimalism/",
+  "parent": "Modern Classical",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Holy Minimalism",
+      "url": "https://rateyourmusic.com/genre/holy-minimalism/",
+      "description": "Style informed by Christian Liturgical Music that emphasizes slow sustained rhythmic values, soft dynamics, and silence to produce a contemplative and reverential atmosphere.",
+      "level": "sub-4",
+      "parent": "Minimalism"
+    }
+  ]
+}

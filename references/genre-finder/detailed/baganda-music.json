@@ -1,0 +1,31 @@
+{
+  "name": "Baganda Music",
+  "description": "Music of the Baganda people, a Bantu ethnic group indigenous to Uganda.",
+  "url": "https://rateyourmusic.com/genre/baganda-music/",
+  "parent": "East African Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Buganda Royal Court Music",
+      "url": "https://rateyourmusic.com/genre/buganda-royal-court-music/",
+      "description": "Highest traditional and refined musical forms of Buganda, reserved for the Kabaka (the king of Buganda).",
+      "level": "sub-4",
+      "parent": "Baganda Music"
+    },
+    {
+      "name": "Kadongo kamu",
+      "url": "https://rateyourmusic.com/genre/kadongo-kamu/",
+      "description": "Oldest form of mainstream music in Uganda, dating back to the early 1950s, translating to “one little guitar” from the Luganda language.",
+      "level": "sub-4",
+      "parent": "Baganda Music"
+    },
+    {
+      "name": "Mataali",
+      "url": "https://rateyourmusic.com/genre/mataali/",
+      "description": "Islamic praise genre of the Muslim community of Buganda, named after the frame drum on which the rhythm is played.",
+      "level": "sub-4",
+      "parent": "Baganda Music"
+    }
+  ]
+}

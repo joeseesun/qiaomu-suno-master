@@ -1,0 +1,66 @@
+{
+  "name": "East Asian Classical Music",
+  "description": "Covers all the forms of pan-East Asian Classical Music sharing origins in Chinese Classical Music.",
+  "url": "https://rateyourmusic.com/genre/east-asian-classical-music/",
+  "parent": "Classical Music",
+  "level": "sub",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Chinese Classical Music",
+      "url": "https://rateyourmusic.com/genre/chinese-classical-music/",
+      "description": "Classical Music of China, encompassing royal court music.",
+      "level": "sub-2",
+      "parent": "East Asian Classical Music"
+    },
+    {
+      "name": "Chinese Classical Music",
+      "url": "https://rateyourmusic.com/genre/chinese-classical-music/",
+      "description": "Classical Music of China, encompassing royal court music.",
+      "level": "sub-4",
+      "parent": "East Asian Classical Music"
+    },
+    {
+      "name": "Japanese Classical Music",
+      "url": "https://rateyourmusic.com/genre/japanese-classical-music/",
+      "description": "Classical music of Japan.",
+      "level": "sub-2",
+      "parent": "East Asian Classical Music"
+    },
+    {
+      "name": "Japanese Classical Music",
+      "url": "https://rateyourmusic.com/genre/japanese-classical-music/",
+      "description": "Classical music of Japan.",
+      "level": "sub-4",
+      "parent": "East Asian Classical Music"
+    },
+    {
+      "name": "Korean Classical Music",
+      "url": "https://rateyourmusic.com/genre/korean-classical-music/",
+      "description": "Classical Music of Korea.",
+      "level": "sub-2",
+      "parent": "East Asian Classical Music"
+    },
+    {
+      "name": "Korean Classical Music",
+      "url": "https://rateyourmusic.com/genre/korean-classical-music/",
+      "description": "Classical Music of Korea.",
+      "level": "sub-4",
+      "parent": "East Asian Classical Music"
+    },
+    {
+      "name": "Vietnamese Court Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-court-music/",
+      "description": "Traditional court music of Vietnam, specifically that of the Nguyễn dynasty.",
+      "level": "sub-2",
+      "parent": "East Asian Classical Music"
+    },
+    {
+      "name": "Vietnamese Court Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-court-music/",
+      "description": "Traditional court music of Vietnam, specifically that of the Nguyễn dynasty.",
+      "level": "sub-4",
+      "parent": "East Asian Classical Music"
+    }
+  ]
+}

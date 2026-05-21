@@ -1,0 +1,24 @@
+{
+  "name": "K-Pop",
+  "description": "Contemporary style from South Korea, based on multiple mainstream influences such as Contemporary R&B, Dance-Pop, and Hip Hop.",
+  "url": "https://rateyourmusic.com/genre/k-pop/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Semi-Trot",
+      "url": "https://rateyourmusic.com/genre/semi-trot/",
+      "description": "Contemporary form of Trot which takes influences from modern K-Pop and recent Pop substyles.",
+      "level": "sub-2",
+      "parent": "K-Pop"
+    },
+    {
+      "name": "Semi-Trot",
+      "url": "https://rateyourmusic.com/genre/semi-trot/",
+      "description": "Contemporary form of Trot which takes influences from modern K-Pop and recent Pop substyles.",
+      "level": "sub-2",
+      "parent": "K-Pop"
+    }
+  ]
+}

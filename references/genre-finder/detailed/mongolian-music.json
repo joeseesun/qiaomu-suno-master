@@ -1,0 +1,136 @@
+{
+  "name": "Mongolian Music",
+  "description": "Music of the Mongols.",
+  "url": "https://rateyourmusic.com/genre/mongolian-music/",
+  "parent": "Central Asian Music",
+  "level": "sub-3",
+  "children_count": 18,
+  "children": [
+    {
+      "name": "Bogino duu",
+      "url": "https://rateyourmusic.com/genre/bogino-duu/",
+      "description": "Mongolian Music with tuneful composition and simple structure.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Bogino duu",
+      "url": "https://rateyourmusic.com/genre/bogino-duu/",
+      "description": "Mongolian Music with tuneful composition and simple structure.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Bogino duu",
+      "url": "https://rateyourmusic.com/genre/bogino-duu/",
+      "description": "Mongolian Music with tuneful composition and simple structure.",
+      "level": "sub-3",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Buryat Music",
+      "url": "https://rateyourmusic.com/genre/buryat-music/",
+      "description": "Music of the Buryat people, an ethnic group native to the Republic of Buryatia in Russian Far East.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Buryat Music",
+      "url": "https://rateyourmusic.com/genre/buryat-music/",
+      "description": "Music of the Buryat people, an ethnic group native to the Republic of Buryatia in Russian Far East.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Buryat Music",
+      "url": "https://rateyourmusic.com/genre/buryat-music/",
+      "description": "Music of the Buryat people, an ethnic group native to the Republic of Buryatia in Russian Far East.",
+      "level": "sub-3",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Kalmyk Music",
+      "url": "https://rateyourmusic.com/genre/kalmyk-music/",
+      "description": "Music of the Kalmyks, a Mongol Buddhist ethnic group inhabiting the Republic of Kalmykia, a federal subject of the Russian Federation.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Kalmyk Music",
+      "url": "https://rateyourmusic.com/genre/kalmyk-music/",
+      "description": "Music of the Kalmyks, a Mongol Buddhist ethnic group inhabiting the Republic of Kalmykia, a federal subject of the Russian Federation.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Kalmyk Music",
+      "url": "https://rateyourmusic.com/genre/kalmyk-music/",
+      "description": "Music of the Kalmyks, a Mongol Buddhist ethnic group inhabiting the Republic of Kalmykia, a federal subject of the Russian Federation.",
+      "level": "sub-3",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Mongolian Throat Singing",
+      "url": "https://rateyourmusic.com/genre/mongolian-throat-singing/",
+      "description": "Traditional music from Mongolia characterized by many throat singing techniques.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Mongolian Throat Singing",
+      "url": "https://rateyourmusic.com/genre/mongolian-throat-singing/",
+      "description": "Traditional music from Mongolia characterized by many throat singing techniques.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Mongolian Throat Singing",
+      "url": "https://rateyourmusic.com/genre/mongolian-throat-singing/",
+      "description": "Traditional music from Mongolia characterized by many throat singing techniques.",
+      "level": "sub-3",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Urtiin duu",
+      "url": "https://rateyourmusic.com/genre/urtiin-duu/",
+      "description": "Mongolian tradition in which sung syllables are extended into long, meditational, vibrato notes called shuranhai; accompanied by traditional Mongolian instruments such as the morin khuur and limbe.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Urtiin duu",
+      "url": "https://rateyourmusic.com/genre/urtiin-duu/",
+      "description": "Mongolian tradition in which sung syllables are extended into long, meditational, vibrato notes called shuranhai; accompanied by traditional Mongolian instruments such as the morin khuur and limbe.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Urtiin duu",
+      "url": "https://rateyourmusic.com/genre/urtiin-duu/",
+      "description": "Mongolian tradition in which sung syllables are extended into long, meditational, vibrato notes called shuranhai; accompanied by traditional Mongolian instruments such as the morin khuur and limbe.",
+      "level": "sub-3",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Zohioliin duu",
+      "url": "https://rateyourmusic.com/genre/zohioliin-duu/",
+      "description": "Mixes modern Pop with Mongolian Music, using local and western instruments.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Zohioliin duu",
+      "url": "https://rateyourmusic.com/genre/zohioliin-duu/",
+      "description": "Mixes modern Pop with Mongolian Music, using local and western instruments.",
+      "level": "sub-4",
+      "parent": "Mongolian Music"
+    },
+    {
+      "name": "Zohioliin duu",
+      "url": "https://rateyourmusic.com/genre/zohioliin-duu/",
+      "description": "Mixes modern Pop with Mongolian Music, using local and western instruments.",
+      "level": "sub-3",
+      "parent": "Mongolian Music"
+    }
+  ]
+}

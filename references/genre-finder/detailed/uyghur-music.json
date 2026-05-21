@@ -1,0 +1,24 @@
+{
+  "name": "Uyghur Music",
+  "description": "Music of the Uyghur people native to Xinjiang in western China.",
+  "url": "https://rateyourmusic.com/genre/uyghur-music/",
+  "parent": "Central Asian Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Bayawan",
+      "url": "https://rateyourmusic.com/genre/bayawan/",
+      "description": "Distinct muqam tradition of the Dolan subgroup of the Uyghur people, often considered the wildest of the regional muqam variations.",
+      "level": "sub-4",
+      "parent": "Uyghur Music"
+    },
+    {
+      "name": "Twelve Muqam",
+      "url": "https://rateyourmusic.com/genre/twelve-muqam/",
+      "description": "Uyghur muqam suite of 12 different muqam performances, originating in Southern Xinjiang.",
+      "level": "sub-4",
+      "parent": "Uyghur Music"
+    }
+  ]
+}

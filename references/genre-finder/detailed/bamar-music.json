@@ -1,0 +1,31 @@
+{
+  "name": "Bamar Music",
+  "description": "Music of the Bamar people, the majority ethnic group of Myanmar.",
+  "url": "https://rateyourmusic.com/genre/bamar-music/",
+  "parent": "Southeast Asian Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Bamar Folk Music",
+      "url": "https://rateyourmusic.com/genre/bamar-folk-music/",
+      "description": "Traditional Folk Music of the majority ethnic group of Myanmar.",
+      "level": "sub-4",
+      "parent": "Bamar Music"
+    },
+    {
+      "name": "Burmese Classical Music",
+      "url": "https://rateyourmusic.com/genre/burmese-classical-music/",
+      "description": "Traditional court music of Myanmar, developed from Southeast Asian, Hindu and Chinese influences.",
+      "level": "sub-4",
+      "parent": "Bamar Music"
+    },
+    {
+      "name": "Mono",
+      "url": "https://rateyourmusic.com/genre/mono/",
+      "description": "Employs Burmese melodies and modes of singing accompanied by Western instrumentation.",
+      "level": "sub-4",
+      "parent": "Bamar Music"
+    }
+  ]
+}

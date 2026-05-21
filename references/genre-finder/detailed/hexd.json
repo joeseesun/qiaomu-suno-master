@@ -1,0 +1,17 @@
+{
+  "name": "HexD",
+  "description": "Heavily bit-crushed vocals, sometimes sped-up and pitched-up, and highly compressed and distorted production, typically made from existing material of other genres.",
+  "url": "https://rateyourmusic.com/genre/hexd/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Krushclub",
+      "url": "https://rateyourmusic.com/genre/krushclub/",
+      "description": "Bitcrushed synths and occasionally bitcrushed vocals, energetic Jersey Club-derived beats, and elements of Sigilkore's dark production style.",
+      "level": "sub-2",
+      "parent": "HexD"
+    }
+  ]
+}

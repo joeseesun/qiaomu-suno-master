@@ -1,0 +1,66 @@
+{
+  "name": "English Folk Music",
+  "description": "Musical traditions of the English people, primarily divided into dance music and folksongs.",
+  "url": "https://rateyourmusic.com/genre/english-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Northumbrian Folk Music",
+      "url": "https://rateyourmusic.com/genre/northumbrian-folk-music/",
+      "description": "Traditional folk of Northumbria, a region of Northern England consisting of Northumberland and County Durham.",
+      "level": "sub-4",
+      "parent": "English Folk Music"
+    },
+    {
+      "name": "Northumbrian Folk Music",
+      "url": "https://rateyourmusic.com/genre/northumbrian-folk-music/",
+      "description": "Traditional folk of Northumbria, a region of Northern England consisting of Northumberland and County Durham.",
+      "level": "sub-4",
+      "parent": "English Folk Music"
+    },
+    {
+      "name": "Northumbrian Folk Music",
+      "url": "https://rateyourmusic.com/genre/northumbrian-folk-music/",
+      "description": "Traditional folk of Northumbria, a region of Northern England consisting of Northumberland and County Durham.",
+      "level": "sub-4",
+      "parent": "English Folk Music"
+    },
+    {
+      "name": "Northumbrian Folk Music",
+      "url": "https://rateyourmusic.com/genre/northumbrian-folk-music/",
+      "description": "Traditional folk of Northumbria, a region of Northern England consisting of Northumberland and County Durham.",
+      "level": "sub-4",
+      "parent": "English Folk Music"
+    },
+    {
+      "name": "Scrumpy and Western",
+      "url": "https://rateyourmusic.com/genre/scrumpy-and-western/",
+      "description": "Usually humorous music originating from England's West Country, heavily featuring traditional English folk instruments and often sung in the West Country accent.",
+      "level": "sub-4",
+      "parent": "English Folk Music"
+    },
+    {
+      "name": "Scrumpy and Western",
+      "url": "https://rateyourmusic.com/genre/scrumpy-and-western/",
+      "description": "Usually humorous music originating from England's West Country, heavily featuring traditional English folk instruments and often sung in the West Country accent.",
+      "level": "sub-4",
+      "parent": "English Folk Music"
+    },
+    {
+      "name": "Scrumpy and Western",
+      "url": "https://rateyourmusic.com/genre/scrumpy-and-western/",
+      "description": "Usually humorous music originating from England's West Country, heavily featuring traditional English folk instruments and often sung in the West Country accent.",
+      "level": "sub-4",
+      "parent": "English Folk Music"
+    },
+    {
+      "name": "Scrumpy and Western",
+      "url": "https://rateyourmusic.com/genre/scrumpy-and-western/",
+      "description": "Usually humorous music originating from England's West Country, heavily featuring traditional English folk instruments and often sung in the West Country accent.",
+      "level": "sub-4",
+      "parent": "English Folk Music"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Indigenous North American Music",
+  "description": "Diverse styles and genres developed by the indigenous peoples of present-day Canada, the United States and northwestern Mexico.",
+  "url": "https://rateyourmusic.com/genre/indigenous-north-american-music/",
+  "parent": "Indigenous American Music",
+  "level": "sub-2",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Athabaskan Fiddling",
+      "url": "https://rateyourmusic.com/genre/athabaskan-fiddling/",
+      "description": "Fiddle playing of the Northern Athabaskan Dene people of modern-day Alaska, the Yukon, and the Northwest Territories.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    },
+    {
+      "name": "Athabaskan Fiddling",
+      "url": "https://rateyourmusic.com/genre/athabaskan-fiddling/",
+      "description": "Fiddle playing of the Northern Athabaskan Dene people of modern-day Alaska, the Yukon, and the Northwest Territories.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    },
+    {
+      "name": "Inuit Music",
+      "url": "https://rateyourmusic.com/genre/inuit-music/",
+      "description": "Traditions of the Inuit people, the aboriginal peoples inhabiting the Arctic regions of Canada, Alaska, and Greenland.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    },
+    {
+      "name": "Inuit Music",
+      "url": "https://rateyourmusic.com/genre/inuit-music/",
+      "description": "Traditions of the Inuit people, the aboriginal peoples inhabiting the Arctic regions of Canada, Alaska, and Greenland.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    },
+    {
+      "name": "James Bay Fiddling",
+      "url": "https://rateyourmusic.com/genre/james-bay-fiddling/",
+      "description": "Fiddle playing of the James Bay Cree people, characterised by a fusion of Scottish style with Cree rhythms.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    },
+    {
+      "name": "James Bay Fiddling",
+      "url": "https://rateyourmusic.com/genre/james-bay-fiddling/",
+      "description": "Fiddle playing of the James Bay Cree people, characterised by a fusion of Scottish style with Cree rhythms.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    },
+    {
+      "name": "Métis Music",
+      "url": "https://rateyourmusic.com/genre/metis-music/",
+      "description": "Music of the indigenous Métis people of Canada and the United States.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    },
+    {
+      "name": "Métis Music",
+      "url": "https://rateyourmusic.com/genre/metis-music/",
+      "description": "Music of the indigenous Métis people of Canada and the United States.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    },
+    {
+      "name": "Powwow Music",
+      "url": "https://rateyourmusic.com/genre/powwow-music/",
+      "description": "Drum-based traditional music of Plains region Native American tribes, traditionally played at Pow-wows.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    },
+    {
+      "name": "Powwow Music",
+      "url": "https://rateyourmusic.com/genre/powwow-music/",
+      "description": "Drum-based traditional music of Plains region Native American tribes, traditionally played at Pow-wows.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    },
+    {
+      "name": "Pueblo Music",
+      "url": "https://rateyourmusic.com/genre/pueblo-music/",
+      "description": "Rooted in the traditions of the Pueblo peoples, who are indigenous to the southwest United States.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    },
+    {
+      "name": "Pueblo Music",
+      "url": "https://rateyourmusic.com/genre/pueblo-music/",
+      "description": "Rooted in the traditions of the Pueblo peoples, who are indigenous to the southwest United States.",
+      "level": "sub-3",
+      "parent": "Indigenous North American Music"
+    }
+  ]
+}

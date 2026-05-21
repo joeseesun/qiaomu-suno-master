@@ -1,0 +1,52 @@
+{
+  "name": "Synthpop",
+  "description": "Led by melodic synthesizer sounds, often with reverberating drum machine patterns; commonly associated with the 1980s.",
+  "url": "https://rateyourmusic.com/genre/synthpop/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Futurepop",
+      "url": "https://rateyourmusic.com/genre/futurepop/",
+      "description": "Derivative of EBM, retaining its apocalyptic worldview but incorporating heavy influence from the melodic style of Synthpop.",
+      "level": "sub-2",
+      "parent": "Synthpop"
+    },
+    {
+      "name": "Futurepop",
+      "url": "https://rateyourmusic.com/genre/futurepop/",
+      "description": "Derivative of EBM, retaining its apocalyptic worldview but incorporating heavy influence from the melodic style of Synthpop.",
+      "level": "sub-2",
+      "parent": "Synthpop"
+    },
+    {
+      "name": "Pon-chak disco",
+      "url": "https://rateyourmusic.com/genre/pon-chak-disco/",
+      "description": "Heavily influenced by Electro-Disco, featuring cheap \"electronic organ\" synth leads and minimalistic, repetitive rhythms.",
+      "level": "sub-2",
+      "parent": "Synthpop"
+    },
+    {
+      "name": "Pon-chak disco",
+      "url": "https://rateyourmusic.com/genre/pon-chak-disco/",
+      "description": "Heavily influenced by Electro-Disco, featuring cheap \"electronic organ\" synth leads and minimalistic, repetitive rhythms.",
+      "level": "sub-2",
+      "parent": "Synthpop"
+    },
+    {
+      "name": "Techno kayō",
+      "url": "https://rateyourmusic.com/genre/techno-kayo/",
+      "description": "Offshoot of 1980s Kayōkyoku and Idol kayō incorporating characteristics from Synthpop.",
+      "level": "sub-2",
+      "parent": "Synthpop"
+    },
+    {
+      "name": "Techno kayō",
+      "url": "https://rateyourmusic.com/genre/techno-kayo/",
+      "description": "Offshoot of 1980s Kayōkyoku and Idol kayō incorporating characteristics from Synthpop.",
+      "level": "sub-2",
+      "parent": "Synthpop"
+    }
+  ]
+}

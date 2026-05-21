@@ -1,0 +1,24 @@
+{
+  "name": "Brutal Death Metal",
+  "description": "Emphasizes abrasiveness, chunky rhythmic atonal riffs, and low guttural vocals.",
+  "url": "https://rateyourmusic.com/genre/brutal-death-metal/",
+  "parent": "Death Metal",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Slam Death Metal",
+      "url": "https://rateyourmusic.com/genre/slam-death-metal/",
+      "description": "Focuses on slow or midtempo (as well as breakdown-style) sections built on chromatic, palm-muted riffs - so-called \"slams\".",
+      "level": "sub-3",
+      "parent": "Brutal Death Metal"
+    },
+    {
+      "name": "Slam Death Metal",
+      "url": "https://rateyourmusic.com/genre/slam-death-metal/",
+      "description": "Focuses on slow or midtempo (as well as breakdown-style) sections built on chromatic, palm-muted riffs - so-called \"slams\".",
+      "level": "sub-4",
+      "parent": "Brutal Death Metal"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Breakbeat Kota",
+  "description": "Indonesian style that slows down the syncopated rhythms of Funkot to moderate tempos around 130 BPM.",
+  "url": "https://rateyourmusic.com/genre/breakbeat-kota/",
+  "parent": "Breakbeat",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Jungle Dutch",
+      "url": "https://rateyourmusic.com/genre/jungle-dutch/",
+      "description": "Combines the high-pitched synth leads of Dutch House with the frantic \"tribal\" rhythms of Jungle Terror.",
+      "level": "sub-4",
+      "parent": "Breakbeat Kota"
+    },
+    {
+      "name": "Jungle Dutch",
+      "url": "https://rateyourmusic.com/genre/jungle-dutch/",
+      "description": "Combines the high-pitched synth leads of Dutch House with the frantic \"tribal\" rhythms of Jungle Terror.",
+      "level": "sub-4",
+      "parent": "Breakbeat Kota"
+    },
+    {
+      "name": "Jungle Dutch",
+      "url": "https://rateyourmusic.com/genre/jungle-dutch/",
+      "description": "Combines the high-pitched synth leads of Dutch House with the frantic \"tribal\" rhythms of Jungle Terror.",
+      "level": "sub-4",
+      "parent": "Breakbeat Kota"
+    },
+    {
+      "name": "Jungle Dutch",
+      "url": "https://rateyourmusic.com/genre/jungle-dutch/",
+      "description": "Combines the high-pitched synth leads of Dutch House with the frantic \"tribal\" rhythms of Jungle Terror.",
+      "level": "sub-4",
+      "parent": "Breakbeat Kota"
+    }
+  ]
+}

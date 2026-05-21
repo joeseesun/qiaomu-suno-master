@@ -1,0 +1,38 @@
+{
+  "name": "Art Song",
+  "description": "Vocal music with text often set to Poetry, typically for single vocalist with instrumental accompaniment, distinguished by its design for concert recital and high artistic demands requiring classically trained musicians.",
+  "url": "https://rateyourmusic.com/genre/art-song/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Elizabethan Song",
+      "url": "https://rateyourmusic.com/genre/elizabethan-song/",
+      "description": "Monophonic style developed in Renaissance England that is typically composed in strophic form for one to several vocalists with instrumental accompaniment ranging from solo lute to chamber ensemble.",
+      "level": "sub-3",
+      "parent": "Art Song"
+    },
+    {
+      "name": "Lied",
+      "url": "https://rateyourmusic.com/genre/lied/",
+      "description": "Form of song arising from 19th century German Romanticism, usually for solo vocalist & piano with a text derived from poetry.",
+      "level": "sub-3",
+      "parent": "Art Song"
+    },
+    {
+      "name": "Mélodie",
+      "url": "https://rateyourmusic.com/genre/melodie/",
+      "description": "French form typically with a greater emphasis on emotional restraint, refinement, subtlety, and concision.",
+      "level": "sub-3",
+      "parent": "Art Song"
+    },
+    {
+      "name": "Orchestral Song",
+      "url": "https://rateyourmusic.com/genre/orchestral-song/",
+      "description": "Classical song for solo voice or voices with orchestral accompaniment.",
+      "level": "sub-3",
+      "parent": "Art Song"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Cubaton",
+  "description": "Rhythmically and vocally inspired by major elements of Cuban Music.",
+  "url": "https://rateyourmusic.com/genre/cubaton/",
+  "parent": "Cuban Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Reparto",
+      "url": "https://rateyourmusic.com/genre/reparto/",
+      "description": "Incorporating Cuban Music elements, resulting in dynamic rhythms and a sound palette that typically features  Salsa-like guitar picking.",
+      "level": "sub-4",
+      "parent": "Cubaton"
+    },
+    {
+      "name": "Reparto",
+      "url": "https://rateyourmusic.com/genre/reparto/",
+      "description": "Incorporating Cuban Music elements, resulting in dynamic rhythms and a sound palette that typically features  Salsa-like guitar picking.",
+      "level": "sub-5",
+      "parent": "Cubaton"
+    },
+    {
+      "name": "Reparto",
+      "url": "https://rateyourmusic.com/genre/reparto/",
+      "description": "Incorporating Cuban Music elements, resulting in dynamic rhythms and a sound palette that typically features  Salsa-like guitar picking.",
+      "level": "sub-5",
+      "parent": "Cubaton"
+    }
+  ]
+}

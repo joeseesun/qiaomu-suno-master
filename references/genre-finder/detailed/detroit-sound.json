@@ -1,0 +1,24 @@
+{
+  "name": "Detroit Sound",
+  "description": "Upbeat 808 percussion; simple, funky mallet instruments, keys, strings, and synth bass; and street-centric, often punched-in rapping.",
+  "url": "https://rateyourmusic.com/genre/detroit-sound/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Flint Sound",
+      "url": "https://rateyourmusic.com/genre/flint-sound/",
+      "description": "Uptempo and repetitive, featuring simple melodies, pitched-up snares, and humorous, punchline-heavy lyrics.",
+      "level": "sub-2",
+      "parent": "Detroit Sound"
+    },
+    {
+      "name": "Philly Drill",
+      "url": "https://rateyourmusic.com/genre/philly-drill/",
+      "description": "Apocalyptic and haunting choirs, keys, and strings with gruesome narratives and slow, sparse drums.",
+      "level": "sub-2",
+      "parent": "Detroit Sound"
+    }
+  ]
+}

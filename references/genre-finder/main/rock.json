@@ -1,0 +1,421 @@
+{
+  "name": "Rock",
+  "description": "Typically uses a verse-chorus structure with a backbeat rhythm and the electric guitar at the forefront; generally heavier and/or faster than its predecessors.",
+  "url": "https://rateyourmusic.com/genre/rock/",
+  "sub_genres_count": 59,
+  "sub_genres": [
+    {
+      "name": "AOR",
+      "url": "https://rateyourmusic.com/genre/aor/",
+      "description": "Emerged in the late 1970s and early 1980s as an amalgamation of Hard Rock, Pop Rock, and Progressive Rock; characterized by a rich, layered sound, slick production and a heavy reliance on commercial melodic hooks.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Acoustic Rock",
+      "url": "https://rateyourmusic.com/genre/acoustic-rock/",
+      "description": "Rock with acoustic instrumentation, as opposed to the typical electric instrumentation.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Afro-Rock",
+      "url": "https://rateyourmusic.com/genre/afro-rock/",
+      "description": "Incorporates West African influences; initially emerged in the early 1970s.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Alternative Rock",
+      "url": "https://rateyourmusic.com/genre/alternative-rock/",
+      "description": "Performed with a less commercial sensibility, utilizing more eccentric, Punk-influenced sounds, moodier or quirkier lyricism, and sometimes ample amounts of distortion, often paired with Pop-influenced songwriting.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Anatolian Rock",
+      "url": "https://rateyourmusic.com/genre/anatolian-rock/",
+      "description": "Incorporates elements of Turkish Folk Music, particularly traditional instruments such as the bağlama and saz alongside traditional scales and melodies.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Art Punk",
+      "url": "https://rateyourmusic.com/genre/art-punk/",
+      "description": "Combines the stripped-down aggression of rudimentary Punk Rock with frequent experimentation ranging from instrumental interplay, noise, dissonance, and/or influences from other genres such as Jazz or Funk.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Art Rock",
+      "url": "https://rateyourmusic.com/genre/art-rock/",
+      "description": "Attempts to expand the bounds of Rock within conventional structures, often using outside influences or experimentation for conceptual or thematic purpose.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Bard Rock",
+      "url": "https://rateyourmusic.com/genre/bard-rock/",
+      "description": "Mixes Rock music and styles with Avtorskaya pesnya.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Blues Rock",
+      "url": "https://rateyourmusic.com/genre/blues-rock/",
+      "description": "Relies on the chords/scales and instrumental improvisation of Blues.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "British Rhythm & Blues",
+      "url": "https://rateyourmusic.com/genre/british-rhythm-and-blues/",
+      "description": "A style infusing Rock and R&B that was hugely popular in the United Kingdom between 1963 and 1966.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Candombe beat",
+      "url": "https://rateyourmusic.com/genre/candombe-beat/",
+      "description": "Fusion of Uruguayan Candombe with elements of Rock music.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Christian Rock",
+      "url": "https://rateyourmusic.com/genre/christian-rock/",
+      "description": "Incorporates Christian lyrics, with topics such as faith, metaphysics, or biblical characters.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Comedy Rock",
+      "url": "https://rateyourmusic.com/genre/comedy-rock/",
+      "description": "Roughly defined as a mix of Rock or any of its subgenres with elements of Comedy such as Satire and Musical Parody, as well as concepts of Novelty.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Country Rock",
+      "url": "https://rateyourmusic.com/genre/country-rock/",
+      "description": "Combination of contemporary Rock with more traditional American Country.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Cowpunk",
+      "url": "https://rateyourmusic.com/genre/cowpunk/",
+      "description": "Mixes together Country Rock, Rockabilly, and Contemporary Folk with the familiar punk sound.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Deutschrock",
+      "url": "https://rateyourmusic.com/genre/deutschrock/",
+      "description": "Lyrics address German life, culture, and identity wrapped in upbeat songs, anthemic ballads, and a strong focus on the personality of the lead singer.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Emo",
+      "url": "https://rateyourmusic.com/genre/emo/",
+      "description": "Focuses on emotional lyrics, expressive vocals, melodic songwriting, and dynamic song structures.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Experimental Rock",
+      "url": "https://rateyourmusic.com/genre/experimental-rock/",
+      "description": "Eschews accessibility and convention, experimenting with song structures, time signatures, rhythm, dissonance, instrumentation, noise, electronics, studio manipulation, and other techniques not traditionally associated with Rock.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Folk Rock",
+      "url": "https://rateyourmusic.com/genre/folk-rock/",
+      "description": "Influenced by Folk, particularly in the use of acoustic instrumentation and relatively simple arrangements; has its origins in the American Contemporary Folk movement of the 1960s.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Funk Rock",
+      "url": "https://rateyourmusic.com/genre/funk-rock/",
+      "description": "Incorporates prominent Funk grooves.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Garage Rock",
+      "url": "https://rateyourmusic.com/genre/garage-rock/",
+      "description": "Raw and energetic, generally employing simple, sloppy, and fuzzbox-distorted guitar melodies in addition to frequent shouting or screaming.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Glam Rock",
+      "url": "https://rateyourmusic.com/genre/glam-rock/",
+      "description": "Incorporates elements of Rock & Roll and Blues Rock into catchy Pop Rock melodies, usually accompanied with a strong sense of theatricality.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Hard Rock",
+      "url": "https://rateyourmusic.com/genre/hard-rock/",
+      "description": "Originated in the mid-to-late 1960s from Psychedelic Rock and Blues Rock with a heavy sound characterized by distorted guitars and power chords.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Hardcore [Punk]",
+      "url": "https://rateyourmusic.com/genre/hardcore-punk-1/",
+      "description": "Broad genre which encompasses the first wave of Hardcore Punk beginning in the 1970s, as well as its derivative styles that incorporate diverse musical influences and stray away from the core Punk Rock sound.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Heartland Rock",
+      "url": "https://rateyourmusic.com/genre/heartland-rock/",
+      "description": "Borrows elements from Folk Rock, Roots Rock, and 1950s-60s Rock & Roll; often characterized by its conscious, communal lyrical concerns and working-class appeal.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Industrial Rock",
+      "url": "https://rateyourmusic.com/genre/industrial-rock/",
+      "description": "Incorporates abrasive guitars and synthesizers inspired by Industrial and various Post-Industrial styles.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Jam Band",
+      "url": "https://rateyourmusic.com/genre/jam-band/",
+      "description": "Arose in late 1960s America, usually performed in a live setting and combines diverse styles under the Rock umbrella, often influenced by genres such as Funk, Jazz, Country and Blues.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Jazz-Rock",
+      "url": "https://rateyourmusic.com/genre/jazz-rock/",
+      "description": "Strongly influenced by Jazz in structure and/or instrumentation.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Jersey Shore Sound",
+      "url": "https://rateyourmusic.com/genre/jersey-shore-sound/",
+      "description": "Stylistically correlated to Heartland Rock, with cultural origins in coastal New Jersey; characterized by its horn-heavy mixture of 1960s Rock & Roll, Rhythm & Blues, and Doo-Wop.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Latin Rock",
+      "url": "https://rateyourmusic.com/genre/latin-rock/",
+      "description": "Fusion of Rock, often Psychedelic Rock, with Latin American rhythms, especially Afro-Latin genres.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Manguebeat",
+      "url": "https://rateyourmusic.com/genre/manguebeat/",
+      "description": "Counterculture fusion of traditional Northeastern Brazilian Music genres with modern Rock and Hip Hop.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Math Rock",
+      "url": "https://rateyourmusic.com/genre/math-rock/",
+      "description": "Explores complex and unconventional rhythmic patterns through unusual syncopation, stop-start structures, polyrhythms and complex time signatures, angular melodies, and technical instrumental performances.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Metal",
+      "url": "https://rateyourmusic.com/genre/metal/",
+      "description": "Driving and distorted riffs, aggressive drumming, vigorous vocals, and an all-around show of brute force in its early days, since branching into dozens of subgenres.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Miejski folk",
+      "url": "https://rateyourmusic.com/genre/miejski-folk/",
+      "description": "Alternative and Punk music influenced by Folklor miejski and Contemporary Folk.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "New Wave",
+      "url": "https://rateyourmusic.com/genre/new-wave/",
+      "description": "Broad term referring to a variety of styles that saw popularity in the wake of the Punk Rock explosion of 1976-77, initially strongly associated with more accessible and stylish offshoots of punk; developed alongside Post-Punk, similarly emphasising freshness and daring.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Noise Rock",
+      "url": "https://rateyourmusic.com/genre/noise-rock/",
+      "description": "Explores dissonance and distortion through unconventional playing and guitar effects, commonly augmented by lo-fi production and bursts of feedback.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Pop Rock",
+      "url": "https://rateyourmusic.com/genre/pop-rock/",
+      "description": "Fuses conventional verse-chorus song structure and especially melodic songwriting with usage of guitars, drums, and propulsive rhythms.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Post-Punk",
+      "url": "https://rateyourmusic.com/genre/post-punk/",
+      "description": "Emerged alongside the initial Punk Rock explosion in the mid-to-late 1970s, putting a greater emphasis on experimentation and atmosphere.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Post-Rock",
+      "url": "https://rateyourmusic.com/genre/post-rock/",
+      "description": "Emphasis on timbre, texture, and atmosphere over traditional conventions while often embracing influences from genres not usually associated with Rock.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Progressive Rock",
+      "url": "https://rateyourmusic.com/genre/progressive-rock/",
+      "description": "Complex harmonies, instrumental virtuosity, and usually multi-section song structures featuring a broad range of instrumentation.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Proto-Punk",
+      "url": "https://rateyourmusic.com/genre/proto-punk/",
+      "description": "Used to describe what influenced or in some way resembled Punk Rock before that genre's commercial breakthrough in 1976.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Psychedelic Rock",
+      "url": "https://rateyourmusic.com/genre/psychedelic-rock/",
+      "description": "Rock which emerged in the mid-1960s that often attempts to emulate or enhance the effects of psychedelic drugs.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Pub Rock",
+      "url": "https://rateyourmusic.com/genre/pub-rock/",
+      "description": "Stripped-down style developed in the United Kingdom in the early to mid-1970s, mainly as a reaction to the perceived excess and pretension of Progressive Rock and Glam Rock.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Punk Blues",
+      "url": "https://rateyourmusic.com/genre/punk-blues/",
+      "description": "Fusion of the instrumentation and scales of Blues Rock with Punk.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Punk Rock",
+      "url": "https://rateyourmusic.com/genre/punk-rock/",
+      "description": "Fast tempos, loud and distorted riffs, simple songs, frequent use of power chords, and shouted vocals, originating in the mid-1970s in response to commercial, sentimental, and complex Rock.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Rap Rock",
+      "url": "https://rateyourmusic.com/genre/rap-rock/",
+      "description": "Fusion of Hip Hop and Rock, often featuring the former’s rhythmic vocal delivery and the latter’s heavy, distorted instrumentation.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Reggae Rock",
+      "url": "https://rateyourmusic.com/genre/reggae-rock/",
+      "description": "Incorporates the offbeat rhythms and staccato \"skank\" guitar of Reggae.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Rock & Roll",
+      "url": "https://rateyourmusic.com/genre/rock-and-roll/",
+      "description": "Developed in the United States and popularized in the 1950s, featuring prominent Blues scales, poppy structures, and strong rhythms.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Rock Musical",
+      "url": "https://rateyourmusic.com/genre/rock-musical/",
+      "description": "Style of musical theatre inspired by Rock.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Rock Opera",
+      "url": "https://rateyourmusic.com/genre/rock-opera/",
+      "description": "Hybrid of rock and, sometimes, musical theatre stylings with heavily rock-tinged songs combining to tell a coherent story.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Rock andaluz",
+      "url": "https://rateyourmusic.com/genre/rock-andaluz/",
+      "description": "Emerged during the mid-1970s in Spain; primarily utilizes Flamenco and often Symphonic Prog elements.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Rock andino",
+      "url": "https://rateyourmusic.com/genre/rock-andino/",
+      "description": "Emerged in the Andean countries in the late 1960s and early 1970s, incorporating traditional instruments and harmonies from Indigenous Andean Music within a Rock format.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Roots Rock",
+      "url": "https://rateyourmusic.com/genre/roots-rock/",
+      "description": "Consciously and predominantly incorporates elements of its predecessors and original roots such as Country, Blues, Rhythm & Blues, Rock & Roll, and American Folk Music, but also many other American traditions.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Southern Rock",
+      "url": "https://rateyourmusic.com/genre/southern-rock/",
+      "description": "Emerged from the American South in the early 1970s, blending Blues Rock, Hard Rock, and Rock & Roll with elements of Country and Contemporary Folk.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Sufi Rock",
+      "url": "https://rateyourmusic.com/genre/sufi-rock/",
+      "description": "Pakistani subgenre rooted in Sufi tradition, featuring South Asian instruments like the dhol, tabla, and sitar within a Rock band format with lyrics and imagery inspired by traditional Sufi poets.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Surf Music",
+      "url": "https://rateyourmusic.com/genre/surf-music/",
+      "description": "Evolved from late 1950s instrumental Rock & Roll in the USA, particularly associated with the surfing culture in Southern California.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Symphonic Rock",
+      "url": "https://rateyourmusic.com/genre/symphonic-rock/",
+      "description": "Incorporates elements resembling Orchestral Music.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Tolai Rock",
+      "url": "https://rateyourmusic.com/genre/tolai-rock/",
+      "description": "Fuses the music of the Tolai people of Papua New Guinea with Rock.",
+      "level": "sub",
+      "parent": "Rock"
+    },
+    {
+      "name": "Zolo",
+      "url": "https://rateyourmusic.com/genre/zolo/",
+      "description": "Retrospective term grouping artists that fuse elements of New Wave and Progressive Rock with a flamboyant, quirky aesthetic and often the energy of Punk.",
+      "level": "sub",
+      "parent": "Rock"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Liquid Drum and Bass",
+  "description": "Atmospheric and melodic genre that developed in the early 2000s; utilizes polished and smooth production, simpler structures, and originally sampled Funk and Soul.",
+  "url": "https://rateyourmusic.com/genre/liquid-drum-and-bass/",
+  "parent": "Drum and Bass",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Sambass",
+      "url": "https://rateyourmusic.com/genre/sambass/",
+      "description": "Combines Drum and Bass tempos and drum patterns, in addition to its Funk and Soul influences, with various styles of Brazilian Music.",
+      "level": "sub-4",
+      "parent": "Liquid Drum and Bass"
+    },
+    {
+      "name": "Sambass",
+      "url": "https://rateyourmusic.com/genre/sambass/",
+      "description": "Combines Drum and Bass tempos and drum patterns, in addition to its Funk and Soul influences, with various styles of Brazilian Music.",
+      "level": "sub-4",
+      "parent": "Liquid Drum and Bass"
+    }
+  ]
+}

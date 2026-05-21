@@ -1,0 +1,122 @@
+{
+  "name": "Rioplatense Music",
+  "description": "Music developed by the people of the Rio de la Plata region.",
+  "url": "https://rateyourmusic.com/genre/rioplatense-music/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Candombe",
+      "url": "https://rateyourmusic.com/genre/candombe/",
+      "description": "Uruguayan popular music originating among Montevideo's Afro-Uruguayan population, based on three differently-sized drums.",
+      "level": "sub-4",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Candombe",
+      "url": "https://rateyourmusic.com/genre/candombe/",
+      "description": "Uruguayan popular music originating among Montevideo's Afro-Uruguayan population, based on three differently-sized drums.",
+      "level": "sub-3",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Candombe beat",
+      "url": "https://rateyourmusic.com/genre/candombe-beat/",
+      "description": "Fusion of Uruguayan Candombe with elements of Rock music.",
+      "level": "sub-4",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Candombe beat",
+      "url": "https://rateyourmusic.com/genre/candombe-beat/",
+      "description": "Fusion of Uruguayan Candombe with elements of Rock music.",
+      "level": "sub-3",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Chamarrita rioplatense",
+      "url": "https://rateyourmusic.com/genre/chamarrita-rioplatense/",
+      "description": "Traditional genre and dance featuring similar rhythms to Milonga and typically performed with the guitar and accordion.",
+      "level": "sub-4",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Chamarrita rioplatense",
+      "url": "https://rateyourmusic.com/genre/chamarrita-rioplatense/",
+      "description": "Traditional genre and dance featuring similar rhythms to Milonga and typically performed with the guitar and accordion.",
+      "level": "sub-3",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Cumbia pop",
+      "url": "https://rateyourmusic.com/genre/cumbia-pop/",
+      "description": "Developed in the Río de la Plata region in the mid-2010s, featuring Latin Pop influences and lyrics related to romance, youth, and fun.",
+      "level": "sub-4",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Cumbia pop",
+      "url": "https://rateyourmusic.com/genre/cumbia-pop/",
+      "description": "Developed in the Río de la Plata region in the mid-2010s, featuring Latin Pop influences and lyrics related to romance, youth, and fun.",
+      "level": "sub-3",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Electrotango",
+      "url": "https://rateyourmusic.com/genre/electrotango/",
+      "description": "Combines Tango rhythms and melodies with Electronic music.",
+      "level": "sub-4",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Electrotango",
+      "url": "https://rateyourmusic.com/genre/electrotango/",
+      "description": "Combines Tango rhythms and melodies with Electronic music.",
+      "level": "sub-3",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Milonga",
+      "url": "https://rateyourmusic.com/genre/milonga/",
+      "description": "Characterized by a slow rhythm usually performed on a guitar; generally considered a precursor to Tango.",
+      "level": "sub-4",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Milonga",
+      "url": "https://rateyourmusic.com/genre/milonga/",
+      "description": "Characterized by a slow rhythm usually performed on a guitar; generally considered a precursor to Tango.",
+      "level": "sub-3",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Murga uruguaya",
+      "url": "https://rateyourmusic.com/genre/murga-uruguaya/",
+      "description": "Variant originated in Montevideo that stands out for its rhythms, nasal vocals and choral arrangements.",
+      "level": "sub-4",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Murga uruguaya",
+      "url": "https://rateyourmusic.com/genre/murga-uruguaya/",
+      "description": "Variant originated in Montevideo that stands out for its rhythms, nasal vocals and choral arrangements.",
+      "level": "sub-3",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Tango",
+      "url": "https://rateyourmusic.com/genre/tango/",
+      "description": "Melancholic sound generally led by a guitar or bandoneon, originating in Buenos Aires by the late 19th century and gaining worldwide popularity from the 1920s to the 1950s.",
+      "level": "sub-4",
+      "parent": "Rioplatense Music"
+    },
+    {
+      "name": "Tango",
+      "url": "https://rateyourmusic.com/genre/tango/",
+      "description": "Melancholic sound generally led by a guitar or bandoneon, originating in Buenos Aires by the late 19th century and gaining worldwide popularity from the 1920s to the 1950s.",
+      "level": "sub-3",
+      "parent": "Rioplatense Music"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Louisiana Music",
+  "description": "Regional Music from the US state of Louisiana.",
+  "url": "https://rateyourmusic.com/genre/louisiana-music/",
+  "parent": "Northern American Music",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Cajun Music",
+      "url": "https://rateyourmusic.com/genre/cajun-music/",
+      "description": "Associated with the Cajun people of Louisiana where the genre was born, commonly regarded as an uptempo, accordion-driven style with a harsh, infectious beat.",
+      "level": "sub-3",
+      "parent": "Louisiana Music"
+    },
+    {
+      "name": "New Orleans Brass Band",
+      "url": "https://rateyourmusic.com/genre/new-orleans-brass-band/",
+      "description": "New Orleans' unique combination of European-styled military bands with African folklore.",
+      "level": "sub-3",
+      "parent": "Louisiana Music"
+    },
+    {
+      "name": "New Orleans R&B",
+      "url": "https://rateyourmusic.com/genre/new-orleans-randb/",
+      "description": "Increased rhythmic complexity with added focus on piano and horns.",
+      "level": "sub-3",
+      "parent": "Louisiana Music"
+    },
+    {
+      "name": "Swamp Blues",
+      "url": "https://rateyourmusic.com/genre/swamp-blues/",
+      "description": "Originated in Baton Rouge, Louisiana in the 1950s, with a laid-back and relaxed sound that takes influence from Zydeco and Cajun Music.",
+      "level": "sub-3",
+      "parent": "Louisiana Music"
+    },
+    {
+      "name": "Swamp Pop",
+      "url": "https://rateyourmusic.com/genre/swamp-pop/",
+      "description": "Uniquely Cajun style of Rhythm & Blues distinguished by tripleted pianos and a slow Blues structure.",
+      "level": "sub-3",
+      "parent": "Louisiana Music"
+    },
+    {
+      "name": "Zydeco",
+      "url": "https://rateyourmusic.com/genre/zydeco/",
+      "description": "Uptempo accordion-led dance style mixing Creole and Cajun folk with African American popular music influences.",
+      "level": "sub-3",
+      "parent": "Louisiana Music"
+    }
+  ]
+}

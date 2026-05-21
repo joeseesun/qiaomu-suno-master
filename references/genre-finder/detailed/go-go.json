@@ -1,0 +1,17 @@
+{
+  "name": "Go-Go",
+  "description": "Dominated by drums and percussion (primarily congas) with heavily syncopated rhythms, bursts of horns, and call-and-response vocals.",
+  "url": "https://rateyourmusic.com/genre/go-go/",
+  "parent": "Funk",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Bounce Beat",
+      "url": "https://rateyourmusic.com/genre/bounce-beat/",
+      "description": "Modernized, youth oriented form heavily utilizing rototoms, timbale and keyboards for grooves.",
+      "level": "sub-3",
+      "parent": "Go-Go"
+    }
+  ]
+}

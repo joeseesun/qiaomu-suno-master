@@ -1,0 +1,38 @@
+{
+  "name": "Tango",
+  "description": "Melancholic sound generally led by a guitar or bandoneon, originating in Buenos Aires by the late 19th century and gaining worldwide popularity from the 1920s to the 1950s.",
+  "url": "https://rateyourmusic.com/genre/tango/",
+  "parent": "Rioplatense Music",
+  "level": "sub-4",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Finnish Tango",
+      "url": "https://rateyourmusic.com/genre/finnish-tango/",
+      "description": "Melancholic style developed in Finland in the 1930s and 1940s, influenced by traditional minor-key Finnish Folk Music melodies and the rhythms of German marches.",
+      "level": "sub-5",
+      "parent": "Tango"
+    },
+    {
+      "name": "Finnish Tango",
+      "url": "https://rateyourmusic.com/genre/finnish-tango/",
+      "description": "Melancholic style developed in Finland in the 1930s and 1940s, influenced by traditional minor-key Finnish Folk Music melodies and the rhythms of German marches.",
+      "level": "sub-4",
+      "parent": "Tango"
+    },
+    {
+      "name": "Tango nuevo",
+      "url": "https://rateyourmusic.com/genre/tango-nuevo/",
+      "description": "Adds new elements into traditional Argentine Tango, most importantly the incorporation of Jazz and Western Classical Music.",
+      "level": "sub-5",
+      "parent": "Tango"
+    },
+    {
+      "name": "Tango nuevo",
+      "url": "https://rateyourmusic.com/genre/tango-nuevo/",
+      "description": "Adds new elements into traditional Argentine Tango, most importantly the incorporation of Jazz and Western Classical Music.",
+      "level": "sub-4",
+      "parent": "Tango"
+    }
+  ]
+}

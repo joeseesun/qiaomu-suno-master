@@ -1,0 +1,38 @@
+{
+  "name": "Salsa",
+  "description": "Often incorporating congas, timbales and bongos as well as smaller instruments, such as maracas, clave and güiro.",
+  "url": "https://rateyourmusic.com/genre/salsa/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Salsa choke",
+      "url": "https://rateyourmusic.com/genre/salsa-choke/",
+      "description": "Colombian style that takes heavy influence from Reggaetón, House, Hip Hop, and various Afro-Colombian and Colombian Pacific styles.",
+      "level": "sub-4",
+      "parent": "Salsa"
+    },
+    {
+      "name": "Salsa dura",
+      "url": "https://rateyourmusic.com/genre/salsa-dura/",
+      "description": "Earlier form of Salsa, usually less rigid in structure allowing for extended jam sessions; lyrical themes revolve around the \"barrio\" way of life and Latin American traditions.",
+      "level": "sub-4",
+      "parent": "Salsa"
+    },
+    {
+      "name": "Salsa romántica",
+      "url": "https://rateyourmusic.com/genre/salsa-romantica/",
+      "description": "Salsa following a stronger influence from Pop, typically sharing shorter, conventional structures and romantic lyricism.",
+      "level": "sub-4",
+      "parent": "Salsa"
+    },
+    {
+      "name": "Timba",
+      "url": "https://rateyourmusic.com/genre/timba/",
+      "description": "Combines Salsa with other genres such as Hip Hop, Disco, Funk, Jazz and Rock.",
+      "level": "sub-4",
+      "parent": "Salsa"
+    }
+  ]
+}

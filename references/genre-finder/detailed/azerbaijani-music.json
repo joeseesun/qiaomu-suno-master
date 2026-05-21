@@ -1,0 +1,38 @@
+{
+  "name": "Azerbaijani Music",
+  "description": "Music of the Azerbaijani people, who inhabit the modern day country of Azerbaijan, along with a significant population in the neighboring country of Iran.",
+  "url": "https://rateyourmusic.com/genre/azerbaijani-music/",
+  "parent": "West Asian Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Azerbaijani Mugham",
+      "url": "https://rateyourmusic.com/genre/azerbaijani-mugham/",
+      "description": "Highly improvisational form of modal music characterized by the singing style and the themes of Azerbaijan’s history.",
+      "level": "sub-4",
+      "parent": "Azerbaijani Music"
+    },
+    {
+      "name": "Jazz Mugham",
+      "url": "https://rateyourmusic.com/genre/jazz-mugham/",
+      "description": "Combines Jazz with elements of Azerbaijani Mugham, featuring jazz-inspired instrumental compositions, improvisations, wind and vocal elements, as well as modal scales and ornamentation techniques for emotional depth.",
+      "level": "sub-4",
+      "parent": "Azerbaijani Music"
+    },
+    {
+      "name": "Meyxana",
+      "url": "https://rateyourmusic.com/genre/meyxana/",
+      "description": "Azerbaijani folk recitative genre.",
+      "level": "sub-4",
+      "parent": "Azerbaijani Music"
+    },
+    {
+      "name": "Symphonic Mugham",
+      "url": "https://rateyourmusic.com/genre/symphonic-mugham/",
+      "description": "Introduces elements of Azerbaijani Mugham into the structure of the composition, played on a full western orchestra.",
+      "level": "sub-4",
+      "parent": "Azerbaijani Music"
+    }
+  ]
+}

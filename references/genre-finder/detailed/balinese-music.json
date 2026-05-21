@@ -1,0 +1,38 @@
+{
+  "name": "Balinese Music",
+  "description": "Music of the Balinese people.",
+  "url": "https://rateyourmusic.com/genre/balinese-music/",
+  "parent": "Indonesian Music",
+  "level": "sub-4",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Balinese Gamelan",
+      "url": "https://rateyourmusic.com/genre/balinese-gamelan/",
+      "description": "Broad classification grouping various forms of Gamelan with native roots in Bali.",
+      "level": "sub-5",
+      "parent": "Balinese Music"
+    },
+    {
+      "name": "Balinese Gamelan",
+      "url": "https://rateyourmusic.com/genre/balinese-gamelan/",
+      "description": "Broad classification grouping various forms of Gamelan with native roots in Bali.",
+      "level": "sub-3",
+      "parent": "Balinese Music"
+    },
+    {
+      "name": "Kecak",
+      "url": "https://rateyourmusic.com/genre/kecak/",
+      "description": "Balinese dance-drama and its associated musical style, with a choir performing a polyrhythmic style of vocal music somewhat similar in structure to Gamelan.",
+      "level": "sub-5",
+      "parent": "Balinese Music"
+    },
+    {
+      "name": "Kecak",
+      "url": "https://rateyourmusic.com/genre/kecak/",
+      "description": "Balinese dance-drama and its associated musical style, with a choir performing a polyrhythmic style of vocal music somewhat similar in structure to Gamelan.",
+      "level": "sub-3",
+      "parent": "Balinese Music"
+    }
+  ]
+}

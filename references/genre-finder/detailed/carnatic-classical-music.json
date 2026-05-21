@@ -1,0 +1,24 @@
+{
+  "name": "Carnatic Classical Music",
+  "description": "Culture shared by the Dravidian cultures in South India separate from regional folk genres.",
+  "url": "https://rateyourmusic.com/genre/carnatic-classical-music/",
+  "parent": "South Asian Classical Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Konnakol",
+      "url": "https://rateyourmusic.com/genre/konnakol/",
+      "description": "Traditional song utilizing solkattu, syllablic patterns to mimic instrumentation.",
+      "level": "sub-3",
+      "parent": "Carnatic Classical Music"
+    },
+    {
+      "name": "Konnakol",
+      "url": "https://rateyourmusic.com/genre/konnakol/",
+      "description": "Traditional song utilizing solkattu, syllablic patterns to mimic instrumentation.",
+      "level": "sub-5",
+      "parent": "Carnatic Classical Music"
+    }
+  ]
+}

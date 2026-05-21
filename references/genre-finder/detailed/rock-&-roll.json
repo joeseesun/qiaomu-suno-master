@@ -1,0 +1,31 @@
+{
+  "name": "Rock & Roll",
+  "description": "Developed in the United States and popularized in the 1950s, featuring prominent Blues scales, poppy structures, and strong rhythms.",
+  "url": "https://rateyourmusic.com/genre/rock-and-roll/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Indorock",
+      "url": "https://rateyourmusic.com/genre/indorock/",
+      "description": "Predominantly instrumental style influenced by Country, Malay Music, and Hawaiian Music; created in the late 1950s by Indo and Moluccan expatriates from Indonesia to the Netherlands.",
+      "level": "sub-2",
+      "parent": "Rock & Roll"
+    },
+    {
+      "name": "Rockabilly",
+      "url": "https://rateyourmusic.com/genre/rockabilly/",
+      "description": "Blends the sound of Country with that of Rhythm & Blues, often accompanied by driving guitars, frantic vocals, and slap-back echo in the bass.",
+      "level": "sub-2",
+      "parent": "Rock & Roll"
+    },
+    {
+      "name": "Twist",
+      "url": "https://rateyourmusic.com/genre/twist/",
+      "description": "Simple, fast, and energetic dance popular in the early 1960s.",
+      "level": "sub-2",
+      "parent": "Rock & Roll"
+    }
+  ]
+}

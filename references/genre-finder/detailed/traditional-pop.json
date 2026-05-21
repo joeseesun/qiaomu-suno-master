@@ -1,0 +1,45 @@
+{
+  "name": "Traditional Pop",
+  "description": "Predominant form of Western commercial popular music in the pre-Rock & Roll era, particularly in the USA and starting with Tin Pan Alley; typically vocal-oriented with an orchestral arrangement.",
+  "url": "https://rateyourmusic.com/genre/traditional-pop/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "British Dance Band",
+      "url": "https://rateyourmusic.com/genre/british-dance-band/",
+      "description": "Came from the dancehalls of the 1920s and 1930s, combining a British take on Jazz with the Music Hall tradition.",
+      "level": "sub-2",
+      "parent": "Traditional Pop"
+    },
+    {
+      "name": "Mood kayō",
+      "url": "https://rateyourmusic.com/genre/mood-kayo/",
+      "description": "Early form of Kayōkyoku dominant in the 1950s and 1960s, prominently influenced by American Jazz, Hispanic American Music, and Hawaiian Music.",
+      "level": "sub-2",
+      "parent": "Traditional Pop"
+    },
+    {
+      "name": "Romanţe",
+      "url": "https://rateyourmusic.com/genre/romante/",
+      "description": "Expressive and poetic Romanian style, generally sung similar to a Chanson and composed for piano and guitar orchestral arrangements.",
+      "level": "sub-2",
+      "parent": "Traditional Pop"
+    },
+    {
+      "name": "Standards",
+      "url": "https://rateyourmusic.com/genre/standards/",
+      "description": "Traditional compositions originating from the 1910s and onward which have become widely known, performed, and recorded across the world.",
+      "level": "sub-2",
+      "parent": "Traditional Pop"
+    },
+    {
+      "name": "Tin Pan Alley",
+      "url": "https://rateyourmusic.com/genre/tin-pan-alley/",
+      "description": "Early era of popular song in the USA, broadly from the 1890s-1930s; influences include Ragtime, Vaudeville, and Parlour Music.",
+      "level": "sub-2",
+      "parent": "Traditional Pop"
+    }
+  ]
+}

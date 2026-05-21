@@ -1,0 +1,17 @@
+{
+  "name": "Piyyut",
+  "description": "Liturgical Jewish poems that are chanted or recited during religious occasions such as daily prayers and holidays.",
+  "url": "https://rateyourmusic.com/genre/piyyut/",
+  "parent": "Jewish Liturgical Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Baqashot",
+      "url": "https://rateyourmusic.com/genre/baqashot/",
+      "description": "Collection of prayers, songs, supplications, and poems traditionally sung by Sephardic Jewish communities on Saturdays mornings.",
+      "level": "sub-4",
+      "parent": "Piyyut"
+    }
+  ]
+}

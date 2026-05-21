@@ -1,0 +1,52 @@
+{
+  "name": "Baltic Folk Music",
+  "description": "Traditional Folk Music of the Balts.",
+  "url": "https://rateyourmusic.com/genre/baltic-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Latvian Folk Music",
+      "url": "https://rateyourmusic.com/genre/latvian-folk-music/",
+      "description": "Traditional Folk Music of the Latvians.",
+      "level": "sub-4",
+      "parent": "Baltic Folk Music"
+    },
+    {
+      "name": "Latvian Folk Music",
+      "url": "https://rateyourmusic.com/genre/latvian-folk-music/",
+      "description": "Traditional Folk Music of the Latvians.",
+      "level": "sub-4",
+      "parent": "Baltic Folk Music"
+    },
+    {
+      "name": "Latvian Folk Music",
+      "url": "https://rateyourmusic.com/genre/latvian-folk-music/",
+      "description": "Traditional Folk Music of the Latvians.",
+      "level": "sub-4",
+      "parent": "Baltic Folk Music"
+    },
+    {
+      "name": "Lithuanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/lithuanian-folk-music/",
+      "description": "The Traditional Folk Music of the Lithuanian people.",
+      "level": "sub-4",
+      "parent": "Baltic Folk Music"
+    },
+    {
+      "name": "Lithuanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/lithuanian-folk-music/",
+      "description": "The Traditional Folk Music of the Lithuanian people.",
+      "level": "sub-4",
+      "parent": "Baltic Folk Music"
+    },
+    {
+      "name": "Lithuanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/lithuanian-folk-music/",
+      "description": "The Traditional Folk Music of the Lithuanian people.",
+      "level": "sub-4",
+      "parent": "Baltic Folk Music"
+    }
+  ]
+}

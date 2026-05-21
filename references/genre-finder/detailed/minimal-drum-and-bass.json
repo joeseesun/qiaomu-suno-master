@@ -1,0 +1,38 @@
+{
+  "name": "Minimal Drum and Bass",
+  "description": "Minimalist, sparse sound; emerged in two main 2000s strains, one Dubstep-inspired and one IDM-inspired, which crossed paths in the 2010s.",
+  "url": "https://rateyourmusic.com/genre/minimal-drum-and-bass/",
+  "parent": "Drum and Bass",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Autonomic",
+      "url": "https://rateyourmusic.com/genre/autonomic/",
+      "description": "Mechanical, machine-like, \"autonomic\" rhythms that take primary influence from the cold, minimal sounds of mid-2000s UK Dubstep.",
+      "level": "sub-4",
+      "parent": "Minimal Drum and Bass"
+    },
+    {
+      "name": "Autonomic",
+      "url": "https://rateyourmusic.com/genre/autonomic/",
+      "description": "Mechanical, machine-like, \"autonomic\" rhythms that take primary influence from the cold, minimal sounds of mid-2000s UK Dubstep.",
+      "level": "sub-4",
+      "parent": "Minimal Drum and Bass"
+    },
+    {
+      "name": "Microfunk",
+      "url": "https://rateyourmusic.com/genre/microfunk/",
+      "description": "Minimal, glitchy, and \"bleep\"-y sound inspired by IDM.",
+      "level": "sub-4",
+      "parent": "Minimal Drum and Bass"
+    },
+    {
+      "name": "Microfunk",
+      "url": "https://rateyourmusic.com/genre/microfunk/",
+      "description": "Minimal, glitchy, and \"bleep\"-y sound inspired by IDM.",
+      "level": "sub-4",
+      "parent": "Minimal Drum and Bass"
+    }
+  ]
+}

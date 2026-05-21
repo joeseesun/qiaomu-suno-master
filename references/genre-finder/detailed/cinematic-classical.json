@@ -1,0 +1,24 @@
+{
+  "name": "Cinematic Classical",
+  "description": "Orchestral compositions generally associated with soundtracks to modern high-budget films, games, and other non-live media.",
+  "url": "https://rateyourmusic.com/genre/cinematic-classical/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Epic Music",
+      "url": "https://rateyourmusic.com/genre/epic-music/",
+      "description": "Often associated with Electronic production, heavy percussion such as taiko drums, Choral vocals, and orchestral instrumentation to create a bombastic style commonly linked to movie trailers.",
+      "level": "sub-3",
+      "parent": "Cinematic Classical"
+    },
+    {
+      "name": "Spaghetti Western",
+      "url": "https://rateyourmusic.com/genre/spaghetti-western/",
+      "description": "Epic, cinematic sound evoking imagery of the Wild West, featuring a Surf Rock-inspired guitar tone while taking inspiration from the melodies and harmonies of traditional Mexican Music.",
+      "level": "sub-3",
+      "parent": "Cinematic Classical"
+    }
+  ]
+}

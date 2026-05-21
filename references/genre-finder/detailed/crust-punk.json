@@ -1,0 +1,94 @@
+{
+  "name": "Crust Punk",
+  "description": "Metallic outgrowth of Anarcho-Punk featuring a down-tuned, high-gain guitar sound, frequent D-Beat drum patterns, guttural vocals, and politically-charged lyrics often featuring apocalyptic imagery.",
+  "url": "https://rateyourmusic.com/genre/crust-punk/",
+  "parent": "Hardcore Punk",
+  "level": "sub-3",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Blackened Crust",
+      "url": "https://rateyourmusic.com/genre/blackened-crust/",
+      "description": "Borrows heavily from Black Metal production, blast beats, tremolo guitar, and vocals, while retaining the core Crust Punk sound, lyrical themes, and aesthetic.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    },
+    {
+      "name": "Blackened Crust",
+      "url": "https://rateyourmusic.com/genre/blackened-crust/",
+      "description": "Borrows heavily from Black Metal production, blast beats, tremolo guitar, and vocals, while retaining the core Crust Punk sound, lyrical themes, and aesthetic.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    },
+    {
+      "name": "Blackened Crust",
+      "url": "https://rateyourmusic.com/genre/blackened-crust/",
+      "description": "Borrows heavily from Black Metal production, blast beats, tremolo guitar, and vocals, while retaining the core Crust Punk sound, lyrical themes, and aesthetic.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    },
+    {
+      "name": "Blackened Crust",
+      "url": "https://rateyourmusic.com/genre/blackened-crust/",
+      "description": "Borrows heavily from Black Metal production, blast beats, tremolo guitar, and vocals, while retaining the core Crust Punk sound, lyrical themes, and aesthetic.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    },
+    {
+      "name": "Neocrust",
+      "url": "https://rateyourmusic.com/genre/neocrust/",
+      "description": "Melodic, dark, and atmospheric style that often incorporates influences from Sludge Metal, Post-Metal, Black Metal, and Screamo.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    },
+    {
+      "name": "Neocrust",
+      "url": "https://rateyourmusic.com/genre/neocrust/",
+      "description": "Melodic, dark, and atmospheric style that often incorporates influences from Sludge Metal, Post-Metal, Black Metal, and Screamo.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    },
+    {
+      "name": "Neocrust",
+      "url": "https://rateyourmusic.com/genre/neocrust/",
+      "description": "Melodic, dark, and atmospheric style that often incorporates influences from Sludge Metal, Post-Metal, Black Metal, and Screamo.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    },
+    {
+      "name": "Neocrust",
+      "url": "https://rateyourmusic.com/genre/neocrust/",
+      "description": "Melodic, dark, and atmospheric style that often incorporates influences from Sludge Metal, Post-Metal, Black Metal, and Screamo.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    },
+    {
+      "name": "Stenchcore",
+      "url": "https://rateyourmusic.com/genre/stenchcore/",
+      "description": "Heavier, more metallic form of Crust Punk drawing influence from Thrash Metal as well as Death Metal and Heavy Metal.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    },
+    {
+      "name": "Stenchcore",
+      "url": "https://rateyourmusic.com/genre/stenchcore/",
+      "description": "Heavier, more metallic form of Crust Punk drawing influence from Thrash Metal as well as Death Metal and Heavy Metal.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    },
+    {
+      "name": "Stenchcore",
+      "url": "https://rateyourmusic.com/genre/stenchcore/",
+      "description": "Heavier, more metallic form of Crust Punk drawing influence from Thrash Metal as well as Death Metal and Heavy Metal.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    },
+    {
+      "name": "Stenchcore",
+      "url": "https://rateyourmusic.com/genre/stenchcore/",
+      "description": "Heavier, more metallic form of Crust Punk drawing influence from Thrash Metal as well as Death Metal and Heavy Metal.",
+      "level": "sub-4",
+      "parent": "Crust Punk"
+    }
+  ]
+}

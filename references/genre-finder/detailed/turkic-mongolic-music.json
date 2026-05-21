@@ -1,0 +1,66 @@
+{
+  "name": "Turkic-Mongolic Music",
+  "description": "Group of related traditions which originated among nomadic people of the Central Asian steppes (speakers of Altaic, i.e. Turkic, Mongolic, and Tungusic languages).",
+  "url": "https://rateyourmusic.com/genre/turkic-mongolic-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Altai Music",
+      "url": "https://rateyourmusic.com/genre/altai-music/",
+      "description": "Music of the Altai people, an ethnic group who live in central Russia near the border of Mongolia and Kazakhstan.",
+      "level": "sub-2",
+      "parent": "Turkic-Mongolic Music"
+    },
+    {
+      "name": "Bashkir Folk Music",
+      "url": "https://rateyourmusic.com/genre/bashkir-folk-music/",
+      "description": "Traditional folk of the Bashkir people, a Turkic ethnic group inhabiting the Republic of Bashkortostan (Bashkiria), a federal subject of the Russian Federation, and its neighboring areas on both sides of the Ural mountains.",
+      "level": "sub-2",
+      "parent": "Turkic-Mongolic Music"
+    },
+    {
+      "name": "Central Asian Throat Singing",
+      "url": "https://rateyourmusic.com/genre/central-asian-throat-singing/",
+      "description": "Shared polyphonic vocal tradition of Mongolia and southern Siberia characterised by complex manipulation of harmonics.",
+      "level": "sub-2",
+      "parent": "Turkic-Mongolic Music"
+    },
+    {
+      "name": "Karakalpak Traditional Music",
+      "url": "https://rateyourmusic.com/genre/karakalpak-traditional-music/",
+      "description": "Traditions of the Karakalpak people, located in northwestern Uzbekistan.",
+      "level": "sub-2",
+      "parent": "Turkic-Mongolic Music"
+    },
+    {
+      "name": "Khakas Traditional Music",
+      "url": "https://rateyourmusic.com/genre/khakas-traditional-music/",
+      "description": "Traditions of the Khakas Republic (part of the Russian Federation), a form of Turkic music related to the musics of neighboring Tuva, Altai and Mongolia.",
+      "level": "sub-2",
+      "parent": "Turkic-Mongolic Music"
+    },
+    {
+      "name": "Kyrgyz Traditional Music",
+      "url": "https://rateyourmusic.com/genre/kyrgyz-traditional-music/",
+      "description": "Traditions of Kyrgyzstan, a mountainous nation in Central Asia.",
+      "level": "sub-2",
+      "parent": "Turkic-Mongolic Music"
+    },
+    {
+      "name": "Mongolian Music",
+      "url": "https://rateyourmusic.com/genre/mongolian-music/",
+      "description": "Music of the Mongols.",
+      "level": "sub-2",
+      "parent": "Turkic-Mongolic Music"
+    },
+    {
+      "name": "Sakha Traditional Music",
+      "url": "https://rateyourmusic.com/genre/sakha-traditional-music/",
+      "description": "Traditional music of Sakha (a.k.a. Yakut) people, mostly living in their homeland - Republic of Sakha (Yakutia) (part of Russian Federation).",
+      "level": "sub-2",
+      "parent": "Turkic-Mongolic Music"
+    }
+  ]
+}

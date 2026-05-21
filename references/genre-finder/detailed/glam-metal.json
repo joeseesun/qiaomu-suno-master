@@ -1,0 +1,17 @@
+{
+  "name": "Glam Metal",
+  "description": "Very catchy hooks and guitar riffs, sing-along choruses, and lyrics often glamorizing the \"sex, drugs and rock & roll\" lifestyle.",
+  "url": "https://rateyourmusic.com/genre/glam-metal/",
+  "parent": "Hard Rock",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Sleaze Rock",
+      "url": "https://rateyourmusic.com/genre/sleaze-rock/",
+      "description": "Raw and lurid form of Glam Metal with influences from Glam Punk and Blues Rock and back-to-basics songwriting; emerged to counter Pop influences in Hard Rock in the mid-to-late 1980s.",
+      "level": "sub-3",
+      "parent": "Glam Metal"
+    }
+  ]
+}

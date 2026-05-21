@@ -1,0 +1,52 @@
+{
+  "name": "Minangkabau Music",
+  "description": "Music of the Minangkabau people.",
+  "url": "https://rateyourmusic.com/genre/minangkabau-music/",
+  "parent": "Indonesian Music",
+  "level": "sub-4",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Pop Minang",
+      "url": "https://rateyourmusic.com/genre/pop-minang/",
+      "description": "Combines Minangkabau traditions with Pop structures and instrumentation.",
+      "level": "sub-5",
+      "parent": "Minangkabau Music"
+    },
+    {
+      "name": "Pop Minang",
+      "url": "https://rateyourmusic.com/genre/pop-minang/",
+      "description": "Combines Minangkabau traditions with Pop structures and instrumentation.",
+      "level": "sub-3",
+      "parent": "Minangkabau Music"
+    },
+    {
+      "name": "Saluang klasik",
+      "url": "https://rateyourmusic.com/genre/saluang-klasik/",
+      "description": "Played by a duo or a trio of musicians, including a saluang (a kind of end-blown bamboo flute) player and a traditional singer.",
+      "level": "sub-5",
+      "parent": "Minangkabau Music"
+    },
+    {
+      "name": "Saluang klasik",
+      "url": "https://rateyourmusic.com/genre/saluang-klasik/",
+      "description": "Played by a duo or a trio of musicians, including a saluang (a kind of end-blown bamboo flute) player and a traditional singer.",
+      "level": "sub-3",
+      "parent": "Minangkabau Music"
+    },
+    {
+      "name": "Talempong",
+      "url": "https://rateyourmusic.com/genre/talempong/",
+      "description": "Gong-chime ensemble focused around the talempong kettle gong.",
+      "level": "sub-5",
+      "parent": "Minangkabau Music"
+    },
+    {
+      "name": "Talempong",
+      "url": "https://rateyourmusic.com/genre/talempong/",
+      "description": "Gong-chime ensemble focused around the talempong kettle gong.",
+      "level": "sub-3",
+      "parent": "Minangkabau Music"
+    }
+  ]
+}

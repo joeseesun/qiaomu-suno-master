@@ -1,0 +1,374 @@
+{
+  "name": "Hispanic American Music",
+  "description": "Includes all genres created by Hispanic Americans.",
+  "url": "https://rateyourmusic.com/genre/hispanic-american-music/",
+  "parent": "Hispanic Music",
+  "level": "sub-2",
+  "children_count": 52,
+  "children": [
+    {
+      "name": "Afro-Cuban Jazz",
+      "url": "https://rateyourmusic.com/genre/afro-cuban-jazz/",
+      "description": "Combines Jazz with the rhythms of Afro-Cuban music.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Argentine Music",
+      "url": "https://rateyourmusic.com/genre/argentine-music/",
+      "description": "Music developed by the Argentine people.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Avanzada",
+      "url": "https://rateyourmusic.com/genre/avanzada/",
+      "description": "Fusion of Polka paraguaya and Guarania with elements of Bossa nova and MPB.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Bachata",
+      "url": "https://rateyourmusic.com/genre/bachata/",
+      "description": "Romantic dance and accompanying music originating in the Dominican Republic, featuring arpeggiated chords in the melody.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Bailecito",
+      "url": "https://rateyourmusic.com/genre/bailecito/",
+      "description": "Agile and lively dance derived from Zamacueca, typical of the western and central region of Bolivia.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Bolero",
+      "url": "https://rateyourmusic.com/genre/bolero/",
+      "description": "Ballad with a 2/4 time signature that appeared in eastern Cuba towards the end of the 19th century.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Boogaloo",
+      "url": "https://rateyourmusic.com/genre/boogaloo/",
+      "description": "Upbeat fusion of American Rhythm & Blues and Jazz with Son cubano which originated in the early 1960s in New York City and became popular with both its Black and Latino communities.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Bullerengue",
+      "url": "https://rateyourmusic.com/genre/bullerengue/",
+      "description": "Afro-Colombian popular genre which features a strong emphasis on rhythm and improvisation and a call-and-response format.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Caporal",
+      "url": "https://rateyourmusic.com/genre/caporal/",
+      "description": "Bolivian neofolkloric dance music characterized by a double beat bass drum pattern that emerged in the latter half of the twentieth century.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Carnaval cruceño",
+      "url": "https://rateyourmusic.com/genre/carnaval-cruceno/",
+      "description": "Danceable genre, similar to the Polka, from the city of Santa Cruz, Bolivia, characteristic of the area’s Carnival celebrations and generally composed for brass band musicians.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Champeta",
+      "url": "https://rateyourmusic.com/genre/champeta/",
+      "description": "Colombian genre heavily influenced by the traditional music of San Basilio de Palenque as well as modern Caribbean and African sensibilities.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Chilean Music",
+      "url": "https://rateyourmusic.com/genre/chilean-music/",
+      "description": "Music developed by the Chilean people.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Chuntunqui romántico",
+      "url": "https://rateyourmusic.com/genre/chuntunqui-romantico/",
+      "description": "Vibrant Bolivian genre set in 6/8 meter featuring choral refrains, harmonic progressions, and lyrics exploring the subject of romantic love.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Conjunto andino",
+      "url": "https://rateyourmusic.com/genre/conjunto-andino/",
+      "description": "Urban folk ensembles using musical instruments of Andean Indigenous origin or association; despite frequent association with Indigenous villages, they bear little resemblance to the Indigenous expressions of the Southern Andes.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Cuban Music",
+      "url": "https://rateyourmusic.com/genre/cuban-music/",
+      "description": "Encompasses the wide variety of traditions from the island of Cuba.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Cumbia",
+      "url": "https://rateyourmusic.com/genre/cumbia/",
+      "description": "Danceable folk genre formed during the 19th century in Colombia and eastern Panama.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Currulao",
+      "url": "https://rateyourmusic.com/genre/currulao/",
+      "description": "Pacific coast Afro-Colombian music and folk dance performed by a marimba/percussion ensemble with heavy use of call-and-response vocals.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Dembow",
+      "url": "https://rateyourmusic.com/genre/dembow/",
+      "description": "Originated in the Dominican Republic during the early 1990s, featuring rapping indebted to Hip Hop and a style drawing on Dancehall, particularly the \"Dem Bow\" riddim.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Gaita zuliana",
+      "url": "https://rateyourmusic.com/genre/gaita-zuliana/",
+      "description": "Emerged in the state of Zulia in the 1950s, merging Spanish Folk Music and Venezuelan Christmas carols.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Guarania",
+      "url": "https://rateyourmusic.com/genre/guarania/",
+      "description": "Slow and melancholic rhythms, primarily performed on the Paraguayan harp.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Hispanic American Folk Music",
+      "url": "https://rateyourmusic.com/genre/hispanic-american-folk-music/",
+      "description": "Encompasses many varieties of folk traditions from Hispanic America.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Huayno",
+      "url": "https://rateyourmusic.com/genre/huayno/",
+      "description": "Andean dance music that incorporates both pre-Hispanic and Western musical elements.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Latin Alternative",
+      "url": "https://rateyourmusic.com/genre/latin-alternative/",
+      "description": "Incorporates common elements from Hispanic American Music like Cumbia, Tango or Mexican Music into Rock.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Latin American Classical Music",
+      "url": "https://rateyourmusic.com/genre/latin-american-classical-music/",
+      "description": "Western Classical Music with influences from Hispanic American Music.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Latin Disco",
+      "url": "https://rateyourmusic.com/genre/latin-disco/",
+      "description": "Disco that incorporates elements from Hispanic American Music styles.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Latin Electronic",
+      "url": "https://rateyourmusic.com/genre/latin-electronic/",
+      "description": "Combines Electronic with Latin American influences; started at the end of the 1990s.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Latin Funk",
+      "url": "https://rateyourmusic.com/genre/latin-funk/",
+      "description": "Funk combined with Hispanic American Music styles.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Latin Pop",
+      "url": "https://rateyourmusic.com/genre/latin-pop/",
+      "description": "Incorporates elements and tropes from Hispanic and Latin American forms of music into a commercial Pop context.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Latin Rock",
+      "url": "https://rateyourmusic.com/genre/latin-rock/",
+      "description": "Fusion of Rock, often Psychedelic Rock, with Latin American rhythms, especially Afro-Latin genres.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Latin Soul",
+      "url": "https://rateyourmusic.com/genre/latin-soul/",
+      "description": "Soul combined with Hispanic American Music, such as Salsa and Mambo.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Merengue",
+      "url": "https://rateyourmusic.com/genre/merengue/",
+      "description": "Dominican Republic dance genre that had a commercial boom at the end of the 1980s.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Mexican Music",
+      "url": "https://rateyourmusic.com/genre/mexican-music/",
+      "description": "Music of Mexico and those deeply rooted in Mexican traditions.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "New Mexico Music",
+      "url": "https://rateyourmusic.com/genre/new-mexico-music/",
+      "description": "Derived from the Traditional Folk Music of New Mexico mixed with influences from Western, Country and Norteño, particularly associated with Spanish-speaking Nuevomexicanos.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Nueva canción latinoamericana",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-latinoamericana/",
+      "description": "Politically-charged messages associated with the rise of leftist social movements; striving for a renewal of traditional Latin and Hispanic American Folk Music expressions.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Onda nueva",
+      "url": "https://rateyourmusic.com/genre/onda-nueva/",
+      "description": "Based on Joropo, it incorporates elements of Bossa nova and Jazz.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Pasillo",
+      "url": "https://rateyourmusic.com/genre/pasillo/",
+      "description": "Traditional dance popular in Ecuador and Colombia; based on European Waltz and often performed with guitar and mandolin.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Peruvian Music",
+      "url": "https://rateyourmusic.com/genre/peruvian-music/",
+      "description": "Music developed by the Peruvian people.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Polka paraguaya",
+      "url": "https://rateyourmusic.com/genre/polka-paraguaya/",
+      "description": "Popular music originating in Paraguay and the Province of Corrientes (Argentina), derived from the Bohemian polka and traditional music of Hispanic-Jesuit origin.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Porro",
+      "url": "https://rateyourmusic.com/genre/porro/",
+      "description": "Lively Hispanic American Music and dance style native to Colombia which gained popularity in the 1940s.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Purísima",
+      "url": "https://rateyourmusic.com/genre/purisima/",
+      "description": "Nicaraguan Hymns to the Immaculate Conception of Mary, sung during holiday celebrations and in liturgical or parochial services.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Reggaetón",
+      "url": "https://rateyourmusic.com/genre/reggaeton/",
+      "description": "Rooted in Dancehall and mainly characterized by its heavy emphasis on the \"dembow\" rhythm; developed in Puerto Rico in the early 1990s under heavy influence from Hip Hop.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Rhumba",
+      "url": "https://rateyourmusic.com/genre/rhumba/",
+      "description": "Commercial adaptation of various Latin American genres; developed during the 1930s as the so-called \"rhumba craze\" unfolded in the United States.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Rioplatense Music",
+      "url": "https://rateyourmusic.com/genre/rioplatense-music/",
+      "description": "Music developed by the people of the Rio de la Plata region.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Rock andino",
+      "url": "https://rateyourmusic.com/genre/rock-andino/",
+      "description": "Emerged in the Andean countries in the late 1960s and early 1970s, incorporating traditional instruments and harmonies from Indigenous Andean Music within a Rock format.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Salsa",
+      "url": "https://rateyourmusic.com/genre/salsa/",
+      "description": "Often incorporating congas, timbales and bongos as well as smaller instruments, such as maracas, clave and güiro.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Son de pascua",
+      "url": "https://rateyourmusic.com/genre/son-de-pascua/",
+      "description": "Lively instrumental Christmas songs from Central America composed in 6/8 or triple meter.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Son nica",
+      "url": "https://rateyourmusic.com/genre/son-nica/",
+      "description": "Nicaraguan popular rhythm in distinctive guitar strums, with lyrics relating to the countryside and peasant life.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Tamborera",
+      "url": "https://rateyourmusic.com/genre/tamborera/",
+      "description": "Panamanian popular genre which mixes local Tamborito with Cuban Music rhythms featuring the tambora as the main percussion instrument.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Tropicanibalismo",
+      "url": "https://rateyourmusic.com/genre/tropicanibalismo/",
+      "description": "Colombian scene born in the early 2000s with the intention of reinventing Colombian coastal music, from a more current and experimental approach.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Vallenato",
+      "url": "https://rateyourmusic.com/genre/vallenato/",
+      "description": "Accordion-led style of folk and popular music originating in Colombia's Caribbean region.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Vals venezolano",
+      "url": "https://rateyourmusic.com/genre/vals-venezolano/",
+      "description": "Venezuelan dance music that employs heavy use of syncopation, complex rhythms, and regional instruments.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    },
+    {
+      "name": "Xuc",
+      "url": "https://rateyourmusic.com/genre/xuc/",
+      "description": "Danceable style from El Salvador developed in the 1940s.",
+      "level": "sub-3",
+      "parent": "Hispanic American Music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Brazilian Bass",
+  "description": "Originated in the 2010s in Brazil, taking influences from Deep House and Tech House, characterized by deep, punchy basslines making use of detuning and filtering effects.",
+  "url": "https://rateyourmusic.com/genre/brazilian-bass/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Mega funk",
+      "url": "https://rateyourmusic.com/genre/mega-funk/",
+      "description": "Blends funk vocal performances with production derived from mainstage 2010s House genres like Brazilian Bass and Slap House.",
+      "level": "sub-4",
+      "parent": "Brazilian Bass"
+    },
+    {
+      "name": "Mega funk",
+      "url": "https://rateyourmusic.com/genre/mega-funk/",
+      "description": "Blends funk vocal performances with production derived from mainstage 2010s House genres like Brazilian Bass and Slap House.",
+      "level": "sub-4",
+      "parent": "Brazilian Bass"
+    },
+    {
+      "name": "Slap House",
+      "url": "https://rateyourmusic.com/genre/slap-house/",
+      "description": "Taking influences from Brazilian Bass and Future House, characterized by prominent, \"bouncy\" bassline and simple, upbeat melodies.",
+      "level": "sub-4",
+      "parent": "Brazilian Bass"
+    },
+    {
+      "name": "Slap House",
+      "url": "https://rateyourmusic.com/genre/slap-house/",
+      "description": "Taking influences from Brazilian Bass and Future House, characterized by prominent, \"bouncy\" bassline and simple, upbeat melodies.",
+      "level": "sub-4",
+      "parent": "Brazilian Bass"
+    }
+  ]
+}

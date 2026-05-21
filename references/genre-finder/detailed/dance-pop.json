@@ -1,0 +1,108 @@
+{
+  "name": "Dance-Pop",
+  "description": "Simple, yet catchy melodies and throbbing beats inspired initially by Disco and later various House styles.",
+  "url": "https://rateyourmusic.com/genre/dance-pop/",
+  "parent": "Dance",
+  "level": "sub",
+  "children_count": 14,
+  "children": [
+    {
+      "name": "Bubblegum Dance",
+      "url": "https://rateyourmusic.com/genre/bubblegum-dance/",
+      "description": "Playful, childlike style with a Bubblegum-like atmosphere that often incorporates high-pitched, light-hearted, and usually female-fronted vocals.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Bubblegum Dance",
+      "url": "https://rateyourmusic.com/genre/bubblegum-dance/",
+      "description": "Playful, childlike style with a Bubblegum-like atmosphere that often incorporates high-pitched, light-hearted, and usually female-fronted vocals.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Disco polo",
+      "url": "https://rateyourmusic.com/genre/disco-polo/",
+      "description": "Polish Dance-Pop, originally established from contemporary wedding / feast songs and Italo-Disco.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Disco polo",
+      "url": "https://rateyourmusic.com/genre/disco-polo/",
+      "description": "Polish Dance-Pop, originally established from contemporary wedding / feast songs and Italo-Disco.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Freestyle",
+      "url": "https://rateyourmusic.com/genre/freestyle/",
+      "description": "Electro-influenced; developed in Latino communities in New York and Miami in the 1980s, especially dominated by Latin Freestyle and its Latin influences.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Freestyle",
+      "url": "https://rateyourmusic.com/genre/freestyle/",
+      "description": "Electro-influenced; developed in Latino communities in New York and Miami in the 1980s, especially dominated by Latin Freestyle and its Latin influences.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Funk melody",
+      "url": "https://rateyourmusic.com/genre/funk-melody/",
+      "description": "Light and melodic take on Funk brasileiro, developed alongside Funk carioca.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Funk melody",
+      "url": "https://rateyourmusic.com/genre/funk-melody/",
+      "description": "Light and melodic take on Funk brasileiro, developed alongside Funk carioca.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Romanian Popcorn",
+      "url": "https://rateyourmusic.com/genre/romanian-popcorn/",
+      "description": "Emerged in the second half of the 2000s in Romania, often featuring brass melodies and \"staccato\" pluck grooves.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Romanian Popcorn",
+      "url": "https://rateyourmusic.com/genre/romanian-popcorn/",
+      "description": "Emerged in the second half of the 2000s in Romania, often featuring brass melodies and \"staccato\" pluck grooves.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Tecnorumba",
+      "url": "https://rateyourmusic.com/genre/tecnorumba/",
+      "description": "Blend of the themes and singing style of Rumba flamenca with the most commercial forms of House, Techno, and Makina.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Tecnorumba",
+      "url": "https://rateyourmusic.com/genre/tecnorumba/",
+      "description": "Blend of the themes and singing style of Rumba flamenca with the most commercial forms of House, Techno, and Makina.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Township Bubblegum",
+      "url": "https://rateyourmusic.com/genre/township-bubblegum/",
+      "description": "Synth-heavy Dance-Pop style popular in the South African townships in the 1980s and early 1990s.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    },
+    {
+      "name": "Township Bubblegum",
+      "url": "https://rateyourmusic.com/genre/township-bubblegum/",
+      "description": "Synth-heavy Dance-Pop style popular in the South African townships in the 1980s and early 1990s.",
+      "level": "sub-2",
+      "parent": "Dance-Pop"
+    }
+  ]
+}

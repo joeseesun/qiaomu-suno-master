@@ -1,0 +1,24 @@
+{
+  "name": "Technical Death Metal",
+  "description": "Focuses on challenging, demanding songwriting and instrumental skill.",
+  "url": "https://rateyourmusic.com/genre/technical-death-metal/",
+  "parent": "Death Metal",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Dissonant Death Metal",
+      "url": "https://rateyourmusic.com/genre/dissonant-death-metal/",
+      "description": "Emphasizes discordant, dense songwriting and utilizes pinch harmonics, scratchy guitar leads, and atonality.",
+      "level": "sub-3",
+      "parent": "Technical Death Metal"
+    },
+    {
+      "name": "Dissonant Death Metal",
+      "url": "https://rateyourmusic.com/genre/dissonant-death-metal/",
+      "description": "Emphasizes discordant, dense songwriting and utilizes pinch harmonics, scratchy guitar leads, and atonality.",
+      "level": "sub-4",
+      "parent": "Technical Death Metal"
+    }
+  ]
+}

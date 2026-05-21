@@ -1,0 +1,66 @@
+{
+  "name": "Post-Hardcore",
+  "description": "Emerged in the mid-1980s from Hardcore Punk that expanded on its aggression and dynamics through longer and more complex arrangements.",
+  "url": "https://rateyourmusic.com/genre/post-hardcore/",
+  "parent": "Hardcore [Punk]",
+  "level": "sub-2",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Emocore",
+      "url": "https://rateyourmusic.com/genre/emocore/",
+      "description": "Emerged primarily in Washington D.C. in 1985 as a reaction to the stagnant Hardcore Punk scene, with a less aggressive style that was more melodic and often featured emotional, introspective lyrics.",
+      "level": "sub-3",
+      "parent": "Post-Hardcore"
+    },
+    {
+      "name": "Emocore",
+      "url": "https://rateyourmusic.com/genre/emocore/",
+      "description": "Emerged primarily in Washington D.C. in 1985 as a reaction to the stagnant Hardcore Punk scene, with a less aggressive style that was more melodic and often featured emotional, introspective lyrics.",
+      "level": "sub-3",
+      "parent": "Post-Hardcore"
+    },
+    {
+      "name": "Mall Screamo",
+      "url": "https://rateyourmusic.com/genre/mall-screamo/",
+      "description": "Heavy instrumentation, melodic verse-chorus songwriting, and expressive singing contrasted with screaming vocals.",
+      "level": "sub-3",
+      "parent": "Post-Hardcore"
+    },
+    {
+      "name": "Mall Screamo",
+      "url": "https://rateyourmusic.com/genre/mall-screamo/",
+      "description": "Heavy instrumentation, melodic verse-chorus songwriting, and expressive singing contrasted with screaming vocals.",
+      "level": "sub-3",
+      "parent": "Post-Hardcore"
+    },
+    {
+      "name": "Screamo",
+      "url": "https://rateyourmusic.com/genre/screamo/",
+      "description": "Intense, aggressive and complex approach to Emo featuring higher levels of abrasiveness and dissonance, accompanied by guitar-focused melodicism and harsh vocals.",
+      "level": "sub-3",
+      "parent": "Post-Hardcore"
+    },
+    {
+      "name": "Screamo",
+      "url": "https://rateyourmusic.com/genre/screamo/",
+      "description": "Intense, aggressive and complex approach to Emo featuring higher levels of abrasiveness and dissonance, accompanied by guitar-focused melodicism and harsh vocals.",
+      "level": "sub-3",
+      "parent": "Post-Hardcore"
+    },
+    {
+      "name": "Swancore",
+      "url": "https://rateyourmusic.com/genre/swancore/",
+      "description": "High-register clean vocals and technical instrumentation drawn from Math Rock and Progressive Rock.",
+      "level": "sub-3",
+      "parent": "Post-Hardcore"
+    },
+    {
+      "name": "Swancore",
+      "url": "https://rateyourmusic.com/genre/swancore/",
+      "description": "High-register clean vocals and technical instrumentation drawn from Math Rock and Progressive Rock.",
+      "level": "sub-3",
+      "parent": "Post-Hardcore"
+    }
+  ]
+}

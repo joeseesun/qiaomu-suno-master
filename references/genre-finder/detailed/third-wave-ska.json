@@ -1,0 +1,17 @@
+{
+  "name": "Third Wave Ska",
+  "description": "Expanded on the 2 Tone period, adding further Rock elements resulting in a heavier sound.",
+  "url": "https://rateyourmusic.com/genre/third-wave-ska/",
+  "parent": "Ska",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Ska Punk",
+      "url": "https://rateyourmusic.com/genre/ska-punk/",
+      "description": "Utilizes skank rhythms, walking basslines, and often horn instrumentation in combination with a fast-paced Punk Rock playstyle.",
+      "level": "sub-3",
+      "parent": "Third Wave Ska"
+    }
+  ]
+}

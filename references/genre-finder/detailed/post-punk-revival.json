@@ -1,0 +1,31 @@
+{
+  "name": "Post-Punk Revival",
+  "description": "Incorporating the sounds and aesthetics of Post-Punk into Indie Rock, with jagged guitarwork, a dominant and danceable rhythm section, clean production, and poppy song structures.",
+  "url": "https://rateyourmusic.com/genre/post-punk-revival/",
+  "parent": "Post-Punk",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Dance-Punk Revival",
+      "url": "https://rateyourmusic.com/genre/dance-punk-revival/",
+      "description": "Punchy and danceable variant of Post-Punk Revival that features Electronic instrumentation and influence from Alternative Dance.",
+      "level": "sub-3",
+      "parent": "Post-Punk Revival"
+    },
+    {
+      "name": "Dance-Punk Revival",
+      "url": "https://rateyourmusic.com/genre/dance-punk-revival/",
+      "description": "Punchy and danceable variant of Post-Punk Revival that features Electronic instrumentation and influence from Alternative Dance.",
+      "level": "sub-4",
+      "parent": "Post-Punk Revival"
+    },
+    {
+      "name": "Dance-Punk Revival",
+      "url": "https://rateyourmusic.com/genre/dance-punk-revival/",
+      "description": "Punchy and danceable variant of Post-Punk Revival that features Electronic instrumentation and influence from Alternative Dance.",
+      "level": "sub-3",
+      "parent": "Post-Punk Revival"
+    }
+  ]
+}

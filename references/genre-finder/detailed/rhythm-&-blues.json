@@ -1,0 +1,38 @@
+{
+  "name": "Rhythm & Blues",
+  "description": "Predominantly African American style that retains the defined backbeats, Blues chord progressions/melodies and passionate singing/shouting of Jump Blues, while appealing more to an urban audience with smaller bands and reduced Jazz influence.",
+  "url": "https://rateyourmusic.com/genre/rhythm-and-blues/",
+  "parent": "R&B",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "British Rhythm & Blues",
+      "url": "https://rateyourmusic.com/genre/british-rhythm-and-blues/",
+      "description": "A style infusing Rock and R&B that was hugely popular in the United Kingdom between 1963 and 1966.",
+      "level": "sub-2",
+      "parent": "Rhythm & Blues"
+    },
+    {
+      "name": "Swamp Pop",
+      "url": "https://rateyourmusic.com/genre/swamp-pop/",
+      "description": "Uniquely Cajun style of Rhythm & Blues distinguished by tripleted pianos and a slow Blues structure.",
+      "level": "sub-2",
+      "parent": "Rhythm & Blues"
+    },
+    {
+      "name": "Twist",
+      "url": "https://rateyourmusic.com/genre/twist/",
+      "description": "Simple, fast, and energetic dance popular in the early 1960s.",
+      "level": "sub-2",
+      "parent": "Rhythm & Blues"
+    },
+    {
+      "name": "West Side Sound",
+      "url": "https://rateyourmusic.com/genre/west-side-sound/",
+      "description": "Created in the 1950s by working-class Mexican-American teenagers in San Antonio, Texas, as a result of significant stylistic cross-pollination and an accommodating racial climate; features prominent tenor sax sections and Hammond organs.",
+      "level": "sub-2",
+      "parent": "Rhythm & Blues"
+    }
+  ]
+}

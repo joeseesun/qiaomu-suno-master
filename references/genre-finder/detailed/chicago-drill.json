@@ -1,0 +1,24 @@
+{
+  "name": "Chicago Drill",
+  "description": "Bass-heavy, dense, and typically syncopated percussion, featuring ticking hi-hats and gunshot-like snare rolls, usually accompanied by menacing synth melodies and violent Gangsta Rap lyricism.",
+  "url": "https://rateyourmusic.com/genre/chicago-drill/",
+  "parent": "Drill",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Bop",
+      "url": "https://rateyourmusic.com/genre/bop/",
+      "description": "Grew out of the Chicago Drill scene in the early 2010s, characterized by autotuned vocals and upbeat synth melodies.",
+      "level": "sub-3",
+      "parent": "Chicago Drill"
+    },
+    {
+      "name": "Bop",
+      "url": "https://rateyourmusic.com/genre/bop/",
+      "description": "Grew out of the Chicago Drill scene in the early 2010s, characterized by autotuned vocals and upbeat synth melodies.",
+      "level": "sub-3",
+      "parent": "Chicago Drill"
+    }
+  ]
+}

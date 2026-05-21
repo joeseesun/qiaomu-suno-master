@@ -1,0 +1,59 @@
+{
+  "name": "Islamic Religious Music & Recitation",
+  "description": "Music and melodic recitation involved in the Islamic faith, such as the reading of the Qur'an with its melodic component (qira'ah), the adhan call to prayer, and the elements often used in the practice of dhikr (particularly in Sufism).",
+  "url": "https://rateyourmusic.com/genre/islamic-religious-music-and-recitation/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Ginan",
+      "url": "https://rateyourmusic.com/genre/ginan/",
+      "description": "Form of musical recitation sacred to Nizari Ismaili Muslims.",
+      "level": "sub-2",
+      "parent": "Islamic Religious Music & Recitation"
+    },
+    {
+      "name": "Jilala Music",
+      "url": "https://rateyourmusic.com/genre/jilala-music/",
+      "description": "Music of the Jilala Sufi order, most notably used in healing trance rituals.",
+      "level": "sub-2",
+      "parent": "Islamic Religious Music & Recitation"
+    },
+    {
+      "name": "Maddahi",
+      "url": "https://rateyourmusic.com/genre/maddahi/",
+      "description": "Singing for Shia Muslims to mourn in religious death anniversaries.",
+      "level": "sub-2",
+      "parent": "Islamic Religious Music & Recitation"
+    },
+    {
+      "name": "Mataali",
+      "url": "https://rateyourmusic.com/genre/mataali/",
+      "description": "Islamic praise genre of the Muslim community of Buganda, named after the frame drum on which the rhythm is played.",
+      "level": "sub-2",
+      "parent": "Islamic Religious Music & Recitation"
+    },
+    {
+      "name": "Nasheed",
+      "url": "https://rateyourmusic.com/genre/nasheed/",
+      "description": "Vocal songs popular throughout the Islamic world, mostly performed A cappella though sometimes featuring light instrumentation.",
+      "level": "sub-2",
+      "parent": "Islamic Religious Music & Recitation"
+    },
+    {
+      "name": "Rapai dabõih",
+      "url": "https://rateyourmusic.com/genre/rapai-daboih/",
+      "description": "Religious music meant to accompany the dabõih ceremony of the Acehnese people.",
+      "level": "sub-2",
+      "parent": "Islamic Religious Music & Recitation"
+    },
+    {
+      "name": "Turkish Mevlevi Music",
+      "url": "https://rateyourmusic.com/genre/turkish-mevlevi-music/",
+      "description": "Traditional music performed among Turkish practitioners of the Mevlevi order of Sufism.",
+      "level": "sub-2",
+      "parent": "Islamic Religious Music & Recitation"
+    }
+  ]
+}

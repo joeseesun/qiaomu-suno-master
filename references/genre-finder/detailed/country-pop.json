@@ -1,0 +1,73 @@
+{
+  "name": "Country Pop",
+  "description": "Combination of Country with Pop to appeal to a larger audience.",
+  "url": "https://rateyourmusic.com/genre/country-pop/",
+  "parent": "Country",
+  "level": "sub",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Bro-Country",
+      "url": "https://rateyourmusic.com/genre/bro-country/",
+      "description": "21st century style with an often party-oriented sound and lyrical content, taking strong influence from Hard Rock, Hip Hop and Pop.",
+      "level": "sub-2",
+      "parent": "Country Pop"
+    },
+    {
+      "name": "Bro-Country",
+      "url": "https://rateyourmusic.com/genre/bro-country/",
+      "description": "21st century style with an often party-oriented sound and lyrical content, taking strong influence from Hard Rock, Hip Hop and Pop.",
+      "level": "sub-2",
+      "parent": "Country Pop"
+    },
+    {
+      "name": "Bro-Country",
+      "url": "https://rateyourmusic.com/genre/bro-country/",
+      "description": "21st century style with an often party-oriented sound and lyrical content, taking strong influence from Hard Rock, Hip Hop and Pop.",
+      "level": "sub-4",
+      "parent": "Country Pop"
+    },
+    {
+      "name": "Countrypolitan",
+      "url": "https://rateyourmusic.com/genre/countrypolitan/",
+      "description": "Emphasizes Pop-oriented orchestration and songwriting while reducing the role of Country instrumentation and rhythms; often featuring lush string arrangements and group backing vocals.",
+      "level": "sub-2",
+      "parent": "Country Pop"
+    },
+    {
+      "name": "Countrypolitan",
+      "url": "https://rateyourmusic.com/genre/countrypolitan/",
+      "description": "Emphasizes Pop-oriented orchestration and songwriting while reducing the role of Country instrumentation and rhythms; often featuring lush string arrangements and group backing vocals.",
+      "level": "sub-2",
+      "parent": "Country Pop"
+    },
+    {
+      "name": "Countrypolitan",
+      "url": "https://rateyourmusic.com/genre/countrypolitan/",
+      "description": "Emphasizes Pop-oriented orchestration and songwriting while reducing the role of Country instrumentation and rhythms; often featuring lush string arrangements and group backing vocals.",
+      "level": "sub-4",
+      "parent": "Country Pop"
+    },
+    {
+      "name": "Urban Cowboy",
+      "url": "https://rateyourmusic.com/genre/urban-cowboy/",
+      "description": "Melds Country and 1970s L.A. soft Pop, sometimes leaning towards Disco.",
+      "level": "sub-2",
+      "parent": "Country Pop"
+    },
+    {
+      "name": "Urban Cowboy",
+      "url": "https://rateyourmusic.com/genre/urban-cowboy/",
+      "description": "Melds Country and 1970s L.A. soft Pop, sometimes leaning towards Disco.",
+      "level": "sub-2",
+      "parent": "Country Pop"
+    },
+    {
+      "name": "Urban Cowboy",
+      "url": "https://rateyourmusic.com/genre/urban-cowboy/",
+      "description": "Melds Country and 1970s L.A. soft Pop, sometimes leaning towards Disco.",
+      "level": "sub-4",
+      "parent": "Country Pop"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Philippine Music",
+  "description": "Music of the Philippines.",
+  "url": "https://rateyourmusic.com/genre/philippine-music/",
+  "parent": "Southeast Asian Music",
+  "level": "sub-3",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Balitaw",
+      "url": "https://rateyourmusic.com/genre/balitaw/",
+      "description": "Folk originating in the Visayas islands of the Philippines; dialogue or debate in which a man and a woman compete at improvising romantic verses.",
+      "level": "sub-4",
+      "parent": "Philippine Music"
+    },
+    {
+      "name": "Harana",
+      "url": "https://rateyourmusic.com/genre/harana/",
+      "description": "Hispanic-influenced lyrical courtship music traditionally sung by men, accompanied by guitar based on the danza rhythm.",
+      "level": "sub-4",
+      "parent": "Philippine Music"
+    },
+    {
+      "name": "Igorot Music",
+      "url": "https://rateyourmusic.com/genre/igorot-music/",
+      "description": "Traditions of the Igorot people of the Cordillera region in the northern Philippines, known for their gong ensembles.",
+      "level": "sub-4",
+      "parent": "Philippine Music"
+    },
+    {
+      "name": "Ilocano Music",
+      "url": "https://rateyourmusic.com/genre/ilocano-music/",
+      "description": "Music by the Ilocano people, an ethnic group residing in the northwestern tip of Luzon.",
+      "level": "sub-4",
+      "parent": "Philippine Music"
+    },
+    {
+      "name": "Kundiman",
+      "url": "https://rateyourmusic.com/genre/kundiman/",
+      "description": "Traditional Filipino love songs usually sung in Tagalog.",
+      "level": "sub-4",
+      "parent": "Philippine Music"
+    },
+    {
+      "name": "OPM",
+      "url": "https://rateyourmusic.com/genre/opm/",
+      "description": "Filipino ballads prominent in the 1970s to early 1980s, combining the sentimentality, lush arrangements and vocal techniques of Kundiman with the instrumentations and rhythms of Manila Sound and Soft Rock.",
+      "level": "sub-4",
+      "parent": "Philippine Music"
+    },
+    {
+      "name": "Philippine Rondalla",
+      "url": "https://rateyourmusic.com/genre/philippine-rondalla/",
+      "description": "Ensemble of plucked string instruments typically performed for traditional Filipino folk dances; known for its distinct sparkling and tinkling tremolo sound.",
+      "level": "sub-4",
+      "parent": "Philippine Music"
+    },
+    {
+      "name": "Pinoy Folk Rock",
+      "url": "https://rateyourmusic.com/genre/pinoy-folk-rock/",
+      "description": "Typically sung in Tagalog and pioneered in the 1970s, incorporating elements of indigenous music such as Kulintang gong music and the kubing bamboo jaw harp.",
+      "level": "sub-4",
+      "parent": "Philippine Music"
+    }
+  ]
+}

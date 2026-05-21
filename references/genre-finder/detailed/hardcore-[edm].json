@@ -1,0 +1,290 @@
+{
+  "name": "Hardcore [EDM]",
+  "description": "Umbrella term for a wide variety of fast-paced and energetic Electronic Dance Music styles that have been developed since the early 1990s.",
+  "url": "https://rateyourmusic.com/genre/hardcore-edm/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 40,
+  "children": [
+    {
+      "name": "Acidcore",
+      "url": "https://rateyourmusic.com/genre/acidcore/",
+      "description": "Developed out of the 1990s Acid Techno scene utilizing its prominence of \"acid\" TB-303 bassline sequences into more intense rhythms derived from earlier Hardcore [EDM], Gabber and Trance music.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Acidcore",
+      "url": "https://rateyourmusic.com/genre/acidcore/",
+      "description": "Developed out of the 1990s Acid Techno scene utilizing its prominence of \"acid\" TB-303 bassline sequences into more intense rhythms derived from earlier Hardcore [EDM], Gabber and Trance music.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Amigacore",
+      "url": "https://rateyourmusic.com/genre/amigacore/",
+      "description": "Gabber-like forms of Hardcore [EDM] written in first-gen trackers for the Amiga like ProTracker and OctaMED, resulting in a minimalistic raw lo-fi sound.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Amigacore",
+      "url": "https://rateyourmusic.com/genre/amigacore/",
+      "description": "Gabber-like forms of Hardcore [EDM] written in first-gen trackers for the Amiga like ProTracker and OctaMED, resulting in a minimalistic raw lo-fi sound.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Belgian Techno",
+      "url": "https://rateyourmusic.com/genre/belgian-techno/",
+      "description": "Early form of Hardcore [EDM], resulting from the further evolution of New Beat due to the strong influence of Techno and EBM.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Belgian Techno",
+      "url": "https://rateyourmusic.com/genre/belgian-techno/",
+      "description": "Early form of Hardcore [EDM], resulting from the further evolution of New Beat due to the strong influence of Techno and EBM.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Breakbeat Hardcore",
+      "url": "https://rateyourmusic.com/genre/breakbeat-hardcore/",
+      "description": "Originated from the combination of sampled breakbeats and energetic rhythms with the \"rave\" influences set by early-1990s Techno and Acid House, including upbeat \"stab\" riffing and sample-based production.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Breakbeat Hardcore",
+      "url": "https://rateyourmusic.com/genre/breakbeat-hardcore/",
+      "description": "Originated from the combination of sampled breakbeats and energetic rhythms with the \"rave\" influences set by early-1990s Techno and Acid House, including upbeat \"stab\" riffing and sample-based production.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Breakcore",
+      "url": "https://rateyourmusic.com/genre/breakcore/",
+      "description": "Mixes Hardcore [EDM] with cut-up, complex, and frequently noisy breakbeats at very high tempos inspired by Jungle and Drum and Bass, often with heavy use of sampling.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Breakcore",
+      "url": "https://rateyourmusic.com/genre/breakcore/",
+      "description": "Mixes Hardcore [EDM] with cut-up, complex, and frequently noisy breakbeats at very high tempos inspired by Jungle and Drum and Bass, often with heavy use of sampling.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Crossbreed",
+      "url": "https://rateyourmusic.com/genre/crossbreed/",
+      "description": "Harsh and dense mixture of Darkstep with Hardcore [EDM] developed in the late 2000s.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Crossbreed",
+      "url": "https://rateyourmusic.com/genre/crossbreed/",
+      "description": "Harsh and dense mixture of Darkstep with Hardcore [EDM] developed in the late 2000s.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Darkcore",
+      "url": "https://rateyourmusic.com/genre/darkcore/",
+      "description": "Aggressive, dark, and often midtempo with influences from Doomcore, Industrial Hardcore, and Nu Style Gabber.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Darkcore",
+      "url": "https://rateyourmusic.com/genre/darkcore/",
+      "description": "Aggressive, dark, and often midtempo with influences from Doomcore, Industrial Hardcore, and Nu Style Gabber.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Deathchant Hardcore",
+      "url": "https://rateyourmusic.com/genre/deathchant-hardcore/",
+      "description": "Took shape in the UK in the late 1990s and early 2000s, characterized by rapid rhythms with Gabber-influenced kicks, frequent use of breakbeats and Hip Hop-inspired sampling.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Deathchant Hardcore",
+      "url": "https://rateyourmusic.com/genre/deathchant-hardcore/",
+      "description": "Took shape in the UK in the late 1990s and early 2000s, characterized by rapid rhythms with Gabber-influenced kicks, frequent use of breakbeats and Hip Hop-inspired sampling.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Digital Hardcore",
+      "url": "https://rateyourmusic.com/genre/digital-hardcore/",
+      "description": "High-tempo fusion of Hardcore Punk and Electronic, combining harsh vocals and electric guitars of the former with electronic instruments.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Digital Hardcore",
+      "url": "https://rateyourmusic.com/genre/digital-hardcore/",
+      "description": "High-tempo fusion of Hardcore Punk and Electronic, combining harsh vocals and electric guitars of the former with electronic instruments.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Doomcore",
+      "url": "https://rateyourmusic.com/genre/doomcore/",
+      "description": "Often somber and contemplative in mood, a feature achieved by the common use of long-stretched ambient pads, and sometimes even samples of screaming and other \"spooky\" sounds.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Doomcore",
+      "url": "https://rateyourmusic.com/genre/doomcore/",
+      "description": "Often somber and contemplative in mood, a feature achieved by the common use of long-stretched ambient pads, and sometimes even samples of screaming and other \"spooky\" sounds.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Frapcore",
+      "url": "https://rateyourmusic.com/genre/frapcore/",
+      "description": "Emerged in France in the mid-2010s, uses French rapping with 4-on-the-floor Hardcore [EDM] and especially Gabber instrumentals.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Frapcore",
+      "url": "https://rateyourmusic.com/genre/frapcore/",
+      "description": "Emerged in France in the mid-2010s, uses French rapping with 4-on-the-floor Hardcore [EDM] and especially Gabber instrumentals.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Freeform Hardcore",
+      "url": "https://rateyourmusic.com/genre/freeform-hardcore/",
+      "description": "Emerged in the mid-1990s, combining fast and hard-hitting rhythms with heavy influence from the synthesizers of Trance.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Freeform Hardcore",
+      "url": "https://rateyourmusic.com/genre/freeform-hardcore/",
+      "description": "Emerged in the mid-1990s, combining fast and hard-hitting rhythms with heavy influence from the synthesizers of Trance.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Frenchcore",
+      "url": "https://rateyourmusic.com/genre/frenchcore/",
+      "description": "Off-beat, bouncy rhythmic patterns and tempos around the 200 BPM range.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Frenchcore",
+      "url": "https://rateyourmusic.com/genre/frenchcore/",
+      "description": "Off-beat, bouncy rhythmic patterns and tempos around the 200 BPM range.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Gabber",
+      "url": "https://rateyourmusic.com/genre/gabber/",
+      "description": "Fast-paced and energetic, often in the 160-220 BPM range, with a hallmark of a distinctive distorted kick sound.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Gabber",
+      "url": "https://rateyourmusic.com/genre/gabber/",
+      "description": "Fast-paced and energetic, often in the 160-220 BPM range, with a hallmark of a distinctive distorted kick sound.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Happy Hardcore",
+      "url": "https://rateyourmusic.com/genre/happy-hardcore/",
+      "description": "Emerged in the 1990s from the UK Breakbeat Hardcore scene; characterized by saccharine vocals, uplifting piano riffs and spacey effects, gradually developing to emphasize extremely fast-paced four-on-the-floor beats.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Happy Hardcore",
+      "url": "https://rateyourmusic.com/genre/happy-hardcore/",
+      "description": "Emerged in the 1990s from the UK Breakbeat Hardcore scene; characterized by saccharine vocals, uplifting piano riffs and spacey effects, gradually developing to emphasize extremely fast-paced four-on-the-floor beats.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Hardtek",
+      "url": "https://rateyourmusic.com/genre/hardtek/",
+      "description": "Modern version of the \"tribecore\" sound featuring deep alternating basses and festival EDM-influenced drops.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Hardtek",
+      "url": "https://rateyourmusic.com/genre/hardtek/",
+      "description": "Modern version of the \"tribecore\" sound featuring deep alternating basses and festival EDM-influenced drops.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Industrial Hardcore",
+      "url": "https://rateyourmusic.com/genre/industrial-hardcore/",
+      "description": "Fuses the sonic palettes and aesthetics of Industrial with the intense rhythms of Gabber, Speedcore, Doomcore and other subsequent styles.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Industrial Hardcore",
+      "url": "https://rateyourmusic.com/genre/industrial-hardcore/",
+      "description": "Fuses the sonic palettes and aesthetics of Industrial with the intense rhythms of Gabber, Speedcore, Doomcore and other subsequent styles.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Speedcore",
+      "url": "https://rateyourmusic.com/genre/speedcore/",
+      "description": "Exceedingly fast tempos, frequently above 300 BPM, and often aggressive themes and samples.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Speedcore",
+      "url": "https://rateyourmusic.com/genre/speedcore/",
+      "description": "Exceedingly fast tempos, frequently above 300 BPM, and often aggressive themes and samples.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Terrorcore",
+      "url": "https://rateyourmusic.com/genre/terrorcore/",
+      "description": "Utilizes rhythms from earlier Gabber with a faster BPM (usually no more than 300) and darker approach.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Terrorcore",
+      "url": "https://rateyourmusic.com/genre/terrorcore/",
+      "description": "Utilizes rhythms from earlier Gabber with a faster BPM (usually no more than 300) and darker approach.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Uptempo Hardcore",
+      "url": "https://rateyourmusic.com/genre/uptempo-hardcore/",
+      "description": "Utilizes lo-fi production, harsh kicks, and elements borrowed from Rawstyle and other gritty Hardcore [EDM] styles while usually sitting at around 185-220 BPM.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    },
+    {
+      "name": "Uptempo Hardcore",
+      "url": "https://rateyourmusic.com/genre/uptempo-hardcore/",
+      "description": "Utilizes lo-fi production, harsh kicks, and elements borrowed from Rawstyle and other gritty Hardcore [EDM] styles while usually sitting at around 185-220 BPM.",
+      "level": "sub-3",
+      "parent": "Hardcore [EDM]"
+    }
+  ]
+}

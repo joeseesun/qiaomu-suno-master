@@ -1,0 +1,38 @@
+{
+  "name": "Shaabi",
+  "description": "Developed in Egypt during the early 1970s, typically created by and for the urban working class with witty lyrics that reflect this.",
+  "url": "https://rateyourmusic.com/genre/shaabi/",
+  "parent": "Egyptian Music",
+  "level": "sub-4",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Mahraganat",
+      "url": "https://rateyourmusic.com/genre/mahraganat/",
+      "description": "Draws elements from Hip Hop, featuring auto-tuned vocals, rapping, Electronic production, and explicit lyrics.",
+      "level": "sub-5",
+      "parent": "Shaabi"
+    },
+    {
+      "name": "Mahraganat",
+      "url": "https://rateyourmusic.com/genre/mahraganat/",
+      "description": "Draws elements from Hip Hop, featuring auto-tuned vocals, rapping, Electronic production, and explicit lyrics.",
+      "level": "sub-3",
+      "parent": "Shaabi"
+    },
+    {
+      "name": "Trap shaabi",
+      "url": "https://rateyourmusic.com/genre/trap-shaabi/",
+      "description": "Combining Trap percussion and rhythms with Egyptian Shaabi and especially Mahraganat.",
+      "level": "sub-5",
+      "parent": "Shaabi"
+    },
+    {
+      "name": "Trap shaabi",
+      "url": "https://rateyourmusic.com/genre/trap-shaabi/",
+      "description": "Combining Trap percussion and rhythms with Egyptian Shaabi and especially Mahraganat.",
+      "level": "sub-3",
+      "parent": "Shaabi"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Skacore",
+  "description": "Fuses skank rhythms and frantic blasts of horns with hardcore intensity.",
+  "url": "https://rateyourmusic.com/genre/skacore/",
+  "parent": "Hardcore Punk",
+  "level": "sub-3",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Crack Rock Steady",
+      "url": "https://rateyourmusic.com/genre/crack-rock-steady/",
+      "description": "Incorporates elements of Crust Punk and sometimes Metal, coupled with anti-establishment lyrics.",
+      "level": "sub-4",
+      "parent": "Skacore"
+    },
+    {
+      "name": "Crack Rock Steady",
+      "url": "https://rateyourmusic.com/genre/crack-rock-steady/",
+      "description": "Incorporates elements of Crust Punk and sometimes Metal, coupled with anti-establishment lyrics.",
+      "level": "sub-4",
+      "parent": "Skacore"
+    },
+    {
+      "name": "Crack Rock Steady",
+      "url": "https://rateyourmusic.com/genre/crack-rock-steady/",
+      "description": "Incorporates elements of Crust Punk and sometimes Metal, coupled with anti-establishment lyrics.",
+      "level": "sub-4",
+      "parent": "Skacore"
+    },
+    {
+      "name": "Crack Rock Steady",
+      "url": "https://rateyourmusic.com/genre/crack-rock-steady/",
+      "description": "Incorporates elements of Crust Punk and sometimes Metal, coupled with anti-establishment lyrics.",
+      "level": "sub-5",
+      "parent": "Skacore"
+    },
+    {
+      "name": "Crack Rock Steady",
+      "url": "https://rateyourmusic.com/genre/crack-rock-steady/",
+      "description": "Incorporates elements of Crust Punk and sometimes Metal, coupled with anti-establishment lyrics.",
+      "level": "sub-4",
+      "parent": "Skacore"
+    },
+    {
+      "name": "Crack Rock Steady",
+      "url": "https://rateyourmusic.com/genre/crack-rock-steady/",
+      "description": "Incorporates elements of Crust Punk and sometimes Metal, coupled with anti-establishment lyrics.",
+      "level": "sub-4",
+      "parent": "Skacore"
+    },
+    {
+      "name": "Crack Rock Steady",
+      "url": "https://rateyourmusic.com/genre/crack-rock-steady/",
+      "description": "Incorporates elements of Crust Punk and sometimes Metal, coupled with anti-establishment lyrics.",
+      "level": "sub-4",
+      "parent": "Skacore"
+    }
+  ]
+}

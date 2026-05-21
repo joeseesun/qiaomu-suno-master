@@ -1,0 +1,17 @@
+{
+  "name": "Acholi Music",
+  "description": "Music of the Acholi people, who inhabit a region known as “Acholiland,” spanning parts of northern Uganda and southern South Sudan.",
+  "url": "https://rateyourmusic.com/genre/acholi-music/",
+  "parent": "East African Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Acholitronix",
+      "url": "https://rateyourmusic.com/genre/acholitronix/",
+      "description": "Fusion of traditional Acholi rhythms and melodies with Electronic production, originating in the city of Gulu.",
+      "level": "sub-4",
+      "parent": "Acholi Music"
+    }
+  ]
+}

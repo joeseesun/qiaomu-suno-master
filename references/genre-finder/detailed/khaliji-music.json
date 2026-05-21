@@ -1,0 +1,122 @@
+{
+  "name": "Khaliji Music",
+  "description": "Musical traditions of Eastern Arabia and the Persian Gulf region, roughly covering the Arabic-speaking people of the modern countries of the United Arab Emirates, Bahrain, Kuwait, Qatar, Saudi Arabia, Oman, Iraq, and Iran.",
+  "url": "https://rateyourmusic.com/genre/khaliji-music/",
+  "parent": "Arabic Music",
+  "level": "sub-2",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Ayyalah",
+      "url": "https://rateyourmusic.com/genre/ayyalah/",
+      "description": "Traditional Khaliji-Bedouin weapon performance, commonly found across the United Arab Emirates and Northwestern Oman.",
+      "level": "sub-3",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Ayyalah",
+      "url": "https://rateyourmusic.com/genre/ayyalah/",
+      "description": "Traditional Khaliji-Bedouin weapon performance, commonly found across the United Arab Emirates and Northwestern Oman.",
+      "level": "sub-4",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Fijiri",
+      "url": "https://rateyourmusic.com/genre/fijiri/",
+      "description": "Deeply rooted in the Persian Gulf pearl diving culture, and sung during weekly gatherings combining solo and choral sections with minimal percussion.",
+      "level": "sub-3",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Fijiri",
+      "url": "https://rateyourmusic.com/genre/fijiri/",
+      "description": "Deeply rooted in the Persian Gulf pearl diving culture, and sung during weekly gatherings combining solo and choral sections with minimal percussion.",
+      "level": "sub-4",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Liwa",
+      "url": "https://rateyourmusic.com/genre/liwa/",
+      "description": "Traditional Khaliji performance with East African Music roots centered around the mizmar and traditional drums, typically sung in Khaliji Arabic and Swahili.",
+      "level": "sub-3",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Liwa",
+      "url": "https://rateyourmusic.com/genre/liwa/",
+      "description": "Traditional Khaliji performance with East African Music roots centered around the mizmar and traditional drums, typically sung in Khaliji Arabic and Swahili.",
+      "level": "sub-4",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Nuban",
+      "url": "https://rateyourmusic.com/genre/nuban/",
+      "description": "Traditional Afro-Emirati Folk performance of Nuban origin most commonly performed in the emirate of Dubai.",
+      "level": "sub-3",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Nuban",
+      "url": "https://rateyourmusic.com/genre/nuban/",
+      "description": "Traditional Afro-Emirati Folk performance of Nuban origin most commonly performed in the emirate of Dubai.",
+      "level": "sub-4",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Samri",
+      "url": "https://rateyourmusic.com/genre/samri/",
+      "description": "Traditional dance from Najd, Saudi Arabia, performed by two opposing rows of men who face each other, dancing and moving to the rhythm, in addition to a percussion ensemble.",
+      "level": "sub-3",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Samri",
+      "url": "https://rateyourmusic.com/genre/samri/",
+      "description": "Traditional dance from Najd, Saudi Arabia, performed by two opposing rows of men who face each other, dancing and moving to the rhythm, in addition to a percussion ensemble.",
+      "level": "sub-4",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Sawt",
+      "url": "https://rateyourmusic.com/genre/sawt/",
+      "description": "Poetic vocal form with complex rhythms, emotive singing, and distinctive lute-backed melodies commonly found in the Gulf region and based on a maqam system.",
+      "level": "sub-3",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Sawt",
+      "url": "https://rateyourmusic.com/genre/sawt/",
+      "description": "Poetic vocal form with complex rhythms, emotive singing, and distinctive lute-backed melodies commonly found in the Gulf region and based on a maqam system.",
+      "level": "sub-4",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Shehhi Music",
+      "url": "https://rateyourmusic.com/genre/shehhi-music/",
+      "description": "Musical traditions of the Shihuh, an Arabian tribe native to the United Arab Emirates and Oman.",
+      "level": "sub-3",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Shehhi Music",
+      "url": "https://rateyourmusic.com/genre/shehhi-music/",
+      "description": "Musical traditions of the Shihuh, an Arabian tribe native to the United Arab Emirates and Oman.",
+      "level": "sub-4",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Shilla",
+      "url": "https://rateyourmusic.com/genre/shilla/",
+      "description": "Traditional style of sung Nabati poetry, prevalent across the Arabian Peninsula.",
+      "level": "sub-3",
+      "parent": "Khaliji Music"
+    },
+    {
+      "name": "Shilla",
+      "url": "https://rateyourmusic.com/genre/shilla/",
+      "description": "Traditional style of sung Nabati poetry, prevalent across the Arabian Peninsula.",
+      "level": "sub-4",
+      "parent": "Khaliji Music"
+    }
+  ]
+}

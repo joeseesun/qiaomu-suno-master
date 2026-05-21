@@ -1,0 +1,17 @@
+{
+  "name": "Minimal Wave",
+  "description": "Retrospective term for more Electronic and minimal forms of New Wave, Post-Punk, Synthpop, and related styles, tending towards a more sparse and lo-fi sound.",
+  "url": "https://rateyourmusic.com/genre/minimal-wave/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Minimal Synth",
+      "url": "https://rateyourmusic.com/genre/minimal-synth/",
+      "description": "Minimal and distinctly DIY take on Synthpop with a bleak and naive aesthetic.",
+      "level": "sub-2",
+      "parent": "Minimal Wave"
+    }
+  ]
+}

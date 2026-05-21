@@ -1,0 +1,155 @@
+{
+  "name": "Experimental",
+  "description": "Most radical approaches throughout history, featuring non-traditional production methods resulting in sounds and styles that go largely beyond traditional boundaries.",
+  "url": "https://rateyourmusic.com/genre/experimental/",
+  "sub_genres_count": 21,
+  "sub_genres": [
+    {
+      "name": "Conducted Improvisation",
+      "url": "https://rateyourmusic.com/genre/conducted-improvisation/",
+      "description": "Collective improvisation directed by a conductor.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Data Sonification",
+      "url": "https://rateyourmusic.com/genre/data-sonification/",
+      "description": "Usage of data to create sound, soundscapes and music mostly as a way to illustrate its information.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Drone",
+      "url": "https://rateyourmusic.com/genre/drone/",
+      "description": "Focuses on long, sustained tones and tone clusters, or repetition of single notes.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Electroacoustic",
+      "url": "https://rateyourmusic.com/genre/electroacoustic/",
+      "description": "Manipulation and processing of sound sources to create atmospheric pieces.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Free Improvisation",
+      "url": "https://rateyourmusic.com/genre/free-improvisation/",
+      "description": "Improvised music which, in descending from Free Jazz and classical Indeterminacy, further abandons the prescriptions of harmonic or rhythmic structures which characterized those genres.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Futurism",
+      "url": "https://rateyourmusic.com/genre/futurism/",
+      "description": "Radical and militant attitude, rejection of Western Classical Music and traditional criteria of craft, non-conformity, and a fascination with machines.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Glitch",
+      "url": "https://rateyourmusic.com/genre/glitch/",
+      "description": "Uses abstract sound design and malfunctioning electronics—CD skips, data corruption, and hardware noise—as main compositional elements.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Graphical Sound",
+      "url": "https://rateyourmusic.com/genre/graphical-sound/",
+      "description": "Compositional technique in which markings are manually applied to a medium, then processed by a machine to produce synthetic sound from the markings in real time.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Indeterminacy",
+      "url": "https://rateyourmusic.com/genre/indeterminacy/",
+      "description": "Leaves elements of composition, performance, or both up to chance.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Industrial",
+      "url": "https://rateyourmusic.com/genre/industrial/",
+      "description": "Emerged out of Punk and avant-garde art movements in the mid-1970s, often characterized by a bleak, mechanical atmosphere, the use of metallic percussion as well as other unconventional instruments, and extensive use of sampling influenced by Musique concrète.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Micromontage",
+      "url": "https://rateyourmusic.com/genre/micromontage/",
+      "description": "Arrangement of microsounds on an incredibly small time scale.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Modern Creative",
+      "url": "https://rateyourmusic.com/genre/modern-creative/",
+      "description": "Style of semi-improvisation that derives heavily from both the composition of Modern Classical and the techniques of Avant-Garde Jazz.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Musique concrète instrumentale",
+      "url": "https://rateyourmusic.com/genre/musique-concrete-instrumentale/",
+      "description": "Acoustic, through-composed Classical Music that relies heavily on unconventional instrumental techniques.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Noise",
+      "url": "https://rateyourmusic.com/genre/noise/",
+      "description": "Strays away from conventional structure, tonality, and composition and consists predominantly of noise.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Plunderphonics",
+      "url": "https://rateyourmusic.com/genre/plunderphonics/",
+      "description": "Compositional technique of utilizing and manipulating one or more recognizable recordings to create a new composition.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Reductionism",
+      "url": "https://rateyourmusic.com/genre/reductionism/",
+      "description": "Experimental music that centers around quiet dynamics and use of silence.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Sound Art",
+      "url": "https://rateyourmusic.com/genre/sound-art/",
+      "description": "Incorporates elements from Experimental music and visual arts, with sound utilized as its primary medium and subject.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Sound Collage",
+      "url": "https://rateyourmusic.com/genre/sound-collage/",
+      "description": "Compositional method emphasizing the rough layering of sampled elements, presenting an impression similar to a visual collage.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Sound Poetry",
+      "url": "https://rateyourmusic.com/genre/sound-poetry/",
+      "description": "Emphasis is placed upon phonetics and the sounds of syllables rather than the meaning of the words themselves.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Tape Music",
+      "url": "https://rateyourmusic.com/genre/tape-music/",
+      "description": "Explores the nature of audio recorded to magnetic tape and the act of playing sound from it.",
+      "level": "sub",
+      "parent": "Experimental"
+    },
+    {
+      "name": "Turntable Music",
+      "url": "https://rateyourmusic.com/genre/turntable-music/",
+      "description": "Has its roots in the early half of the twentieth century, with experimental artists using the turntable (as well as the vinyl records it plays) as a distinct instrument in the creation of compositions.",
+      "level": "sub",
+      "parent": "Experimental"
+    }
+  ]
+}

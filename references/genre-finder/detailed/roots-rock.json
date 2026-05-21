@@ -1,0 +1,38 @@
+{
+  "name": "Roots Rock",
+  "description": "Consciously and predominantly incorporates elements of its predecessors and original roots such as Country, Blues, Rhythm & Blues, Rock & Roll, and American Folk Music, but also many other American traditions.",
+  "url": "https://rateyourmusic.com/genre/roots-rock/",
+  "parent": "Northern American Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Swamp Rock",
+      "url": "https://rateyourmusic.com/genre/swamp-rock/",
+      "description": "Incorporates influences from the musical styles and traditions of Louisiana.",
+      "level": "sub-3",
+      "parent": "Roots Rock"
+    },
+    {
+      "name": "Swamp Rock",
+      "url": "https://rateyourmusic.com/genre/swamp-rock/",
+      "description": "Incorporates influences from the musical styles and traditions of Louisiana.",
+      "level": "sub-2",
+      "parent": "Roots Rock"
+    },
+    {
+      "name": "Tex-Mex",
+      "url": "https://rateyourmusic.com/genre/tex-mex/",
+      "description": "Mixes Rock & Roll, Blues, Country, and several types of Hispanic American Music, particularly Tejano Music.",
+      "level": "sub-3",
+      "parent": "Roots Rock"
+    },
+    {
+      "name": "Tex-Mex",
+      "url": "https://rateyourmusic.com/genre/tex-mex/",
+      "description": "Mixes Rock & Roll, Blues, Country, and several types of Hispanic American Music, particularly Tejano Music.",
+      "level": "sub-2",
+      "parent": "Roots Rock"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Japanese Idol",
+  "description": "Contemporary Japanese singer-dancers valued mainly for their personality and charisma, often performing as groups in a cutesy and youthful style.",
+  "url": "https://rateyourmusic.com/genre/japanese-idol/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Alternative Idol",
+      "url": "https://rateyourmusic.com/genre/alternative-idol/",
+      "description": "Unconventional approaches characterized by alternative music styles and often unusual public images.",
+      "level": "sub-2",
+      "parent": "Japanese Idol"
+    }
+  ]
+}

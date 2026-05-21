@@ -1,0 +1,38 @@
+{
+  "name": "Arabic Pop",
+  "description": "Synthesis of Arabic Music with Western Pop melodies, almost always sung in Arabic and typically performed with Arabic instruments, alongside some Western instruments like the guitar.",
+  "url": "https://rateyourmusic.com/genre/arabic-pop/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Al jeel",
+      "url": "https://rateyourmusic.com/genre/al-jeel/",
+      "description": "Emerged in the 1970s as an alternative to Shaabi, taking influence from foreign Pop and incorporating rhythms of Reggae while retaining a distinctly Egyptian sound.",
+      "level": "sub-2",
+      "parent": "Arabic Pop"
+    },
+    {
+      "name": "Al jeel",
+      "url": "https://rateyourmusic.com/genre/al-jeel/",
+      "description": "Emerged in the 1970s as an alternative to Shaabi, taking influence from foreign Pop and incorporating rhythms of Reggae while retaining a distinctly Egyptian sound.",
+      "level": "sub-3",
+      "parent": "Arabic Pop"
+    },
+    {
+      "name": "Mūsīqā lubnāniyya",
+      "url": "https://rateyourmusic.com/genre/musiqa-lubnaniyya/",
+      "description": "Lebanese pop genre that emerged post-independence as a nationalist tradition distinct from Egyptian and Levantine music, blending local influences with western orchestration, peaking in Lebanon's 1957–1975 golden age through radio, cinema, and stage.",
+      "level": "sub-2",
+      "parent": "Arabic Pop"
+    },
+    {
+      "name": "Mūsīqā lubnāniyya",
+      "url": "https://rateyourmusic.com/genre/musiqa-lubnaniyya/",
+      "description": "Lebanese pop genre that emerged post-independence as a nationalist tradition distinct from Egyptian and Levantine music, blending local influences with western orchestration, peaking in Lebanon's 1957–1975 golden age through radio, cinema, and stage.",
+      "level": "sub-3",
+      "parent": "Arabic Pop"
+    }
+  ]
+}

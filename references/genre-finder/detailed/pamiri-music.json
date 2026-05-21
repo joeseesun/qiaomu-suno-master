@@ -1,0 +1,17 @@
+{
+  "name": "Pamiri Music",
+  "description": "Music of the Pamiri people native to the Badakhshan region in the Pamir Mountains.",
+  "url": "https://rateyourmusic.com/genre/pamiri-music/",
+  "parent": "Central Asian Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Falak",
+      "url": "https://rateyourmusic.com/genre/falak/",
+      "description": "Songs that reflect the state of living for those indigenous to the Pamir mountains ranges, often sung in high registers.",
+      "level": "sub-4",
+      "parent": "Pamiri Music"
+    }
+  ]
+}

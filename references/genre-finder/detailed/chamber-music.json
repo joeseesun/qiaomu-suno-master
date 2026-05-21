@@ -1,0 +1,17 @@
+{
+  "name": "Chamber Music",
+  "description": "Western Classical Music performed by a small ensemble, usually only a few performers.",
+  "url": "https://rateyourmusic.com/genre/chamber-music/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "String Quartet",
+      "url": "https://rateyourmusic.com/genre/string-quartet/",
+      "description": "Small scale composition for an ensemble that consists of two violins, one viola, and one cello, with complex interplay and multiple (usually four) movements.",
+      "level": "sub-3",
+      "parent": "Chamber Music"
+    }
+  ]
+}

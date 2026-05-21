@@ -1,0 +1,31 @@
+{
+  "name": "New Beat",
+  "description": "Emerged in the mid-1980s in Belgium; characterized by dark basslines, hard-hitting grooves and a slow tempo.",
+  "url": "https://rateyourmusic.com/genre/new-beat/",
+  "parent": "EBM",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Hard Beat",
+      "url": "https://rateyourmusic.com/genre/hard-beat/",
+      "description": "Short-lived, harder, harsh form of New Beat with Industrial, Acid House and EBM-influenced arrangement.",
+      "level": "sub-4",
+      "parent": "New Beat"
+    },
+    {
+      "name": "Hard Beat",
+      "url": "https://rateyourmusic.com/genre/hard-beat/",
+      "description": "Short-lived, harder, harsh form of New Beat with Industrial, Acid House and EBM-influenced arrangement.",
+      "level": "sub-4",
+      "parent": "New Beat"
+    },
+    {
+      "name": "Hard Beat",
+      "url": "https://rateyourmusic.com/genre/hard-beat/",
+      "description": "Short-lived, harder, harsh form of New Beat with Industrial, Acid House and EBM-influenced arrangement.",
+      "level": "sub-4",
+      "parent": "New Beat"
+    }
+  ]
+}

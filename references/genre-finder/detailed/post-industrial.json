@@ -1,0 +1,87 @@
+{
+  "name": "Post-Industrial",
+  "description": "Umbrella group of genres that combine the dark, mechanical aesthetic of early Industrial music with more accessible genres, such as Rock and Electronic Dance Music.",
+  "url": "https://rateyourmusic.com/genre/post-industrial/",
+  "parent": "Industrial & Noise",
+  "level": "sub",
+  "children_count": 11,
+  "children": [
+    {
+      "name": "Dark Ambient",
+      "url": "https://rateyourmusic.com/genre/dark-ambient/",
+      "description": "Emphasizes an ominous, gloomy, and dissonant atmosphere.",
+      "level": "sub-2",
+      "parent": "Post-Industrial"
+    },
+    {
+      "name": "Deconstructed Club",
+      "url": "https://rateyourmusic.com/genre/deconstructed-club/",
+      "description": "Emerged in the 2010s as the hybridization of diverse Electronic Dance Music genres with an abrasive Post-Industrial sound.",
+      "level": "sub-2",
+      "parent": "Post-Industrial"
+    },
+    {
+      "name": "EBM",
+      "url": "https://rateyourmusic.com/genre/ebm/",
+      "description": "Melodic and dancefloor-friendly take on Post-Industrial music that developed in the early 1980s.",
+      "level": "sub-2",
+      "parent": "Post-Industrial"
+    },
+    {
+      "name": "Electro-Industrial",
+      "url": "https://rateyourmusic.com/genre/electro-industrial/",
+      "description": "Formed in the late 1980s and early 1990s; grew out of a combination of EBM and Industrial.",
+      "level": "sub-2",
+      "parent": "Post-Industrial"
+    },
+    {
+      "name": "Industrial Hardcore",
+      "url": "https://rateyourmusic.com/genre/industrial-hardcore/",
+      "description": "Fuses the sonic palettes and aesthetics of Industrial with the intense rhythms of Gabber, Speedcore, Doomcore and other subsequent styles.",
+      "level": "sub-2",
+      "parent": "Post-Industrial"
+    },
+    {
+      "name": "Industrial Hip Hop",
+      "url": "https://rateyourmusic.com/genre/industrial-hip-hop/",
+      "description": "Incorporates harsh elements inspired by Industrial music such as blaring, noisy synths, distorted and metallic percussion, as well as more aggressive and off-kilter rapping styles.",
+      "level": "sub-2",
+      "parent": "Post-Industrial"
+    },
+    {
+      "name": "Industrial Metal",
+      "url": "https://rateyourmusic.com/genre/industrial-metal/",
+      "description": "Incorporates the abrasive and heavy sound of Industrial into Metal, using elements like synthesizers and drum machines.",
+      "level": "sub-2",
+      "parent": "Post-Industrial"
+    },
+    {
+      "name": "Industrial Rock",
+      "url": "https://rateyourmusic.com/genre/industrial-rock/",
+      "description": "Incorporates abrasive guitars and synthesizers inspired by Industrial and various Post-Industrial styles.",
+      "level": "sub-2",
+      "parent": "Post-Industrial"
+    },
+    {
+      "name": "Industrial Techno",
+      "url": "https://rateyourmusic.com/genre/industrial-techno/",
+      "description": "Harder, darker style of Techno which draws parallels with factories and the rhythm of machinery.",
+      "level": "sub-2",
+      "parent": "Post-Industrial"
+    },
+    {
+      "name": "Martial Industrial",
+      "url": "https://rateyourmusic.com/genre/martial-industrial/",
+      "description": "Incorporates elements of traditional European military marches with Neoclassical Darkwave, Dark Ambient, Industrial, and Neofolk.",
+      "level": "sub-2",
+      "parent": "Post-Industrial"
+    },
+    {
+      "name": "Power Noise",
+      "url": "https://rateyourmusic.com/genre/power-noise/",
+      "description": "Combines looped samples of Noise with Electronic rhythms.",
+      "level": "sub-2",
+      "parent": "Post-Industrial"
+    }
+  ]
+}

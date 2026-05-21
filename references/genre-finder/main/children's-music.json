@@ -1,0 +1,29 @@
+{
+  "name": "Children's Music",
+  "description": "Recorded for an intended audience of children.",
+  "url": "https://rateyourmusic.com/genre/childrens-music/",
+  "sub_genres_count": 3,
+  "sub_genres": [
+    {
+      "name": "Fairy Tales",
+      "url": "https://rateyourmusic.com/genre/fairy-tales/",
+      "description": "Recorded for children with or without background music.",
+      "level": "sub",
+      "parent": "Children's Music"
+    },
+    {
+      "name": "Lullabies",
+      "url": "https://rateyourmusic.com/genre/lullabies/",
+      "description": "Soothing, melodic songs that are typically used to help young children sleep.",
+      "level": "sub",
+      "parent": "Children's Music"
+    },
+    {
+      "name": "Nursery Rhymes",
+      "url": "https://rateyourmusic.com/genre/nursery-rhymes/",
+      "description": "Short, mostly traditional children's songs or poems with simple melodies, rhythms and words.",
+      "level": "sub",
+      "parent": "Children's Music"
+    }
+  ]
+}

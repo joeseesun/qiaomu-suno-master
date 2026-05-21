@@ -1,0 +1,31 @@
+{
+  "name": "Fijian Music",
+  "description": "Music of the Fijian people.",
+  "url": "https://rateyourmusic.com/genre/fijian-music/",
+  "parent": "Polynesian Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Vude",
+      "url": "https://rateyourmusic.com/genre/vude/",
+      "description": "Blends traditional local music with elements of Disco, Country and Rock.",
+      "level": "sub-4",
+      "parent": "Fijian Music"
+    },
+    {
+      "name": "Vude",
+      "url": "https://rateyourmusic.com/genre/vude/",
+      "description": "Blends traditional local music with elements of Disco, Country and Rock.",
+      "level": "sub-4",
+      "parent": "Fijian Music"
+    },
+    {
+      "name": "Vude",
+      "url": "https://rateyourmusic.com/genre/vude/",
+      "description": "Blends traditional local music with elements of Disco, Country and Rock.",
+      "level": "sub-4",
+      "parent": "Fijian Music"
+    }
+  ]
+}

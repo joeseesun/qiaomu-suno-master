@@ -1,0 +1,17 @@
+{
+  "name": "Highlife",
+  "description": "Originally began along the Ghanaian coast in the 1920s as a blend of western brass band instrumentation and rhythms with traditional Akan Music and Dagomba Music.",
+  "url": "https://rateyourmusic.com/genre/highlife/",
+  "parent": "West African Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Burger-Highlife",
+      "url": "https://rateyourmusic.com/genre/burger-highlife/",
+      "description": "Created by Ghanaian immigrants to Germany in the late 1970s, generally employing synthesizers and Western post-production techniques alongside guitar-driven Highlife instrumentation.",
+      "level": "sub-4",
+      "parent": "Highlife"
+    }
+  ]
+}

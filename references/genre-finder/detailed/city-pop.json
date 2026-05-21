@@ -1,0 +1,17 @@
+{
+  "name": "City Pop",
+  "description": "Wave of Japanese Pop intended to reflect urban life during the period of the country's booming economy in the 1970s and 1980s, featuring a contemporary Western sound and lush arrangements.",
+  "url": "https://rateyourmusic.com/genre/city-pop/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Neo-City Pop",
+      "url": "https://rateyourmusic.com/genre/neo-city-pop/",
+      "description": "2010s style blending emerging genres like Acid Jazz and Neo-Soul with the Western-inspired Japanese Pop styles of the 1970s and 1980s.",
+      "level": "sub-2",
+      "parent": "City Pop"
+    }
+  ]
+}

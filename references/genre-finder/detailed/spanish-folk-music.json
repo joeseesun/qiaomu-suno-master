@@ -1,0 +1,360 @@
+{
+  "name": "Spanish Folk Music",
+  "description": "Traditional Folk Music of Spain, widely diverse due to the distinct culture and traditions of the country's different regions.",
+  "url": "https://rateyourmusic.com/genre/spanish-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 50,
+  "children": [
+    {
+      "name": "Andalusian Folk Music",
+      "url": "https://rateyourmusic.com/genre/andalusian-folk-music/",
+      "description": "Flamenco of Andalusia in southern Spain, rooted in traditional music and dances and developed mostly after the 18th century by the Romani people of Andalusia (known locally as gitanos).",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Andalusian Folk Music",
+      "url": "https://rateyourmusic.com/genre/andalusian-folk-music/",
+      "description": "Flamenco of Andalusia in southern Spain, rooted in traditional music and dances and developed mostly after the 18th century by the Romani people of Andalusia (known locally as gitanos).",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Andalusian Folk Music",
+      "url": "https://rateyourmusic.com/genre/andalusian-folk-music/",
+      "description": "Flamenco of Andalusia in southern Spain, rooted in traditional music and dances and developed mostly after the 18th century by the Romani people of Andalusia (known locally as gitanos).",
+      "level": "sub-5",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Andalusian Folk Music",
+      "url": "https://rateyourmusic.com/genre/andalusian-folk-music/",
+      "description": "Flamenco of Andalusia in southern Spain, rooted in traditional music and dances and developed mostly after the 18th century by the Romani people of Andalusia (known locally as gitanos).",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Andalusian Folk Music",
+      "url": "https://rateyourmusic.com/genre/andalusian-folk-music/",
+      "description": "Flamenco of Andalusia in southern Spain, rooted in traditional music and dances and developed mostly after the 18th century by the Romani people of Andalusia (known locally as gitanos).",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Aragonese Folk Music",
+      "url": "https://rateyourmusic.com/genre/aragonese-folk-music/",
+      "description": "Traditional Folk Music of the Aragonese people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Aragonese Folk Music",
+      "url": "https://rateyourmusic.com/genre/aragonese-folk-music/",
+      "description": "Traditional Folk Music of the Aragonese people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Aragonese Folk Music",
+      "url": "https://rateyourmusic.com/genre/aragonese-folk-music/",
+      "description": "Traditional Folk Music of the Aragonese people.",
+      "level": "sub-5",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Aragonese Folk Music",
+      "url": "https://rateyourmusic.com/genre/aragonese-folk-music/",
+      "description": "Traditional Folk Music of the Aragonese people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Aragonese Folk Music",
+      "url": "https://rateyourmusic.com/genre/aragonese-folk-music/",
+      "description": "Traditional Folk Music of the Aragonese people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Asturian Folk Music",
+      "url": "https://rateyourmusic.com/genre/asturian-folk-music/",
+      "description": "Traditional music of the Asturian people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Asturian Folk Music",
+      "url": "https://rateyourmusic.com/genre/asturian-folk-music/",
+      "description": "Traditional music of the Asturian people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Asturian Folk Music",
+      "url": "https://rateyourmusic.com/genre/asturian-folk-music/",
+      "description": "Traditional music of the Asturian people.",
+      "level": "sub-5",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Asturian Folk Music",
+      "url": "https://rateyourmusic.com/genre/asturian-folk-music/",
+      "description": "Traditional music of the Asturian people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Asturian Folk Music",
+      "url": "https://rateyourmusic.com/genre/asturian-folk-music/",
+      "description": "Traditional music of the Asturian people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Canarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/canarian-folk-music/",
+      "description": "Traditional folk of the Canary Islands.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Canarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/canarian-folk-music/",
+      "description": "Traditional folk of the Canary Islands.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Canarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/canarian-folk-music/",
+      "description": "Traditional folk of the Canary Islands.",
+      "level": "sub-5",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Canarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/canarian-folk-music/",
+      "description": "Traditional folk of the Canary Islands.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Canarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/canarian-folk-music/",
+      "description": "Traditional folk of the Canary Islands.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Chotis madrileño",
+      "url": "https://rateyourmusic.com/genre/chotis-madrileno/",
+      "description": "Spanish variant of schottisch, a slow version of German Polka which developed through the incorporation of regional folk influences and an association with the local castizo culture in Madrid, the capital of Spain.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Chotis madrileño",
+      "url": "https://rateyourmusic.com/genre/chotis-madrileno/",
+      "description": "Spanish variant of schottisch, a slow version of German Polka which developed through the incorporation of regional folk influences and an association with the local castizo culture in Madrid, the capital of Spain.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Chotis madrileño",
+      "url": "https://rateyourmusic.com/genre/chotis-madrileno/",
+      "description": "Spanish variant of schottisch, a slow version of German Polka which developed through the incorporation of regional folk influences and an association with the local castizo culture in Madrid, the capital of Spain.",
+      "level": "sub-5",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Chotis madrileño",
+      "url": "https://rateyourmusic.com/genre/chotis-madrileno/",
+      "description": "Spanish variant of schottisch, a slow version of German Polka which developed through the incorporation of regional folk influences and an association with the local castizo culture in Madrid, the capital of Spain.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Chotis madrileño",
+      "url": "https://rateyourmusic.com/genre/chotis-madrileno/",
+      "description": "Spanish variant of schottisch, a slow version of German Polka which developed through the incorporation of regional folk influences and an association with the local castizo culture in Madrid, the capital of Spain.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Copla",
+      "url": "https://rateyourmusic.com/genre/copla/",
+      "description": "Evolved from Spanish theatrical styles like Cuplé and has strong links to Flamenco.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Copla",
+      "url": "https://rateyourmusic.com/genre/copla/",
+      "description": "Evolved from Spanish theatrical styles like Cuplé and has strong links to Flamenco.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Copla",
+      "url": "https://rateyourmusic.com/genre/copla/",
+      "description": "Evolved from Spanish theatrical styles like Cuplé and has strong links to Flamenco.",
+      "level": "sub-5",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Copla",
+      "url": "https://rateyourmusic.com/genre/copla/",
+      "description": "Evolved from Spanish theatrical styles like Cuplé and has strong links to Flamenco.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Copla",
+      "url": "https://rateyourmusic.com/genre/copla/",
+      "description": "Evolved from Spanish theatrical styles like Cuplé and has strong links to Flamenco.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Cuplé",
+      "url": "https://rateyourmusic.com/genre/cuple/",
+      "description": "Originally developed in the 19th century as a blend of old theatre Spanish styles based in short monologues (jácara and tonadilla) and French Couplet.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Cuplé",
+      "url": "https://rateyourmusic.com/genre/cuple/",
+      "description": "Originally developed in the 19th century as a blend of old theatre Spanish styles based in short monologues (jácara and tonadilla) and French Couplet.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Cuplé",
+      "url": "https://rateyourmusic.com/genre/cuple/",
+      "description": "Originally developed in the 19th century as a blend of old theatre Spanish styles based in short monologues (jácara and tonadilla) and French Couplet.",
+      "level": "sub-5",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Cuplé",
+      "url": "https://rateyourmusic.com/genre/cuple/",
+      "description": "Originally developed in the 19th century as a blend of old theatre Spanish styles based in short monologues (jácara and tonadilla) and French Couplet.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Cuplé",
+      "url": "https://rateyourmusic.com/genre/cuple/",
+      "description": "Originally developed in the 19th century as a blend of old theatre Spanish styles based in short monologues (jácara and tonadilla) and French Couplet.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Galician Folk Music",
+      "url": "https://rateyourmusic.com/genre/galician-folk-music/",
+      "description": "Traditional music of the Galician people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Galician Folk Music",
+      "url": "https://rateyourmusic.com/genre/galician-folk-music/",
+      "description": "Traditional music of the Galician people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Galician Folk Music",
+      "url": "https://rateyourmusic.com/genre/galician-folk-music/",
+      "description": "Traditional music of the Galician people.",
+      "level": "sub-5",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Galician Folk Music",
+      "url": "https://rateyourmusic.com/genre/galician-folk-music/",
+      "description": "Traditional music of the Galician people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Galician Folk Music",
+      "url": "https://rateyourmusic.com/genre/galician-folk-music/",
+      "description": "Traditional music of the Galician people.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Pasodoble",
+      "url": "https://rateyourmusic.com/genre/pasodoble/",
+      "description": "Mainly instrumental Spanish style primarily associated with bullfighting and popular celebrations, believed to originate from a double-time military march from France in the 18th century.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Pasodoble",
+      "url": "https://rateyourmusic.com/genre/pasodoble/",
+      "description": "Mainly instrumental Spanish style primarily associated with bullfighting and popular celebrations, believed to originate from a double-time military march from France in the 18th century.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Pasodoble",
+      "url": "https://rateyourmusic.com/genre/pasodoble/",
+      "description": "Mainly instrumental Spanish style primarily associated with bullfighting and popular celebrations, believed to originate from a double-time military march from France in the 18th century.",
+      "level": "sub-5",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Pasodoble",
+      "url": "https://rateyourmusic.com/genre/pasodoble/",
+      "description": "Mainly instrumental Spanish style primarily associated with bullfighting and popular celebrations, believed to originate from a double-time military march from France in the 18th century.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Pasodoble",
+      "url": "https://rateyourmusic.com/genre/pasodoble/",
+      "description": "Mainly instrumental Spanish style primarily associated with bullfighting and popular celebrations, believed to originate from a double-time military march from France in the 18th century.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Valencian Folk Music",
+      "url": "https://rateyourmusic.com/genre/valencian-folk-music/",
+      "description": "Traditional music of the Valencian Country.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Valencian Folk Music",
+      "url": "https://rateyourmusic.com/genre/valencian-folk-music/",
+      "description": "Traditional music of the Valencian Country.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Valencian Folk Music",
+      "url": "https://rateyourmusic.com/genre/valencian-folk-music/",
+      "description": "Traditional music of the Valencian Country.",
+      "level": "sub-5",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Valencian Folk Music",
+      "url": "https://rateyourmusic.com/genre/valencian-folk-music/",
+      "description": "Traditional music of the Valencian Country.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    },
+    {
+      "name": "Valencian Folk Music",
+      "url": "https://rateyourmusic.com/genre/valencian-folk-music/",
+      "description": "Traditional music of the Valencian Country.",
+      "level": "sub-4",
+      "parent": "Spanish Folk Music"
+    }
+  ]
+}

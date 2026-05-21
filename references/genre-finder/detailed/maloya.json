@@ -1,0 +1,31 @@
+{
+  "name": "Maloya",
+  "description": "Originated in slave communities on La Réunion; based on a call and response structure and use of traditional instruments.",
+  "url": "https://rateyourmusic.com/genre/maloya/",
+  "parent": "Seychelles & Mascarene Islands Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Maloya électronique",
+      "url": "https://rateyourmusic.com/genre/maloya-electronique/",
+      "description": "Combines the 6/8 ternary rhythm with Electronic production, using computer music, synthesizers and drum machines.",
+      "level": "sub-4",
+      "parent": "Maloya"
+    },
+    {
+      "name": "Maloya élektrik",
+      "url": "https://rateyourmusic.com/genre/maloya-elektrik/",
+      "description": "Prominent in La Réunion island from the 1970s until the 1990s; drew influences from Funk, Psychedelia, and Afrobeat.",
+      "level": "sub-4",
+      "parent": "Maloya"
+    },
+    {
+      "name": "Traditional Maloya",
+      "url": "https://rateyourmusic.com/genre/traditional-maloya/",
+      "description": "Derived from Traditional Séga, this is the original dance music of La Réunion.",
+      "level": "sub-4",
+      "parent": "Maloya"
+    }
+  ]
+}

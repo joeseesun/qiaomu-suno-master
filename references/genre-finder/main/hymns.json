@@ -1,0 +1,36 @@
+{
+  "name": "Hymns",
+  "description": "Performed and written with the purpose of praise, adoration, and prayer, often addressed to deities or other cultural figures.",
+  "url": "https://rateyourmusic.com/genre/hymns/",
+  "sub_genres_count": 4,
+  "sub_genres": [
+    {
+      "name": "Bhajan",
+      "url": "https://rateyourmusic.com/genre/bhajan/",
+      "description": "Song-based form of devotional music within Dharmic religions, with lyrical themes having an emphasis on deep adoration for a deity.",
+      "level": "sub",
+      "parent": "Hymns"
+    },
+    {
+      "name": "Lauda",
+      "url": "https://rateyourmusic.com/genre/lauda/",
+      "description": "Vernacular, devotional sung poetry, composed in Italy in the late Medieval and Renaissance periods.",
+      "level": "sub",
+      "parent": "Hymns"
+    },
+    {
+      "name": "Purísima",
+      "url": "https://rateyourmusic.com/genre/purisima/",
+      "description": "Nicaraguan Hymns to the Immaculate Conception of Mary, sung during holiday celebrations and in liturgical or parochial services.",
+      "level": "sub",
+      "parent": "Hymns"
+    },
+    {
+      "name": "Sacred Harp Singing",
+      "url": "https://rateyourmusic.com/genre/sacred-harp-singing/",
+      "description": "Predominantly 19th-century English hymns with tunes derived from old folk melodies.",
+      "level": "sub",
+      "parent": "Hymns"
+    }
+  ]
+}

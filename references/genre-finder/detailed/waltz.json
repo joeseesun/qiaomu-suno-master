@@ -1,0 +1,24 @@
+{
+  "name": "Waltz",
+  "description": "Typically in a 3/4 time signature and popular in the 18th century in central Europe, as it accompanied the ballroom dance of the same name.",
+  "url": "https://rateyourmusic.com/genre/waltz/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Vals venezolano",
+      "url": "https://rateyourmusic.com/genre/vals-venezolano/",
+      "description": "Venezuelan dance music that employs heavy use of syncopation, complex rhythms, and regional instruments.",
+      "level": "sub-3",
+      "parent": "Waltz"
+    },
+    {
+      "name": "Valsa brasileira",
+      "url": "https://rateyourmusic.com/genre/valsa-brasileira/",
+      "description": "Brazillian Waltz characterized by its slow rhythms and romantic sound.",
+      "level": "sub-3",
+      "parent": "Waltz"
+    }
+  ]
+}

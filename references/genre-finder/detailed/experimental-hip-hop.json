@@ -1,0 +1,17 @@
+{
+  "name": "Experimental Hip Hop",
+  "description": "Incorporates experimental and eccentric elements considered unconventional or unorthodox compared to more traditional hip hop.",
+  "url": "https://rateyourmusic.com/genre/experimental-hip-hop/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Industrial Hip Hop",
+      "url": "https://rateyourmusic.com/genre/industrial-hip-hop/",
+      "description": "Incorporates harsh elements inspired by Industrial music such as blaring, noisy synths, distorted and metallic percussion, as well as more aggressive and off-kilter rapping styles.",
+      "level": "sub-2",
+      "parent": "Experimental Hip Hop"
+    }
+  ]
+}

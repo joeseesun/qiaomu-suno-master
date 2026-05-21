@@ -1,0 +1,122 @@
+{
+  "name": "Contemporary Folk",
+  "description": "Generally acoustic and rooted in modernized Traditional Folk Music, originated with the 20th century American folk revival.",
+  "url": "https://rateyourmusic.com/genre/contemporary-folk/",
+  "parent": "Folk",
+  "level": "sub",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "American Primitivism",
+      "url": "https://rateyourmusic.com/genre/american-primitivism/",
+      "description": "Blends avant-garde and neo-classical compositions with traditional Country Blues fingerpicking techniques.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Anti-Folk",
+      "url": "https://rateyourmusic.com/genre/anti-folk/",
+      "description": "Rawer approach to folk, with an often self-mocking and sarcastic tone.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Avant-Folk",
+      "url": "https://rateyourmusic.com/genre/avant-folk/",
+      "description": "Experimental-influenced and playing with instrumentation, rhythm, and other factors not commonly found in folk.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Campus Folk",
+      "url": "https://rateyourmusic.com/genre/campus-folk/",
+      "description": "Born in Taiwan in the mid-1970s, this movement originated with university students creating their own modern-style songs in the wake of international tensions like Taiwan's isolation from the United Nations and the United States' embrace of the PRC as a diplomatic partner.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Chamber Folk",
+      "url": "https://rateyourmusic.com/genre/chamber-folk/",
+      "description": "Gentle fingerpicked acoustic guitar or harp-led music that commonly includes a backing ensemble of harpsichords, strings, horns, or other orchestral instruments.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Country Folk",
+      "url": "https://rateyourmusic.com/genre/country-folk/",
+      "description": "Emphasises Traditional Country instrumentation as well as influences from contemporary Singer-Songwriter traditions, such as a gentler disposition and prominent lyrical storytelling focus.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Folk Baroque",
+      "url": "https://rateyourmusic.com/genre/folk-baroque/",
+      "description": "Originated in England in the early 1960s, featuring a distinctive guitar fingerpicking style of the same name and the DADGAD guitar tuning.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Folk Pop",
+      "url": "https://rateyourmusic.com/genre/folk-pop/",
+      "description": "Blends Contemporary Folk with a Pop sensibility, most popular in the late 1960s and early 1970s and featuring influence from the contemporary Folk Rock style.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Indie Folk",
+      "url": "https://rateyourmusic.com/genre/indie-folk/",
+      "description": "Combines the melodic sensibilities and production style of Indie Rock and Indie Pop with acoustic instrumentation and influences from Folk, Singer-Songwriter, and sometimes Country.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Loner Folk",
+      "url": "https://rateyourmusic.com/genre/loner-folk/",
+      "description": "Lo-fi, downbeat, and frequently depressive atmosphere with psychedelic undertones that emerged among independent creators following the collapse of the counterculture in the 1970s.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Neofolk",
+      "url": "https://rateyourmusic.com/genre/neofolk/",
+      "description": "Emerged in the mid-1980s from the Post-Industrial scene, with a dark, often martial atmosphere.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Neofolklore",
+      "url": "https://rateyourmusic.com/genre/neofolklore/",
+      "description": "Short-lived movement that reincorporated traditional Chilean folklore into modern production and styling inspired by foreign musicians.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Progressive Folk",
+      "url": "https://rateyourmusic.com/genre/progressive-folk/",
+      "description": "Draws from a variety of sources to subvert traditional acoustic song forms, with diversity ranging from Jazz to Medieval music to various Regional Music traditions.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Psychedelic Folk",
+      "url": "https://rateyourmusic.com/genre/psychedelic-folk/",
+      "description": "Acoustic forms that capture an atmosphere that is at turns dream-like, 'spaced-out', whimsical, haunting, mystical, and melancholic.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Skiffle",
+      "url": "https://rateyourmusic.com/genre/skiffle/",
+      "description": "Grew out of British Trad Jazz, drawing influence from 1920s Jug Bands and the strong rhythms of 1950s Honky Tonk and Rock & Roll.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    },
+    {
+      "name": "Xinyao",
+      "url": "https://rateyourmusic.com/genre/xinyao/",
+      "description": "Singaporean Mandarin-language style, generally featuring harmonised group vocals and backed mainly by acoustic guitar.",
+      "level": "sub-2",
+      "parent": "Contemporary Folk"
+    }
+  ]
+}

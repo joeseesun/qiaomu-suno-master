@@ -1,0 +1,17 @@
+{
+  "name": "Glam Rock",
+  "description": "Incorporates elements of Rock & Roll and Blues Rock into catchy Pop Rock melodies, usually accompanied with a strong sense of theatricality.",
+  "url": "https://rateyourmusic.com/genre/glam-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Glam Punk",
+      "url": "https://rateyourmusic.com/genre/glam-punk/",
+      "description": "Contrasts a snotty, nihilistic, and combative attitude of punk with theatrics and flamboyance.",
+      "level": "sub-2",
+      "parent": "Glam Rock"
+    }
+  ]
+}

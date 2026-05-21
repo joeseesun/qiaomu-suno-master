@@ -1,0 +1,94 @@
+{
+  "name": "Chinese Classical Music",
+  "description": "Classical Music of China, encompassing royal court music.",
+  "url": "https://rateyourmusic.com/genre/chinese-classical-music/",
+  "parent": "East Asian Classical Music",
+  "level": "sub-2",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Baisha xiyue",
+      "url": "https://rateyourmusic.com/genre/baisha-xiyue/",
+      "description": "Mainly performed for funeral ceremonies of the Naxi ethnic group in the Yunnan province in China.",
+      "level": "sub-3",
+      "parent": "Chinese Classical Music"
+    },
+    {
+      "name": "Baisha xiyue",
+      "url": "https://rateyourmusic.com/genre/baisha-xiyue/",
+      "description": "Mainly performed for funeral ceremonies of the Naxi ethnic group in the Yunnan province in China.",
+      "level": "sub-5",
+      "parent": "Chinese Classical Music"
+    },
+    {
+      "name": "Baisha xiyue",
+      "url": "https://rateyourmusic.com/genre/baisha-xiyue/",
+      "description": "Mainly performed for funeral ceremonies of the Naxi ethnic group in the Yunnan province in China.",
+      "level": "sub-5",
+      "parent": "Chinese Classical Music"
+    },
+    {
+      "name": "Chinese Literati Music",
+      "url": "https://rateyourmusic.com/genre/chinese-literati-music/",
+      "description": "Music of the Chinese literati; primarily played on the guqin and invoking emotional restraint, self-cultivation, and introspection.",
+      "level": "sub-3",
+      "parent": "Chinese Classical Music"
+    },
+    {
+      "name": "Chinese Literati Music",
+      "url": "https://rateyourmusic.com/genre/chinese-literati-music/",
+      "description": "Music of the Chinese literati; primarily played on the guqin and invoking emotional restraint, self-cultivation, and introspection.",
+      "level": "sub-5",
+      "parent": "Chinese Classical Music"
+    },
+    {
+      "name": "Chinese Literati Music",
+      "url": "https://rateyourmusic.com/genre/chinese-literati-music/",
+      "description": "Music of the Chinese literati; primarily played on the guqin and invoking emotional restraint, self-cultivation, and introspection.",
+      "level": "sub-5",
+      "parent": "Chinese Classical Music"
+    },
+    {
+      "name": "Dongjing",
+      "url": "https://rateyourmusic.com/genre/dongjing/",
+      "description": "Rooted in Chinese Taoist Ritual Music from the Nakhi (Naxi) people, historically performed around Yunnan and Sichuan.",
+      "level": "sub-3",
+      "parent": "Chinese Classical Music"
+    },
+    {
+      "name": "Dongjing",
+      "url": "https://rateyourmusic.com/genre/dongjing/",
+      "description": "Rooted in Chinese Taoist Ritual Music from the Nakhi (Naxi) people, historically performed around Yunnan and Sichuan.",
+      "level": "sub-5",
+      "parent": "Chinese Classical Music"
+    },
+    {
+      "name": "Dongjing",
+      "url": "https://rateyourmusic.com/genre/dongjing/",
+      "description": "Rooted in Chinese Taoist Ritual Music from the Nakhi (Naxi) people, historically performed around Yunnan and Sichuan.",
+      "level": "sub-5",
+      "parent": "Chinese Classical Music"
+    },
+    {
+      "name": "Yayue",
+      "url": "https://rateyourmusic.com/genre/yayue/",
+      "description": "Incorporates folk and religious traditions of Chinese Music; literally translated as 'elegant music'.",
+      "level": "sub-3",
+      "parent": "Chinese Classical Music"
+    },
+    {
+      "name": "Yayue",
+      "url": "https://rateyourmusic.com/genre/yayue/",
+      "description": "Incorporates folk and religious traditions of Chinese Music; literally translated as 'elegant music'.",
+      "level": "sub-5",
+      "parent": "Chinese Classical Music"
+    },
+    {
+      "name": "Yayue",
+      "url": "https://rateyourmusic.com/genre/yayue/",
+      "description": "Incorporates folk and religious traditions of Chinese Music; literally translated as 'elegant music'.",
+      "level": "sub-5",
+      "parent": "Chinese Classical Music"
+    }
+  ]
+}

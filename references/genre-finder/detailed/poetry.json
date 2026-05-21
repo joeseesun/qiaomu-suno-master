@@ -1,0 +1,59 @@
+{
+  "name": "Poetry",
+  "description": "Encompasses many forms of literature that use style and rhythm to evoke ideas and emotions further than the prosaic meaning of the literature itself.",
+  "url": "https://rateyourmusic.com/genre/poetry/",
+  "parent": "Spoken Word",
+  "level": "sub",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Beat Poetry",
+      "url": "https://rateyourmusic.com/genre/beat-poetry/",
+      "description": "Stream-of-consciousness Poetry originating with the Beats in the 1950s.",
+      "level": "sub-2",
+      "parent": "Poetry"
+    },
+    {
+      "name": "Cowboy Poetry",
+      "url": "https://rateyourmusic.com/genre/cowboy-poetry/",
+      "description": "Descended from the oral traditions of cowboys and ranchers, written with traditional use of rhyme and meter, using humor and slang, and primarily concerning the cowboy profession, lifestyle, and legacy.",
+      "level": "sub-2",
+      "parent": "Poetry"
+    },
+    {
+      "name": "Dub Poetry",
+      "url": "https://rateyourmusic.com/genre/dub-poetry/",
+      "description": "Poetry with Dub and Reggae backing rhythms, originating in Jamaica in the 1970s.",
+      "level": "sub-2",
+      "parent": "Poetry"
+    },
+    {
+      "name": "Jazz Poetry",
+      "url": "https://rateyourmusic.com/genre/jazz-poetry/",
+      "description": "Emerged in the 1920s, incorporating the style and rhythms of Jazz as both art forms spread throughout African-American communities in the United States.",
+      "level": "sub-2",
+      "parent": "Poetry"
+    },
+    {
+      "name": "Punk Poetry",
+      "url": "https://rateyourmusic.com/genre/punk-poetry/",
+      "description": "Fast and rhythmic vocal delivery of political or satirical themes; frequently backed by Post-Punk or Minimal Wave instrumentation.",
+      "level": "sub-2",
+      "parent": "Poetry"
+    },
+    {
+      "name": "Slam Poetry",
+      "url": "https://rateyourmusic.com/genre/slam-poetry/",
+      "description": "Developed in the US during the late 1980s and early 1990s with the growing popularity of poetry slams, a form of poetry competition in which competing performers recite poems in front of a crowd.",
+      "level": "sub-2",
+      "parent": "Poetry"
+    },
+    {
+      "name": "Sound Poetry",
+      "url": "https://rateyourmusic.com/genre/sound-poetry/",
+      "description": "Emphasis is placed upon phonetics and the sounds of syllables rather than the meaning of the words themselves.",
+      "level": "sub-2",
+      "parent": "Poetry"
+    }
+  ]
+}

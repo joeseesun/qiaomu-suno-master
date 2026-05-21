@@ -1,0 +1,38 @@
+{
+  "name": "Tech House",
+  "description": "Emerged in the mid-1990s taking influences from Techno, broadly characterized by minimalistic and repetitive melodies, focus on the bassline, and constant groove recognizable by prominent off-beat hi-hats.",
+  "url": "https://rateyourmusic.com/genre/tech-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Deep Tech",
+      "url": "https://rateyourmusic.com/genre/deep-tech/",
+      "description": "Incorporates UK Garage rhythms and synths stabs, influences from British rave music, UK Bass and UK Deep House, resulting in an urban, subdued, but danceable sound with deep, muted basslines.",
+      "level": "sub-4",
+      "parent": "Tech House"
+    },
+    {
+      "name": "Deep Tech",
+      "url": "https://rateyourmusic.com/genre/deep-tech/",
+      "description": "Incorporates UK Garage rhythms and synths stabs, influences from British rave music, UK Bass and UK Deep House, resulting in an urban, subdued, but danceable sound with deep, muted basslines.",
+      "level": "sub-4",
+      "parent": "Tech House"
+    },
+    {
+      "name": "Rominimal",
+      "url": "https://rateyourmusic.com/genre/rominimal/",
+      "description": "Hypnotic, minimal, and \"dubby\" loops, featuring subtle and intricate synth pads, cranky, clicky percussion, and bouncy, pulsing basslines.",
+      "level": "sub-4",
+      "parent": "Tech House"
+    },
+    {
+      "name": "Rominimal",
+      "url": "https://rateyourmusic.com/genre/rominimal/",
+      "description": "Hypnotic, minimal, and \"dubby\" loops, featuring subtle and intricate synth pads, cranky, clicky percussion, and bouncy, pulsing basslines.",
+      "level": "sub-4",
+      "parent": "Tech House"
+    }
+  ]
+}

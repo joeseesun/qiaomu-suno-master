@@ -1,0 +1,24 @@
+{
+  "name": "Electro-Industrial",
+  "description": "Formed in the late 1980s and early 1990s; grew out of a combination of EBM and Industrial.",
+  "url": "https://rateyourmusic.com/genre/electro-industrial/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Dark Electro",
+      "url": "https://rateyourmusic.com/genre/dark-electro/",
+      "description": "Emerged in the early 1990s in Europe, incorporating the abrasiveness of old school Industrial but with a greater focus on a horror-inspired atmosphere and harsh, distorted vocals.",
+      "level": "sub-2",
+      "parent": "Electro-Industrial"
+    },
+    {
+      "name": "Dark Electro",
+      "url": "https://rateyourmusic.com/genre/dark-electro/",
+      "description": "Emerged in the early 1990s in Europe, incorporating the abrasiveness of old school Industrial but with a greater focus on a horror-inspired atmosphere and harsh, distorted vocals.",
+      "level": "sub-3",
+      "parent": "Electro-Industrial"
+    }
+  ]
+}

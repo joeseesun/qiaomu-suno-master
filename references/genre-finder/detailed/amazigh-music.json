@@ -1,0 +1,52 @@
+{
+  "name": "Amazigh Music",
+  "description": "Music of the Amazigh people, the indigenous people of Northwest Africa (with main hubs in Morocco and Algeria) and certain parts of West Africa.",
+  "url": "https://rateyourmusic.com/genre/amazigh-music/",
+  "parent": "North African Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Ahwash",
+      "url": "https://rateyourmusic.com/genre/ahwash/",
+      "description": "Associated with the Tashelhit-speaking peoples of southern and central Morocco, and performed in large groups, combining singing, poetry and drumming.",
+      "level": "sub-4",
+      "parent": "Amazigh Music"
+    },
+    {
+      "name": "Izlan",
+      "url": "https://rateyourmusic.com/genre/izlan/",
+      "description": "Uses sung poetry with a focus on love themes.",
+      "level": "sub-4",
+      "parent": "Amazigh Music"
+    },
+    {
+      "name": "Kabyle Music",
+      "url": "https://rateyourmusic.com/genre/kabyle-music/",
+      "description": "Music of the Kabyle Amazigh people.",
+      "level": "sub-4",
+      "parent": "Amazigh Music"
+    },
+    {
+      "name": "Sahrawi Music",
+      "url": "https://rateyourmusic.com/genre/sahrawi-music/",
+      "description": "Music of the Sahrawi people, an ethnic group who inhabit the westernmost areas of the Sahara Desert.",
+      "level": "sub-4",
+      "parent": "Amazigh Music"
+    },
+    {
+      "name": "Staïfi",
+      "url": "https://rateyourmusic.com/genre/staifi/",
+      "description": "Festive Chaoui genre that mixes local rural music with the zendali rhythm and modern instruments.",
+      "level": "sub-4",
+      "parent": "Amazigh Music"
+    },
+    {
+      "name": "Tuareg Music",
+      "url": "https://rateyourmusic.com/genre/tuareg-music/",
+      "description": "Amazigh Music by the nomadic Tuareg people who live through the Saharan desert in North Africa, encompassing various types of traditions and popular styles.",
+      "level": "sub-4",
+      "parent": "Amazigh Music"
+    }
+  ]
+}

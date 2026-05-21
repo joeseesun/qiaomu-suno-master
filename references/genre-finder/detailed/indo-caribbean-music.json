@@ -1,0 +1,31 @@
+{
+  "name": "Indo-Caribbean Music",
+  "description": "Music of the Indo-Caribbean diaspora.",
+  "url": "https://rateyourmusic.com/genre/indo-caribbean-music/",
+  "parent": "Caribbean Music",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Baithak gana",
+      "url": "https://rateyourmusic.com/genre/baithak-gana/",
+      "description": "Indo-Caribbean genre from Suriname, consisting of Bhojpuri Folk Music with local Caribbean influence.",
+      "level": "sub-3",
+      "parent": "Indo-Caribbean Music"
+    },
+    {
+      "name": "Chutney",
+      "url": "https://rateyourmusic.com/genre/chutney/",
+      "description": "Indo-Caribbean genre developing as a fusion of Bhojpuri Folk Music with traditional Caribbean songs; later influenced by Calypso, Soca and Filmi.",
+      "level": "sub-3",
+      "parent": "Indo-Caribbean Music"
+    },
+    {
+      "name": "Tassa",
+      "url": "https://rateyourmusic.com/genre/tassa/",
+      "description": "Drum ensemble descended from a mixture of northern Indian drumming traditions.",
+      "level": "sub-3",
+      "parent": "Indo-Caribbean Music"
+    }
+  ]
+}

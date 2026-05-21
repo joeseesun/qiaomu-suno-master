@@ -1,0 +1,31 @@
+{
+  "name": "Bhojpuri Folk Music",
+  "description": "Traditions of the Bhojpuri people of India, originally from the states of Bihar and Uttar Pradesh.",
+  "url": "https://rateyourmusic.com/genre/bhojpuri-folk-music/",
+  "parent": "South Asian Folk Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Biraha",
+      "url": "https://rateyourmusic.com/genre/biraha/",
+      "description": "Call-and-response style of folk music developed from the Ahir and neighboring castes of the Bhojpuri people.",
+      "level": "sub-4",
+      "parent": "Bhojpuri Folk Music"
+    },
+    {
+      "name": "Biraha",
+      "url": "https://rateyourmusic.com/genre/biraha/",
+      "description": "Call-and-response style of folk music developed from the Ahir and neighboring castes of the Bhojpuri people.",
+      "level": "sub-5",
+      "parent": "Bhojpuri Folk Music"
+    },
+    {
+      "name": "Biraha",
+      "url": "https://rateyourmusic.com/genre/biraha/",
+      "description": "Call-and-response style of folk music developed from the Ahir and neighboring castes of the Bhojpuri people.",
+      "level": "sub-4",
+      "parent": "Bhojpuri Folk Music"
+    }
+  ]
+}

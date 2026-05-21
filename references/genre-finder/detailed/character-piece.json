@@ -1,0 +1,17 @@
+{
+  "name": "Character Piece",
+  "description": "Broad instrumental genre, usually for solo piano, written to evoke an extramusical concept or mood.",
+  "url": "https://rateyourmusic.com/genre/character-piece/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Nocturne",
+      "url": "https://rateyourmusic.com/genre/nocturne/",
+      "description": "Intimate piece meant to evoke associations with the night.",
+      "level": "sub-3",
+      "parent": "Character Piece"
+    }
+  ]
+}

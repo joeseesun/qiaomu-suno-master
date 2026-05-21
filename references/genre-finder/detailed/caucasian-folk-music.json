@@ -1,0 +1,178 @@
+{
+  "name": "Caucasian Folk Music",
+  "description": "Folk of the Caucasus region, a mountainous area that connects Eastern Europe to Asia.",
+  "url": "https://rateyourmusic.com/genre/caucasian-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 24,
+  "children": [
+    {
+      "name": "Abkhazian Folk Music",
+      "url": "https://rateyourmusic.com/genre/abkhazian-folk-music/",
+      "description": "Traditions of the Republic of Abkhazia, a disputed territory on the Black Sea in northwestern Georgia.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Abkhazian Folk Music",
+      "url": "https://rateyourmusic.com/genre/abkhazian-folk-music/",
+      "description": "Traditions of the Republic of Abkhazia, a disputed territory on the Black Sea in northwestern Georgia.",
+      "level": "sub-5",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Abkhazian Folk Music",
+      "url": "https://rateyourmusic.com/genre/abkhazian-folk-music/",
+      "description": "Traditions of the Republic of Abkhazia, a disputed territory on the Black Sea in northwestern Georgia.",
+      "level": "sub-4",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Abkhazian Folk Music",
+      "url": "https://rateyourmusic.com/genre/abkhazian-folk-music/",
+      "description": "Traditions of the Republic of Abkhazia, a disputed territory on the Black Sea in northwestern Georgia.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Chechen Folk Music",
+      "url": "https://rateyourmusic.com/genre/chechen-folk-music/",
+      "description": "Folk of the Chechens, a Northeast Caucasian ethnic group predominantly living in the Republic of Chechnya, a federal subject of Russia.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Chechen Folk Music",
+      "url": "https://rateyourmusic.com/genre/chechen-folk-music/",
+      "description": "Folk of the Chechens, a Northeast Caucasian ethnic group predominantly living in the Republic of Chechnya, a federal subject of Russia.",
+      "level": "sub-5",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Chechen Folk Music",
+      "url": "https://rateyourmusic.com/genre/chechen-folk-music/",
+      "description": "Folk of the Chechens, a Northeast Caucasian ethnic group predominantly living in the Republic of Chechnya, a federal subject of Russia.",
+      "level": "sub-4",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Chechen Folk Music",
+      "url": "https://rateyourmusic.com/genre/chechen-folk-music/",
+      "description": "Folk of the Chechens, a Northeast Caucasian ethnic group predominantly living in the Republic of Chechnya, a federal subject of Russia.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Circassian Folk Music",
+      "url": "https://rateyourmusic.com/genre/circassian-folk-music/",
+      "description": "Folk of the native Circassian peoples of Northern Caucasus, residing in the Republics of Adygea, Karachay-Cherkessia, and Kabardino-Balkaria respectively, which are federal subjects of the Russian Federation, as well as the territories of the former Ottoman Empire, with a significant diaspora population in modern Turkey.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Circassian Folk Music",
+      "url": "https://rateyourmusic.com/genre/circassian-folk-music/",
+      "description": "Folk of the native Circassian peoples of Northern Caucasus, residing in the Republics of Adygea, Karachay-Cherkessia, and Kabardino-Balkaria respectively, which are federal subjects of the Russian Federation, as well as the territories of the former Ottoman Empire, with a significant diaspora population in modern Turkey.",
+      "level": "sub-5",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Circassian Folk Music",
+      "url": "https://rateyourmusic.com/genre/circassian-folk-music/",
+      "description": "Folk of the native Circassian peoples of Northern Caucasus, residing in the Republics of Adygea, Karachay-Cherkessia, and Kabardino-Balkaria respectively, which are federal subjects of the Russian Federation, as well as the territories of the former Ottoman Empire, with a significant diaspora population in modern Turkey.",
+      "level": "sub-4",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Circassian Folk Music",
+      "url": "https://rateyourmusic.com/genre/circassian-folk-music/",
+      "description": "Folk of the native Circassian peoples of Northern Caucasus, residing in the Republics of Adygea, Karachay-Cherkessia, and Kabardino-Balkaria respectively, which are federal subjects of the Russian Federation, as well as the territories of the former Ottoman Empire, with a significant diaspora population in modern Turkey.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Dagestani Folk Music",
+      "url": "https://rateyourmusic.com/genre/dagestani-folk-music/",
+      "description": "Traditional Folk Music of the Dagestani people.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Dagestani Folk Music",
+      "url": "https://rateyourmusic.com/genre/dagestani-folk-music/",
+      "description": "Traditional Folk Music of the Dagestani people.",
+      "level": "sub-5",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Dagestani Folk Music",
+      "url": "https://rateyourmusic.com/genre/dagestani-folk-music/",
+      "description": "Traditional Folk Music of the Dagestani people.",
+      "level": "sub-4",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Dagestani Folk Music",
+      "url": "https://rateyourmusic.com/genre/dagestani-folk-music/",
+      "description": "Traditional Folk Music of the Dagestani people.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Georgian Folk Music",
+      "url": "https://rateyourmusic.com/genre/georgian-folk-music/",
+      "description": "Traditions of the Georgian people, who mostly live in Georgia.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Georgian Folk Music",
+      "url": "https://rateyourmusic.com/genre/georgian-folk-music/",
+      "description": "Traditions of the Georgian people, who mostly live in Georgia.",
+      "level": "sub-5",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Georgian Folk Music",
+      "url": "https://rateyourmusic.com/genre/georgian-folk-music/",
+      "description": "Traditions of the Georgian people, who mostly live in Georgia.",
+      "level": "sub-4",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Georgian Folk Music",
+      "url": "https://rateyourmusic.com/genre/georgian-folk-music/",
+      "description": "Traditions of the Georgian people, who mostly live in Georgia.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Ossetian Folk Music",
+      "url": "https://rateyourmusic.com/genre/ossetian-folk-music/",
+      "description": "Folk music of Ossetians, an ethnic group that mainly inhabits a region located on both sides of the Greater Caucasus Mountains.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Ossetian Folk Music",
+      "url": "https://rateyourmusic.com/genre/ossetian-folk-music/",
+      "description": "Folk music of Ossetians, an ethnic group that mainly inhabits a region located on both sides of the Greater Caucasus Mountains.",
+      "level": "sub-5",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Ossetian Folk Music",
+      "url": "https://rateyourmusic.com/genre/ossetian-folk-music/",
+      "description": "Folk music of Ossetians, an ethnic group that mainly inhabits a region located on both sides of the Greater Caucasus Mountains.",
+      "level": "sub-4",
+      "parent": "Caucasian Folk Music"
+    },
+    {
+      "name": "Ossetian Folk Music",
+      "url": "https://rateyourmusic.com/genre/ossetian-folk-music/",
+      "description": "Folk music of Ossetians, an ethnic group that mainly inhabits a region located on both sides of the Greater Caucasus Mountains.",
+      "level": "sub-3",
+      "parent": "Caucasian Folk Music"
+    }
+  ]
+}

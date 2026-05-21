@@ -1,0 +1,17 @@
+{
+  "name": "Southern Hip Hop",
+  "description": "Hip Hop from artists based in the Southern region of the United States.",
+  "url": "https://rateyourmusic.com/genre/southern-hip-hop/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "South Florida SoundCloud Rap",
+      "url": "https://rateyourmusic.com/genre/south-florida-soundcloud-rap/",
+      "description": "Mid-to-late 2010s Hip Hop scene noted for its use of internet platform SoundCloud to promote and distribute music, as well as lo-fi production and transgressive approaches to rapping.",
+      "level": "sub-2",
+      "parent": "Southern Hip Hop"
+    }
+  ]
+}

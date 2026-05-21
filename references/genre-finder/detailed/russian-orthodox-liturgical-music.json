@@ -1,0 +1,38 @@
+{
+  "name": "Russian Orthodox Liturgical Music",
+  "description": "Tradition of the Russian Orthodox Church, implemented with the Christianization of Kievan Rus' in 988.",
+  "url": "https://rateyourmusic.com/genre/russian-orthodox-liturgical-music/",
+  "parent": "Christian Liturgical Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Choral Concerto",
+      "url": "https://rateyourmusic.com/genre/choral-concerto/",
+      "description": "Composition for unaccompanied choir, set to sacred texts of Eastern Orthodox tradition.",
+      "level": "sub-3",
+      "parent": "Russian Orthodox Liturgical Music"
+    },
+    {
+      "name": "Choral Concerto",
+      "url": "https://rateyourmusic.com/genre/choral-concerto/",
+      "description": "Composition for unaccompanied choir, set to sacred texts of Eastern Orthodox tradition.",
+      "level": "sub-4",
+      "parent": "Russian Orthodox Liturgical Music"
+    },
+    {
+      "name": "Znamenny Chant",
+      "url": "https://rateyourmusic.com/genre/znamenny-chant/",
+      "description": "Prototypical liturgical chant of the Russian Orthodox Church.",
+      "level": "sub-3",
+      "parent": "Russian Orthodox Liturgical Music"
+    },
+    {
+      "name": "Znamenny Chant",
+      "url": "https://rateyourmusic.com/genre/znamenny-chant/",
+      "description": "Prototypical liturgical chant of the Russian Orthodox Church.",
+      "level": "sub-4",
+      "parent": "Russian Orthodox Liturgical Music"
+    }
+  ]
+}

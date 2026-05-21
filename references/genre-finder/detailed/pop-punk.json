@@ -1,0 +1,38 @@
+{
+  "name": "Pop Punk",
+  "description": "Blends the loud, fast-paced sound of Punk Rock with the melodic hooks of Pop.",
+  "url": "https://rateyourmusic.com/genre/pop-punk/",
+  "parent": "Punk Rock",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Easycore",
+      "url": "https://rateyourmusic.com/genre/easycore/",
+      "description": "Combines the radio-friendly stylings of second-wave Pop Punk with Metalcore-inspired breakdowns, lower guitar tunings, and occasional unclean vocals.",
+      "level": "sub-3",
+      "parent": "Pop Punk"
+    },
+    {
+      "name": "Easycore",
+      "url": "https://rateyourmusic.com/genre/easycore/",
+      "description": "Combines the radio-friendly stylings of second-wave Pop Punk with Metalcore-inspired breakdowns, lower guitar tunings, and occasional unclean vocals.",
+      "level": "sub-3",
+      "parent": "Pop Punk"
+    },
+    {
+      "name": "Seishun Punk",
+      "url": "https://rateyourmusic.com/genre/seishun-punk/",
+      "description": "Short-lived Japanese style popular in the early 2000s, characterized by a raw and abrasive style, Folk-inspired songwriting, and youth-oriented straightforward lyrics.",
+      "level": "sub-3",
+      "parent": "Pop Punk"
+    },
+    {
+      "name": "Seishun Punk",
+      "url": "https://rateyourmusic.com/genre/seishun-punk/",
+      "description": "Short-lived Japanese style popular in the early 2000s, characterized by a raw and abrasive style, Folk-inspired songwriting, and youth-oriented straightforward lyrics.",
+      "level": "sub-3",
+      "parent": "Pop Punk"
+    }
+  ]
+}

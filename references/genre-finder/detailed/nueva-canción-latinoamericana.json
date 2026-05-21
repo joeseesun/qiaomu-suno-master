@@ -1,0 +1,94 @@
+{
+  "name": "Nueva canción latinoamericana",
+  "description": "Politically-charged messages associated with the rise of leftist social movements; striving for a renewal of traditional Latin and Hispanic American Folk Music expressions.",
+  "url": "https://rateyourmusic.com/genre/nueva-cancion-latinoamericana/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Nueva canción chilena",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-chilena/",
+      "description": "Socially conscious style that sought to recover traditional Chilean folk music and fuse it with the broader musical trends of Latin America.",
+      "level": "sub-4",
+      "parent": "Nueva canción latinoamericana"
+    },
+    {
+      "name": "Nueva canción chilena",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-chilena/",
+      "description": "Socially conscious style that sought to recover traditional Chilean folk music and fuse it with the broader musical trends of Latin America.",
+      "level": "sub-4",
+      "parent": "Nueva canción latinoamericana"
+    },
+    {
+      "name": "Nueva canción chilena",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-chilena/",
+      "description": "Socially conscious style that sought to recover traditional Chilean folk music and fuse it with the broader musical trends of Latin America.",
+      "level": "sub-3",
+      "parent": "Nueva canción latinoamericana"
+    },
+    {
+      "name": "Nueva canción chilena",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-chilena/",
+      "description": "Socially conscious style that sought to recover traditional Chilean folk music and fuse it with the broader musical trends of Latin America.",
+      "level": "sub-3",
+      "parent": "Nueva canción latinoamericana"
+    },
+    {
+      "name": "Nueva trova",
+      "url": "https://rateyourmusic.com/genre/nueva-trova/",
+      "description": "Found inspiration in the 1950s Cuban Revolution and had the intention of introducing new musical ideas to the original Trova.",
+      "level": "sub-4",
+      "parent": "Nueva canción latinoamericana"
+    },
+    {
+      "name": "Nueva trova",
+      "url": "https://rateyourmusic.com/genre/nueva-trova/",
+      "description": "Found inspiration in the 1950s Cuban Revolution and had the intention of introducing new musical ideas to the original Trova.",
+      "level": "sub-4",
+      "parent": "Nueva canción latinoamericana"
+    },
+    {
+      "name": "Nueva trova",
+      "url": "https://rateyourmusic.com/genre/nueva-trova/",
+      "description": "Found inspiration in the 1950s Cuban Revolution and had the intention of introducing new musical ideas to the original Trova.",
+      "level": "sub-3",
+      "parent": "Nueva canción latinoamericana"
+    },
+    {
+      "name": "Nueva trova",
+      "url": "https://rateyourmusic.com/genre/nueva-trova/",
+      "description": "Found inspiration in the 1950s Cuban Revolution and had the intention of introducing new musical ideas to the original Trova.",
+      "level": "sub-3",
+      "parent": "Nueva canción latinoamericana"
+    },
+    {
+      "name": "Nuevo Cancionero",
+      "url": "https://rateyourmusic.com/genre/nuevo-cancionero/",
+      "description": "Musical-literary movement in Argentina that aimed to reevaluate and reinvigorate \"la música popular nativa\" (native popular music) and to be the voice of poor and marginalized Argentines.",
+      "level": "sub-4",
+      "parent": "Nueva canción latinoamericana"
+    },
+    {
+      "name": "Nuevo Cancionero",
+      "url": "https://rateyourmusic.com/genre/nuevo-cancionero/",
+      "description": "Musical-literary movement in Argentina that aimed to reevaluate and reinvigorate \"la música popular nativa\" (native popular music) and to be the voice of poor and marginalized Argentines.",
+      "level": "sub-4",
+      "parent": "Nueva canción latinoamericana"
+    },
+    {
+      "name": "Nuevo Cancionero",
+      "url": "https://rateyourmusic.com/genre/nuevo-cancionero/",
+      "description": "Musical-literary movement in Argentina that aimed to reevaluate and reinvigorate \"la música popular nativa\" (native popular music) and to be the voice of poor and marginalized Argentines.",
+      "level": "sub-3",
+      "parent": "Nueva canción latinoamericana"
+    },
+    {
+      "name": "Nuevo Cancionero",
+      "url": "https://rateyourmusic.com/genre/nuevo-cancionero/",
+      "description": "Musical-literary movement in Argentina that aimed to reevaluate and reinvigorate \"la música popular nativa\" (native popular music) and to be the voice of poor and marginalized Argentines.",
+      "level": "sub-3",
+      "parent": "Nueva canción latinoamericana"
+    }
+  ]
+}

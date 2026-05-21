@@ -1,0 +1,59 @@
+{
+  "name": "Thai Music",
+  "description": "Music of the Thai people.",
+  "url": "https://rateyourmusic.com/genre/thai-music/",
+  "parent": "Southeast Asian Music",
+  "level": "sub-3",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Luk krung",
+      "url": "https://rateyourmusic.com/genre/luk-krung/",
+      "description": "Ballads influenced by Jazz styles like Swing and Big Band, as well as Hispanic American Music infused with Thai melodic and rhythmic sensibilities.",
+      "level": "sub-4",
+      "parent": "Thai Music"
+    },
+    {
+      "name": "Luk thung",
+      "url": "https://rateyourmusic.com/genre/luk-thung/",
+      "description": "Slow tempo and vibrato singing, featuring a fusion of traditional Thai instrumentation, rhythms, and melodies with influences from Japan, Indonesia, Latin America, and the United States.",
+      "level": "sub-4",
+      "parent": "Thai Music"
+    },
+    {
+      "name": "Molam sing",
+      "url": "https://rateyourmusic.com/genre/molam-sing/",
+      "description": "Modernized form featuring a faster pace and mostly electric instrumentation.",
+      "level": "sub-4",
+      "parent": "Thai Music"
+    },
+    {
+      "name": "Phleng phuea chiwit",
+      "url": "https://rateyourmusic.com/genre/phleng-phuea-chiwit/",
+      "description": "Political Thai Folk Rock born out of the 1973 student uprising, with a name translating to \"songs for life\".",
+      "level": "sub-4",
+      "parent": "Thai Music"
+    },
+    {
+      "name": "Thai Classical Music",
+      "url": "https://rateyourmusic.com/genre/thai-classical-music/",
+      "description": "Emerged from the royal courts of Central Thailand around the 13th century, based on a traditional Thai sound-scale of seven tempered notes.",
+      "level": "sub-4",
+      "parent": "Thai Music"
+    },
+    {
+      "name": "Thai Folk Music",
+      "url": "https://rateyourmusic.com/genre/thai-folk-music/",
+      "description": "Traditional Folk Music of the Thai people.",
+      "level": "sub-4",
+      "parent": "Thai Music"
+    },
+    {
+      "name": "Wong shadow",
+      "url": "https://rateyourmusic.com/genre/wong-shadow/",
+      "description": "Small, short-lived guitar Pop movement in Thailand in the 1960s, fusing Surf Rock  with local melodies.",
+      "level": "sub-4",
+      "parent": "Thai Music"
+    }
+  ]
+}

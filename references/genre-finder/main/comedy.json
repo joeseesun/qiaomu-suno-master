@@ -1,0 +1,57 @@
+{
+  "name": "Comedy",
+  "description": "Range of styles, both musical and non-musical, that always set out to make the listener laugh through humor.",
+  "url": "https://rateyourmusic.com/genre/comedy/",
+  "sub_genres_count": 7,
+  "sub_genres": [
+    {
+      "name": "Break-In",
+      "url": "https://rateyourmusic.com/genre/break-in/",
+      "description": "Comedy with narrator posing questions or commentary, answered with a song sample.",
+      "level": "sub",
+      "parent": "Comedy"
+    },
+    {
+      "name": "Dutch Cabaret",
+      "url": "https://rateyourmusic.com/genre/dutch-cabaret/",
+      "description": "Popular comedy form in the Netherlands which evolved out of traditional Cabaret in the 1890s.",
+      "level": "sub",
+      "parent": "Comedy"
+    },
+    {
+      "name": "Kabarett",
+      "url": "https://rateyourmusic.com/genre/kabarett/",
+      "description": "Theatrical entertainment consisting of mixed elements of music, sketches, monologues, dialogues, lyric poetry and/or ballads.",
+      "level": "sub",
+      "parent": "Comedy"
+    },
+    {
+      "name": "Musical Comedy",
+      "url": "https://rateyourmusic.com/genre/musical-comedy/",
+      "description": "Heavily utilizes music in its delivery of humor.",
+      "level": "sub",
+      "parent": "Comedy"
+    },
+    {
+      "name": "Prank Calls",
+      "url": "https://rateyourmusic.com/genre/prank-calls/",
+      "description": "Practical jokes performed over the telephone, typically involving a comedian putting on a persona to make the individual on the other end of the line seem foolish.",
+      "level": "sub",
+      "parent": "Comedy"
+    },
+    {
+      "name": "Sketch Comedy",
+      "url": "https://rateyourmusic.com/genre/sketch-comedy/",
+      "description": "Performers assume a dramatic setting (rather than addressing the audience directly), often as fictional characters.",
+      "level": "sub",
+      "parent": "Comedy"
+    },
+    {
+      "name": "Stand-Up Comedy",
+      "url": "https://rateyourmusic.com/genre/stand-up-comedy/",
+      "description": "Comedy where the performer speaks directly to their intended audience, with origins beginning in the late 19th century.",
+      "level": "sub",
+      "parent": "Comedy"
+    }
+  ]
+}

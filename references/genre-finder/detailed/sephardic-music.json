@@ -1,0 +1,31 @@
+{
+  "name": "Sephardic Music",
+  "description": "Encompasses the various musical traditions of Sephardi Jews.",
+  "url": "https://rateyourmusic.com/genre/sephardic-music/",
+  "parent": "Jewish Music",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Baqashot",
+      "url": "https://rateyourmusic.com/genre/baqashot/",
+      "description": "Collection of prayers, songs, supplications, and poems traditionally sung by Sephardic Jewish communities on Saturdays mornings.",
+      "level": "sub-3",
+      "parent": "Sephardic Music"
+    },
+    {
+      "name": "Ladino Folksong",
+      "url": "https://rateyourmusic.com/genre/ladino-folksong/",
+      "description": "Ladino-language Traditional Folk Music tunes that were written and preserved by Sephardic Jews.",
+      "level": "sub-3",
+      "parent": "Sephardic Music"
+    },
+    {
+      "name": "Maftirim",
+      "url": "https://rateyourmusic.com/genre/maftirim/",
+      "description": "Paraliturgical songs of Sephardi Jews who lived in Ottoman Empire.",
+      "level": "sub-3",
+      "parent": "Sephardic Music"
+    }
+  ]
+}

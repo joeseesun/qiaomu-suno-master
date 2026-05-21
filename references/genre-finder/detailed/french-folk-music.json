@@ -1,0 +1,115 @@
+{
+  "name": "French Folk Music",
+  "description": "Traditional Folk Music of metropolitan France, including that of its regional cultures.",
+  "url": "https://rateyourmusic.com/genre/french-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 15,
+  "children": [
+    {
+      "name": "Alsatian Folk Music",
+      "url": "https://rateyourmusic.com/genre/alsatian-folk-music/",
+      "description": "Traditional music of the Alsatians.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Alsatian Folk Music",
+      "url": "https://rateyourmusic.com/genre/alsatian-folk-music/",
+      "description": "Traditional music of the Alsatians.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Alsatian Folk Music",
+      "url": "https://rateyourmusic.com/genre/alsatian-folk-music/",
+      "description": "Traditional music of the Alsatians.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Breton Folk Music",
+      "url": "https://rateyourmusic.com/genre/breton-folk-music/",
+      "description": "Folk of the Brittany region in France, including Breton Celtic Folk Music and music in the regional Romance language, Gallo.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Breton Folk Music",
+      "url": "https://rateyourmusic.com/genre/breton-folk-music/",
+      "description": "Folk of the Brittany region in France, including Breton Celtic Folk Music and music in the regional Romance language, Gallo.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Breton Folk Music",
+      "url": "https://rateyourmusic.com/genre/breton-folk-music/",
+      "description": "Folk of the Brittany region in France, including Breton Celtic Folk Music and music in the regional Romance language, Gallo.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Corsican Folk Music",
+      "url": "https://rateyourmusic.com/genre/corsican-folk-music/",
+      "description": "French folk from Corsica, sung mainly in Corsican and sometimes in French.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Corsican Folk Music",
+      "url": "https://rateyourmusic.com/genre/corsican-folk-music/",
+      "description": "French folk from Corsica, sung mainly in Corsican and sometimes in French.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Corsican Folk Music",
+      "url": "https://rateyourmusic.com/genre/corsican-folk-music/",
+      "description": "French folk from Corsica, sung mainly in Corsican and sometimes in French.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Musette",
+      "url": "https://rateyourmusic.com/genre/musette/",
+      "description": "French popular music which arose in 1880s Paris, performed with the traditional instruments musette, grelottière, and accordion.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Musette",
+      "url": "https://rateyourmusic.com/genre/musette/",
+      "description": "French popular music which arose in 1880s Paris, performed with the traditional instruments musette, grelottière, and accordion.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Musette",
+      "url": "https://rateyourmusic.com/genre/musette/",
+      "description": "French popular music which arose in 1880s Paris, performed with the traditional instruments musette, grelottière, and accordion.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Occitan Folk Music",
+      "url": "https://rateyourmusic.com/genre/occitan-folk-music/",
+      "description": "Traditional music of Occitania, sung mainly in Occitan and sometimes in French.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Occitan Folk Music",
+      "url": "https://rateyourmusic.com/genre/occitan-folk-music/",
+      "description": "Traditional music of Occitania, sung mainly in Occitan and sometimes in French.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    },
+    {
+      "name": "Occitan Folk Music",
+      "url": "https://rateyourmusic.com/genre/occitan-folk-music/",
+      "description": "Traditional music of Occitania, sung mainly in Occitan and sometimes in French.",
+      "level": "sub-4",
+      "parent": "French Folk Music"
+    }
+  ]
+}

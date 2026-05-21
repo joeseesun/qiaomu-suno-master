@@ -1,0 +1,73 @@
+{
+  "name": "Hungarian Folk Music",
+  "description": "Traditional Folk Music of the Hungarians.",
+  "url": "https://rateyourmusic.com/genre/hungarian-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Csárdás",
+      "url": "https://rateyourmusic.com/genre/csardas/",
+      "description": "Traditional Hungarian dance and music form characterized by tempo variations.",
+      "level": "sub-4",
+      "parent": "Hungarian Folk Music"
+    },
+    {
+      "name": "Csárdás",
+      "url": "https://rateyourmusic.com/genre/csardas/",
+      "description": "Traditional Hungarian dance and music form characterized by tempo variations.",
+      "level": "sub-4",
+      "parent": "Hungarian Folk Music"
+    },
+    {
+      "name": "Csárdás",
+      "url": "https://rateyourmusic.com/genre/csardas/",
+      "description": "Traditional Hungarian dance and music form characterized by tempo variations.",
+      "level": "sub-4",
+      "parent": "Hungarian Folk Music"
+    },
+    {
+      "name": "Magyar nóta",
+      "url": "https://rateyourmusic.com/genre/magyar-nota/",
+      "description": "Hungarian genre from the 19th century, combining Hungarian Folk Music with Western Classical Music composition techniques.",
+      "level": "sub-4",
+      "parent": "Hungarian Folk Music"
+    },
+    {
+      "name": "Magyar nóta",
+      "url": "https://rateyourmusic.com/genre/magyar-nota/",
+      "description": "Hungarian genre from the 19th century, combining Hungarian Folk Music with Western Classical Music composition techniques.",
+      "level": "sub-4",
+      "parent": "Hungarian Folk Music"
+    },
+    {
+      "name": "Magyar nóta",
+      "url": "https://rateyourmusic.com/genre/magyar-nota/",
+      "description": "Hungarian genre from the 19th century, combining Hungarian Folk Music with Western Classical Music composition techniques.",
+      "level": "sub-4",
+      "parent": "Hungarian Folk Music"
+    },
+    {
+      "name": "Pásztordal",
+      "url": "https://rateyourmusic.com/genre/pasztordal/",
+      "description": "Sung by men who guard livestock, reflecting on their occupation and social position.",
+      "level": "sub-4",
+      "parent": "Hungarian Folk Music"
+    },
+    {
+      "name": "Pásztordal",
+      "url": "https://rateyourmusic.com/genre/pasztordal/",
+      "description": "Sung by men who guard livestock, reflecting on their occupation and social position.",
+      "level": "sub-4",
+      "parent": "Hungarian Folk Music"
+    },
+    {
+      "name": "Pásztordal",
+      "url": "https://rateyourmusic.com/genre/pasztordal/",
+      "description": "Sung by men who guard livestock, reflecting on their occupation and social position.",
+      "level": "sub-4",
+      "parent": "Hungarian Folk Music"
+    }
+  ]
+}

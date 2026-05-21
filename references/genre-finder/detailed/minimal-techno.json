@@ -1,0 +1,24 @@
+{
+  "name": "Minimal Techno",
+  "description": "Stripped-down and sparse, often featuring a dark sound and a slow, steady development through the track.",
+  "url": "https://rateyourmusic.com/genre/minimal-techno/",
+  "parent": "Techno",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Dub Techno",
+      "url": "https://rateyourmusic.com/genre/dub-techno/",
+      "description": "Fuses elements of Minimal Techno with characteristics of Dub.",
+      "level": "sub-4",
+      "parent": "Minimal Techno"
+    },
+    {
+      "name": "Dub Techno",
+      "url": "https://rateyourmusic.com/genre/dub-techno/",
+      "description": "Fuses elements of Minimal Techno with characteristics of Dub.",
+      "level": "sub-4",
+      "parent": "Minimal Techno"
+    }
+  ]
+}

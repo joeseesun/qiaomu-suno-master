@@ -1,0 +1,192 @@
+{
+  "name": "Trance",
+  "description": "Evolving, tension-building structures with rapid, minor arpeggios on top of a hypnotic, four-on-the-floor drum patterns at fast tempo around 130-150 BPM.",
+  "url": "https://rateyourmusic.com/genre/trance/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 26,
+  "children": [
+    {
+      "name": "Acid Trance",
+      "url": "https://rateyourmusic.com/genre/acid-trance/",
+      "description": "Incorporates \"squelching\" acid basslines into Trance's evolving structure.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Acid Trance",
+      "url": "https://rateyourmusic.com/genre/acid-trance/",
+      "description": "Incorporates \"squelching\" acid basslines into Trance's evolving structure.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Big Room Trance",
+      "url": "https://rateyourmusic.com/genre/big-room-trance/",
+      "description": "Incorporates production features associated with Big Room House and dirty, distorted leads influenced by Electro House, Dutch House and Hardstyle.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Big Room Trance",
+      "url": "https://rateyourmusic.com/genre/big-room-trance/",
+      "description": "Incorporates production features associated with Big Room House and dirty, distorted leads influenced by Electro House, Dutch House and Hardstyle.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Dream Trance",
+      "url": "https://rateyourmusic.com/genre/dream-trance/",
+      "description": "Slow tempo (about 130 BPM) with strong roots in Progressive House, using beats typical of Eurodance and Dance-Pop; emphasizes a laid-back, carefree, and dreamlike sound.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Dream Trance",
+      "url": "https://rateyourmusic.com/genre/dream-trance/",
+      "description": "Slow tempo (about 130 BPM) with strong roots in Progressive House, using beats typical of Eurodance and Dance-Pop; emphasizes a laid-back, carefree, and dreamlike sound.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Euro Trance",
+      "url": "https://rateyourmusic.com/genre/euro-trance/",
+      "description": "Emerged as a fusion with Eurodance, features fast tempos, more accessible grooves and structures, and simple, catchy melodies with vocals and saw synth leads.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Euro Trance",
+      "url": "https://rateyourmusic.com/genre/euro-trance/",
+      "description": "Emerged as a fusion with Eurodance, features fast tempos, more accessible grooves and structures, and simple, catchy melodies with vocals and saw synth leads.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Hard Trance",
+      "url": "https://rateyourmusic.com/genre/hard-trance/",
+      "description": "Rave-oriented form of Trance infusing its atmospheres with faster, thumping rhythms and strong melodic / bassline sections, initially spawning out of the first wave in early-1990s Western Europe.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Hard Trance",
+      "url": "https://rateyourmusic.com/genre/hard-trance/",
+      "description": "Rave-oriented form of Trance infusing its atmospheres with faster, thumping rhythms and strong melodic / bassline sections, initially spawning out of the first wave in early-1990s Western Europe.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Hi-Tech Full-On",
+      "url": "https://rateyourmusic.com/genre/hi-tech-full-on/",
+      "description": "Largely Japanese genre with an energetic and glitchy sound derived from Full-On Psytrance and Complextro.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Hi-Tech Full-On",
+      "url": "https://rateyourmusic.com/genre/hi-tech-full-on/",
+      "description": "Largely Japanese genre with an energetic and glitchy sound derived from Full-On Psytrance and Complextro.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Ibiza Trance",
+      "url": "https://rateyourmusic.com/genre/ibiza-trance/",
+      "description": "Builds on the relaxing island atmosphere of Balearic Beat, though with a slightly faster tempo of around 130 BPM.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Ibiza Trance",
+      "url": "https://rateyourmusic.com/genre/ibiza-trance/",
+      "description": "Builds on the relaxing island atmosphere of Balearic Beat, though with a slightly faster tempo of around 130 BPM.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "NRG",
+      "url": "https://rateyourmusic.com/genre/nrg/",
+      "description": "Derived from UK Hard House; featuring darker, more anthemic Trance beats and a tempo of 155-165 BPM.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "NRG",
+      "url": "https://rateyourmusic.com/genre/nrg/",
+      "description": "Derived from UK Hard House; featuring darker, more anthemic Trance beats and a tempo of 155-165 BPM.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Progressive Trance",
+      "url": "https://rateyourmusic.com/genre/progressive-trance/",
+      "description": "Combination of Trance and Progressive House which emerged in Western Europe in the early to mid-1990s.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Progressive Trance",
+      "url": "https://rateyourmusic.com/genre/progressive-trance/",
+      "description": "Combination of Trance and Progressive House which emerged in Western Europe in the early to mid-1990s.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Psytrance",
+      "url": "https://rateyourmusic.com/genre/psytrance/",
+      "description": "Emphasizes a psychedelic feel and an energetic sound; based around influences from Goa Trance and Acid Trance.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Psytrance",
+      "url": "https://rateyourmusic.com/genre/psytrance/",
+      "description": "Emphasizes a psychedelic feel and an energetic sound; based around influences from Goa Trance and Acid Trance.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Tech Trance",
+      "url": "https://rateyourmusic.com/genre/tech-trance/",
+      "description": "Late 1990s-emerging subgenre characterized by energetic percussion with loud kicks, filtered hi-hats and tribal drums; side-chained, detuned and repetitive leads, as well as other raw, distorted, and complex sounds influenced by Techno, Hard Trance and Electro House.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Tech Trance",
+      "url": "https://rateyourmusic.com/genre/tech-trance/",
+      "description": "Late 1990s-emerging subgenre characterized by energetic percussion with loud kicks, filtered hi-hats and tribal drums; side-chained, detuned and repetitive leads, as well as other raw, distorted, and complex sounds influenced by Techno, Hard Trance and Electro House.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Uplifting Trance",
+      "url": "https://rateyourmusic.com/genre/uplifting-trance/",
+      "description": "Euphoric melodies, buildup-breakdown-anthem structures, common usage of supersaws, and a BPM range of usually around 135-142.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Uplifting Trance",
+      "url": "https://rateyourmusic.com/genre/uplifting-trance/",
+      "description": "Euphoric melodies, buildup-breakdown-anthem structures, common usage of supersaws, and a BPM range of usually around 135-142.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Vocal Trance",
+      "url": "https://rateyourmusic.com/genre/vocal-trance/",
+      "description": "Melodic, polished, Pop-like, and vocal-focused with around 120-145 BPM and frequent overlap with Progressive Trance, Uplifting Trance, and Euro Trance.",
+      "level": "sub-3",
+      "parent": "Trance"
+    },
+    {
+      "name": "Vocal Trance",
+      "url": "https://rateyourmusic.com/genre/vocal-trance/",
+      "description": "Melodic, polished, Pop-like, and vocal-focused with around 120-145 BPM and frequent overlap with Progressive Trance, Uplifting Trance, and Euro Trance.",
+      "level": "sub-3",
+      "parent": "Trance"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Freestyle",
+  "description": "Electro-influenced; developed in Latino communities in New York and Miami in the 1980s, especially dominated by Latin Freestyle and its Latin influences.",
+  "url": "https://rateyourmusic.com/genre/freestyle/",
+  "parent": "Dance-Pop",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Latin Freestyle",
+      "url": "https://rateyourmusic.com/genre/latin-freestyle/",
+      "description": "Displays a heavy influence of Hispanic American Music alongside the Disco, Hip Hop, and Electro influences of Freestyle.",
+      "level": "sub-3",
+      "parent": "Freestyle"
+    },
+    {
+      "name": "Latin Freestyle",
+      "url": "https://rateyourmusic.com/genre/latin-freestyle/",
+      "description": "Displays a heavy influence of Hispanic American Music alongside the Disco, Hip Hop, and Electro influences of Freestyle.",
+      "level": "sub-3",
+      "parent": "Freestyle"
+    },
+    {
+      "name": "Latin Freestyle",
+      "url": "https://rateyourmusic.com/genre/latin-freestyle/",
+      "description": "Displays a heavy influence of Hispanic American Music alongside the Disco, Hip Hop, and Electro influences of Freestyle.",
+      "level": "sub-3",
+      "parent": "Freestyle"
+    },
+    {
+      "name": "Latin Freestyle",
+      "url": "https://rateyourmusic.com/genre/latin-freestyle/",
+      "description": "Displays a heavy influence of Hispanic American Music alongside the Disco, Hip Hop, and Electro influences of Freestyle.",
+      "level": "sub-3",
+      "parent": "Freestyle"
+    }
+  ]
+}

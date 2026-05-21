@@ -1,0 +1,94 @@
+{
+  "name": "Turkish Folk Music",
+  "description": "Traditional Folk Music of Turkish people combines the distinct cultural heritages and traditions of Anatolian civilisations and former Ottoman territories.",
+  "url": "https://rateyourmusic.com/genre/turkish-folk-music/",
+  "parent": "West Asian Folk Music",
+  "level": "sub-3",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Turkish Black Sea Region Folk Music",
+      "url": "https://rateyourmusic.com/genre/turkish-black-sea-region-folk-music/",
+      "description": "Folk of the Turkish people who inhabit the northern region by the Black Sea.",
+      "level": "sub-4",
+      "parent": "Turkish Folk Music"
+    },
+    {
+      "name": "Turkish Black Sea Region Folk Music",
+      "url": "https://rateyourmusic.com/genre/turkish-black-sea-region-folk-music/",
+      "description": "Folk of the Turkish people who inhabit the northern region by the Black Sea.",
+      "level": "sub-5",
+      "parent": "Turkish Folk Music"
+    },
+    {
+      "name": "Turkish Black Sea Region Folk Music",
+      "url": "https://rateyourmusic.com/genre/turkish-black-sea-region-folk-music/",
+      "description": "Folk of the Turkish people who inhabit the northern region by the Black Sea.",
+      "level": "sub-5",
+      "parent": "Turkish Folk Music"
+    },
+    {
+      "name": "Turkish Black Sea Region Folk Music",
+      "url": "https://rateyourmusic.com/genre/turkish-black-sea-region-folk-music/",
+      "description": "Folk of the Turkish people who inhabit the northern region by the Black Sea.",
+      "level": "sub-4",
+      "parent": "Turkish Folk Music"
+    },
+    {
+      "name": "Uzun Hava",
+      "url": "https://rateyourmusic.com/genre/uzun-hava/",
+      "description": "Semi-improvisational melodic structure in Turkish Folk Music.",
+      "level": "sub-4",
+      "parent": "Turkish Folk Music"
+    },
+    {
+      "name": "Uzun Hava",
+      "url": "https://rateyourmusic.com/genre/uzun-hava/",
+      "description": "Semi-improvisational melodic structure in Turkish Folk Music.",
+      "level": "sub-5",
+      "parent": "Turkish Folk Music"
+    },
+    {
+      "name": "Uzun Hava",
+      "url": "https://rateyourmusic.com/genre/uzun-hava/",
+      "description": "Semi-improvisational melodic structure in Turkish Folk Music.",
+      "level": "sub-5",
+      "parent": "Turkish Folk Music"
+    },
+    {
+      "name": "Uzun Hava",
+      "url": "https://rateyourmusic.com/genre/uzun-hava/",
+      "description": "Semi-improvisational melodic structure in Turkish Folk Music.",
+      "level": "sub-4",
+      "parent": "Turkish Folk Music"
+    },
+    {
+      "name": "Zeybek",
+      "url": "https://rateyourmusic.com/genre/zeybek/",
+      "description": "Turkish Folk Music music and dance that originated with the Zeybek people during the Ottoman Empire period, with slow and asymmetrical rhythms.",
+      "level": "sub-4",
+      "parent": "Turkish Folk Music"
+    },
+    {
+      "name": "Zeybek",
+      "url": "https://rateyourmusic.com/genre/zeybek/",
+      "description": "Turkish Folk Music music and dance that originated with the Zeybek people during the Ottoman Empire period, with slow and asymmetrical rhythms.",
+      "level": "sub-5",
+      "parent": "Turkish Folk Music"
+    },
+    {
+      "name": "Zeybek",
+      "url": "https://rateyourmusic.com/genre/zeybek/",
+      "description": "Turkish Folk Music music and dance that originated with the Zeybek people during the Ottoman Empire period, with slow and asymmetrical rhythms.",
+      "level": "sub-5",
+      "parent": "Turkish Folk Music"
+    },
+    {
+      "name": "Zeybek",
+      "url": "https://rateyourmusic.com/genre/zeybek/",
+      "description": "Turkish Folk Music music and dance that originated with the Zeybek people during the Ottoman Empire period, with slow and asymmetrical rhythms.",
+      "level": "sub-4",
+      "parent": "Turkish Folk Music"
+    }
+  ]
+}

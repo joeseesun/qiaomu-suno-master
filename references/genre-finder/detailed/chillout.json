@@ -1,0 +1,59 @@
+{
+  "name": "Chillout",
+  "description": "Broad category of many relaxed styles of Electronic music which predominantly draw influence from Electronic Dance Music subgenres and Ambient.",
+  "url": "https://rateyourmusic.com/genre/chillout/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Ambient Dub",
+      "url": "https://rateyourmusic.com/genre/ambient-dub/",
+      "description": "Takes cues from Ambient and Dub reggae, featuring the atmosphere of the former and the Jamaican-style basslines, percussion, and psychedelic production techniques of the latter.",
+      "level": "sub-2",
+      "parent": "Chillout"
+    },
+    {
+      "name": "Ambient House",
+      "url": "https://rateyourmusic.com/genre/ambient-house/",
+      "description": "Primarily British genre developed in the 1990s with beats, synthesizers, and vocals in styles similar to House, treated with effects that are often described as \"dream-like\" or \"chilled out\".",
+      "level": "sub-2",
+      "parent": "Chillout"
+    },
+    {
+      "name": "Ambient Trance",
+      "url": "https://rateyourmusic.com/genre/ambient-trance/",
+      "description": "Emerged in the mid-1990s mainly in the form of Chillout remixes of Trance tracks; incorporates its arpeggiated synthesizer sound into Downtempo and Ambient contexts.",
+      "level": "sub-2",
+      "parent": "Chillout"
+    },
+    {
+      "name": "Balearic Beat",
+      "url": "https://rateyourmusic.com/genre/balearic-beat/",
+      "description": "Variety of relaxed, laid-back music that originates from the Balearic Islands off the coast of Spain, and particularly the club scene in Ibiza.",
+      "level": "sub-2",
+      "parent": "Chillout"
+    },
+    {
+      "name": "Barber Beats",
+      "url": "https://rateyourmusic.com/genre/barber-beats/",
+      "description": "Borrows elements from Downtempo, Trip Hop, and Instrumental Hip Hop; emulates 1990s and 2000s Chillout music.",
+      "level": "sub-2",
+      "parent": "Chillout"
+    },
+    {
+      "name": "Downtempo",
+      "url": "https://rateyourmusic.com/genre/downtempo/",
+      "description": "Atmospheric and groove-based with relaxed tempos and mellow beats.",
+      "level": "sub-2",
+      "parent": "Chillout"
+    },
+    {
+      "name": "Psybient",
+      "url": "https://rateyourmusic.com/genre/psybient/",
+      "description": "Heavy influence from Psytrance and Goa Trance incorporated in an atmospheric Ambient context.",
+      "level": "sub-2",
+      "parent": "Chillout"
+    }
+  ]
+}

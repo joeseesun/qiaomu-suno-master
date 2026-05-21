@@ -1,0 +1,17 @@
+{
+  "name": "Molam",
+  "description": "Native to Laos and the Isan region, wherein a singer is accompanied traditionally by a bamboo mouth organ called the khaen, nowadays mostly by larger ensembles.",
+  "url": "https://rateyourmusic.com/genre/molam/",
+  "parent": "Southeast Asian Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Molam sing",
+      "url": "https://rateyourmusic.com/genre/molam-sing/",
+      "description": "Modernized form featuring a faster pace and mostly electric instrumentation.",
+      "level": "sub-4",
+      "parent": "Molam"
+    }
+  ]
+}

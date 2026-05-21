@@ -1,0 +1,94 @@
+{
+  "name": "Medieval Classical Music",
+  "description": "Composed during the Medieval period lasted approximately from the 5th to the late 15th centuries.",
+  "url": "https://rateyourmusic.com/genre/medieval-classical-music/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Ars antiqua",
+      "url": "https://rateyourmusic.com/genre/ars-antiqua/",
+      "description": "Mainly sacred European medieval music from the period of 1170 to 1310, featuring the birth of measuring time in music and the use of polyphonies for four voices.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    },
+    {
+      "name": "Ars antiqua",
+      "url": "https://rateyourmusic.com/genre/ars-antiqua/",
+      "description": "Mainly sacred European medieval music from the period of 1170 to 1310, featuring the birth of measuring time in music and the use of polyphonies for four voices.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    },
+    {
+      "name": "Ars nova",
+      "url": "https://rateyourmusic.com/genre/ars-nova/",
+      "description": "Period (around 1310-1380) that succeeded Ars antiqua, mixing the sacred with the secular.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    },
+    {
+      "name": "Ars nova",
+      "url": "https://rateyourmusic.com/genre/ars-nova/",
+      "description": "Period (around 1310-1380) that succeeded Ars antiqua, mixing the sacred with the secular.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    },
+    {
+      "name": "Ars subtilior",
+      "url": "https://rateyourmusic.com/genre/ars-subtilior/",
+      "description": "Emerged in the final period of late medieval music (around 1380-1420) and continued to use the technique of isorhythms but with added complexity.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    },
+    {
+      "name": "Ars subtilior",
+      "url": "https://rateyourmusic.com/genre/ars-subtilior/",
+      "description": "Emerged in the final period of late medieval music (around 1380-1420) and continued to use the technique of isorhythms but with added complexity.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    },
+    {
+      "name": "Contenance angloise",
+      "url": "https://rateyourmusic.com/genre/contenance-angloise/",
+      "description": "Distinct style of Polyphonic Chant developed in fifteenth-century England.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    },
+    {
+      "name": "Contenance angloise",
+      "url": "https://rateyourmusic.com/genre/contenance-angloise/",
+      "description": "Distinct style of Polyphonic Chant developed in fifteenth-century England.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    },
+    {
+      "name": "Medieval Lyric Poetry",
+      "url": "https://rateyourmusic.com/genre/medieval-lyric-poetry/",
+      "description": "Lyric poetry from Medieval Europe, roughly from the 11th to the 14th century, most prominently the troubadours of southern France.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    },
+    {
+      "name": "Medieval Lyric Poetry",
+      "url": "https://rateyourmusic.com/genre/medieval-lyric-poetry/",
+      "description": "Lyric poetry from Medieval Europe, roughly from the 11th to the 14th century, most prominently the troubadours of southern France.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    },
+    {
+      "name": "Plainsong",
+      "url": "https://rateyourmusic.com/genre/plainsong/",
+      "description": "Monophonic chanting in the context of Roman Catholic and modern Anglican liturgy.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    },
+    {
+      "name": "Plainsong",
+      "url": "https://rateyourmusic.com/genre/plainsong/",
+      "description": "Monophonic chanting in the context of Roman Catholic and modern Anglican liturgy.",
+      "level": "sub-3",
+      "parent": "Medieval Classical Music"
+    }
+  ]
+}

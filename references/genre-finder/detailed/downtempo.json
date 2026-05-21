@@ -1,0 +1,17 @@
+{
+  "name": "Downtempo",
+  "description": "Atmospheric and groove-based with relaxed tempos and mellow beats.",
+  "url": "https://rateyourmusic.com/genre/downtempo/",
+  "parent": "Chillout",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Trip Hop",
+      "url": "https://rateyourmusic.com/genre/trip-hop/",
+      "description": "Evokes a surreal, trippy, dreamy, and sometimes dark atmosphere with offbeat turntable scratches, light vocal melodies, and Hip Hop-influenced beats.",
+      "level": "sub-3",
+      "parent": "Downtempo"
+    }
+  ]
+}

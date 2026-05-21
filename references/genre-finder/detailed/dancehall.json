@@ -1,0 +1,122 @@
+{
+  "name": "Dancehall",
+  "description": "Developed from Reggae in the late 1970s, when Roots Reggae became more stripped-down, with an increased emphasis on pure rhythm.",
+  "url": "https://rateyourmusic.com/genre/dancehall/",
+  "parent": "Reggae / Ska / Dancehall",
+  "level": "sub",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Bubbling",
+      "url": "https://rateyourmusic.com/genre/bubbling/",
+      "description": "Originating in the Netherlands in the late 1980s, fusing sped-up Dancehall with Dutch Antillean music and contemporary Dutch rave.",
+      "level": "sub-2",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Bubbling",
+      "url": "https://rateyourmusic.com/genre/bubbling/",
+      "description": "Originating in the Netherlands in the late 1980s, fusing sped-up Dancehall with Dutch Antillean music and contemporary Dutch rave.",
+      "level": "sub-4",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Digital Dancehall",
+      "url": "https://rateyourmusic.com/genre/digital-dancehall/",
+      "description": "First, pre-Ragga style of Dancehall to popularize Electronic rhythms that arose in the mid-1980s.",
+      "level": "sub-2",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Digital Dancehall",
+      "url": "https://rateyourmusic.com/genre/digital-dancehall/",
+      "description": "First, pre-Ragga style of Dancehall to popularize Electronic rhythms that arose in the mid-1980s.",
+      "level": "sub-4",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Flex Dance Music",
+      "url": "https://rateyourmusic.com/genre/flex-dance-music/",
+      "description": "Largely instrumental; infused with Electronic Dance Music elements.",
+      "level": "sub-2",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Flex Dance Music",
+      "url": "https://rateyourmusic.com/genre/flex-dance-music/",
+      "description": "Largely instrumental; infused with Electronic Dance Music elements.",
+      "level": "sub-4",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Gommance",
+      "url": "https://rateyourmusic.com/genre/gommance/",
+      "description": "Emerged in Réunion, mixing Caribbean, African and Afro-Dutch influences.",
+      "level": "sub-2",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Gommance",
+      "url": "https://rateyourmusic.com/genre/gommance/",
+      "description": "Emerged in Réunion, mixing Caribbean, African and Afro-Dutch influences.",
+      "level": "sub-4",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Ragga",
+      "url": "https://rateyourmusic.com/genre/ragga/",
+      "description": "Hardcore style with a deejay (equivalent to an MC in Hip Hop) rapping over predominantly Electronic rhythms.",
+      "level": "sub-2",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Ragga",
+      "url": "https://rateyourmusic.com/genre/ragga/",
+      "description": "Hardcore style with a deejay (equivalent to an MC in Hip Hop) rapping over predominantly Electronic rhythms.",
+      "level": "sub-4",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Shatta",
+      "url": "https://rateyourmusic.com/genre/shatta/",
+      "description": "French Caribbean Dancehall subgenre with a focus on sparse percussion, heavy basslines and lyrics revolving around partying and sensuality, often in Creole.",
+      "level": "sub-2",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Shatta",
+      "url": "https://rateyourmusic.com/genre/shatta/",
+      "description": "French Caribbean Dancehall subgenre with a focus on sparse percussion, heavy basslines and lyrics revolving around partying and sensuality, often in Creole.",
+      "level": "sub-4",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Trap Dancehall",
+      "url": "https://rateyourmusic.com/genre/trap-dancehall/",
+      "description": "Combines midtempo Dancehall rhythms and tempos with major elements borrowed from Trap, namely in percussion and drum rhythms.",
+      "level": "sub-2",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Trap Dancehall",
+      "url": "https://rateyourmusic.com/genre/trap-dancehall/",
+      "description": "Combines midtempo Dancehall rhythms and tempos with major elements borrowed from Trap, namely in percussion and drum rhythms.",
+      "level": "sub-4",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Zess",
+      "url": "https://rateyourmusic.com/genre/zess/",
+      "description": "Trinidadian style that originated in the country's slums in the late 2010s, defined by its sexual, violent, and occasionally gang-related lyrics and its influence from Soca, as well as occasional influences from Hip Hop and Funk brasileiro.",
+      "level": "sub-2",
+      "parent": "Dancehall"
+    },
+    {
+      "name": "Zess",
+      "url": "https://rateyourmusic.com/genre/zess/",
+      "description": "Trinidadian style that originated in the country's slums in the late 2010s, defined by its sexual, violent, and occasionally gang-related lyrics and its influence from Soca, as well as occasional influences from Hip Hop and Funk brasileiro.",
+      "level": "sub-4",
+      "parent": "Dancehall"
+    }
+  ]
+}

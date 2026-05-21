@@ -1,0 +1,24 @@
+{
+  "name": "Folk Punk",
+  "description": "Influenced by various forms of Folk, including Traditional Folk Music as well as Contemporary Folk and Folk Rock.",
+  "url": "https://rateyourmusic.com/genre/folk-punk/",
+  "parent": "Punk",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Celtic Punk",
+      "url": "https://rateyourmusic.com/genre/celtic-punk/",
+      "description": "Infuses the sounds of Celtic Folk Music into Punk Rock.",
+      "level": "sub-2",
+      "parent": "Folk Punk"
+    },
+    {
+      "name": "Gypsy Punk",
+      "url": "https://rateyourmusic.com/genre/gypsy-punk/",
+      "description": "Strong Eastern European influences, especially various kinds of Romani Folk Music and Balkan Folk Music as well as Klezmer.",
+      "level": "sub-2",
+      "parent": "Folk Punk"
+    }
+  ]
+}

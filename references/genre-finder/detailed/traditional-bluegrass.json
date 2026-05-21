@@ -1,0 +1,59 @@
+{
+  "name": "Traditional Bluegrass",
+  "description": "Driving tempos, acoustic stringed instrumentation, and high vocal harmonies, adhering to the stylistic roots of the Bluegrass genre.",
+  "url": "https://rateyourmusic.com/genre/traditional-bluegrass/",
+  "parent": "Bluegrass",
+  "level": "sub-2",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-3",
+      "parent": "Traditional Bluegrass"
+    },
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-3",
+      "parent": "Traditional Bluegrass"
+    },
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-5",
+      "parent": "Traditional Bluegrass"
+    },
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-5",
+      "parent": "Traditional Bluegrass"
+    },
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-5",
+      "parent": "Traditional Bluegrass"
+    },
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-5",
+      "parent": "Traditional Bluegrass"
+    },
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-5",
+      "parent": "Traditional Bluegrass"
+    }
+  ]
+}

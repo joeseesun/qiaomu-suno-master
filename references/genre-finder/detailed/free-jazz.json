@@ -1,0 +1,17 @@
+{
+  "name": "Free Jazz",
+  "description": "Attempts to break free from the conventions and patterns of earlier Jazz subgenres through the use of elements such as dissonance, atonality, and free-flowing rhythmic structures.",
+  "url": "https://rateyourmusic.com/genre/free-jazz/",
+  "parent": "Avant-Garde Jazz",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "European Free Jazz",
+      "url": "https://rateyourmusic.com/genre/european-free-jazz/",
+      "description": "Arose in Europe in the late 1960s and early 1970s, moving even further from the Jazz tradition by often dropping the swinging rhythm, taking liberties with the use of atonality and noise.",
+      "level": "sub-3",
+      "parent": "Free Jazz"
+    }
+  ]
+}

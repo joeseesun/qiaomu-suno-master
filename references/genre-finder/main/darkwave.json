@@ -1,0 +1,29 @@
+{
+  "name": "Darkwave",
+  "description": "Expands on the dark, introspective and sorrowful atmosphere of Gothic Rock; borrowing aspects from Electronic and other non-Rock influences.",
+  "url": "https://rateyourmusic.com/genre/darkwave/",
+  "sub_genres_count": 3,
+  "sub_genres": [
+    {
+      "name": "Ethereal Wave",
+      "url": "https://rateyourmusic.com/genre/ethereal-wave/",
+      "description": "Atmospheric guitar and synthesizer soundscapes, effects like reverb and delay, and commonly soprano female vocals to create a surreal, otherworldly effect.",
+      "level": "sub",
+      "parent": "Darkwave"
+    },
+    {
+      "name": "Neoclassical Darkwave",
+      "url": "https://rateyourmusic.com/genre/neoclassical-darkwave/",
+      "description": "Combines dark and melancholic atmosphere with Western Classical Music.",
+      "level": "sub",
+      "parent": "Darkwave"
+    },
+    {
+      "name": "Neue Deutsche Todeskunst",
+      "url": "https://rateyourmusic.com/genre/neue-deutsche-todeskunst/",
+      "description": "Dark themes inspired by German philosophy and poetry, typically combining Electronic instrumentation with neoclassical influences and an eccentric, theatrical style.",
+      "level": "sub",
+      "parent": "Darkwave"
+    }
+  ]
+}

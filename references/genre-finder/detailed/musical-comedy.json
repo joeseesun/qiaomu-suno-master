@@ -1,0 +1,31 @@
+{
+  "name": "Musical Comedy",
+  "description": "Heavily utilizes music in its delivery of humor.",
+  "url": "https://rateyourmusic.com/genre/musical-comedy/",
+  "parent": "Comedy",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Comedy Rap",
+      "url": "https://rateyourmusic.com/genre/comedy-rap/",
+      "description": "Primarily intended to be humorous, through the use of comedic lyrics, production, delivery, or other musical aspects.",
+      "level": "sub-2",
+      "parent": "Musical Comedy"
+    },
+    {
+      "name": "Comedy Rock",
+      "url": "https://rateyourmusic.com/genre/comedy-rock/",
+      "description": "Roughly defined as a mix of Rock or any of its subgenres with elements of Comedy such as Satire and Musical Parody, as well as concepts of Novelty.",
+      "level": "sub-2",
+      "parent": "Musical Comedy"
+    },
+    {
+      "name": "Scrumpy and Western",
+      "url": "https://rateyourmusic.com/genre/scrumpy-and-western/",
+      "description": "Usually humorous music originating from England's West Country, heavily featuring traditional English folk instruments and often sung in the West Country accent.",
+      "level": "sub-2",
+      "parent": "Musical Comedy"
+    }
+  ]
+}

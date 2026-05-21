@@ -1,0 +1,17 @@
+{
+  "name": "Vocal Jazz",
+  "description": "Focused on vocals, generally using a more traditional, poppy strong structure and reducing the role of improvisation.",
+  "url": "https://rateyourmusic.com/genre/vocal-jazz/",
+  "parent": "Jazz",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Vocalese",
+      "url": "https://rateyourmusic.com/genre/vocalese/",
+      "description": "Newly written lyrics set to the melody of an existing instrumental solo, often in a Bebop or Big Band style, and characterized by syllabic phrasing.",
+      "level": "sub-2",
+      "parent": "Vocal Jazz"
+    }
+  ]
+}

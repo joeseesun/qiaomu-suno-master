@@ -1,0 +1,38 @@
+{
+  "name": "Georgian Folk Music",
+  "description": "Traditions of the Georgian people, who mostly live in Georgia.",
+  "url": "https://rateyourmusic.com/genre/georgian-folk-music/",
+  "parent": "Caucasian Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Batonebi Songs",
+      "url": "https://rateyourmusic.com/genre/batonebi-songs/",
+      "description": "Traditional Georgian Lullabies often meant to soothe sick children.",
+      "level": "sub-4",
+      "parent": "Georgian Folk Music"
+    },
+    {
+      "name": "Batonebi Songs",
+      "url": "https://rateyourmusic.com/genre/batonebi-songs/",
+      "description": "Traditional Georgian Lullabies often meant to soothe sick children.",
+      "level": "sub-6",
+      "parent": "Georgian Folk Music"
+    },
+    {
+      "name": "Batonebi Songs",
+      "url": "https://rateyourmusic.com/genre/batonebi-songs/",
+      "description": "Traditional Georgian Lullabies often meant to soothe sick children.",
+      "level": "sub-5",
+      "parent": "Georgian Folk Music"
+    },
+    {
+      "name": "Batonebi Songs",
+      "url": "https://rateyourmusic.com/genre/batonebi-songs/",
+      "description": "Traditional Georgian Lullabies often meant to soothe sick children.",
+      "level": "sub-4",
+      "parent": "Georgian Folk Music"
+    }
+  ]
+}

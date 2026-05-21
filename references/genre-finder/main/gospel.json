@@ -1,0 +1,57 @@
+{
+  "name": "Gospel",
+  "description": "Arising from vocal Christian tradition often featuring emotive performances, layered accompaniments, and themes of faith and salvation.",
+  "url": "https://rateyourmusic.com/genre/gospel/",
+  "sub_genres_count": 7,
+  "sub_genres": [
+    {
+      "name": "Country Gospel",
+      "url": "https://rateyourmusic.com/genre/country-gospel/",
+      "description": "Incorporates the harmonies and Christian themes of Gospel.",
+      "level": "sub",
+      "parent": "Gospel"
+    },
+    {
+      "name": "Jubilee",
+      "url": "https://rateyourmusic.com/genre/jubilee/",
+      "description": "Rooted in African-American culture, characterized by complex rhythms and call-and-response vocals.",
+      "level": "sub",
+      "parent": "Gospel"
+    },
+    {
+      "name": "Praise Break",
+      "url": "https://rateyourmusic.com/genre/praise-break/",
+      "description": "High-energy, improvisational \"break\" for worshiping God in Black churches.",
+      "level": "sub",
+      "parent": "Gospel"
+    },
+    {
+      "name": "Sacred Steel",
+      "url": "https://rateyourmusic.com/genre/sacred-steel/",
+      "description": "Focused on instrumentals and played on the steel guitar.",
+      "level": "sub",
+      "parent": "Gospel"
+    },
+    {
+      "name": "Southern Gospel",
+      "url": "https://rateyourmusic.com/genre/southern-gospel/",
+      "description": "Initially sung A cappella by a Vocal Group quartet, sometimes with a pianist or guitar as accompaniment, with lyrics and messages primarily revolving around the teachings found within Christianity.",
+      "level": "sub",
+      "parent": "Gospel"
+    },
+    {
+      "name": "Traditional Black Gospel",
+      "url": "https://rateyourmusic.com/genre/traditional-black-gospel/",
+      "description": "Born out of Spirituals in the early 20th century with influence from Southern Gospel and Blues, often featuring passionate or energetic vocal performances, motifs of salvation, and testaments of hardship.",
+      "level": "sub",
+      "parent": "Gospel"
+    },
+    {
+      "name": "Urban Contemporary Gospel",
+      "url": "https://rateyourmusic.com/genre/urban-contemporary-gospel/",
+      "description": "Inspired by Gospel music, featuring Christian lyrics adapted to contemporary rhythms and styles.",
+      "level": "sub",
+      "parent": "Gospel"
+    }
+  ]
+}

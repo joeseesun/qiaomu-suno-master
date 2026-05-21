@@ -1,0 +1,17 @@
+{
+  "name": "MIDI Music",
+  "description": "Intended for real-time sequenced playback via MIDI protocol on MIDI devices and used primarily in 1990s PC Video Game Music, arranger keyboards and karaoke.",
+  "url": "https://rateyourmusic.com/genre/midi-music/",
+  "parent": "Bit Music",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Black MIDI",
+      "url": "https://rateyourmusic.com/genre/black-midi/",
+      "description": "Consists of extremely dense MIDI piano compositions, impossible to play on physical instruments.",
+      "level": "sub-3",
+      "parent": "MIDI Music"
+    }
+  ]
+}

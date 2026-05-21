@@ -1,0 +1,24 @@
+{
+  "name": "Nature Recordings",
+  "description": "Recordings of natural phenomena such as waterfalls, ocean waves, and storms, as well as Animal Sounds.",
+  "url": "https://rateyourmusic.com/genre/nature-recordings/",
+  "parent": "Field Recordings",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Animal Sounds",
+      "url": "https://rateyourmusic.com/genre/animal-sounds/",
+      "description": "Recordings which are done in order to capture sounds produced by animals.",
+      "level": "sub-2",
+      "parent": "Nature Recordings"
+    },
+    {
+      "name": "Rain Sounds",
+      "url": "https://rateyourmusic.com/genre/rain-sounds/",
+      "description": "Naturally occurring sounds of rainfall.",
+      "level": "sub-2",
+      "parent": "Nature Recordings"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Hard Techno",
+  "description": "Typically rave-oriented form characterized by hard, prominent kick drums, pounding rhythms, fast tempos around 140-160 BPM, and aggressive, often distorted sounds.",
+  "url": "https://rateyourmusic.com/genre/hard-techno/",
+  "parent": "Techno",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Schranz",
+      "url": "https://rateyourmusic.com/genre/schranz/",
+      "description": "Characterised by fast tempos, aggressive \"whooshing\" beat patterns, heavy compression and straightforward song structures.",
+      "level": "sub-4",
+      "parent": "Hard Techno"
+    },
+    {
+      "name": "Schranz",
+      "url": "https://rateyourmusic.com/genre/schranz/",
+      "description": "Characterised by fast tempos, aggressive \"whooshing\" beat patterns, heavy compression and straightforward song structures.",
+      "level": "sub-4",
+      "parent": "Hard Techno"
+    }
+  ]
+}

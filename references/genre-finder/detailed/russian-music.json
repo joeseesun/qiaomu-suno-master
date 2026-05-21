@@ -1,0 +1,45 @@
+{
+  "name": "Russian Music",
+  "description": "Music of the Russian people.",
+  "url": "https://rateyourmusic.com/genre/russian-music/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Avtorskaya pesnya",
+      "url": "https://rateyourmusic.com/genre/avtorskaya-pesnya/",
+      "description": "Originating in the Soviet Union taking cues from forms of Russian Romance and Russian poetry with the main focus on lyrics.",
+      "level": "sub-3",
+      "parent": "Russian Music"
+    },
+    {
+      "name": "Russian Chanson",
+      "url": "https://rateyourmusic.com/genre/russian-chanson/",
+      "description": "Divided into lyrical and criminal chanson, it is best described as narrative-driven popular music inspired by crime and prison.",
+      "level": "sub-3",
+      "parent": "Russian Music"
+    },
+    {
+      "name": "Russian Folk Music",
+      "url": "https://rateyourmusic.com/genre/russian-folk-music/",
+      "description": "Eastern Slavic Folk Music native to the Russian people.",
+      "level": "sub-3",
+      "parent": "Russian Music"
+    },
+    {
+      "name": "Russian Orthodox Liturgical Music",
+      "url": "https://rateyourmusic.com/genre/russian-orthodox-liturgical-music/",
+      "description": "Tradition of the Russian Orthodox Church, implemented with the Christianization of Kievan Rus' in 988.",
+      "level": "sub-3",
+      "parent": "Russian Music"
+    },
+    {
+      "name": "Russian Romance",
+      "url": "https://rateyourmusic.com/genre/russian-romance/",
+      "description": "Popular Russian genre of melancholy balladry.",
+      "level": "sub-3",
+      "parent": "Russian Music"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Nederpop",
+  "description": "Dutch language Pop which originally arose in the 1970s to describe the style of the 1950s and 1960s, but would also later be used for 1980s artists who incorporated elements of Ska and Reggae.",
+  "url": "https://rateyourmusic.com/genre/nederpop/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Palingsound",
+      "url": "https://rateyourmusic.com/genre/palingsound/",
+      "description": "Originating from Volendam in the Netherlands; harmonizing vocals and orchestrated arrangements.",
+      "level": "sub-2",
+      "parent": "Nederpop"
+    }
+  ]
+}

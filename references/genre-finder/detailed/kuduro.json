@@ -1,0 +1,31 @@
+{
+  "name": "Kuduro",
+  "description": "Angolan music combining traditional Kilapanga and Semba with Techno and House.",
+  "url": "https://rateyourmusic.com/genre/kuduro/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Batida",
+      "url": "https://rateyourmusic.com/genre/batida/",
+      "description": "Initially developed in the late '80s in Luanda, Angola, as a mixture of Soca- and Zouk-based percussion samples.",
+      "level": "sub-3",
+      "parent": "Kuduro"
+    },
+    {
+      "name": "Batida",
+      "url": "https://rateyourmusic.com/genre/batida/",
+      "description": "Initially developed in the late '80s in Luanda, Angola, as a mixture of Soca- and Zouk-based percussion samples.",
+      "level": "sub-3",
+      "parent": "Kuduro"
+    },
+    {
+      "name": "Batida",
+      "url": "https://rateyourmusic.com/genre/batida/",
+      "description": "Initially developed in the late '80s in Luanda, Angola, as a mixture of Soca- and Zouk-based percussion samples.",
+      "level": "sub-4",
+      "parent": "Kuduro"
+    }
+  ]
+}

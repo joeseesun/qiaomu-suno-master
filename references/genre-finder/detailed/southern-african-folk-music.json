@@ -1,0 +1,122 @@
+{
+  "name": "Southern African Folk Music",
+  "description": "Traditional Folk Music of southern Africa.",
+  "url": "https://rateyourmusic.com/genre/southern-african-folk-music/",
+  "parent": "African Folk Music",
+  "level": "sub-3",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Afrikaner Folk Music",
+      "url": "https://rateyourmusic.com/genre/afrikaner-folk-music/",
+      "description": "Musical traditions developed by the Afrikaner community in southern Africa.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Afrikaner Folk Music",
+      "url": "https://rateyourmusic.com/genre/afrikaner-folk-music/",
+      "description": "Musical traditions developed by the Afrikaner community in southern Africa.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Afrikaner Folk Music",
+      "url": "https://rateyourmusic.com/genre/afrikaner-folk-music/",
+      "description": "Musical traditions developed by the Afrikaner community in southern Africa.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Afrikaner Folk Music",
+      "url": "https://rateyourmusic.com/genre/afrikaner-folk-music/",
+      "description": "Musical traditions developed by the Afrikaner community in southern Africa.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Khoisan Folk Music",
+      "url": "https://rateyourmusic.com/genre/khoisan-folk-music/",
+      "description": "Encompasses traditions of the Khoisan ethnic family groups.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Khoisan Folk Music",
+      "url": "https://rateyourmusic.com/genre/khoisan-folk-music/",
+      "description": "Encompasses traditions of the Khoisan ethnic family groups.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Khoisan Folk Music",
+      "url": "https://rateyourmusic.com/genre/khoisan-folk-music/",
+      "description": "Encompasses traditions of the Khoisan ethnic family groups.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Khoisan Folk Music",
+      "url": "https://rateyourmusic.com/genre/khoisan-folk-music/",
+      "description": "Encompasses traditions of the Khoisan ethnic family groups.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Nguni Folk Music",
+      "url": "https://rateyourmusic.com/genre/nguni-folk-music/",
+      "description": "Traditions of the Nguni ethnic family groups, a southern Bantu ethnicity.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Nguni Folk Music",
+      "url": "https://rateyourmusic.com/genre/nguni-folk-music/",
+      "description": "Traditions of the Nguni ethnic family groups, a southern Bantu ethnicity.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Nguni Folk Music",
+      "url": "https://rateyourmusic.com/genre/nguni-folk-music/",
+      "description": "Traditions of the Nguni ethnic family groups, a southern Bantu ethnicity.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Nguni Folk Music",
+      "url": "https://rateyourmusic.com/genre/nguni-folk-music/",
+      "description": "Traditions of the Nguni ethnic family groups, a southern Bantu ethnicity.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Sotho-Tswana Folk Music",
+      "url": "https://rateyourmusic.com/genre/sotho-tswana-folk-music/",
+      "description": "Traditional Folk Music of the Sotho-Tswana ethnic family groups from southern Africa.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Sotho-Tswana Folk Music",
+      "url": "https://rateyourmusic.com/genre/sotho-tswana-folk-music/",
+      "description": "Traditional Folk Music of the Sotho-Tswana ethnic family groups from southern Africa.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Sotho-Tswana Folk Music",
+      "url": "https://rateyourmusic.com/genre/sotho-tswana-folk-music/",
+      "description": "Traditional Folk Music of the Sotho-Tswana ethnic family groups from southern Africa.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    },
+    {
+      "name": "Sotho-Tswana Folk Music",
+      "url": "https://rateyourmusic.com/genre/sotho-tswana-folk-music/",
+      "description": "Traditional Folk Music of the Sotho-Tswana ethnic family groups from southern Africa.",
+      "level": "sub-4",
+      "parent": "Southern African Folk Music"
+    }
+  ]
+}

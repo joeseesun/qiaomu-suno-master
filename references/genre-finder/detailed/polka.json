@@ -1,0 +1,73 @@
+{
+  "name": "Polka",
+  "description": "Lively style and corresponding dance originating in Central and Eastern Europe, featuring a 2/4 cut time beat and instruments which vary by region.",
+  "url": "https://rateyourmusic.com/genre/polka/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Chicago Polka",
+      "url": "https://rateyourmusic.com/genre/chicago-polka/",
+      "description": "Polish-American style known for slower tempo, improvisation and the ensemble typically including the clarinet, trumpet, and concertina.",
+      "level": "sub-4",
+      "parent": "Polka"
+    },
+    {
+      "name": "Chicago Polka",
+      "url": "https://rateyourmusic.com/genre/chicago-polka/",
+      "description": "Polish-American style known for slower tempo, improvisation and the ensemble typically including the clarinet, trumpet, and concertina.",
+      "level": "sub-4",
+      "parent": "Polka"
+    },
+    {
+      "name": "Chicago Polka",
+      "url": "https://rateyourmusic.com/genre/chicago-polka/",
+      "description": "Polish-American style known for slower tempo, improvisation and the ensemble typically including the clarinet, trumpet, and concertina.",
+      "level": "sub-4",
+      "parent": "Polka"
+    },
+    {
+      "name": "Eastern-Style Polka",
+      "url": "https://rateyourmusic.com/genre/eastern-style-polka/",
+      "description": "Fast, urban Polish-American style performed by a Big Band-like ensemble.",
+      "level": "sub-4",
+      "parent": "Polka"
+    },
+    {
+      "name": "Eastern-Style Polka",
+      "url": "https://rateyourmusic.com/genre/eastern-style-polka/",
+      "description": "Fast, urban Polish-American style performed by a Big Band-like ensemble.",
+      "level": "sub-4",
+      "parent": "Polka"
+    },
+    {
+      "name": "Eastern-Style Polka",
+      "url": "https://rateyourmusic.com/genre/eastern-style-polka/",
+      "description": "Fast, urban Polish-American style performed by a Big Band-like ensemble.",
+      "level": "sub-4",
+      "parent": "Polka"
+    },
+    {
+      "name": "Polka peruana",
+      "url": "https://rateyourmusic.com/genre/polka-peruana/",
+      "description": "Peruvian adaptation of European Polka, blending Afro-Peruvian rhythms and criollo melodies.",
+      "level": "sub-4",
+      "parent": "Polka"
+    },
+    {
+      "name": "Polka peruana",
+      "url": "https://rateyourmusic.com/genre/polka-peruana/",
+      "description": "Peruvian adaptation of European Polka, blending Afro-Peruvian rhythms and criollo melodies.",
+      "level": "sub-4",
+      "parent": "Polka"
+    },
+    {
+      "name": "Polka peruana",
+      "url": "https://rateyourmusic.com/genre/polka-peruana/",
+      "description": "Peruvian adaptation of European Polka, blending Afro-Peruvian rhythms and criollo melodies.",
+      "level": "sub-4",
+      "parent": "Polka"
+    }
+  ]
+}

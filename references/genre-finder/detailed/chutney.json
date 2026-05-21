@@ -1,0 +1,17 @@
+{
+  "name": "Chutney",
+  "description": "Indo-Caribbean genre developing as a fusion of Bhojpuri Folk Music with traditional Caribbean songs; later influenced by Calypso, Soca and Filmi.",
+  "url": "https://rateyourmusic.com/genre/chutney/",
+  "parent": "Indo-Caribbean Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Chutney Soca",
+      "url": "https://rateyourmusic.com/genre/chutney-soca/",
+      "description": "Mixture of Soca rhythms with Chutney's Indo-Caribbean traits and instrumentation.",
+      "level": "sub-4",
+      "parent": "Chutney"
+    }
+  ]
+}

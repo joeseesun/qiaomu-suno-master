@@ -1,0 +1,73 @@
+{
+  "name": "Funk",
+  "description": "Danceable, syncopated grooves carried by bass and drums alongside percussive guitar, keyboard, and/or horn parts, with rhythmic emphasis on the downbeat.",
+  "url": "https://rateyourmusic.com/genre/funk/",
+  "parent": "R&B",
+  "level": "sub",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Afro-Funk",
+      "url": "https://rateyourmusic.com/genre/afro-funk/",
+      "description": "Strongly mixed with traditional and more modern genres in sub-Saharan West Africa.",
+      "level": "sub-2",
+      "parent": "Funk"
+    },
+    {
+      "name": "Britfunk",
+      "url": "https://rateyourmusic.com/genre/britfunk/",
+      "description": "Energetic, up-tempo style born out of late-1970s British Jazz-Funk nightclubs.",
+      "level": "sub-2",
+      "parent": "Funk"
+    },
+    {
+      "name": "Deep Funk",
+      "url": "https://rateyourmusic.com/genre/deep-funk/",
+      "description": "Focuses more on grooves and rhythm than songwriting.",
+      "level": "sub-2",
+      "parent": "Funk"
+    },
+    {
+      "name": "Go-Go",
+      "url": "https://rateyourmusic.com/genre/go-go/",
+      "description": "Dominated by drums and percussion (primarily congas) with heavily syncopated rhythms, bursts of horns, and call-and-response vocals.",
+      "level": "sub-2",
+      "parent": "Funk"
+    },
+    {
+      "name": "Jazz-Funk",
+      "url": "https://rateyourmusic.com/genre/jazz-funk/",
+      "description": "Jazz highly influenced by Funk.",
+      "level": "sub-2",
+      "parent": "Funk"
+    },
+    {
+      "name": "Latin Funk",
+      "url": "https://rateyourmusic.com/genre/latin-funk/",
+      "description": "Funk combined with Hispanic American Music styles.",
+      "level": "sub-2",
+      "parent": "Funk"
+    },
+    {
+      "name": "P-Funk",
+      "url": "https://rateyourmusic.com/genre/p-funk/",
+      "description": "Features a \"fat\", monotonic drum sound, spaced-out synthesizers, \"squelchy\" basslines, tight, syncopated horns, and sometimes heavy guitars.",
+      "level": "sub-2",
+      "parent": "Funk"
+    },
+    {
+      "name": "Porn Groove",
+      "url": "https://rateyourmusic.com/genre/porn-groove/",
+      "description": "Primarily found in the soundtracks to Pornographic films of the 1970s; characterized by a wah-wah electric guitar sound, slapped basslines, and minimal drums.",
+      "level": "sub-2",
+      "parent": "Funk"
+    },
+    {
+      "name": "Synth Funk",
+      "url": "https://rateyourmusic.com/genre/synth-funk/",
+      "description": "Stripped-down and futuristic, driven by synthesizer melodies and often incorporating drum machines.",
+      "level": "sub-2",
+      "parent": "Funk"
+    }
+  ]
+}

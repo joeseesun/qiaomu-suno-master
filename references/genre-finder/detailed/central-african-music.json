@@ -1,0 +1,150 @@
+{
+  "name": "Central African Music",
+  "description": "Music of the areas speaking Adamawa-Eastern languages and many Bantu languages, through most of the Democratic Republic of the Congo, all of Gabon, Equatorial Guinea, the islands of São Tomé and Príncipe, Republic of the Congo, most of the Central African Republic, and large parts of Cameroon, Angola, and the northern parts of Zambia.",
+  "url": "https://rateyourmusic.com/genre/central-african-music/",
+  "parent": "African Music",
+  "level": "sub-2",
+  "children_count": 20,
+  "children": [
+    {
+      "name": "Ambasse bey",
+      "url": "https://rateyourmusic.com/genre/ambasse-bey/",
+      "description": "African Folk Music developed by the Yabassi people of Cameroon.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Assiko",
+      "url": "https://rateyourmusic.com/genre/assiko/",
+      "description": "Music and dance of the Bassa people of southern Cameroon, which features a singer accompanied by a guitarist and improvised percussion.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Banda Music",
+      "url": "https://rateyourmusic.com/genre/banda-music/",
+      "description": "Music of the Banda people, a Central African ethnic group mostly residing in the Central African Republic and its neighboring countries.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Bend-skin",
+      "url": "https://rateyourmusic.com/genre/bend-skin/",
+      "description": "Most closely linked to the Bamileke people of the Western Province of Cameroon; drums and improvised maracas are the sole instrumentation backing up a vocalist who alternates between rapping and singing.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Bikutsi",
+      "url": "https://rateyourmusic.com/genre/bikutsi/",
+      "description": "Developed from the Traditional Folk Music of the Ewondo people in Cameroon, with a name translating as \"let's beat the earth\" that comes from the stomping dance style that often accompanies it.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Congolese Rumba",
+      "url": "https://rateyourmusic.com/genre/congolese-rumba/",
+      "description": "Blend of Congolese musical elements with Cuban Music (specifically Son cubano and  Rumba cubana) popular between the 1940s and early 1970s.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Kalindula",
+      "url": "https://rateyourmusic.com/genre/kalindula/",
+      "description": "Features multiple rumba-like lead guitars and quick steady basslines, while mixing together elements of other percussion-heavy Zambian styles.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Kilapanga",
+      "url": "https://rateyourmusic.com/genre/kilapanga/",
+      "description": "Tradition of the Bakongo people from Angola and Congo that has influenced contemporary styles such as Kuduro.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Kizomba",
+      "url": "https://rateyourmusic.com/genre/kizomba/",
+      "description": "Combines elements of Angolan Semba and French Caribbean Zouk.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Kuduro",
+      "url": "https://rateyourmusic.com/genre/kuduro/",
+      "description": "Angolan music combining traditional Kilapanga and Semba with Techno and House.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Makossa",
+      "url": "https://rateyourmusic.com/genre/makossa/",
+      "description": "Similar to Soukous, but makes more use of a horn section and bass rhythm.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Mangambeu",
+      "url": "https://rateyourmusic.com/genre/mangambeu/",
+      "description": "Celebratory style featuring mbira-like instruments and polyrhythms, from western Cameroon.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Mbenga-Mbuti Music",
+      "url": "https://rateyourmusic.com/genre/mbenga-mbuti-music/",
+      "description": "Music of the Mbenga and Mbuti people, Pygmy ethnic groups in Central Africa.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Mbolé",
+      "url": "https://rateyourmusic.com/genre/mbole/",
+      "description": "Festive, energetic and urban, influenced by Bikutsi, Bend-skin and Makossa; mainly based on hand-clapping and drumming accompanied by rhythmic singing.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Puxa",
+      "url": "https://rateyourmusic.com/genre/puxa/",
+      "description": "Energetic dance style that combines solid bass lines with subtle melodies and harmonies of São Toméan music.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Semba",
+      "url": "https://rateyourmusic.com/genre/semba/",
+      "description": "Style from Angola featuring danceable percussion, lyrics often taking the form of a story, and sometimes accompaniment from a guitar.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Soukous",
+      "url": "https://rateyourmusic.com/genre/soukous/",
+      "description": "Danceable, guitar-based style from the Congo area.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Tradi-moderne congolais",
+      "url": "https://rateyourmusic.com/genre/tradi-moderne-congolais/",
+      "description": "Updates traditional Congolese music with electric instrumentation.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Twa Music",
+      "url": "https://rateyourmusic.com/genre/twa-music/",
+      "description": "Music of the Great Lakes Twa people.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    },
+    {
+      "name": "Zamrock",
+      "url": "https://rateyourmusic.com/genre/zamrock/",
+      "description": "Developed in the Copperbelt region of Zambia in the 1970s, characterized by its blend of local sounds with influence from Funk, Hard Rock, and Blues Rock.",
+      "level": "sub-3",
+      "parent": "Central African Music"
+    }
+  ]
+}

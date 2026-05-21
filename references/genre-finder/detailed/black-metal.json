@@ -1,0 +1,150 @@
+{
+  "name": "Black Metal",
+  "description": "Highly distorted, treble-heavy guitars, tremolo-picked riffs, blast beats and double bass drumming, shrieked vocals, and raw, lo-fi production; often focuses on occult, dark imagery and atmosphere.",
+  "url": "https://rateyourmusic.com/genre/black-metal/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 20,
+  "children": [
+    {
+      "name": "Atmospheric Black Metal",
+      "url": "https://rateyourmusic.com/genre/atmospheric-black-metal/",
+      "description": "Repetitive riffs and melodies, slower tempos, synthesized ambient textures, and guitar effects creating atmospheric soundscapes.",
+      "level": "sub-2",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Atmospheric Black Metal",
+      "url": "https://rateyourmusic.com/genre/atmospheric-black-metal/",
+      "description": "Repetitive riffs and melodies, slower tempos, synthesized ambient textures, and guitar effects creating atmospheric soundscapes.",
+      "level": "sub-3",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Black 'n' Roll",
+      "url": "https://rateyourmusic.com/genre/black-n-roll/",
+      "description": "Incorporates elements of Hard Rock, Glam Rock, and Heavy Metal.",
+      "level": "sub-2",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Black 'n' Roll",
+      "url": "https://rateyourmusic.com/genre/black-n-roll/",
+      "description": "Incorporates elements of Hard Rock, Glam Rock, and Heavy Metal.",
+      "level": "sub-3",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Black Noise",
+      "url": "https://rateyourmusic.com/genre/black-noise/",
+      "description": "Incorporates unconventional sounds with overpowering or constant Noise and Black Metal elements, often being heavily texture-oriented, abrasive, dissonant, atonal, or repetitive.",
+      "level": "sub-2",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Black Noise",
+      "url": "https://rateyourmusic.com/genre/black-noise/",
+      "description": "Incorporates unconventional sounds with overpowering or constant Noise and Black Metal elements, often being heavily texture-oriented, abrasive, dissonant, atonal, or repetitive.",
+      "level": "sub-3",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "DSBM",
+      "url": "https://rateyourmusic.com/genre/dsbm/",
+      "description": "Lethargic, melancholic, and repetitive sound; depressive and misanthropic themes; vocals ranging from high-pitched wails and screams to strained cleans; often featuring non-distorted sections.",
+      "level": "sub-2",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "DSBM",
+      "url": "https://rateyourmusic.com/genre/dsbm/",
+      "description": "Lethargic, melancholic, and repetitive sound; depressive and misanthropic themes; vocals ranging from high-pitched wails and screams to strained cleans; often featuring non-distorted sections.",
+      "level": "sub-3",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Dissonant Black Metal",
+      "url": "https://rateyourmusic.com/genre/dissonant-black-metal/",
+      "description": "Dissonant atonal riffing, cleaner production style, and complex song structures.",
+      "level": "sub-2",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Dissonant Black Metal",
+      "url": "https://rateyourmusic.com/genre/dissonant-black-metal/",
+      "description": "Dissonant atonal riffing, cleaner production style, and complex song structures.",
+      "level": "sub-3",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Hellenic Black Metal",
+      "url": "https://rateyourmusic.com/genre/hellenic-black-metal/",
+      "description": "Black metal scene in Greece with more mid-tempo songwriting and pronounced Heavy Metal influence.",
+      "level": "sub-2",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Hellenic Black Metal",
+      "url": "https://rateyourmusic.com/genre/hellenic-black-metal/",
+      "description": "Black metal scene in Greece with more mid-tempo songwriting and pronounced Heavy Metal influence.",
+      "level": "sub-3",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Melodic Black Metal",
+      "url": "https://rateyourmusic.com/genre/melodic-black-metal/",
+      "description": "Cleaner production, more diverse arrangements, and a stronger emphasis on melody than is typical for Black Metal.",
+      "level": "sub-2",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Melodic Black Metal",
+      "url": "https://rateyourmusic.com/genre/melodic-black-metal/",
+      "description": "Cleaner production, more diverse arrangements, and a stronger emphasis on melody than is typical for Black Metal.",
+      "level": "sub-3",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Pagan Black Metal",
+      "url": "https://rateyourmusic.com/genre/pagan-black-metal/",
+      "description": "Incorporates acoustic guitar and traditional instrument passages, cleanly sung vocals, folk songs' melodies, and paganistic themes.",
+      "level": "sub-2",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Pagan Black Metal",
+      "url": "https://rateyourmusic.com/genre/pagan-black-metal/",
+      "description": "Incorporates acoustic guitar and traditional instrument passages, cleanly sung vocals, folk songs' melodies, and paganistic themes.",
+      "level": "sub-3",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Symphonic Black Metal",
+      "url": "https://rateyourmusic.com/genre/symphonic-black-metal/",
+      "description": "Symphonic soundscapes, typically but not always synthesized.",
+      "level": "sub-2",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "Symphonic Black Metal",
+      "url": "https://rateyourmusic.com/genre/symphonic-black-metal/",
+      "description": "Symphonic soundscapes, typically but not always synthesized.",
+      "level": "sub-3",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "War Metal",
+      "url": "https://rateyourmusic.com/genre/war-metal/",
+      "description": "Aggressive, chaotic, and heavily Death Metal-influenced, featuring muddy, bass-heavy production and often incorporating war-themed lyrics.",
+      "level": "sub-2",
+      "parent": "Black Metal"
+    },
+    {
+      "name": "War Metal",
+      "url": "https://rateyourmusic.com/genre/war-metal/",
+      "description": "Aggressive, chaotic, and heavily Death Metal-influenced, featuring muddy, bass-heavy production and often incorporating war-themed lyrics.",
+      "level": "sub-3",
+      "parent": "Black Metal"
+    }
+  ]
+}

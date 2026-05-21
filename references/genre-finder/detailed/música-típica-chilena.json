@@ -1,0 +1,24 @@
+{
+  "name": "Música típica chilena",
+  "description": "Incorporation of rural folklore music to urban fields, adding vocal groups accompanied mainly by guitar and a \"huaso\" symbolism.",
+  "url": "https://rateyourmusic.com/genre/musica-tipica-chilena/",
+  "parent": "Chilean Music",
+  "level": "sub-4",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Neofolklore",
+      "url": "https://rateyourmusic.com/genre/neofolklore/",
+      "description": "Short-lived movement that reincorporated traditional Chilean folklore into modern production and styling inspired by foreign musicians.",
+      "level": "sub-5",
+      "parent": "Música típica chilena"
+    },
+    {
+      "name": "Neofolklore",
+      "url": "https://rateyourmusic.com/genre/neofolklore/",
+      "description": "Short-lived movement that reincorporated traditional Chilean folklore into modern production and styling inspired by foreign musicians.",
+      "level": "sub-4",
+      "parent": "Música típica chilena"
+    }
+  ]
+}

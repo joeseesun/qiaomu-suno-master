@@ -1,0 +1,94 @@
+{
+  "name": "Polynesian Music",
+  "description": "Music of Polynesia.",
+  "url": "https://rateyourmusic.com/genre/polynesian-music/",
+  "parent": "Austronesian Music",
+  "level": "sub-2",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Fijian Music",
+      "url": "https://rateyourmusic.com/genre/fijian-music/",
+      "description": "Music of the Fijian people.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    },
+    {
+      "name": "Fijian Music",
+      "url": "https://rateyourmusic.com/genre/fijian-music/",
+      "description": "Music of the Fijian people.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    },
+    {
+      "name": "Hawaiian Music",
+      "url": "https://rateyourmusic.com/genre/hawaiian-music/",
+      "description": "Includes a variety of syncopated rhythms, percussion and vocal styles, including chanting (mele) and falsetto.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    },
+    {
+      "name": "Hawaiian Music",
+      "url": "https://rateyourmusic.com/genre/hawaiian-music/",
+      "description": "Includes a variety of syncopated rhythms, percussion and vocal styles, including chanting (mele) and falsetto.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    },
+    {
+      "name": "Himene tarava",
+      "url": "https://rateyourmusic.com/genre/himene-tarava/",
+      "description": "Protestant choral songs in Tahiti and other southern Polynesian islands.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    },
+    {
+      "name": "Himene tarava",
+      "url": "https://rateyourmusic.com/genre/himene-tarava/",
+      "description": "Protestant choral songs in Tahiti and other southern Polynesian islands.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    },
+    {
+      "name": "Māori Music",
+      "url": "https://rateyourmusic.com/genre/maori-music/",
+      "description": "Music of the indigenous Māori people of New Zealand.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    },
+    {
+      "name": "Māori Music",
+      "url": "https://rateyourmusic.com/genre/maori-music/",
+      "description": "Music of the indigenous Māori people of New Zealand.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    },
+    {
+      "name": "Samoan Music",
+      "url": "https://rateyourmusic.com/genre/samoan-music/",
+      "description": "Music of the Samoan people.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    },
+    {
+      "name": "Samoan Music",
+      "url": "https://rateyourmusic.com/genre/samoan-music/",
+      "description": "Music of the Samoan people.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    },
+    {
+      "name": "Tahitian Music",
+      "url": "https://rateyourmusic.com/genre/tahitian-music/",
+      "description": "Music of the Tahitian people.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    },
+    {
+      "name": "Tahitian Music",
+      "url": "https://rateyourmusic.com/genre/tahitian-music/",
+      "description": "Music of the Tahitian people.",
+      "level": "sub-3",
+      "parent": "Polynesian Music"
+    }
+  ]
+}

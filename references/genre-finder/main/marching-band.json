@@ -1,0 +1,57 @@
+{
+  "name": "Marching Band",
+  "description": "Covering the music of Western-derived marching bands, primarily used for entertainment, competition, military, and parade settings, typically involving large-scale orchestras featuring a variety of instruments.",
+  "url": "https://rateyourmusic.com/genre/marching-band/",
+  "sub_genres_count": 7,
+  "sub_genres": [
+    {
+      "name": "Beni",
+      "url": "https://rateyourmusic.com/genre/beni/",
+      "description": "Festive Zanzibari Marching Band music that emerged in the late 19th century.",
+      "level": "sub",
+      "parent": "Marching Band"
+    },
+    {
+      "name": "Drum and Bugle Corps",
+      "url": "https://rateyourmusic.com/genre/drum-and-bugle-corps/",
+      "description": "Primarily uses drums and bugles, developed from North American military music.",
+      "level": "sub",
+      "parent": "Marching Band"
+    },
+    {
+      "name": "Drumline",
+      "url": "https://rateyourmusic.com/genre/drumline/",
+      "description": "Solely percussion based Marching Band.",
+      "level": "sub",
+      "parent": "Marching Band"
+    },
+    {
+      "name": "Fife and Drum Corps",
+      "url": "https://rateyourmusic.com/genre/fife-and-drum-corps/",
+      "description": "Derived from military field music, primarily uses fifes and drums.",
+      "level": "sub",
+      "parent": "Marching Band"
+    },
+    {
+      "name": "Guggenmusik",
+      "url": "https://rateyourmusic.com/genre/guggenmusik/",
+      "description": "Alemannic type of Marching Band played at carnival events, featuring a cacophonous, seemingly \"out of tune\" sound.",
+      "level": "sub",
+      "parent": "Marching Band"
+    },
+    {
+      "name": "Pep Band",
+      "url": "https://rateyourmusic.com/genre/pep-band/",
+      "description": "Performs at athletic events, and typically performs modified versions of Pop songs.",
+      "level": "sub",
+      "parent": "Marching Band"
+    },
+    {
+      "name": "Pipe Band",
+      "url": "https://rateyourmusic.com/genre/pipe-band/",
+      "description": "Tradition originating in the Scottish military; standard instruments consist of 6-25 sets of Great Highland bagpipes, 3-10 military snare drums, 1-6 Scottish tenor drums, and one bass drum.",
+      "level": "sub",
+      "parent": "Marching Band"
+    }
+  ]
+}

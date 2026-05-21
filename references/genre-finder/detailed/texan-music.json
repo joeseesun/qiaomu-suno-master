@@ -1,0 +1,38 @@
+{
+  "name": "Texan Music",
+  "description": "Regional Music from the US state of Texas.",
+  "url": "https://rateyourmusic.com/genre/texan-music/",
+  "parent": "Northern American Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Acoustic Texas Blues",
+      "url": "https://rateyourmusic.com/genre/acoustic-texas-blues/",
+      "description": "Laid-back swing rhythms and guitar ornamentation, including solos.",
+      "level": "sub-3",
+      "parent": "Texan Music"
+    },
+    {
+      "name": "Electric Texas Blues",
+      "url": "https://rateyourmusic.com/genre/electric-texas-blues/",
+      "description": "Originating in (but not limited to) Texas; includes Jazz influences like Swing rhythms and sometimes the addition of a horn section.",
+      "level": "sub-3",
+      "parent": "Texan Music"
+    },
+    {
+      "name": "Tejano Music",
+      "url": "https://rateyourmusic.com/genre/tejano-music/",
+      "description": "Mexican-American style infusing the conjunto Norteño ensemble with European dances and American popular music.",
+      "level": "sub-3",
+      "parent": "Texan Music"
+    },
+    {
+      "name": "Tex-Mex",
+      "url": "https://rateyourmusic.com/genre/tex-mex/",
+      "description": "Mixes Rock & Roll, Blues, Country, and several types of Hispanic American Music, particularly Tejano Music.",
+      "level": "sub-3",
+      "parent": "Texan Music"
+    }
+  ]
+}

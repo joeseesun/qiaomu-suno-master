@@ -1,0 +1,80 @@
+{
+  "name": "Emo",
+  "description": "Focuses on emotional lyrics, expressive vocals, melodic songwriting, and dynamic song structures.",
+  "url": "https://rateyourmusic.com/genre/emo/",
+  "parent": "Punk",
+  "level": "sub",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Emo-Pop",
+      "url": "https://rateyourmusic.com/genre/emo-pop/",
+      "description": "Mainstream derivative of Emo, puts more emphasis on the poppy sensibilities of Alternative Rock and Pop Punk.",
+      "level": "sub-2",
+      "parent": "Emo"
+    },
+    {
+      "name": "Emo-Pop",
+      "url": "https://rateyourmusic.com/genre/emo-pop/",
+      "description": "Mainstream derivative of Emo, puts more emphasis on the poppy sensibilities of Alternative Rock and Pop Punk.",
+      "level": "sub-2",
+      "parent": "Emo"
+    },
+    {
+      "name": "Emocore",
+      "url": "https://rateyourmusic.com/genre/emocore/",
+      "description": "Emerged primarily in Washington D.C. in 1985 as a reaction to the stagnant Hardcore Punk scene, with a less aggressive style that was more melodic and often featured emotional, introspective lyrics.",
+      "level": "sub-2",
+      "parent": "Emo"
+    },
+    {
+      "name": "Emocore",
+      "url": "https://rateyourmusic.com/genre/emocore/",
+      "description": "Emerged primarily in Washington D.C. in 1985 as a reaction to the stagnant Hardcore Punk scene, with a less aggressive style that was more melodic and often featured emotional, introspective lyrics.",
+      "level": "sub-2",
+      "parent": "Emo"
+    },
+    {
+      "name": "Mall Screamo",
+      "url": "https://rateyourmusic.com/genre/mall-screamo/",
+      "description": "Heavy instrumentation, melodic verse-chorus songwriting, and expressive singing contrasted with screaming vocals.",
+      "level": "sub-2",
+      "parent": "Emo"
+    },
+    {
+      "name": "Mall Screamo",
+      "url": "https://rateyourmusic.com/genre/mall-screamo/",
+      "description": "Heavy instrumentation, melodic verse-chorus songwriting, and expressive singing contrasted with screaming vocals.",
+      "level": "sub-2",
+      "parent": "Emo"
+    },
+    {
+      "name": "Midwest Emo",
+      "url": "https://rateyourmusic.com/genre/midwest-emo/",
+      "description": "Characterized by shifts between loud and soft dynamics, off-key, strained and emotional vocals, sometimes with intricate instrumental arrangements and layered arpeggiated guitar parts.",
+      "level": "sub-2",
+      "parent": "Emo"
+    },
+    {
+      "name": "Midwest Emo",
+      "url": "https://rateyourmusic.com/genre/midwest-emo/",
+      "description": "Characterized by shifts between loud and soft dynamics, off-key, strained and emotional vocals, sometimes with intricate instrumental arrangements and layered arpeggiated guitar parts.",
+      "level": "sub-2",
+      "parent": "Emo"
+    },
+    {
+      "name": "Screamo",
+      "url": "https://rateyourmusic.com/genre/screamo/",
+      "description": "Intense, aggressive and complex approach to Emo featuring higher levels of abrasiveness and dissonance, accompanied by guitar-focused melodicism and harsh vocals.",
+      "level": "sub-2",
+      "parent": "Emo"
+    },
+    {
+      "name": "Screamo",
+      "url": "https://rateyourmusic.com/genre/screamo/",
+      "description": "Intense, aggressive and complex approach to Emo featuring higher levels of abrasiveness and dissonance, accompanied by guitar-focused melodicism and harsh vocals.",
+      "level": "sub-2",
+      "parent": "Emo"
+    }
+  ]
+}

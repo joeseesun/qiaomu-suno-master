@@ -1,0 +1,52 @@
+{
+  "name": "East Coast Club",
+  "description": "Group of club styles from the US East Coast that combines Miami Bass rhythms with influence from Breakbeat and Ghetto House.",
+  "url": "https://rateyourmusic.com/genre/east-coast-club/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Baltimore Club",
+      "url": "https://rateyourmusic.com/genre/baltimore-club/",
+      "description": "Drew on the \"booty bass\" syncopation of Miami Bass, combined with Breakbeat rhythms around 130 BPM and chopped up vocal samples as found in Ghetto House.",
+      "level": "sub-3",
+      "parent": "East Coast Club"
+    },
+    {
+      "name": "Baltimore Club",
+      "url": "https://rateyourmusic.com/genre/baltimore-club/",
+      "description": "Drew on the \"booty bass\" syncopation of Miami Bass, combined with Breakbeat rhythms around 130 BPM and chopped up vocal samples as found in Ghetto House.",
+      "level": "sub-3",
+      "parent": "East Coast Club"
+    },
+    {
+      "name": "Jersey Club",
+      "url": "https://rateyourmusic.com/genre/jersey-club/",
+      "description": "Emerged in Newark in the late 2000s; features fast tempos, hard kicks, and less prominent breakbeats.",
+      "level": "sub-3",
+      "parent": "East Coast Club"
+    },
+    {
+      "name": "Jersey Club",
+      "url": "https://rateyourmusic.com/genre/jersey-club/",
+      "description": "Emerged in Newark in the late 2000s; features fast tempos, hard kicks, and less prominent breakbeats.",
+      "level": "sub-3",
+      "parent": "East Coast Club"
+    },
+    {
+      "name": "Philly Club",
+      "url": "https://rateyourmusic.com/genre/philly-club/",
+      "description": "Builds on Baltimore Club with a faster tempo and sometimes influences from more modern genres like Trap [EDM].",
+      "level": "sub-3",
+      "parent": "East Coast Club"
+    },
+    {
+      "name": "Philly Club",
+      "url": "https://rateyourmusic.com/genre/philly-club/",
+      "description": "Builds on Baltimore Club with a faster tempo and sometimes influences from more modern genres like Trap [EDM].",
+      "level": "sub-3",
+      "parent": "East Coast Club"
+    }
+  ]
+}

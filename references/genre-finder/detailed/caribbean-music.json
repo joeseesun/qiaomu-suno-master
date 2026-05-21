@@ -1,0 +1,192 @@
+{
+  "name": "Caribbean Music",
+  "description": "Meta-genre covering all forms with roots in the Caribbean region.",
+  "url": "https://rateyourmusic.com/genre/caribbean-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 26,
+  "children": [
+    {
+      "name": "Aleke",
+      "url": "https://rateyourmusic.com/genre/aleke/",
+      "description": "Derived from traditional Surinamese Maroon music, especially aukansi, features distinct faster rhythms.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Bachata",
+      "url": "https://rateyourmusic.com/genre/bachata/",
+      "description": "Romantic dance and accompanying music originating in the Dominican Republic, featuring arpeggiated chords in the melody.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Brukdown",
+      "url": "https://rateyourmusic.com/genre/brukdown/",
+      "description": "Belizean Creole genre typified by the use of accordion, banjo, and a distinctive percussion section.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Bullerengue",
+      "url": "https://rateyourmusic.com/genre/bullerengue/",
+      "description": "Afro-Colombian popular genre which features a strong emphasis on rhythm and improvisation and a call-and-response format.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Calypso",
+      "url": "https://rateyourmusic.com/genre/calypso/",
+      "description": "Genre from Trinidad and Tobago featuring a brass section and percussion.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Caribbean Folk Music",
+      "url": "https://rateyourmusic.com/genre/caribbean-folk-music/",
+      "description": "Meta-genre that covers the different forms of Traditional Folk Music from the Caribbean.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Champeta",
+      "url": "https://rateyourmusic.com/genre/champeta/",
+      "description": "Colombian genre heavily influenced by the traditional music of San Basilio de Palenque as well as modern Caribbean and African sensibilities.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Cuban Music",
+      "url": "https://rateyourmusic.com/genre/cuban-music/",
+      "description": "Encompasses the wide variety of traditions from the island of Cuba.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Cumbia colombiana",
+      "url": "https://rateyourmusic.com/genre/cumbia-colombiana/",
+      "description": "Style that incorporates elements of Colombian traditional music, which includes and keeps influences from Spanish, African, and Indigenous cultures.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Dembow",
+      "url": "https://rateyourmusic.com/genre/dembow/",
+      "description": "Originated in the Dominican Republic during the early 1990s, featuring rapping indebted to Hip Hop and a style drawing on Dancehall, particularly the \"Dem Bow\" riddim.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "French Caribbean Music",
+      "url": "https://rateyourmusic.com/genre/french-caribbean-music/",
+      "description": "Music from the French Antilles (Martinique, Guadeloupe, Dominica, Saint Lucia) and from Haiti.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Gaita zuliana",
+      "url": "https://rateyourmusic.com/genre/gaita-zuliana/",
+      "description": "Emerged in the state of Zulia in the 1950s, merging Spanish Folk Music and Venezuelan Christmas carols.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Garifuna Music",
+      "url": "https://rateyourmusic.com/genre/garifuna-music/",
+      "description": "Music of the Garifuna, an Afro-Indigenous people from Central America and Saint Vincent and the Grenadines.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Goombay",
+      "url": "https://rateyourmusic.com/genre/goombay/",
+      "description": "Bahamian music centered around the drum known as the goombay, a sort of membranophone.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Indo-Caribbean Music",
+      "url": "https://rateyourmusic.com/genre/indo-caribbean-music/",
+      "description": "Music of the Indo-Caribbean diaspora.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Jamaican Music",
+      "url": "https://rateyourmusic.com/genre/jamaican-music/",
+      "description": "Regional music of Jamaica ranges from its cultural origins in traditional and religious folk of the late 19th and early 20th centuries to the international popularity of Reggae from the 1970s onwards.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Junkanoo",
+      "url": "https://rateyourmusic.com/genre/junkanoo/",
+      "description": "Highly rhythmic Bahamian style which traditionally accompanies the arts festival and street parade of the same name.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Kaseko",
+      "url": "https://rateyourmusic.com/genre/kaseko/",
+      "description": "Surinamese popular music with roots in Surinamese Creole music, which was influenced by folk traditions of Africa, Europe, and the Americas.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Merengue",
+      "url": "https://rateyourmusic.com/genre/merengue/",
+      "description": "Dominican Republic dance genre that had a commercial boom at the end of the 1980s.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Palo de mayo",
+      "url": "https://rateyourmusic.com/genre/palo-de-mayo/",
+      "description": "Upbeat music accompanying maypole dancing from the Caribbean coast of Central America.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Parang",
+      "url": "https://rateyourmusic.com/genre/parang/",
+      "description": "Latin-Caribbean genre central to Trinidad and Tobago and Venezuela traditionally used for nighttime celebrations in Trinidadian towns.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Porro",
+      "url": "https://rateyourmusic.com/genre/porro/",
+      "description": "Lively Hispanic American Music and dance style native to Colombia which gained popularity in the 1940s.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Soca",
+      "url": "https://rateyourmusic.com/genre/soca/",
+      "description": "Upbeat, poppy and danceable style rooted in Calypso and Indo-Caribbean Music; developed in the late 1960s and early 1970s in Trinidad and Tobago.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Steel Band",
+      "url": "https://rateyourmusic.com/genre/steel-band/",
+      "description": "Ensembles made out of steel drums that often perform Standards, Calypso, and Western Classical Music with densely rhythmic and colorful arrangements.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Tropicanibalismo",
+      "url": "https://rateyourmusic.com/genre/tropicanibalismo/",
+      "description": "Colombian scene born in the early 2000s with the intention of reinventing Colombian coastal music, from a more current and experimental approach.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    },
+    {
+      "name": "Vallenato",
+      "url": "https://rateyourmusic.com/genre/vallenato/",
+      "description": "Accordion-led style of folk and popular music originating in Colombia's Caribbean region.",
+      "level": "sub-2",
+      "parent": "Caribbean Music"
+    }
+  ]
+}

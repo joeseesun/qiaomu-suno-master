@@ -1,0 +1,73 @@
+{
+  "name": "Cumbia argentina",
+  "description": "Almost always features synthesizer keyboards and electronic percussion with an upbeat rhythm.",
+  "url": "https://rateyourmusic.com/genre/cumbia-argentina/",
+  "parent": "Argentine Music",
+  "level": "sub-4",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Cumbia santafesina",
+      "url": "https://rateyourmusic.com/genre/cumbia-santafesina/",
+      "description": "Originated in the Argentinian province of Santa Fe, particularly in its capital city Santa Fe de la Vera Cruz, with lyrics that tend to be romantic and relatively clean compared to later Cumbia argentina.",
+      "level": "sub-5",
+      "parent": "Cumbia argentina"
+    },
+    {
+      "name": "Cumbia santafesina",
+      "url": "https://rateyourmusic.com/genre/cumbia-santafesina/",
+      "description": "Originated in the Argentinian province of Santa Fe, particularly in its capital city Santa Fe de la Vera Cruz, with lyrics that tend to be romantic and relatively clean compared to later Cumbia argentina.",
+      "level": "sub-5",
+      "parent": "Cumbia argentina"
+    },
+    {
+      "name": "Cumbia santafesina",
+      "url": "https://rateyourmusic.com/genre/cumbia-santafesina/",
+      "description": "Originated in the Argentinian province of Santa Fe, particularly in its capital city Santa Fe de la Vera Cruz, with lyrics that tend to be romantic and relatively clean compared to later Cumbia argentina.",
+      "level": "sub-4",
+      "parent": "Cumbia argentina"
+    },
+    {
+      "name": "Cumbia turra",
+      "url": "https://rateyourmusic.com/genre/cumbia-turra/",
+      "description": "Cumbia argentina heavily influenced by Reggaetón and characterized by hard-hitting bass and heavy use of samples and Auto-Tune.",
+      "level": "sub-5",
+      "parent": "Cumbia argentina"
+    },
+    {
+      "name": "Cumbia turra",
+      "url": "https://rateyourmusic.com/genre/cumbia-turra/",
+      "description": "Cumbia argentina heavily influenced by Reggaetón and characterized by hard-hitting bass and heavy use of samples and Auto-Tune.",
+      "level": "sub-5",
+      "parent": "Cumbia argentina"
+    },
+    {
+      "name": "Cumbia turra",
+      "url": "https://rateyourmusic.com/genre/cumbia-turra/",
+      "description": "Cumbia argentina heavily influenced by Reggaetón and characterized by hard-hitting bass and heavy use of samples and Auto-Tune.",
+      "level": "sub-4",
+      "parent": "Cumbia argentina"
+    },
+    {
+      "name": "Cumbia villera",
+      "url": "https://rateyourmusic.com/genre/cumbia-villera/",
+      "description": "Developed in the villa miserias (shanty towns) by the lower classes of Argentina in the early 2000s, featuring basic rhythms and low budget productions combined with lyrics that can be openly sexual or touch on sociopolitical issues.",
+      "level": "sub-5",
+      "parent": "Cumbia argentina"
+    },
+    {
+      "name": "Cumbia villera",
+      "url": "https://rateyourmusic.com/genre/cumbia-villera/",
+      "description": "Developed in the villa miserias (shanty towns) by the lower classes of Argentina in the early 2000s, featuring basic rhythms and low budget productions combined with lyrics that can be openly sexual or touch on sociopolitical issues.",
+      "level": "sub-5",
+      "parent": "Cumbia argentina"
+    },
+    {
+      "name": "Cumbia villera",
+      "url": "https://rateyourmusic.com/genre/cumbia-villera/",
+      "description": "Developed in the villa miserias (shanty towns) by the lower classes of Argentina in the early 2000s, featuring basic rhythms and low budget productions combined with lyrics that can be openly sexual or touch on sociopolitical issues.",
+      "level": "sub-4",
+      "parent": "Cumbia argentina"
+    }
+  ]
+}

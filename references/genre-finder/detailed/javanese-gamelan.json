@@ -1,0 +1,66 @@
+{
+  "name": "Javanese Gamelan",
+  "description": "Broad classification grouping Gamelan genres native to Javanese culture.",
+  "url": "https://rateyourmusic.com/genre/javanese-gamelan/",
+  "parent": "Gamelan",
+  "level": "sub-3",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Gamelan sekaten",
+      "url": "https://rateyourmusic.com/genre/gamelan-sekaten/",
+      "description": "Javanese ceremonial Gamelan played with large instruments, strictly unaccompanied by vocals.",
+      "level": "sub-4",
+      "parent": "Javanese Gamelan"
+    },
+    {
+      "name": "Gamelan sekaten",
+      "url": "https://rateyourmusic.com/genre/gamelan-sekaten/",
+      "description": "Javanese ceremonial Gamelan played with large instruments, strictly unaccompanied by vocals.",
+      "level": "sub-6",
+      "parent": "Javanese Gamelan"
+    },
+    {
+      "name": "Gamelan sekaten",
+      "url": "https://rateyourmusic.com/genre/gamelan-sekaten/",
+      "description": "Javanese ceremonial Gamelan played with large instruments, strictly unaccompanied by vocals.",
+      "level": "sub-6",
+      "parent": "Javanese Gamelan"
+    },
+    {
+      "name": "Gamelan sekaten",
+      "url": "https://rateyourmusic.com/genre/gamelan-sekaten/",
+      "description": "Javanese ceremonial Gamelan played with large instruments, strictly unaccompanied by vocals.",
+      "level": "sub-4",
+      "parent": "Javanese Gamelan"
+    },
+    {
+      "name": "Solonese Gamelan",
+      "url": "https://rateyourmusic.com/genre/solonese-gamelan/",
+      "description": "Style originating from Surakarta; known for its subtle and more delicate sound.",
+      "level": "sub-4",
+      "parent": "Javanese Gamelan"
+    },
+    {
+      "name": "Solonese Gamelan",
+      "url": "https://rateyourmusic.com/genre/solonese-gamelan/",
+      "description": "Style originating from Surakarta; known for its subtle and more delicate sound.",
+      "level": "sub-6",
+      "parent": "Javanese Gamelan"
+    },
+    {
+      "name": "Solonese Gamelan",
+      "url": "https://rateyourmusic.com/genre/solonese-gamelan/",
+      "description": "Style originating from Surakarta; known for its subtle and more delicate sound.",
+      "level": "sub-6",
+      "parent": "Javanese Gamelan"
+    },
+    {
+      "name": "Solonese Gamelan",
+      "url": "https://rateyourmusic.com/genre/solonese-gamelan/",
+      "description": "Style originating from Surakarta; known for its subtle and more delicate sound.",
+      "level": "sub-4",
+      "parent": "Javanese Gamelan"
+    }
+  ]
+}

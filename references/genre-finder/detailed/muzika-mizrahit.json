@@ -1,0 +1,24 @@
+{
+  "name": "Muzika mizrahit",
+  "description": "Middle Eastern-flavored Israeli popular music, usually performed by Mizrahi Jews, and combining aspects of the music of the North African, Middle Eastern, and Central Asian countries from which they descended.",
+  "url": "https://rateyourmusic.com/genre/muzika-mizrahit/",
+  "parent": "West Asian Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Muzikat dika'on",
+      "url": "https://rateyourmusic.com/genre/muzikat-dikaon/",
+      "description": "Depressing, somber lyrics and dramatic deliveries, more influenced by Turkish Music and Arabic Music in comparison to the lighthearted, playful, later varieties of Muzika mizrahit.",
+      "level": "sub-4",
+      "parent": "Muzika mizrahit"
+    },
+    {
+      "name": "Muzikat dika'on",
+      "url": "https://rateyourmusic.com/genre/muzikat-dikaon/",
+      "description": "Depressing, somber lyrics and dramatic deliveries, more influenced by Turkish Music and Arabic Music in comparison to the lighthearted, playful, later varieties of Muzika mizrahit.",
+      "level": "sub-3",
+      "parent": "Muzika mizrahit"
+    }
+  ]
+}

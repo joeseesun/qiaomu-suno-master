@@ -1,0 +1,66 @@
+{
+  "name": "Goregrind",
+  "description": "Death Metal-influenced riffs with rhythms ranging from very fast to slower mid-tempos correlated with pitch-shifted vocals, sloppy playing and production, and gore-themed aesthetics.",
+  "url": "https://rateyourmusic.com/genre/goregrind/",
+  "parent": "Grindcore",
+  "level": "sub-2",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Gorenoise",
+      "url": "https://rateyourmusic.com/genre/gorenoise/",
+      "description": "Combines and subverts Goregrind and Grindcore with brash Noise and even faster drum tempos.",
+      "level": "sub-3",
+      "parent": "Goregrind"
+    },
+    {
+      "name": "Gorenoise",
+      "url": "https://rateyourmusic.com/genre/gorenoise/",
+      "description": "Combines and subverts Goregrind and Grindcore with brash Noise and even faster drum tempos.",
+      "level": "sub-4",
+      "parent": "Goregrind"
+    },
+    {
+      "name": "Gorenoise",
+      "url": "https://rateyourmusic.com/genre/gorenoise/",
+      "description": "Combines and subverts Goregrind and Grindcore with brash Noise and even faster drum tempos.",
+      "level": "sub-4",
+      "parent": "Goregrind"
+    },
+    {
+      "name": "Gorenoise",
+      "url": "https://rateyourmusic.com/genre/gorenoise/",
+      "description": "Combines and subverts Goregrind and Grindcore with brash Noise and even faster drum tempos.",
+      "level": "sub-4",
+      "parent": "Goregrind"
+    },
+    {
+      "name": "Pornogrind",
+      "url": "https://rateyourmusic.com/genre/pornogrind/",
+      "description": "Groovy, mid-tempo style known for its exaggerated bouncy rhythm and common pornographic themes.",
+      "level": "sub-3",
+      "parent": "Goregrind"
+    },
+    {
+      "name": "Pornogrind",
+      "url": "https://rateyourmusic.com/genre/pornogrind/",
+      "description": "Groovy, mid-tempo style known for its exaggerated bouncy rhythm and common pornographic themes.",
+      "level": "sub-4",
+      "parent": "Goregrind"
+    },
+    {
+      "name": "Pornogrind",
+      "url": "https://rateyourmusic.com/genre/pornogrind/",
+      "description": "Groovy, mid-tempo style known for its exaggerated bouncy rhythm and common pornographic themes.",
+      "level": "sub-4",
+      "parent": "Goregrind"
+    },
+    {
+      "name": "Pornogrind",
+      "url": "https://rateyourmusic.com/genre/pornogrind/",
+      "description": "Groovy, mid-tempo style known for its exaggerated bouncy rhythm and common pornographic themes.",
+      "level": "sub-4",
+      "parent": "Goregrind"
+    }
+  ]
+}

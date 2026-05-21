@@ -1,0 +1,24 @@
+{
+  "name": "Sequencer & Tracker",
+  "description": "Composed for early home computer and game consoles from the late 1980s to the late 1990s, primarily for video game soundtracks.",
+  "url": "https://rateyourmusic.com/genre/sequencer-and-tracker/",
+  "parent": "Bit Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "16-bit",
+      "url": "https://rateyourmusic.com/genre/16-bit/",
+      "description": "Created using video game consoles with audio hardware using 16-bit audio samples, most notably the Super Nintendo Entertainment System.",
+      "level": "sub-3",
+      "parent": "Sequencer & Tracker"
+    },
+    {
+      "name": "Tracker Music",
+      "url": "https://rateyourmusic.com/genre/tracker-music/",
+      "description": "Vertical text-based step-sequencer software sampler music in the first and second gen module formats like .MOD, .MED, .S3M, .XM and .IT.",
+      "level": "sub-3",
+      "parent": "Sequencer & Tracker"
+    }
+  ]
+}

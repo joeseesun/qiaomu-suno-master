@@ -1,0 +1,45 @@
+{
+  "name": "Garage Rock",
+  "description": "Raw and energetic, generally employing simple, sloppy, and fuzzbox-distorted guitar melodies in addition to frequent shouting or screaming.",
+  "url": "https://rateyourmusic.com/genre/garage-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Frat Rock",
+      "url": "https://rateyourmusic.com/genre/frat-rock/",
+      "description": "Early form of Garage Rock with hard Rhythm & Blues grooves, catchy melodies, and a \"fratty\" focus on partying and girls.",
+      "level": "sub-2",
+      "parent": "Garage Rock"
+    },
+    {
+      "name": "Freakbeat",
+      "url": "https://rateyourmusic.com/genre/freakbeat/",
+      "description": "Outgrowth of the Mod movement which combines elements of British Rhythm & Blues and Beat with studio effects common in Psychedelia such as fuzztones, flanging and chorus; often seen as a British relative of the American Garage Psych scene.",
+      "level": "sub-2",
+      "parent": "Garage Rock"
+    },
+    {
+      "name": "Garage Psych",
+      "url": "https://rateyourmusic.com/genre/garage-psych/",
+      "description": "Emerged from mid-1960s US Garage Rock; characterised by fuzz guitars, cheap organs, experimentation with psychedelic effects and surreal lyricism, and a retained emphasis on raw energy and the pop song format.",
+      "level": "sub-2",
+      "parent": "Garage Rock"
+    },
+    {
+      "name": "Garage Punk",
+      "url": "https://rateyourmusic.com/genre/garage-punk/",
+      "description": "Combination of the raw fuzztones of the original Garage Rock bands of the 1960s with the tempo and attitude of Punk Rock.",
+      "level": "sub-2",
+      "parent": "Garage Rock"
+    },
+    {
+      "name": "Garage Rock Revival",
+      "url": "https://rateyourmusic.com/genre/garage-rock-revival/",
+      "description": "Incorporated the raucous spirit of '60s Garage Rock into the sensibilities of Alternative Rock and Indie Rock; predominant in the '00s.",
+      "level": "sub-2",
+      "parent": "Garage Rock"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Euro House",
+  "description": "Vocal-focused style emerging in the late 1980s in Europe, developing in parallel with Eurodance.",
+  "url": "https://rateyourmusic.com/genre/euro-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Hardbag",
+      "url": "https://rateyourmusic.com/genre/hardbag/",
+      "description": "Development of handbag / Diva House characterized by heavier, hard hitting percussion, more pronounced rave and early Hard Dance elements, and fewer vocals.",
+      "level": "sub-4",
+      "parent": "Euro House"
+    },
+    {
+      "name": "Hardbag",
+      "url": "https://rateyourmusic.com/genre/hardbag/",
+      "description": "Development of handbag / Diva House characterized by heavier, hard hitting percussion, more pronounced rave and early Hard Dance elements, and fewer vocals.",
+      "level": "sub-4",
+      "parent": "Euro House"
+    }
+  ]
+}

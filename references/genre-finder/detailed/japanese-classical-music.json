@@ -1,0 +1,220 @@
+{
+  "name": "Japanese Classical Music",
+  "description": "Classical music of Japan.",
+  "url": "https://rateyourmusic.com/genre/japanese-classical-music/",
+  "parent": "East Asian Classical Music",
+  "level": "sub-2",
+  "children_count": 30,
+  "children": [
+    {
+      "name": "Gagaku",
+      "url": "https://rateyourmusic.com/genre/gagaku/",
+      "description": "One of the oldest forms of Japanese Classical Music, based on the pentatonic Yo scale, characterized by an elegant sound that is typically solemn, slow-paced, and resonant.",
+      "level": "sub-3",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Gagaku",
+      "url": "https://rateyourmusic.com/genre/gagaku/",
+      "description": "One of the oldest forms of Japanese Classical Music, based on the pentatonic Yo scale, characterized by an elegant sound that is typically solemn, slow-paced, and resonant.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Gagaku",
+      "url": "https://rateyourmusic.com/genre/gagaku/",
+      "description": "One of the oldest forms of Japanese Classical Music, based on the pentatonic Yo scale, characterized by an elegant sound that is typically solemn, slow-paced, and resonant.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Heikyoku",
+      "url": "https://rateyourmusic.com/genre/heikyoku/",
+      "description": "Semi-classical bardic tradition in Japan analogous to the troubadour music of medieval Europe.",
+      "level": "sub-3",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Heikyoku",
+      "url": "https://rateyourmusic.com/genre/heikyoku/",
+      "description": "Semi-classical bardic tradition in Japan analogous to the troubadour music of medieval Europe.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Heikyoku",
+      "url": "https://rateyourmusic.com/genre/heikyoku/",
+      "description": "Semi-classical bardic tradition in Japan analogous to the troubadour music of medieval Europe.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Honkyoku",
+      "url": "https://rateyourmusic.com/genre/honkyoku/",
+      "description": "Japanese Classical Music performed solo on a bamboo flute shakuhachi.",
+      "level": "sub-3",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Honkyoku",
+      "url": "https://rateyourmusic.com/genre/honkyoku/",
+      "description": "Japanese Classical Music performed solo on a bamboo flute shakuhachi.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Honkyoku",
+      "url": "https://rateyourmusic.com/genre/honkyoku/",
+      "description": "Japanese Classical Music performed solo on a bamboo flute shakuhachi.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Jiuta",
+      "url": "https://rateyourmusic.com/genre/jiuta/",
+      "description": "Originally created by solo performers singing and playing shamisen, but since the late 18th century increasingly often performed by sankyoku ensembles (shamisen, koto and shakuhachi or kokyu).",
+      "level": "sub-3",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Jiuta",
+      "url": "https://rateyourmusic.com/genre/jiuta/",
+      "description": "Originally created by solo performers singing and playing shamisen, but since the late 18th century increasingly often performed by sankyoku ensembles (shamisen, koto and shakuhachi or kokyu).",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Jiuta",
+      "url": "https://rateyourmusic.com/genre/jiuta/",
+      "description": "Originally created by solo performers singing and playing shamisen, but since the late 18th century increasingly often performed by sankyoku ensembles (shamisen, koto and shakuhachi or kokyu).",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Jōruri",
+      "url": "https://rateyourmusic.com/genre/joruri/",
+      "description": "Consists of a singing narrator (tayū) with shamisen accompaniment.",
+      "level": "sub-3",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Jōruri",
+      "url": "https://rateyourmusic.com/genre/joruri/",
+      "description": "Consists of a singing narrator (tayū) with shamisen accompaniment.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Jōruri",
+      "url": "https://rateyourmusic.com/genre/joruri/",
+      "description": "Consists of a singing narrator (tayū) with shamisen accompaniment.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Meiji shinkyoku",
+      "url": "https://rateyourmusic.com/genre/meiji-shinkyoku/",
+      "description": "Meiji-era compositions, using a distinctive, brighter scale, usually performed with two kotos.",
+      "level": "sub-3",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Meiji shinkyoku",
+      "url": "https://rateyourmusic.com/genre/meiji-shinkyoku/",
+      "description": "Meiji-era compositions, using a distinctive, brighter scale, usually performed with two kotos.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Meiji shinkyoku",
+      "url": "https://rateyourmusic.com/genre/meiji-shinkyoku/",
+      "description": "Meiji-era compositions, using a distinctive, brighter scale, usually performed with two kotos.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Nagauta",
+      "url": "https://rateyourmusic.com/genre/nagauta/",
+      "description": "Japanese Classical Music used in Kabuki, a form of theatre oriented to dance-drama.",
+      "level": "sub-3",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Nagauta",
+      "url": "https://rateyourmusic.com/genre/nagauta/",
+      "description": "Japanese Classical Music used in Kabuki, a form of theatre oriented to dance-drama.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Nagauta",
+      "url": "https://rateyourmusic.com/genre/nagauta/",
+      "description": "Japanese Classical Music used in Kabuki, a form of theatre oriented to dance-drama.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Noh",
+      "url": "https://rateyourmusic.com/genre/noh/",
+      "description": "Played by an hayashi ensemble, consisting of a fue (flute), a kotsuzumi (shoulder drum), a ōtsuzumi (hip drum), and a taiko (stick drum).",
+      "level": "sub-3",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Noh",
+      "url": "https://rateyourmusic.com/genre/noh/",
+      "description": "Played by an hayashi ensemble, consisting of a fue (flute), a kotsuzumi (shoulder drum), a ōtsuzumi (hip drum), and a taiko (stick drum).",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Noh",
+      "url": "https://rateyourmusic.com/genre/noh/",
+      "description": "Played by an hayashi ensemble, consisting of a fue (flute), a kotsuzumi (shoulder drum), a ōtsuzumi (hip drum), and a taiko (stick drum).",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Shōmyō",
+      "url": "https://rateyourmusic.com/genre/shomyo/",
+      "description": "Japanese Buddhist chant that utilizes the yō scale.",
+      "level": "sub-3",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Shōmyō",
+      "url": "https://rateyourmusic.com/genre/shomyo/",
+      "description": "Japanese Buddhist chant that utilizes the yō scale.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Shōmyō",
+      "url": "https://rateyourmusic.com/genre/shomyo/",
+      "description": "Japanese Buddhist chant that utilizes the yō scale.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Sōkyoku",
+      "url": "https://rateyourmusic.com/genre/sokyoku/",
+      "description": "Gained popularity during the Edo period, played with a koto or a guzheng and sometimes accompanied by shamisen and/or shakuhachi.",
+      "level": "sub-3",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Sōkyoku",
+      "url": "https://rateyourmusic.com/genre/sokyoku/",
+      "description": "Gained popularity during the Edo period, played with a koto or a guzheng and sometimes accompanied by shamisen and/or shakuhachi.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    },
+    {
+      "name": "Sōkyoku",
+      "url": "https://rateyourmusic.com/genre/sokyoku/",
+      "description": "Gained popularity during the Edo period, played with a koto or a guzheng and sometimes accompanied by shamisen and/or shakuhachi.",
+      "level": "sub-5",
+      "parent": "Japanese Classical Music"
+    }
+  ]
+}

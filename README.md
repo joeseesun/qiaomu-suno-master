@@ -23,6 +23,7 @@
 - Style Description：例如 `punk-rock, male-vocals, distorted-guitars, fast-tempo`
 - Exclude Styles：避免不想要的风格，例如 `auto-tune, trap, overly-polished`
 - 三个歌名候选
+- 不确定风格时，可先从 5000+ 音乐流派中推荐适合的 Suno tags
 - 可选：直接生成并下载 MP3
 - 从已有 Suno Clip ID 导出 MP3、视频/MTV、LRC、SRT、干净字幕、Markdown 歌词
 - Chrome CDP 辅助：复用已登录 Chrome/Suno 会话
@@ -77,6 +78,34 @@ ls ~/.agents/skills/qiaomu-suno-master
 
 ```text
 生成一首世界音乐，女声男声合唱，鼓和长笛，下载到当前项目
+```
+
+```text
+我只有“深夜、空灵、梦幻”这几个感觉，先帮我选几个 Suno 风格再写歌
+```
+
+### 选择音乐风格
+
+Skill 内置了 [`joeseesun/music-genre-finder`](https://github.com/joeseesun/music-genre-finder) 的风格数据库，可在写歌前把模糊情绪转成更精确的 Suno 风格标签：
+
+```bash
+~/.agents/skills/qiaomu-suno-master/scripts/find_music_genres.py \
+  "深夜 空灵 梦幻" \
+  --limit 5
+```
+
+也可以输出 JSON，方便后续自动生成 tags：
+
+```bash
+~/.agents/skills/qiaomu-suno-master/scripts/find_music_genres.py \
+  "raw energetic punk" \
+  --json
+```
+
+推荐做法：选 1-3 个主风格，再加人声、乐器、速度和情绪标签，例如：
+
+```text
+garage-punk, punk-rock, raw-male-vocals, distorted-guitars, fast-tempo, anthemic
 ```
 
 ### CLI 生成
@@ -174,6 +203,7 @@ CDP Runtime.evaluate ws err: Connection reset...
 - [`paperfoot/suno-cli`](https://github.com/paperfoot/suno-cli)：本 skill 使用的 Rust Suno CLI
 - [`pasky/chrome-cdp-skill`](https://github.com/pasky/chrome-cdp-skill)：本 skill vendored 的轻量 CDP helper
 - [`joeseesun/suno-music-creator`](https://github.com/joeseesun/suno-music-creator)：歌词创作提示词来源之一
+- [`joeseesun/music-genre-finder`](https://github.com/joeseesun/music-genre-finder)：音乐流派检索与推荐数据来源
 
 ### 风险和限制
 
@@ -181,6 +211,7 @@ CDP Runtime.evaluate ws err: Connection reset...
 - Chrome CDP 可以控制本地浏览器标签页，只在可信本机环境使用。
 - Suno API 和网页流程可能变化；如失败，先运行 `suno update --check` 和 `suno update`。
 - 视频/MTV 下载取决于 Suno 是否为该 clip 提供 video asset。
+- 风格推荐来自流派数据库与关键词匹配，最终仍需按歌曲主题做审美取舍。
 
 ---
 
@@ -227,6 +258,20 @@ Turn this article into a Chinese folk song and generate it with Suno.
 
 ```text
 Generate a world music track with duet vocals, hand drums, flute, and cinematic energy.
+```
+
+```text
+I only know the mood: late-night, ethereal, dreamy. Pick a few Suno styles first, then write the song.
+```
+
+### Genre Finder
+
+The skill includes genre data from [`joeseesun/music-genre-finder`](https://github.com/joeseesun/music-genre-finder). Use it before writing lyrics when the style is vague:
+
+```bash
+~/.agents/skills/qiaomu-suno-master/scripts/find_music_genres.py \
+  "late night ethereal dreamy" \
+  --limit 5
 ```
 
 ### CLI Wrapper

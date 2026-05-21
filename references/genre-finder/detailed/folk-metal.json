@@ -1,0 +1,38 @@
+{
+  "name": "Folk Metal",
+  "description": "Features influences from various types of Traditional Folk Music expressed through melodies and/or traditional instrumentation, notably having a large scene in Europe.",
+  "url": "https://rateyourmusic.com/genre/folk-metal/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Celtic Metal",
+      "url": "https://rateyourmusic.com/genre/celtic-metal/",
+      "description": "Features Celtic Folk Music elements.",
+      "level": "sub-2",
+      "parent": "Folk Metal"
+    },
+    {
+      "name": "Celtic Metal",
+      "url": "https://rateyourmusic.com/genre/celtic-metal/",
+      "description": "Features Celtic Folk Music elements.",
+      "level": "sub-3",
+      "parent": "Folk Metal"
+    },
+    {
+      "name": "Mittelalter-Metal",
+      "url": "https://rateyourmusic.com/genre/mittelalter-metal/",
+      "description": "Emerged as a metallic style in the mid-to-late 1990s from the German Neo-Medieval movement.",
+      "level": "sub-2",
+      "parent": "Folk Metal"
+    },
+    {
+      "name": "Mittelalter-Metal",
+      "url": "https://rateyourmusic.com/genre/mittelalter-metal/",
+      "description": "Emerged as a metallic style in the mid-to-late 1990s from the German Neo-Medieval movement.",
+      "level": "sub-3",
+      "parent": "Folk Metal"
+    }
+  ]
+}

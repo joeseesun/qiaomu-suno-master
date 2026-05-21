@@ -1,0 +1,24 @@
+{
+  "name": "Euro Trance",
+  "description": "Emerged as a fusion with Eurodance, features fast tempos, more accessible grooves and structures, and simple, catchy melodies with vocals and saw synth leads.",
+  "url": "https://rateyourmusic.com/genre/euro-trance/",
+  "parent": "Trance",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Hands Up",
+      "url": "https://rateyourmusic.com/genre/hands-up/",
+      "description": "Prominent, melodic supersaw leads, Dance-Pop derived hooks, and a strong reliance on sidechained basslines and hard, powerful drums.",
+      "level": "sub-4",
+      "parent": "Euro Trance"
+    },
+    {
+      "name": "Hands Up",
+      "url": "https://rateyourmusic.com/genre/hands-up/",
+      "description": "Prominent, melodic supersaw leads, Dance-Pop derived hooks, and a strong reliance on sidechained basslines and hard, powerful drums.",
+      "level": "sub-4",
+      "parent": "Euro Trance"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "name": "Breakbeat",
+  "description": "Syncopated drum patterns (breakbeats), generally driving the groove at 110-160 BPM, emerging in the late 1980s from sampling drum breaks, before forming an umbrella genre separate from Drum and Bass, Downtempo, and Hip Hop.",
+  "url": "https://rateyourmusic.com/genre/breakbeat/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 22,
+  "children": [
+    {
+      "name": "Acid Breaks",
+      "url": "https://rateyourmusic.com/genre/acid-breaks/",
+      "description": "Incorporates prominent \"squelching\", resonant low pass filter sounds typical to Acid House, and often other \"trippy\" effects into intense, syncopated, broken rhythms in the tempos of 110-150 BPM.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Acid Breaks",
+      "url": "https://rateyourmusic.com/genre/acid-breaks/",
+      "description": "Incorporates prominent \"squelching\", resonant low pass filter sounds typical to Acid House, and often other \"trippy\" effects into intense, syncopated, broken rhythms in the tempos of 110-150 BPM.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Baltimore Club",
+      "url": "https://rateyourmusic.com/genre/baltimore-club/",
+      "description": "Drew on the \"booty bass\" syncopation of Miami Bass, combined with Breakbeat rhythms around 130 BPM and chopped up vocal samples as found in Ghetto House.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Baltimore Club",
+      "url": "https://rateyourmusic.com/genre/baltimore-club/",
+      "description": "Drew on the \"booty bass\" syncopation of Miami Bass, combined with Breakbeat rhythms around 130 BPM and chopped up vocal samples as found in Ghetto House.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Big Beat",
+      "url": "https://rateyourmusic.com/genre/big-beat/",
+      "description": "Popular in Britain during the late 1990s, driven by edited breakbeats and prominent basslines.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Big Beat",
+      "url": "https://rateyourmusic.com/genre/big-beat/",
+      "description": "Popular in Britain during the late 1990s, driven by edited breakbeats and prominent basslines.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Breakbeat Hardcore",
+      "url": "https://rateyourmusic.com/genre/breakbeat-hardcore/",
+      "description": "Originated from the combination of sampled breakbeats and energetic rhythms with the \"rave\" influences set by early-1990s Techno and Acid House, including upbeat \"stab\" riffing and sample-based production.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Breakbeat Hardcore",
+      "url": "https://rateyourmusic.com/genre/breakbeat-hardcore/",
+      "description": "Originated from the combination of sampled breakbeats and energetic rhythms with the \"rave\" influences set by early-1990s Techno and Acid House, including upbeat \"stab\" riffing and sample-based production.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Breakbeat Kota",
+      "url": "https://rateyourmusic.com/genre/breakbeat-kota/",
+      "description": "Indonesian style that slows down the syncopated rhythms of Funkot to moderate tempos around 130 BPM.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Breakbeat Kota",
+      "url": "https://rateyourmusic.com/genre/breakbeat-kota/",
+      "description": "Indonesian style that slows down the syncopated rhythms of Funkot to moderate tempos around 130 BPM.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Florida Breaks",
+      "url": "https://rateyourmusic.com/genre/florida-breaks/",
+      "description": "Developed during the mid-1990s, combining major influences of Hip Hop derivatives such as Miami Bass and Electro along with elements of 1990s Electronic Dance Music genres like House or Techno.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Florida Breaks",
+      "url": "https://rateyourmusic.com/genre/florida-breaks/",
+      "description": "Developed during the mid-1990s, combining major influences of Hip Hop derivatives such as Miami Bass and Electro along with elements of 1990s Electronic Dance Music genres like House or Techno.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Funky Breaks",
+      "url": "https://rateyourmusic.com/genre/funky-breaks/",
+      "description": "Merging popular 1990s breaks styles like Big Beat with major Funk and Soul elements.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Funky Breaks",
+      "url": "https://rateyourmusic.com/genre/funky-breaks/",
+      "description": "Merging popular 1990s breaks styles like Big Beat with major Funk and Soul elements.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Nu Skool Breaks",
+      "url": "https://rateyourmusic.com/genre/nu-skool-breaks/",
+      "description": "Developed in the late 1990s and early 2000s; takes elements from Drum and Bass, UK Garage, and Techno.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Nu Skool Breaks",
+      "url": "https://rateyourmusic.com/genre/nu-skool-breaks/",
+      "description": "Developed in the late 1990s and early 2000s; takes elements from Drum and Bass, UK Garage, and Techno.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Progressive Breaks",
+      "url": "https://rateyourmusic.com/genre/progressive-breaks/",
+      "description": "Derivative of Progressive House that incorporates its lush, melodic synth leads and atmospheres into Breakbeat's syncopated and broken rhythms.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Progressive Breaks",
+      "url": "https://rateyourmusic.com/genre/progressive-breaks/",
+      "description": "Derivative of Progressive House that incorporates its lush, melodic synth leads and atmospheres into Breakbeat's syncopated and broken rhythms.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Psybreaks",
+      "url": "https://rateyourmusic.com/genre/psybreaks/",
+      "description": "Uses Psytrance-derived sound design, such as squelchy sounds and psychedelic effects.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "Psybreaks",
+      "url": "https://rateyourmusic.com/genre/psybreaks/",
+      "description": "Uses Psytrance-derived sound design, such as squelchy sounds and psychedelic effects.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "West Coast Breaks",
+      "url": "https://rateyourmusic.com/genre/west-coast-breaks/",
+      "description": "Combines the earlier breakbeats of Hip Hop and early Breakbeat or even Miami Bass, with various 1990s Electronic Dance Music genres like Trance and Techno.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    },
+    {
+      "name": "West Coast Breaks",
+      "url": "https://rateyourmusic.com/genre/west-coast-breaks/",
+      "description": "Combines the earlier breakbeats of Hip Hop and early Breakbeat or even Miami Bass, with various 1990s Electronic Dance Music genres like Trance and Techno.",
+      "level": "sub-3",
+      "parent": "Breakbeat"
+    }
+  ]
+}

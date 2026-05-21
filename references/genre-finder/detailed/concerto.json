@@ -1,0 +1,31 @@
+{
+  "name": "Concerto",
+  "description": "Multi-movement classical works for one or more soloists and an ensemble.",
+  "url": "https://rateyourmusic.com/genre/concerto/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Concerto for Orchestra",
+      "url": "https://rateyourmusic.com/genre/concerto-for-orchestra/",
+      "description": "Mostly modern form in which virtuosic solo passages are alternately played among different portions of the orchestra.",
+      "level": "sub-3",
+      "parent": "Concerto"
+    },
+    {
+      "name": "Concerto grosso",
+      "url": "https://rateyourmusic.com/genre/concerto-grosso/",
+      "description": "Oldest form developed during the Baroque Music era in which the body of the music is alternately shared between a small group of soloists and a larger orchestra.",
+      "level": "sub-3",
+      "parent": "Concerto"
+    },
+    {
+      "name": "Sinfonia concertante",
+      "url": "https://rateyourmusic.com/genre/sinfonia-concertante/",
+      "description": "Fuses symphonic compositional structure and instrumentation with parts written for concertante soloists.",
+      "level": "sub-3",
+      "parent": "Concerto"
+    }
+  ]
+}

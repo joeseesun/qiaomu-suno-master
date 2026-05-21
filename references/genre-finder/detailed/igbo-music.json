@@ -1,0 +1,17 @@
+{
+  "name": "Igbo Music",
+  "description": "Music of the Igbo people, who live mainly in a region of southeastern Nigeria often known as \"Igboland\".",
+  "url": "https://rateyourmusic.com/genre/igbo-music/",
+  "parent": "West African Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Ogene Music",
+      "url": "https://rateyourmusic.com/genre/ogene-music/",
+      "description": "Traditional acoustic music performed by Igbo groups in southeastern Nigeria centered on call-and-response vocals alongside instrumentation from iron bells, wooden whistles, and jug drums.",
+      "level": "sub-4",
+      "parent": "Igbo Music"
+    }
+  ]
+}

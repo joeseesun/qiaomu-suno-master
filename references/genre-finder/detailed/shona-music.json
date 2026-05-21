@@ -1,0 +1,24 @@
+{
+  "name": "Shona Music",
+  "description": "Music of the Shona people, a Bantu ethnic group who form a majority population in Zimbabwe.",
+  "url": "https://rateyourmusic.com/genre/shona-music/",
+  "parent": "Southern African Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Chimurenga",
+      "url": "https://rateyourmusic.com/genre/chimurenga/",
+      "description": "Popular style from Zimbabwe based on the traditional mbira thumb piano, but with electric instrumentation as well.",
+      "level": "sub-4",
+      "parent": "Shona Music"
+    },
+    {
+      "name": "Shona Mbira Music",
+      "url": "https://rateyourmusic.com/genre/shona-mbira-music/",
+      "description": "Traditional music based on cyclical patterns played on the mbira, from which long instrumental parts are improvised.",
+      "level": "sub-4",
+      "parent": "Shona Music"
+    }
+  ]
+}

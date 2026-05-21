@@ -1,0 +1,17 @@
+{
+  "name": "Vocaloid Scene",
+  "description": "Associated with the online scene centered around use of character-focused vocal synthesis software such as Vocaloid or UTAU, marketed specifically to fans, and often accompanied by animated music videos featuring the characters.",
+  "url": "https://rateyourmusic.com/genre/vocaloid-scene/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Utaite",
+      "url": "https://rateyourmusic.com/genre/utaite/",
+      "description": "Amateur online singers who primarily perform covers of Vocaloid and Anime music, often under a pseudonymous identity.",
+      "level": "sub-2",
+      "parent": "Vocaloid Scene"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Kwaito",
+  "description": "Emerged from South Africa in the early 1990s, taking influence from Disco and Hip Hop.",
+  "url": "https://rateyourmusic.com/genre/kwaito/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Bacardi",
+      "url": "https://rateyourmusic.com/genre/bacardi/",
+      "description": "Bacardi is a type of House music from South Africa derived from Kwaito, delivering upbeat, danceable rhythms with lively snares and hi-hats.",
+      "level": "sub-4",
+      "parent": "Kwaito"
+    },
+    {
+      "name": "Bacardi",
+      "url": "https://rateyourmusic.com/genre/bacardi/",
+      "description": "Bacardi is a type of House music from South Africa derived from Kwaito, delivering upbeat, danceable rhythms with lively snares and hi-hats.",
+      "level": "sub-4",
+      "parent": "Kwaito"
+    },
+    {
+      "name": "Bacardi",
+      "url": "https://rateyourmusic.com/genre/bacardi/",
+      "description": "Bacardi is a type of House music from South Africa derived from Kwaito, delivering upbeat, danceable rhythms with lively snares and hi-hats.",
+      "level": "sub-4",
+      "parent": "Kwaito"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Country Gospel",
+  "description": "Incorporates the harmonies and Christian themes of Gospel.",
+  "url": "https://rateyourmusic.com/genre/country-gospel/",
+  "parent": "Traditional Country",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-3",
+      "parent": "Country Gospel"
+    },
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-5",
+      "parent": "Country Gospel"
+    },
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-5",
+      "parent": "Country Gospel"
+    },
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-5",
+      "parent": "Country Gospel"
+    },
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-5",
+      "parent": "Country Gospel"
+    },
+    {
+      "name": "Bluegrass Gospel",
+      "url": "https://rateyourmusic.com/genre/bluegrass-gospel/",
+      "description": "Incorporates the religious topics and harmony vocals found in Country Gospel.",
+      "level": "sub-2",
+      "parent": "Country Gospel"
+    }
+  ]
+}

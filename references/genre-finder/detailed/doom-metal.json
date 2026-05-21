@@ -1,0 +1,52 @@
+{
+  "name": "Doom Metal",
+  "description": "Plodding tempos, repeated chords, and thick, distorted, down-tuned guitars in a style focused on foreboding, atmosphere, and tension.",
+  "url": "https://rateyourmusic.com/genre/doom-metal/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Death Doom Metal",
+      "url": "https://rateyourmusic.com/genre/death-doom-metal/",
+      "description": "Fuses down-tuned guitars, growled vocals, and aggressive, often double-kick drumming with a mournful, somber atmosphere and plodding tempos.",
+      "level": "sub-2",
+      "parent": "Doom Metal"
+    },
+    {
+      "name": "Death Doom Metal",
+      "url": "https://rateyourmusic.com/genre/death-doom-metal/",
+      "description": "Fuses down-tuned guitars, growled vocals, and aggressive, often double-kick drumming with a mournful, somber atmosphere and plodding tempos.",
+      "level": "sub-3",
+      "parent": "Doom Metal"
+    },
+    {
+      "name": "Funeral Doom Metal",
+      "url": "https://rateyourmusic.com/genre/funeral-doom-metal/",
+      "description": "Features exceptionally slow, funeral dirge-like tempos; crushing, sluggish guitars; mournful, melancholic atmosphere; and distant, hushed growls and grunts.",
+      "level": "sub-2",
+      "parent": "Doom Metal"
+    },
+    {
+      "name": "Funeral Doom Metal",
+      "url": "https://rateyourmusic.com/genre/funeral-doom-metal/",
+      "description": "Features exceptionally slow, funeral dirge-like tempos; crushing, sluggish guitars; mournful, melancholic atmosphere; and distant, hushed growls and grunts.",
+      "level": "sub-3",
+      "parent": "Doom Metal"
+    },
+    {
+      "name": "Traditional Doom Metal",
+      "url": "https://rateyourmusic.com/genre/traditional-doom-metal/",
+      "description": "Monotonous and heavy playing style; repetitive, rough, and sometimes atonal guitar riffs; a \"rocking to sleep\" bass; and influences from both Blues Rock and Psychedelic Rock.",
+      "level": "sub-2",
+      "parent": "Doom Metal"
+    },
+    {
+      "name": "Traditional Doom Metal",
+      "url": "https://rateyourmusic.com/genre/traditional-doom-metal/",
+      "description": "Monotonous and heavy playing style; repetitive, rough, and sometimes atonal guitar riffs; a \"rocking to sleep\" bass; and influences from both Blues Rock and Psychedelic Rock.",
+      "level": "sub-3",
+      "parent": "Doom Metal"
+    }
+  ]
+}

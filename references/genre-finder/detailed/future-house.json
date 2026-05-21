@@ -1,0 +1,38 @@
+{
+  "name": "Future House",
+  "description": "Features distinctive metallic-sounding drops and frequency-modulated basslines at around 120-130 BPM.",
+  "url": "https://rateyourmusic.com/genre/future-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Future Bounce",
+      "url": "https://rateyourmusic.com/genre/future-bounce/",
+      "description": "Fusion of Melbourne Bounce and Future House that combines the former's basslines and bouncy, upbeat drops with the latter's metallic, pronounced synth leads.",
+      "level": "sub-4",
+      "parent": "Future House"
+    },
+    {
+      "name": "Future Bounce",
+      "url": "https://rateyourmusic.com/genre/future-bounce/",
+      "description": "Fusion of Melbourne Bounce and Future House that combines the former's basslines and bouncy, upbeat drops with the latter's metallic, pronounced synth leads.",
+      "level": "sub-4",
+      "parent": "Future House"
+    },
+    {
+      "name": "Slap House",
+      "url": "https://rateyourmusic.com/genre/slap-house/",
+      "description": "Taking influences from Brazilian Bass and Future House, characterized by prominent, \"bouncy\" bassline and simple, upbeat melodies.",
+      "level": "sub-4",
+      "parent": "Future House"
+    },
+    {
+      "name": "Slap House",
+      "url": "https://rateyourmusic.com/genre/slap-house/",
+      "description": "Taking influences from Brazilian Bass and Future House, characterized by prominent, \"bouncy\" bassline and simple, upbeat melodies.",
+      "level": "sub-4",
+      "parent": "Future House"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Cumbia chilena",
+  "description": "Incorporates Chilean Music into the traditional sound of Cumbia.",
+  "url": "https://rateyourmusic.com/genre/cumbia-chilena/",
+  "parent": "Chilean Music",
+  "level": "sub-4",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Nueva cumbia chilena",
+      "url": "https://rateyourmusic.com/genre/nueva-cumbia-chilena/",
+      "description": "Rock-infused instrumentation, incorporating an eclectic repertoire of influences, such as Ska, Salsa, Indigenous Andean Music, Reggae, and Bolero.",
+      "level": "sub-5",
+      "parent": "Cumbia chilena"
+    },
+    {
+      "name": "Nueva cumbia chilena",
+      "url": "https://rateyourmusic.com/genre/nueva-cumbia-chilena/",
+      "description": "Rock-infused instrumentation, incorporating an eclectic repertoire of influences, such as Ska, Salsa, Indigenous Andean Music, Reggae, and Bolero.",
+      "level": "sub-5",
+      "parent": "Cumbia chilena"
+    },
+    {
+      "name": "Nueva cumbia chilena",
+      "url": "https://rateyourmusic.com/genre/nueva-cumbia-chilena/",
+      "description": "Rock-infused instrumentation, incorporating an eclectic repertoire of influences, such as Ska, Salsa, Indigenous Andean Music, Reggae, and Bolero.",
+      "level": "sub-4",
+      "parent": "Cumbia chilena"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Turkish Classical Music",
+  "description": "Classical music of Turkey, which uses the makam modal system, with the primary emphasis often being on the singers, who are accompanied by small ensembles.",
+  "url": "https://rateyourmusic.com/genre/turkish-classical-music/",
+  "parent": "Maqāmic Music",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Turkish Mevlevi Music",
+      "url": "https://rateyourmusic.com/genre/turkish-mevlevi-music/",
+      "description": "Traditional music performed among Turkish practitioners of the Mevlevi order of Sufism.",
+      "level": "sub-3",
+      "parent": "Turkish Classical Music"
+    },
+    {
+      "name": "Turkish Mevlevi Music",
+      "url": "https://rateyourmusic.com/genre/turkish-mevlevi-music/",
+      "description": "Traditional music performed among Turkish practitioners of the Mevlevi order of Sufism.",
+      "level": "sub-5",
+      "parent": "Turkish Classical Music"
+    },
+    {
+      "name": "Turkish Mevlevi Music",
+      "url": "https://rateyourmusic.com/genre/turkish-mevlevi-music/",
+      "description": "Traditional music performed among Turkish practitioners of the Mevlevi order of Sufism.",
+      "level": "sub-3",
+      "parent": "Turkish Classical Music"
+    }
+  ]
+}

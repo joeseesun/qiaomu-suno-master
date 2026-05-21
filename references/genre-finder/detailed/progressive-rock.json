@@ -1,0 +1,38 @@
+{
+  "name": "Progressive Rock",
+  "description": "Complex harmonies, instrumental virtuosity, and usually multi-section song structures featuring a broad range of instrumentation.",
+  "url": "https://rateyourmusic.com/genre/progressive-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Avant-Prog",
+      "url": "https://rateyourmusic.com/genre/avant-prog/",
+      "description": "Focuses on highly complex, dense arrangements often featuring high amounts of dissonance and uncommon time signatures, sometimes extending towards atonality, free time, improvisation, and other avant-garde techniques.",
+      "level": "sub-2",
+      "parent": "Progressive Rock"
+    },
+    {
+      "name": "Canterbury Scene",
+      "url": "https://rateyourmusic.com/genre/canterbury-scene/",
+      "description": "Developed in the counterculture of Canterbury in the late 1960s, emphasizing the influence of Jazz-Rock and Jazz Fusion.",
+      "level": "sub-2",
+      "parent": "Progressive Rock"
+    },
+    {
+      "name": "Neo-Prog",
+      "url": "https://rateyourmusic.com/genre/neo-prog/",
+      "description": "Emerged in the early 1980s in the United Kingdom from the influence of Symphonic Prog, utilizing a synth-driven sound that focuses on Pop-informed melodicism while de-emphasizing guitar riffing.",
+      "level": "sub-2",
+      "parent": "Progressive Rock"
+    },
+    {
+      "name": "Symphonic Prog",
+      "url": "https://rateyourmusic.com/genre/symphonic-prog/",
+      "description": "Incorporates Classical Music elements that can manifest in longer form works that deviate from traditional popular song structures, and the use of lush keyboards to replicate Orchestral Music textures.",
+      "level": "sub-2",
+      "parent": "Progressive Rock"
+    }
+  ]
+}

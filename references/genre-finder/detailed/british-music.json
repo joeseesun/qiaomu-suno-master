@@ -1,0 +1,108 @@
+{
+  "name": "British Music",
+  "description": "Music of Great Britain, including the music of the English, Welsh and Scottish people.",
+  "url": "https://rateyourmusic.com/genre/british-music/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 14,
+  "children": [
+    {
+      "name": "Ballad Opera",
+      "url": "https://rateyourmusic.com/genre/ballad-opera/",
+      "description": "English reaction to the Italian Opera styles with a satirical sense of humor and scores borrowing from Traditional Folk Music and popular music.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "British Brass Band",
+      "url": "https://rateyourmusic.com/genre/british-brass-band/",
+      "description": "An ensemble consisting of a standardized range of brass and percussion instruments whose performances are based on the British tradition established in the early 19th century.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "British Dance Band",
+      "url": "https://rateyourmusic.com/genre/british-dance-band/",
+      "description": "Came from the dancehalls of the 1920s and 1930s, combining a British take on Jazz with the Music Hall tradition.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "British Folk Rock",
+      "url": "https://rateyourmusic.com/genre/british-folk-rock/",
+      "description": "Developed in the late 1960s; influenced by traditional British folk music, particularly English Folk Music.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "Change Ringing",
+      "url": "https://rateyourmusic.com/genre/change-ringing/",
+      "description": "English tradition of ringing tuned bells in accordance with mathematically-derived patterns, creating a distinctive cascading effect.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "Concertina Band",
+      "url": "https://rateyourmusic.com/genre/concertina-band/",
+      "description": "Ensemble consisting of concertinas of various pitches and percussion instruments originating in 19th-century England.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "Contenance angloise",
+      "url": "https://rateyourmusic.com/genre/contenance-angloise/",
+      "description": "Distinct style of Polyphonic Chant developed in fifteenth-century England.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "Cornish Folk Music",
+      "url": "https://rateyourmusic.com/genre/cornish-folk-music/",
+      "description": "Musical traditions developed by the Cornish people, mainly found in the county of Cornwall in South West England.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "English Folk Music",
+      "url": "https://rateyourmusic.com/genre/english-folk-music/",
+      "description": "Musical traditions of the English people, primarily divided into dance music and folksongs.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "English Pastoral School",
+      "url": "https://rateyourmusic.com/genre/english-pastoral-school/",
+      "description": "Early 20th-century English classical composers turning to English folk and pastoral influences.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "Music Hall",
+      "url": "https://rateyourmusic.com/genre/music-hall/",
+      "description": "British theatrical entertainment popular in the 19th and 20th centuries, featuring light and comedic popular songs.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "Sarum Chant",
+      "url": "https://rateyourmusic.com/genre/sarum-chant/",
+      "description": "Latin Plainsong tradition of Salisbury, England, characterized by its unadorned simplicity.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "Scottish Folk Music",
+      "url": "https://rateyourmusic.com/genre/scottish-folk-music/",
+      "description": "Traditional Folk Music of the Scottish people.",
+      "level": "sub-3",
+      "parent": "British Music"
+    },
+    {
+      "name": "Welsh Folk Music",
+      "url": "https://rateyourmusic.com/genre/welsh-folk-music/",
+      "description": "Traditions of the Welsh people.",
+      "level": "sub-3",
+      "parent": "British Music"
+    }
+  ]
+}

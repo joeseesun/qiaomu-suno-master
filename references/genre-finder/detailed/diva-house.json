@@ -1,0 +1,24 @@
+{
+  "name": "Diva House",
+  "description": "Dominant, anthemic female vocals, common use of piano stabs, and energetic, driving four-on-the-floor rhythms.",
+  "url": "https://rateyourmusic.com/genre/diva-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Hardbag",
+      "url": "https://rateyourmusic.com/genre/hardbag/",
+      "description": "Development of handbag / Diva House characterized by heavier, hard hitting percussion, more pronounced rave and early Hard Dance elements, and fewer vocals.",
+      "level": "sub-4",
+      "parent": "Diva House"
+    },
+    {
+      "name": "Hardbag",
+      "url": "https://rateyourmusic.com/genre/hardbag/",
+      "description": "Development of handbag / Diva House characterized by heavier, hard hitting percussion, more pronounced rave and early Hard Dance elements, and fewer vocals.",
+      "level": "sub-4",
+      "parent": "Diva House"
+    }
+  ]
+}

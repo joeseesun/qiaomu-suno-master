@@ -1,0 +1,24 @@
+{
+  "name": "Latin Jazz",
+  "description": "Fusion with Latin American rhythms, especially those of African origin.",
+  "url": "https://rateyourmusic.com/genre/latin-jazz/",
+  "parent": "Jazz",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Afro-Cuban Jazz",
+      "url": "https://rateyourmusic.com/genre/afro-cuban-jazz/",
+      "description": "Combines Jazz with the rhythms of Afro-Cuban music.",
+      "level": "sub-2",
+      "parent": "Latin Jazz"
+    },
+    {
+      "name": "Samba-jazz",
+      "url": "https://rateyourmusic.com/genre/samba-jazz/",
+      "description": "Jazz genre from Brazil that incorporates Samba and/or Bossa nova elements.",
+      "level": "sub-2",
+      "parent": "Latin Jazz"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Schlager",
+  "description": "Light, sentimental, melodic pop music common mainly in northern and central Europe.",
+  "url": "https://rateyourmusic.com/genre/schlager/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Humppa",
+      "url": "https://rateyourmusic.com/genre/humppa/",
+      "description": "Finnish music related to Jazz and the Foxtrot.",
+      "level": "sub-2",
+      "parent": "Schlager"
+    },
+    {
+      "name": "Humppa",
+      "url": "https://rateyourmusic.com/genre/humppa/",
+      "description": "Finnish music related to Jazz and the Foxtrot.",
+      "level": "sub-3",
+      "parent": "Schlager"
+    },
+    {
+      "name": "Levenslied",
+      "url": "https://rateyourmusic.com/genre/levenslied/",
+      "description": "Dutch genre that enjoyed widespread popularity in the pre-Rock & Roll era. with simple melody and rhythm and lyrics composed of couplets and refrains.",
+      "level": "sub-2",
+      "parent": "Schlager"
+    },
+    {
+      "name": "Levenslied",
+      "url": "https://rateyourmusic.com/genre/levenslied/",
+      "description": "Dutch genre that enjoyed widespread popularity in the pre-Rock & Roll era. with simple melody and rhythm and lyrics composed of couplets and refrains.",
+      "level": "sub-3",
+      "parent": "Schlager"
+    },
+    {
+      "name": "Volkstümliche Musik",
+      "url": "https://rateyourmusic.com/genre/volkstumliche-musik/",
+      "description": "Light Pop with borrowings from German Folk Music (volksmusik), often misleadingly labeled as being volksmusik.",
+      "level": "sub-2",
+      "parent": "Schlager"
+    },
+    {
+      "name": "Volkstümliche Musik",
+      "url": "https://rateyourmusic.com/genre/volkstumliche-musik/",
+      "description": "Light Pop with borrowings from German Folk Music (volksmusik), often misleadingly labeled as being volksmusik.",
+      "level": "sub-3",
+      "parent": "Schlager"
+    }
+  ]
+}

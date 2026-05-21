@@ -1,0 +1,80 @@
+{
+  "name": "Northeastern African Music",
+  "description": "Music of Northeastern Africa.",
+  "url": "https://rateyourmusic.com/genre/northeastern-african-music/",
+  "parent": "African Music",
+  "level": "sub-2",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Afar Music",
+      "url": "https://rateyourmusic.com/genre/afar-music/",
+      "description": "Music of the Afar people, who inhabit an area spanning parts of Ethiopia, Eritrea and Djibouti.",
+      "level": "sub-3",
+      "parent": "Northeastern African Music"
+    },
+    {
+      "name": "Beja Music",
+      "url": "https://rateyourmusic.com/genre/beja-music/",
+      "description": "Music of the Beja people of Africa’s Eastern Desert region.",
+      "level": "sub-3",
+      "parent": "Northeastern African Music"
+    },
+    {
+      "name": "Dinka Music",
+      "url": "https://rateyourmusic.com/genre/dinka-music/",
+      "description": "Music of the Dinka people, the most populous ethnic group of South Sudan.",
+      "level": "sub-3",
+      "parent": "Northeastern African Music"
+    },
+    {
+      "name": "Ethiopic Music",
+      "url": "https://rateyourmusic.com/genre/ethiopic-music/",
+      "description": "Music made by people who speak Ethiopian Semitic languages.",
+      "level": "sub-3",
+      "parent": "Northeastern African Music"
+    },
+    {
+      "name": "Nubian Music",
+      "url": "https://rateyourmusic.com/genre/nubian-music/",
+      "description": "Music of Nubia, a region centered along the Nile River in northern Sudan and southern Egypt.",
+      "level": "sub-3",
+      "parent": "Northeastern African Music"
+    },
+    {
+      "name": "Nuer Music",
+      "url": "https://rateyourmusic.com/genre/nuer-music/",
+      "description": "Music of the Nuer people of Eastern South Sudan and Western Ethiopia.",
+      "level": "sub-3",
+      "parent": "Northeastern African Music"
+    },
+    {
+      "name": "Oromo Music",
+      "url": "https://rateyourmusic.com/genre/oromo-music/",
+      "description": "Music of the Oromo people, a Cushitic ethnolinguistic group, who primarily live in the Oromia region of Ethiopia and Northern Kenya.",
+      "level": "sub-3",
+      "parent": "Northeastern African Music"
+    },
+    {
+      "name": "Shilluk Music",
+      "url": "https://rateyourmusic.com/genre/shilluk-music/",
+      "description": "All musical forms of the Shilluk people of the Upper Nile region of South Sudan.",
+      "level": "sub-3",
+      "parent": "Northeastern African Music"
+    },
+    {
+      "name": "Somali Music",
+      "url": "https://rateyourmusic.com/genre/somali-music/",
+      "description": "Music developed by the Somali people.",
+      "level": "sub-3",
+      "parent": "Northeastern African Music"
+    },
+    {
+      "name": "Welayta Music",
+      "url": "https://rateyourmusic.com/genre/welayta-music/",
+      "description": "Music of the Welayta people.",
+      "level": "sub-3",
+      "parent": "Northeastern African Music"
+    }
+  ]
+}

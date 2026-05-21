@@ -1,0 +1,31 @@
+{
+  "name": "Italo-Disco",
+  "description": "Produced primarily in Italy and is characterized by the use of synthesizers, drum machines, and sometimes vocoders to create a mechanical, Electronic version of Disco with futuristic atmosphere.",
+  "url": "https://rateyourmusic.com/genre/italo-disco/",
+  "parent": "Electro-Disco",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Spacesynth",
+      "url": "https://rateyourmusic.com/genre/spacesynth/",
+      "description": "Highly melodic, often instrumental futuristic strain, formed under the heavy influence of Space Disco, Progressive Electronic and, later, early Eurobeat.",
+      "level": "sub-4",
+      "parent": "Italo-Disco"
+    },
+    {
+      "name": "Spacesynth",
+      "url": "https://rateyourmusic.com/genre/spacesynth/",
+      "description": "Highly melodic, often instrumental futuristic strain, formed under the heavy influence of Space Disco, Progressive Electronic and, later, early Eurobeat.",
+      "level": "sub-4",
+      "parent": "Italo-Disco"
+    },
+    {
+      "name": "Spacesynth",
+      "url": "https://rateyourmusic.com/genre/spacesynth/",
+      "description": "Highly melodic, often instrumental futuristic strain, formed under the heavy influence of Space Disco, Progressive Electronic and, later, early Eurobeat.",
+      "level": "sub-4",
+      "parent": "Italo-Disco"
+    }
+  ]
+}

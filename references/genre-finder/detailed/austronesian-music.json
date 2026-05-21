@@ -1,0 +1,87 @@
+{
+  "name": "Austronesian Music",
+  "description": "Music developed by Austronesian ethnic groups.",
+  "url": "https://rateyourmusic.com/genre/austronesian-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 11,
+  "children": [
+    {
+      "name": "Balinese Music",
+      "url": "https://rateyourmusic.com/genre/balinese-music/",
+      "description": "Music of the Balinese people.",
+      "level": "sub-2",
+      "parent": "Austronesian Music"
+    },
+    {
+      "name": "Batak Music",
+      "url": "https://rateyourmusic.com/genre/batak-music/",
+      "description": "Music of the Batak people, an Austronesian people native to Sumatra.",
+      "level": "sub-2",
+      "parent": "Austronesian Music"
+    },
+    {
+      "name": "Igorot Music",
+      "url": "https://rateyourmusic.com/genre/igorot-music/",
+      "description": "Traditions of the Igorot people of the Cordillera region in the northern Philippines, known for their gong ensembles.",
+      "level": "sub-2",
+      "parent": "Austronesian Music"
+    },
+    {
+      "name": "Indigenous Taiwanese Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-taiwanese-music/",
+      "description": "Traditional Folk Music of the various Austronesian people groups that make up the indigenous population of the island of Taiwan.",
+      "level": "sub-2",
+      "parent": "Austronesian Music"
+    },
+    {
+      "name": "Javanese Music",
+      "url": "https://rateyourmusic.com/genre/javanese-music/",
+      "description": "Music of the Javanese people.",
+      "level": "sub-2",
+      "parent": "Austronesian Music"
+    },
+    {
+      "name": "Malagasy Music",
+      "url": "https://rateyourmusic.com/genre/malagasy-music/",
+      "description": "Music of the Malagasy peoples.",
+      "level": "sub-2",
+      "parent": "Austronesian Music"
+    },
+    {
+      "name": "Malay Music",
+      "url": "https://rateyourmusic.com/genre/malay-music/",
+      "description": "Music of the Malay people.",
+      "level": "sub-2",
+      "parent": "Austronesian Music"
+    },
+    {
+      "name": "Minangkabau Music",
+      "url": "https://rateyourmusic.com/genre/minangkabau-music/",
+      "description": "Music of the Minangkabau people.",
+      "level": "sub-2",
+      "parent": "Austronesian Music"
+    },
+    {
+      "name": "Pakacaping Music",
+      "url": "https://rateyourmusic.com/genre/pakacaping-music/",
+      "description": "Traditional genres of music found among the ethnicities of Indonesian archipelago, particularly on South Sulawesi, Borneo and North Sumatra.",
+      "level": "sub-2",
+      "parent": "Austronesian Music"
+    },
+    {
+      "name": "Polynesian Music",
+      "url": "https://rateyourmusic.com/genre/polynesian-music/",
+      "description": "Music of Polynesia.",
+      "level": "sub-2",
+      "parent": "Austronesian Music"
+    },
+    {
+      "name": "Sundanese Music",
+      "url": "https://rateyourmusic.com/genre/sundanese-music/",
+      "description": "Music of the Sundanese people.",
+      "level": "sub-2",
+      "parent": "Austronesian Music"
+    }
+  ]
+}

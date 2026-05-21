@@ -1,0 +1,66 @@
+{
+  "name": "Gamelan",
+  "description": "Originated in the island of Java; played by an ensemble typically consisting of metallophones and gongs, sometimes augmented with drums, flutes, and human voices.",
+  "url": "https://rateyourmusic.com/genre/gamelan/",
+  "parent": "Southeast Asian Classical Music",
+  "level": "sub-2",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Balinese Gamelan",
+      "url": "https://rateyourmusic.com/genre/balinese-gamelan/",
+      "description": "Broad classification grouping various forms of Gamelan with native roots in Bali.",
+      "level": "sub-3",
+      "parent": "Gamelan"
+    },
+    {
+      "name": "Balinese Gamelan",
+      "url": "https://rateyourmusic.com/genre/balinese-gamelan/",
+      "description": "Broad classification grouping various forms of Gamelan with native roots in Bali.",
+      "level": "sub-5",
+      "parent": "Gamelan"
+    },
+    {
+      "name": "Gamelan degung",
+      "url": "https://rateyourmusic.com/genre/gamelan-degung/",
+      "description": "Sundanese Gamelan performed by a small orchestra of bronze gongs and metallophones.",
+      "level": "sub-3",
+      "parent": "Gamelan"
+    },
+    {
+      "name": "Gamelan degung",
+      "url": "https://rateyourmusic.com/genre/gamelan-degung/",
+      "description": "Sundanese Gamelan performed by a small orchestra of bronze gongs and metallophones.",
+      "level": "sub-5",
+      "parent": "Gamelan"
+    },
+    {
+      "name": "Javanese Gamelan",
+      "url": "https://rateyourmusic.com/genre/javanese-gamelan/",
+      "description": "Broad classification grouping Gamelan genres native to Javanese culture.",
+      "level": "sub-3",
+      "parent": "Gamelan"
+    },
+    {
+      "name": "Javanese Gamelan",
+      "url": "https://rateyourmusic.com/genre/javanese-gamelan/",
+      "description": "Broad classification grouping Gamelan genres native to Javanese culture.",
+      "level": "sub-5",
+      "parent": "Gamelan"
+    },
+    {
+      "name": "Malay Gamelan",
+      "url": "https://rateyourmusic.com/genre/malay-gamelan/",
+      "description": "Developments of Gamelan that are performed by Malay native groups, mostly established by the Pahang and Terengganu royal courts of the Malay Peninsula.",
+      "level": "sub-3",
+      "parent": "Gamelan"
+    },
+    {
+      "name": "Malay Gamelan",
+      "url": "https://rateyourmusic.com/genre/malay-gamelan/",
+      "description": "Developments of Gamelan that are performed by Malay native groups, mostly established by the Pahang and Terengganu royal courts of the Malay Peninsula.",
+      "level": "sub-5",
+      "parent": "Gamelan"
+    }
+  ]
+}

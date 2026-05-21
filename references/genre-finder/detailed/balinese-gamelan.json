@@ -1,0 +1,234 @@
+{
+  "name": "Balinese Gamelan",
+  "description": "Broad classification grouping various forms of Gamelan with native roots in Bali.",
+  "url": "https://rateyourmusic.com/genre/balinese-gamelan/",
+  "parent": "Gamelan",
+  "level": "sub-3",
+  "children_count": 32,
+  "children": [
+    {
+      "name": "Gamelan angklung",
+      "url": "https://rateyourmusic.com/genre/gamelan-angklung/",
+      "description": "Takes its name from the angklung, an instrument made of bamboo tubes.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan angklung",
+      "url": "https://rateyourmusic.com/genre/gamelan-angklung/",
+      "description": "Takes its name from the angklung, an instrument made of bamboo tubes.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan angklung",
+      "url": "https://rateyourmusic.com/genre/gamelan-angklung/",
+      "description": "Takes its name from the angklung, an instrument made of bamboo tubes.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan angklung",
+      "url": "https://rateyourmusic.com/genre/gamelan-angklung/",
+      "description": "Takes its name from the angklung, an instrument made of bamboo tubes.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan beleganjur",
+      "url": "https://rateyourmusic.com/genre/gamelan-beleganjur/",
+      "description": "Loud, chaotic, highly percussive, and with heavy tempo changes.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan beleganjur",
+      "url": "https://rateyourmusic.com/genre/gamelan-beleganjur/",
+      "description": "Loud, chaotic, highly percussive, and with heavy tempo changes.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan beleganjur",
+      "url": "https://rateyourmusic.com/genre/gamelan-beleganjur/",
+      "description": "Loud, chaotic, highly percussive, and with heavy tempo changes.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan beleganjur",
+      "url": "https://rateyourmusic.com/genre/gamelan-beleganjur/",
+      "description": "Loud, chaotic, highly percussive, and with heavy tempo changes.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gender wayang",
+      "url": "https://rateyourmusic.com/genre/gamelan-gender-wayang/",
+      "description": "Performed with two/four metallophones made out of bronze keys with suspended bamboo tube resonators connected to them.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gender wayang",
+      "url": "https://rateyourmusic.com/genre/gamelan-gender-wayang/",
+      "description": "Performed with two/four metallophones made out of bronze keys with suspended bamboo tube resonators connected to them.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gender wayang",
+      "url": "https://rateyourmusic.com/genre/gamelan-gender-wayang/",
+      "description": "Performed with two/four metallophones made out of bronze keys with suspended bamboo tube resonators connected to them.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gender wayang",
+      "url": "https://rateyourmusic.com/genre/gamelan-gender-wayang/",
+      "description": "Performed with two/four metallophones made out of bronze keys with suspended bamboo tube resonators connected to them.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gong gede",
+      "url": "https://rateyourmusic.com/genre/gamelan-gong-gede/",
+      "description": "Ceremonial style characterized by a simpler and more melodic approach with clearer and more stable progressions compared to other Balinese orchestras.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gong gede",
+      "url": "https://rateyourmusic.com/genre/gamelan-gong-gede/",
+      "description": "Ceremonial style characterized by a simpler and more melodic approach with clearer and more stable progressions compared to other Balinese orchestras.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gong gede",
+      "url": "https://rateyourmusic.com/genre/gamelan-gong-gede/",
+      "description": "Ceremonial style characterized by a simpler and more melodic approach with clearer and more stable progressions compared to other Balinese orchestras.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gong gede",
+      "url": "https://rateyourmusic.com/genre/gamelan-gong-gede/",
+      "description": "Ceremonial style characterized by a simpler and more melodic approach with clearer and more stable progressions compared to other Balinese orchestras.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gong kebyar",
+      "url": "https://rateyourmusic.com/genre/gamelan-gong-kebyar/",
+      "description": "Free compositional techniques and rapidly changing dynamics.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gong kebyar",
+      "url": "https://rateyourmusic.com/genre/gamelan-gong-kebyar/",
+      "description": "Free compositional techniques and rapidly changing dynamics.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gong kebyar",
+      "url": "https://rateyourmusic.com/genre/gamelan-gong-kebyar/",
+      "description": "Free compositional techniques and rapidly changing dynamics.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan gong kebyar",
+      "url": "https://rateyourmusic.com/genre/gamelan-gong-kebyar/",
+      "description": "Free compositional techniques and rapidly changing dynamics.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan jegog",
+      "url": "https://rateyourmusic.com/genre/gamelan-jegog/",
+      "description": "Played entirely on marimba-like instruments made from bamboo which widely differ in size.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan jegog",
+      "url": "https://rateyourmusic.com/genre/gamelan-jegog/",
+      "description": "Played entirely on marimba-like instruments made from bamboo which widely differ in size.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan jegog",
+      "url": "https://rateyourmusic.com/genre/gamelan-jegog/",
+      "description": "Played entirely on marimba-like instruments made from bamboo which widely differ in size.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan jegog",
+      "url": "https://rateyourmusic.com/genre/gamelan-jegog/",
+      "description": "Played entirely on marimba-like instruments made from bamboo which widely differ in size.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan selonding",
+      "url": "https://rateyourmusic.com/genre/gamelan-selonding/",
+      "description": "Ensemble consists of four to six musicians playing metallophones made out of iron in a seven-tone scale.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan selonding",
+      "url": "https://rateyourmusic.com/genre/gamelan-selonding/",
+      "description": "Ensemble consists of four to six musicians playing metallophones made out of iron in a seven-tone scale.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan selonding",
+      "url": "https://rateyourmusic.com/genre/gamelan-selonding/",
+      "description": "Ensemble consists of four to six musicians playing metallophones made out of iron in a seven-tone scale.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan selonding",
+      "url": "https://rateyourmusic.com/genre/gamelan-selonding/",
+      "description": "Ensemble consists of four to six musicians playing metallophones made out of iron in a seven-tone scale.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan semar pegulingan",
+      "url": "https://rateyourmusic.com/genre/gamelan-semar-pegulingan/",
+      "description": "Originated in the 16th-17th centuries; features a soft, delicate, and ethereal sound.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan semar pegulingan",
+      "url": "https://rateyourmusic.com/genre/gamelan-semar-pegulingan/",
+      "description": "Originated in the 16th-17th centuries; features a soft, delicate, and ethereal sound.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan semar pegulingan",
+      "url": "https://rateyourmusic.com/genre/gamelan-semar-pegulingan/",
+      "description": "Originated in the 16th-17th centuries; features a soft, delicate, and ethereal sound.",
+      "level": "sub-6",
+      "parent": "Balinese Gamelan"
+    },
+    {
+      "name": "Gamelan semar pegulingan",
+      "url": "https://rateyourmusic.com/genre/gamelan-semar-pegulingan/",
+      "description": "Originated in the 16th-17th centuries; features a soft, delicate, and ethereal sound.",
+      "level": "sub-4",
+      "parent": "Balinese Gamelan"
+    }
+  ]
+}

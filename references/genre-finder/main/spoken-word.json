@@ -1,0 +1,71 @@
+{
+  "name": "Spoken Word",
+  "description": "Usually unaccompanied vocal readings.",
+  "url": "https://rateyourmusic.com/genre/spoken-word/",
+  "sub_genres_count": 9,
+  "sub_genres": [
+    {
+      "name": "Fairy Tales",
+      "url": "https://rateyourmusic.com/genre/fairy-tales/",
+      "description": "Recorded for children with or without background music.",
+      "level": "sub",
+      "parent": "Spoken Word"
+    },
+    {
+      "name": "Folktales",
+      "url": "https://rateyourmusic.com/genre/folktales/",
+      "description": "Traditional stories passed down throughout many generations.",
+      "level": "sub",
+      "parent": "Spoken Word"
+    },
+    {
+      "name": "Guided Meditation",
+      "url": "https://rateyourmusic.com/genre/guided-meditation/",
+      "description": "Practice wherein an instructor guides the listener through the process of meditation throughout a session.",
+      "level": "sub",
+      "parent": "Spoken Word"
+    },
+    {
+      "name": "Interview",
+      "url": "https://rateyourmusic.com/genre/interview/",
+      "description": "Recording of a specific person/s during a formal conversation arranged for historical archiving or media broadcast, often in a question and answer format in which the interviewee shares their views and personal anecdotes with the audience.",
+      "level": "sub",
+      "parent": "Spoken Word"
+    },
+    {
+      "name": "Lectures",
+      "url": "https://rateyourmusic.com/genre/lectures/",
+      "description": "Oral presentation with the intention to educate the audience on a specific topic.",
+      "level": "sub",
+      "parent": "Spoken Word"
+    },
+    {
+      "name": "Poetry",
+      "url": "https://rateyourmusic.com/genre/poetry/",
+      "description": "Encompasses many forms of literature that use style and rhythm to evoke ideas and emotions further than the prosaic meaning of the literature itself.",
+      "level": "sub",
+      "parent": "Spoken Word"
+    },
+    {
+      "name": "Radio Drama",
+      "url": "https://rateyourmusic.com/genre/radio-drama/",
+      "description": "Narrative storytelling performed by voice actors and produced for radio broadcasting or published on audio media such as tapes or CDs.",
+      "level": "sub",
+      "parent": "Spoken Word"
+    },
+    {
+      "name": "Speeches",
+      "url": "https://rateyourmusic.com/genre/speeches/",
+      "description": "Rhetorical acts performed publicly wherein a speaker typically monologues around a particular topic.",
+      "level": "sub",
+      "parent": "Spoken Word"
+    },
+    {
+      "name": "Stand-Up Comedy",
+      "url": "https://rateyourmusic.com/genre/stand-up-comedy/",
+      "description": "Comedy where the performer speaks directly to their intended audience, with origins beginning in the late 19th century.",
+      "level": "sub",
+      "parent": "Spoken Word"
+    }
+  ]
+}

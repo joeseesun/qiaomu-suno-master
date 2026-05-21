@@ -5,6 +5,8 @@ positive:
   - "写一首 indie pop，女声，关于雨夜散步"
   - "帮我把这个 Suno clip ID 的 SRT 字幕和 LRC 歌词导出来"
   - "下载这个 Suno 歌曲的 MTV 视频并清理字幕"
+  - "我不知道用什么风格，先推荐几个适合深夜空灵的 Suno tags 再写歌"
+  - "用 qiaomu-suno-master 帮我选世界音乐风格，然后生成一首歌"
 negative:
   - "解释一下五声音阶是什么"
   - "帮我剪辑这段音频"

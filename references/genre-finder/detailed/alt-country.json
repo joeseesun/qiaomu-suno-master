@@ -1,0 +1,24 @@
+{
+  "name": "Alt-Country",
+  "description": "Arose in the 1980s and 1990s, performed by artists with roots in Alternative Rock and Indie Rock who were disconnected from the mainstream Country industry.",
+  "url": "https://rateyourmusic.com/genre/alt-country/",
+  "parent": "Country",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Gothic Country",
+      "url": "https://rateyourmusic.com/genre/gothic-country/",
+      "description": "Evokes the Southern Gothic literary genre through morbid lyrical themes and melancholic sounds that emphasize its American Folk Music and Post-Punk influences.",
+      "level": "sub-2",
+      "parent": "Alt-Country"
+    },
+    {
+      "name": "Gothic Country",
+      "url": "https://rateyourmusic.com/genre/gothic-country/",
+      "description": "Evokes the Southern Gothic literary genre through morbid lyrical themes and melancholic sounds that emphasize its American Folk Music and Post-Punk influences.",
+      "level": "sub-4",
+      "parent": "Alt-Country"
+    }
+  ]
+}

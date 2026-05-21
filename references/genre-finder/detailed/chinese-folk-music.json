@@ -1,0 +1,150 @@
+{
+  "name": "Chinese Folk Music",
+  "description": "Traditional folk of the Chinese people.",
+  "url": "https://rateyourmusic.com/genre/chinese-folk-music/",
+  "parent": "East Asian Folk Music",
+  "level": "sub-3",
+  "children_count": 20,
+  "children": [
+    {
+      "name": "Chaozhou xianshi",
+      "url": "https://rateyourmusic.com/genre/chaozhou-xianshi/",
+      "description": "Traditional and instrumental ensemble music originating from Chaozhou; played mainly on stringed instruments.",
+      "level": "sub-4",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Chaozhou xianshi",
+      "url": "https://rateyourmusic.com/genre/chaozhou-xianshi/",
+      "description": "Traditional and instrumental ensemble music originating from Chaozhou; played mainly on stringed instruments.",
+      "level": "sub-5",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Chaozhou xianshi",
+      "url": "https://rateyourmusic.com/genre/chaozhou-xianshi/",
+      "description": "Traditional and instrumental ensemble music originating from Chaozhou; played mainly on stringed instruments.",
+      "level": "sub-5",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Chaozhou xianshi",
+      "url": "https://rateyourmusic.com/genre/chaozhou-xianshi/",
+      "description": "Traditional and instrumental ensemble music originating from Chaozhou; played mainly on stringed instruments.",
+      "level": "sub-4",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Han Folk Music",
+      "url": "https://rateyourmusic.com/genre/han-folk-music/",
+      "description": "Chinese folk form often played at weddings and funerals, using the Suona (a form of oboe) and Chuigushou (a specific type of percussive ensemble), together with heterophony.",
+      "level": "sub-4",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Han Folk Music",
+      "url": "https://rateyourmusic.com/genre/han-folk-music/",
+      "description": "Chinese folk form often played at weddings and funerals, using the Suona (a form of oboe) and Chuigushou (a specific type of percussive ensemble), together with heterophony.",
+      "level": "sub-5",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Han Folk Music",
+      "url": "https://rateyourmusic.com/genre/han-folk-music/",
+      "description": "Chinese folk form often played at weddings and funerals, using the Suona (a form of oboe) and Chuigushou (a specific type of percussive ensemble), together with heterophony.",
+      "level": "sub-5",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Han Folk Music",
+      "url": "https://rateyourmusic.com/genre/han-folk-music/",
+      "description": "Chinese folk form often played at weddings and funerals, using the Suona (a form of oboe) and Chuigushou (a specific type of percussive ensemble), together with heterophony.",
+      "level": "sub-4",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Haozi",
+      "url": "https://rateyourmusic.com/genre/haozi/",
+      "description": "Chinese Work Song that originated from collective manual labor and usually follows a call-and-response structure, aiming to coordinate work.",
+      "level": "sub-4",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Haozi",
+      "url": "https://rateyourmusic.com/genre/haozi/",
+      "description": "Chinese Work Song that originated from collective manual labor and usually follows a call-and-response structure, aiming to coordinate work.",
+      "level": "sub-5",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Haozi",
+      "url": "https://rateyourmusic.com/genre/haozi/",
+      "description": "Chinese Work Song that originated from collective manual labor and usually follows a call-and-response structure, aiming to coordinate work.",
+      "level": "sub-5",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Haozi",
+      "url": "https://rateyourmusic.com/genre/haozi/",
+      "description": "Chinese Work Song that originated from collective manual labor and usually follows a call-and-response structure, aiming to coordinate work.",
+      "level": "sub-4",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Jiangnan sizhu",
+      "url": "https://rateyourmusic.com/genre/jiangnan-sizhu/",
+      "description": "Originating from Jiangnan region and played by a varying ensemble of stringed instruments, flutes, mouth organs and small percussions.",
+      "level": "sub-4",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Jiangnan sizhu",
+      "url": "https://rateyourmusic.com/genre/jiangnan-sizhu/",
+      "description": "Originating from Jiangnan region and played by a varying ensemble of stringed instruments, flutes, mouth organs and small percussions.",
+      "level": "sub-5",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Jiangnan sizhu",
+      "url": "https://rateyourmusic.com/genre/jiangnan-sizhu/",
+      "description": "Originating from Jiangnan region and played by a varying ensemble of stringed instruments, flutes, mouth organs and small percussions.",
+      "level": "sub-5",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Jiangnan sizhu",
+      "url": "https://rateyourmusic.com/genre/jiangnan-sizhu/",
+      "description": "Originating from Jiangnan region and played by a varying ensemble of stringed instruments, flutes, mouth organs and small percussions.",
+      "level": "sub-4",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Shan'ge",
+      "url": "https://rateyourmusic.com/genre/shange/",
+      "description": "Folk songs found in upland regions of China, typically sung while working.",
+      "level": "sub-4",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Shan'ge",
+      "url": "https://rateyourmusic.com/genre/shange/",
+      "description": "Folk songs found in upland regions of China, typically sung while working.",
+      "level": "sub-5",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Shan'ge",
+      "url": "https://rateyourmusic.com/genre/shange/",
+      "description": "Folk songs found in upland regions of China, typically sung while working.",
+      "level": "sub-5",
+      "parent": "Chinese Folk Music"
+    },
+    {
+      "name": "Shan'ge",
+      "url": "https://rateyourmusic.com/genre/shange/",
+      "description": "Folk songs found in upland regions of China, typically sung while working.",
+      "level": "sub-4",
+      "parent": "Chinese Folk Music"
+    }
+  ]
+}

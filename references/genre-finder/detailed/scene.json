@@ -1,0 +1,17 @@
+{
+  "name": "Scene",
+  "description": "Youth subculture popularized in the 2000s via MySpace, spanning Metalcore, Pop Punk, Post-Hardcore, and related genres; associated with androgynous hairstyles, mall-sourced fashion, the Warped Tour festival circuit, and varied crossover with Electronic music.",
+  "url": "https://rateyourmusic.com/genre/scene/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Happy Rock",
+      "url": "https://rateyourmusic.com/genre/happy-rock/",
+      "description": "Late 2000s Brazilian movement made as a response against Emo with a bright aesthetic, heavy use of electronic instruments and distorted vocals.",
+      "level": "sub-2",
+      "parent": "Scene"
+    }
+  ]
+}

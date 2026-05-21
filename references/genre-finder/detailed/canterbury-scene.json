@@ -1,0 +1,24 @@
+{
+  "name": "Canterbury Scene",
+  "description": "Developed in the counterculture of Canterbury in the late 1960s, emphasizing the influence of Jazz-Rock and Jazz Fusion.",
+  "url": "https://rateyourmusic.com/genre/canterbury-scene/",
+  "parent": "Progressive Rock",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Neo-Canterbury",
+      "url": "https://rateyourmusic.com/genre/neo-canterbury/",
+      "description": "Movement reviving the signature style of the Canterbury Scene, often updating it with modern influences.",
+      "level": "sub-3",
+      "parent": "Canterbury Scene"
+    },
+    {
+      "name": "Neo-Canterbury",
+      "url": "https://rateyourmusic.com/genre/neo-canterbury/",
+      "description": "Movement reviving the signature style of the Canterbury Scene, often updating it with modern influences.",
+      "level": "sub-2",
+      "parent": "Canterbury Scene"
+    }
+  ]
+}

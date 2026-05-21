@@ -1,0 +1,24 @@
+{
+  "name": "Afro House",
+  "description": "Emerged by fusing Deep House with Southern African Music, characterized by hypnotizing drum patterns of shakers and congas, often sampled African vocals or soulful original features, and spiritual, organic, melodic atmosphere.",
+  "url": "https://rateyourmusic.com/genre/afro-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "3-Step",
+      "url": "https://rateyourmusic.com/genre/3-step/",
+      "description": "Distinct three-kick-drum rhythm, blends influences from Amapiano and Broken Beat, resulting in relaxed, freeform, playful, Jazz-like feel.",
+      "level": "sub-4",
+      "parent": "Afro House"
+    },
+    {
+      "name": "3-Step",
+      "url": "https://rateyourmusic.com/genre/3-step/",
+      "description": "Distinct three-kick-drum rhythm, blends influences from Amapiano and Broken Beat, resulting in relaxed, freeform, playful, Jazz-like feel.",
+      "level": "sub-4",
+      "parent": "Afro House"
+    }
+  ]
+}

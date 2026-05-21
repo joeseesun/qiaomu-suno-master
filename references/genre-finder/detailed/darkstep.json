@@ -1,0 +1,38 @@
+{
+  "name": "Darkstep",
+  "description": "Hard, uptempo and uses heavy breakbeats, Post-Industrial-influenced sound design, and horror movie samples to create a sinister, claustrophobic atmosphere.",
+  "url": "https://rateyourmusic.com/genre/darkstep/",
+  "parent": "Drum and Bass",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Crossbreed",
+      "url": "https://rateyourmusic.com/genre/crossbreed/",
+      "description": "Harsh and dense mixture of Darkstep with Hardcore [EDM] developed in the late 2000s.",
+      "level": "sub-4",
+      "parent": "Darkstep"
+    },
+    {
+      "name": "Crossbreed",
+      "url": "https://rateyourmusic.com/genre/crossbreed/",
+      "description": "Harsh and dense mixture of Darkstep with Hardcore [EDM] developed in the late 2000s.",
+      "level": "sub-4",
+      "parent": "Darkstep"
+    },
+    {
+      "name": "Skullstep",
+      "url": "https://rateyourmusic.com/genre/skullstep/",
+      "description": "Repetitious, aggressive, off-beat rhythms often programmed using distorted, harsh, and noisy percussion that usually resembles clangy \"pots and pans\", machine gun-like snares.",
+      "level": "sub-4",
+      "parent": "Darkstep"
+    },
+    {
+      "name": "Skullstep",
+      "url": "https://rateyourmusic.com/genre/skullstep/",
+      "description": "Repetitious, aggressive, off-beat rhythms often programmed using distorted, harsh, and noisy percussion that usually resembles clangy \"pots and pans\", machine gun-like snares.",
+      "level": "sub-4",
+      "parent": "Darkstep"
+    }
+  ]
+}

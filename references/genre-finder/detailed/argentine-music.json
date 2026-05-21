@@ -1,0 +1,80 @@
+{
+  "name": "Argentine Music",
+  "description": "Music developed by the Argentine people.",
+  "url": "https://rateyourmusic.com/genre/argentine-music/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Cuarteto",
+      "url": "https://rateyourmusic.com/genre/cuarteto/",
+      "description": "Originated in the Argentinian province of Córdoba, usually with an upbeat rhythm and originally performed with a four-piece band.",
+      "level": "sub-4",
+      "parent": "Argentine Music"
+    },
+    {
+      "name": "Cuarteto",
+      "url": "https://rateyourmusic.com/genre/cuarteto/",
+      "description": "Originated in the Argentinian province of Córdoba, usually with an upbeat rhythm and originally performed with a four-piece band.",
+      "level": "sub-3",
+      "parent": "Argentine Music"
+    },
+    {
+      "name": "Cumbia argentina",
+      "url": "https://rateyourmusic.com/genre/cumbia-argentina/",
+      "description": "Almost always features synthesizer keyboards and electronic percussion with an upbeat rhythm.",
+      "level": "sub-4",
+      "parent": "Argentine Music"
+    },
+    {
+      "name": "Cumbia argentina",
+      "url": "https://rateyourmusic.com/genre/cumbia-argentina/",
+      "description": "Almost always features synthesizer keyboards and electronic percussion with an upbeat rhythm.",
+      "level": "sub-3",
+      "parent": "Argentine Music"
+    },
+    {
+      "name": "Guaracha santiagueña",
+      "url": "https://rateyourmusic.com/genre/guaracha-santiaguena/",
+      "description": "Fast, upbeat and danceable rhythm originated in the province of Santiago del Estero, Argentina as a fusion of Chacarera and Chamamé.",
+      "level": "sub-4",
+      "parent": "Argentine Music"
+    },
+    {
+      "name": "Guaracha santiagueña",
+      "url": "https://rateyourmusic.com/genre/guaracha-santiaguena/",
+      "description": "Fast, upbeat and danceable rhythm originated in the province of Santiago del Estero, Argentina as a fusion of Chacarera and Chamamé.",
+      "level": "sub-3",
+      "parent": "Argentine Music"
+    },
+    {
+      "name": "Nuevo Cancionero",
+      "url": "https://rateyourmusic.com/genre/nuevo-cancionero/",
+      "description": "Musical-literary movement in Argentina that aimed to reevaluate and reinvigorate \"la música popular nativa\" (native popular music) and to be the voice of poor and marginalized Argentines.",
+      "level": "sub-4",
+      "parent": "Argentine Music"
+    },
+    {
+      "name": "Nuevo Cancionero",
+      "url": "https://rateyourmusic.com/genre/nuevo-cancionero/",
+      "description": "Musical-literary movement in Argentina that aimed to reevaluate and reinvigorate \"la música popular nativa\" (native popular music) and to be the voice of poor and marginalized Argentines.",
+      "level": "sub-3",
+      "parent": "Argentine Music"
+    },
+    {
+      "name": "RKT",
+      "url": "https://rateyourmusic.com/genre/rkt/",
+      "description": "Emerged in the early 2010s, characterized by minimalistic, rhythm-centric production heavily influenced by Cumbia villera and other Cumbia argentina styles.",
+      "level": "sub-4",
+      "parent": "Argentine Music"
+    },
+    {
+      "name": "RKT",
+      "url": "https://rateyourmusic.com/genre/rkt/",
+      "description": "Emerged in the early 2010s, characterized by minimalistic, rhythm-centric production heavily influenced by Cumbia villera and other Cumbia argentina styles.",
+      "level": "sub-3",
+      "parent": "Argentine Music"
+    }
+  ]
+}

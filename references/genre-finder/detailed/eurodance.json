@@ -1,0 +1,38 @@
+{
+  "name": "Eurodance",
+  "description": "Takes elements of Euro-Disco, House, Techno, and Hi-NRG while featuring on-beat kick, hi-hat and snare sounds at around 110 to 150 bpm.",
+  "url": "https://rateyourmusic.com/genre/eurodance/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Bubblegum Dance",
+      "url": "https://rateyourmusic.com/genre/bubblegum-dance/",
+      "description": "Playful, childlike style with a Bubblegum-like atmosphere that often incorporates high-pitched, light-hearted, and usually female-fronted vocals.",
+      "level": "sub-3",
+      "parent": "Eurodance"
+    },
+    {
+      "name": "Bubblegum Dance",
+      "url": "https://rateyourmusic.com/genre/bubblegum-dance/",
+      "description": "Playful, childlike style with a Bubblegum-like atmosphere that often incorporates high-pitched, light-hearted, and usually female-fronted vocals.",
+      "level": "sub-3",
+      "parent": "Eurodance"
+    },
+    {
+      "name": "Italo Dance",
+      "url": "https://rateyourmusic.com/genre/italo-dance/",
+      "description": "Appeared in the 1990s after the decline of Italo-Disco, featuring rhythmic influence from that genre.",
+      "level": "sub-3",
+      "parent": "Eurodance"
+    },
+    {
+      "name": "Italo Dance",
+      "url": "https://rateyourmusic.com/genre/italo-dance/",
+      "description": "Appeared in the 1990s after the decline of Italo-Disco, featuring rhythmic influence from that genre.",
+      "level": "sub-3",
+      "parent": "Eurodance"
+    }
+  ]
+}

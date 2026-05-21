@@ -1,0 +1,535 @@
+{
+  "name": "Hispanic American Folk Music",
+  "description": "Encompasses many varieties of folk traditions from Hispanic America.",
+  "url": "https://rateyourmusic.com/genre/hispanic-american-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 75,
+  "children": [
+    {
+      "name": "Bambuco",
+      "url": "https://rateyourmusic.com/genre/bambuco/",
+      "description": "Follows a 6/8 or 3/4 time signature with non-percussive instrumentation, often melancholic in sound with bright guitars and a rich melodic base.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Bambuco",
+      "url": "https://rateyourmusic.com/genre/bambuco/",
+      "description": "Follows a 6/8 or 3/4 time signature with non-percussive instrumentation, often melancholic in sound with bright guitars and a rich melodic base.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Bambuco",
+      "url": "https://rateyourmusic.com/genre/bambuco/",
+      "description": "Follows a 6/8 or 3/4 time signature with non-percussive instrumentation, often melancholic in sound with bright guitars and a rich melodic base.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Bomba",
+      "url": "https://rateyourmusic.com/genre/bomba/",
+      "description": "Percussive style from Puerto Rico, generally considered to be derived from West Africa.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Bomba",
+      "url": "https://rateyourmusic.com/genre/bomba/",
+      "description": "Percussive style from Puerto Rico, generally considered to be derived from West Africa.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Bomba",
+      "url": "https://rateyourmusic.com/genre/bomba/",
+      "description": "Percussive style from Puerto Rico, generally considered to be derived from West Africa.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Candombe",
+      "url": "https://rateyourmusic.com/genre/candombe/",
+      "description": "Uruguayan popular music originating among Montevideo's Afro-Uruguayan population, based on three differently-sized drums.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Candombe",
+      "url": "https://rateyourmusic.com/genre/candombe/",
+      "description": "Uruguayan popular music originating among Montevideo's Afro-Uruguayan population, based on three differently-sized drums.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Candombe",
+      "url": "https://rateyourmusic.com/genre/candombe/",
+      "description": "Uruguayan popular music originating among Montevideo's Afro-Uruguayan population, based on three differently-sized drums.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Canto a lo poeta",
+      "url": "https://rateyourmusic.com/genre/canto-a-lo-poeta/",
+      "description": "Sung poetry traditional to Chile and transmitted orally from one generation to another.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Canto a lo poeta",
+      "url": "https://rateyourmusic.com/genre/canto-a-lo-poeta/",
+      "description": "Sung poetry traditional to Chile and transmitted orally from one generation to another.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Canto a lo poeta",
+      "url": "https://rateyourmusic.com/genre/canto-a-lo-poeta/",
+      "description": "Sung poetry traditional to Chile and transmitted orally from one generation to another.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Carranga",
+      "url": "https://rateyourmusic.com/genre/carranga/",
+      "description": "Colombian folk music that originated in Boyacá province, best known for its wordplay and humorous lyrics.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Carranga",
+      "url": "https://rateyourmusic.com/genre/carranga/",
+      "description": "Colombian folk music that originated in Boyacá province, best known for its wordplay and humorous lyrics.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Carranga",
+      "url": "https://rateyourmusic.com/genre/carranga/",
+      "description": "Colombian folk music that originated in Boyacá province, best known for its wordplay and humorous lyrics.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Chacarera",
+      "url": "https://rateyourmusic.com/genre/chacarera/",
+      "description": "Originated in northwest Argentina and southern Bolivia around 1850, typically in 6/8 and traditionally performed with instruments like the guitar, bombo legüero (traditional drum), and violin.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Chacarera",
+      "url": "https://rateyourmusic.com/genre/chacarera/",
+      "description": "Originated in northwest Argentina and southern Bolivia around 1850, typically in 6/8 and traditionally performed with instruments like the guitar, bombo legüero (traditional drum), and violin.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Chacarera",
+      "url": "https://rateyourmusic.com/genre/chacarera/",
+      "description": "Originated in northwest Argentina and southern Bolivia around 1850, typically in 6/8 and traditionally performed with instruments like the guitar, bombo legüero (traditional drum), and violin.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Chamamé",
+      "url": "https://rateyourmusic.com/genre/chamame/",
+      "description": "Mixes native Guaraní music with Polka paraguaya and European schottische music.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Chamamé",
+      "url": "https://rateyourmusic.com/genre/chamame/",
+      "description": "Mixes native Guaraní music with Polka paraguaya and European schottische music.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Chamamé",
+      "url": "https://rateyourmusic.com/genre/chamame/",
+      "description": "Mixes native Guaraní music with Polka paraguaya and European schottische music.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Chamarrita rioplatense",
+      "url": "https://rateyourmusic.com/genre/chamarrita-rioplatense/",
+      "description": "Traditional genre and dance featuring similar rhythms to Milonga and typically performed with the guitar and accordion.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Chamarrita rioplatense",
+      "url": "https://rateyourmusic.com/genre/chamarrita-rioplatense/",
+      "description": "Traditional genre and dance featuring similar rhythms to Milonga and typically performed with the guitar and accordion.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Chamarrita rioplatense",
+      "url": "https://rateyourmusic.com/genre/chamarrita-rioplatense/",
+      "description": "Traditional genre and dance featuring similar rhythms to Milonga and typically performed with the guitar and accordion.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Cueca",
+      "url": "https://rateyourmusic.com/genre/cueca/",
+      "description": "Popular in Chile, Argentina, and Bolivia, accompanied by a 6/8 or 3/4 time signature and usually structured into 14 verses.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Cueca",
+      "url": "https://rateyourmusic.com/genre/cueca/",
+      "description": "Popular in Chile, Argentina, and Bolivia, accompanied by a 6/8 or 3/4 time signature and usually structured into 14 verses.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Cueca",
+      "url": "https://rateyourmusic.com/genre/cueca/",
+      "description": "Popular in Chile, Argentina, and Bolivia, accompanied by a 6/8 or 3/4 time signature and usually structured into 14 verses.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Jibaro",
+      "url": "https://rateyourmusic.com/genre/jibaro/",
+      "description": "Traditions of the mountain-dwelling jibaro people that live primarily in Puerto Rico.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Jibaro",
+      "url": "https://rateyourmusic.com/genre/jibaro/",
+      "description": "Traditions of the mountain-dwelling jibaro people that live primarily in Puerto Rico.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Jibaro",
+      "url": "https://rateyourmusic.com/genre/jibaro/",
+      "description": "Traditions of the mountain-dwelling jibaro people that live primarily in Puerto Rico.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Joropo",
+      "url": "https://rateyourmusic.com/genre/joropo/",
+      "description": "Incorporates elements of Creole music and the Venezuelan waltz.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Joropo",
+      "url": "https://rateyourmusic.com/genre/joropo/",
+      "description": "Incorporates elements of Creole music and the Venezuelan waltz.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Joropo",
+      "url": "https://rateyourmusic.com/genre/joropo/",
+      "description": "Incorporates elements of Creole music and the Venezuelan waltz.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Malagueña venezolana",
+      "url": "https://rateyourmusic.com/genre/malaguena-venezolana/",
+      "description": "Traditional musical accompaniment to the Venezuelan 'velorios de cruz de mayo' celebrations, played with the mandolin (as lead instrument), cuatro and guitar.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Malagueña venezolana",
+      "url": "https://rateyourmusic.com/genre/malaguena-venezolana/",
+      "description": "Traditional musical accompaniment to the Venezuelan 'velorios de cruz de mayo' celebrations, played with the mandolin (as lead instrument), cuatro and guitar.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Malagueña venezolana",
+      "url": "https://rateyourmusic.com/genre/malaguena-venezolana/",
+      "description": "Traditional musical accompaniment to the Venezuelan 'velorios de cruz de mayo' celebrations, played with the mandolin (as lead instrument), cuatro and guitar.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Mexican Folk Music",
+      "url": "https://rateyourmusic.com/genre/mexican-folk-music/",
+      "description": "Traditional Folk Music of the Mexican people.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Mexican Folk Music",
+      "url": "https://rateyourmusic.com/genre/mexican-folk-music/",
+      "description": "Traditional Folk Music of the Mexican people.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Mexican Folk Music",
+      "url": "https://rateyourmusic.com/genre/mexican-folk-music/",
+      "description": "Traditional Folk Music of the Mexican people.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Milonga",
+      "url": "https://rateyourmusic.com/genre/milonga/",
+      "description": "Characterized by a slow rhythm usually performed on a guitar; generally considered a precursor to Tango.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Milonga",
+      "url": "https://rateyourmusic.com/genre/milonga/",
+      "description": "Characterized by a slow rhythm usually performed on a guitar; generally considered a precursor to Tango.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Milonga",
+      "url": "https://rateyourmusic.com/genre/milonga/",
+      "description": "Characterized by a slow rhythm usually performed on a guitar; generally considered a precursor to Tango.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Muliza",
+      "url": "https://rateyourmusic.com/genre/muliza/",
+      "description": "Mestizo folk genre popular in the central Peruvian Andes, characterized by a pronounced, though sedate, rhythm; traces of Andean melody; and octosyllabic verses.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Muliza",
+      "url": "https://rateyourmusic.com/genre/muliza/",
+      "description": "Mestizo folk genre popular in the central Peruvian Andes, characterized by a pronounced, though sedate, rhythm; traces of Andean melody; and octosyllabic verses.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Muliza",
+      "url": "https://rateyourmusic.com/genre/muliza/",
+      "description": "Mestizo folk genre popular in the central Peruvian Andes, characterized by a pronounced, though sedate, rhythm; traces of Andean melody; and octosyllabic verses.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Música criolla peruana",
+      "url": "https://rateyourmusic.com/genre/musica-criolla-peruana/",
+      "description": "Combination of African, Spanish, and Andean influences that originated after the time of the arrival of Spanish colonists and African slaves to Peru.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Música criolla peruana",
+      "url": "https://rateyourmusic.com/genre/musica-criolla-peruana/",
+      "description": "Combination of African, Spanish, and Andean influences that originated after the time of the arrival of Spanish colonists and African slaves to Peru.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Música criolla peruana",
+      "url": "https://rateyourmusic.com/genre/musica-criolla-peruana/",
+      "description": "Combination of African, Spanish, and Andean influences that originated after the time of the arrival of Spanish colonists and African slaves to Peru.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Música llanera",
+      "url": "https://rateyourmusic.com/genre/musica-llanera/",
+      "description": "Traditional music originating from the Llanos region of Colombia and Venezuela.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Música llanera",
+      "url": "https://rateyourmusic.com/genre/musica-llanera/",
+      "description": "Traditional music originating from the Llanos region of Colombia and Venezuela.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Música llanera",
+      "url": "https://rateyourmusic.com/genre/musica-llanera/",
+      "description": "Traditional music originating from the Llanos region of Colombia and Venezuela.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Plena",
+      "url": "https://rateyourmusic.com/genre/plena/",
+      "description": "Folk genre from Puerto Rico played with hand drums called panderetas.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Plena",
+      "url": "https://rateyourmusic.com/genre/plena/",
+      "description": "Folk genre from Puerto Rico played with hand drums called panderetas.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Plena",
+      "url": "https://rateyourmusic.com/genre/plena/",
+      "description": "Folk genre from Puerto Rico played with hand drums called panderetas.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Saya",
+      "url": "https://rateyourmusic.com/genre/saya/",
+      "description": "Fast-paced, percussive traditional genre created by the Afro-Bolivian people.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Saya",
+      "url": "https://rateyourmusic.com/genre/saya/",
+      "description": "Fast-paced, percussive traditional genre created by the Afro-Bolivian people.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Saya",
+      "url": "https://rateyourmusic.com/genre/saya/",
+      "description": "Fast-paced, percussive traditional genre created by the Afro-Bolivian people.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Tamborito",
+      "url": "https://rateyourmusic.com/genre/tamborito/",
+      "description": "Folk music and dance from Panama dating back to the 17th century.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Tamborito",
+      "url": "https://rateyourmusic.com/genre/tamborito/",
+      "description": "Folk music and dance from Panama dating back to the 17th century.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Tamborito",
+      "url": "https://rateyourmusic.com/genre/tamborito/",
+      "description": "Folk music and dance from Panama dating back to the 17th century.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Taquirari",
+      "url": "https://rateyourmusic.com/genre/taquirari/",
+      "description": "Developed by the indigenous peoples of eastern Bolivia, bringing in some elements of Hispanic Music, and featuring a syncopated rhythm.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Taquirari",
+      "url": "https://rateyourmusic.com/genre/taquirari/",
+      "description": "Developed by the indigenous peoples of eastern Bolivia, bringing in some elements of Hispanic Music, and featuring a syncopated rhythm.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Taquirari",
+      "url": "https://rateyourmusic.com/genre/taquirari/",
+      "description": "Developed by the indigenous peoples of eastern Bolivia, bringing in some elements of Hispanic Music, and featuring a syncopated rhythm.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Tonada chilena",
+      "url": "https://rateyourmusic.com/genre/tonada-chilena/",
+      "description": "Traditional folk from the Chilean countryside distinguished by its prominent melody.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Tonada chilena",
+      "url": "https://rateyourmusic.com/genre/tonada-chilena/",
+      "description": "Traditional folk from the Chilean countryside distinguished by its prominent melody.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Tonada chilena",
+      "url": "https://rateyourmusic.com/genre/tonada-chilena/",
+      "description": "Traditional folk from the Chilean countryside distinguished by its prominent melody.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Yaraví",
+      "url": "https://rateyourmusic.com/genre/yaravi/",
+      "description": "Peruvian criollo-mestizo songs with recurring themes of sadness and unrequited love, usually in 6/8 meter.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Yaraví",
+      "url": "https://rateyourmusic.com/genre/yaravi/",
+      "description": "Peruvian criollo-mestizo songs with recurring themes of sadness and unrequited love, usually in 6/8 meter.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Yaraví",
+      "url": "https://rateyourmusic.com/genre/yaravi/",
+      "description": "Peruvian criollo-mestizo songs with recurring themes of sadness and unrequited love, usually in 6/8 meter.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Zamacueca",
+      "url": "https://rateyourmusic.com/genre/zamacueca/",
+      "description": "Traditional genre and dance of 19th century Peru, sung in the minor mode and accompanied by a varying combination of guitar, vihuela, harp and cajón.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Zamacueca",
+      "url": "https://rateyourmusic.com/genre/zamacueca/",
+      "description": "Traditional genre and dance of 19th century Peru, sung in the minor mode and accompanied by a varying combination of guitar, vihuela, harp and cajón.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Zamacueca",
+      "url": "https://rateyourmusic.com/genre/zamacueca/",
+      "description": "Traditional genre and dance of 19th century Peru, sung in the minor mode and accompanied by a varying combination of guitar, vihuela, harp and cajón.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Zamba",
+      "url": "https://rateyourmusic.com/genre/zamba/",
+      "description": "Folk dance that evolved out of Peruvian Zamacueca during the 19th century.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Zamba",
+      "url": "https://rateyourmusic.com/genre/zamba/",
+      "description": "Folk dance that evolved out of Peruvian Zamacueca during the 19th century.",
+      "level": "sub-4",
+      "parent": "Hispanic American Folk Music"
+    },
+    {
+      "name": "Zamba",
+      "url": "https://rateyourmusic.com/genre/zamba/",
+      "description": "Folk dance that evolved out of Peruvian Zamacueca during the 19th century.",
+      "level": "sub-3",
+      "parent": "Hispanic American Folk Music"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Italo Pop",
+  "description": "Romantic style developed in Italy in the late 1950s including various influences such as Chanson and Schlager.",
+  "url": "https://rateyourmusic.com/genre/italo-pop/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Canzone neomelodica",
+      "url": "https://rateyourmusic.com/genre/canzone-neomelodica/",
+      "description": "Elements are derived from Canzone napoletana.",
+      "level": "sub-2",
+      "parent": "Italo Pop"
+    }
+  ]
+}

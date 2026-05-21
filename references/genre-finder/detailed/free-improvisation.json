@@ -1,0 +1,17 @@
+{
+  "name": "Free Improvisation",
+  "description": "Improvised music which, in descending from Free Jazz and classical Indeterminacy, further abandons the prescriptions of harmonic or rhythmic structures which characterized those genres.",
+  "url": "https://rateyourmusic.com/genre/free-improvisation/",
+  "parent": "Experimental",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "EAI",
+      "url": "https://rateyourmusic.com/genre/eai/",
+      "description": "Slow paced, physical, textured aesthetic - often created using unconventional instruments processed through a computer.",
+      "level": "sub-2",
+      "parent": "Free Improvisation"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Nueva canción",
+  "description": "Latin American (Nueva canción latinoamericana) and Spanish (Nueva canción española) movement during the 1960s and 1970s.",
+  "url": "https://rateyourmusic.com/genre/nueva-cancion/",
+  "parent": "Hispanic Music",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Nueva canción española",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-espanola/",
+      "description": "Arose in Spain in the 1960s, inspired in part by Nova cançó's reclaiming of Catalan regional identity, that spread across the country in regional variations.",
+      "level": "sub-3",
+      "parent": "Nueva canción"
+    },
+    {
+      "name": "Nueva canción española",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-espanola/",
+      "description": "Arose in Spain in the 1960s, inspired in part by Nova cançó's reclaiming of Catalan regional identity, that spread across the country in regional variations.",
+      "level": "sub-2",
+      "parent": "Nueva canción"
+    },
+    {
+      "name": "Nueva canción española",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-espanola/",
+      "description": "Arose in Spain in the 1960s, inspired in part by Nova cançó's reclaiming of Catalan regional identity, that spread across the country in regional variations.",
+      "level": "sub-2",
+      "parent": "Nueva canción"
+    },
+    {
+      "name": "Nueva canción latinoamericana",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-latinoamericana/",
+      "description": "Politically-charged messages associated with the rise of leftist social movements; striving for a renewal of traditional Latin and Hispanic American Folk Music expressions.",
+      "level": "sub-3",
+      "parent": "Nueva canción"
+    },
+    {
+      "name": "Nueva canción latinoamericana",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-latinoamericana/",
+      "description": "Politically-charged messages associated with the rise of leftist social movements; striving for a renewal of traditional Latin and Hispanic American Folk Music expressions.",
+      "level": "sub-2",
+      "parent": "Nueva canción"
+    },
+    {
+      "name": "Nueva canción latinoamericana",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-latinoamericana/",
+      "description": "Politically-charged messages associated with the rise of leftist social movements; striving for a renewal of traditional Latin and Hispanic American Folk Music expressions.",
+      "level": "sub-2",
+      "parent": "Nueva canción"
+    }
+  ]
+}

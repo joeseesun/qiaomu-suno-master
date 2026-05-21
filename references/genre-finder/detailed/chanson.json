@@ -1,0 +1,45 @@
+{
+  "name": "Chanson",
+  "description": "French-language Singer-Songwriters for whom the quality of the text is essential and where the rhythm follows that of the text.",
+  "url": "https://rateyourmusic.com/genre/chanson/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Chanson alternative",
+      "url": "https://rateyourmusic.com/genre/chanson-alternative/",
+      "description": "Usually politically engaged and humorous with eclectic influences of Regional Music, especially Fanfare, Musette, Jazz manouche and Romani Folk Music.",
+      "level": "sub-3",
+      "parent": "Chanson"
+    },
+    {
+      "name": "Chanson québécoise",
+      "url": "https://rateyourmusic.com/genre/chanson-quebecoise/",
+      "description": "French-language music of the Québécois singer-songwriters.",
+      "level": "sub-3",
+      "parent": "Chanson"
+    },
+    {
+      "name": "Chanson réaliste",
+      "url": "https://rateyourmusic.com/genre/chanson-realiste/",
+      "description": "Very popular in France in the late 19th century up to World War II, typically performed by female singers in a Cabaret or Vaudeville style and featuring \"realist\" lyrics.",
+      "level": "sub-3",
+      "parent": "Chanson"
+    },
+    {
+      "name": "Chanson à texte",
+      "url": "https://rateyourmusic.com/genre/chanson-a-texte/",
+      "description": "French-language songs emphasising sophisticated and poetic lyricism.",
+      "level": "sub-3",
+      "parent": "Chanson"
+    },
+    {
+      "name": "Nouvelle chanson française",
+      "url": "https://rateyourmusic.com/genre/nouvelle-chanson-francaise/",
+      "description": "Both a subgenre of Chanson and a specific scene from the 1990s incorporating alternative trends from this period and new and unusual ways within Chanson tradition.",
+      "level": "sub-3",
+      "parent": "Chanson"
+    }
+  ]
+}

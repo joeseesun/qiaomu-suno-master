@@ -1,0 +1,17 @@
+{
+  "name": "Funk Rock",
+  "description": "Incorporates prominent Funk grooves.",
+  "url": "https://rateyourmusic.com/genre/funk-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Funk Metal",
+      "url": "https://rateyourmusic.com/genre/funk-metal/",
+      "description": "Melds Funk Rock grooves with slap basslines and metallic guitarwork.",
+      "level": "sub-2",
+      "parent": "Funk Rock"
+    }
+  ]
+}

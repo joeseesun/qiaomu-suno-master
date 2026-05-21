@@ -1,0 +1,24 @@
+{
+  "name": "Eurobeat",
+  "description": "Fast-paced with roots in Hi-NRG and Italo-Disco; became mainly popular in Japan in the 1990s.",
+  "url": "https://rateyourmusic.com/genre/eurobeat/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "J-Euro",
+      "url": "https://rateyourmusic.com/genre/j-euro/",
+      "description": "Italian-oriented Japanese scene of Eurobeat, which emerged with Japanese-language covers of Italian songs in the early-to-mid-1990s.",
+      "level": "sub-3",
+      "parent": "Eurobeat"
+    },
+    {
+      "name": "J-Euro",
+      "url": "https://rateyourmusic.com/genre/j-euro/",
+      "description": "Italian-oriented Japanese scene of Eurobeat, which emerged with Japanese-language covers of Italian songs in the early-to-mid-1990s.",
+      "level": "sub-3",
+      "parent": "Eurobeat"
+    }
+  ]
+}

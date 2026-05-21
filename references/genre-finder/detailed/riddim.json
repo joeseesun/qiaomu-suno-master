@@ -1,0 +1,38 @@
+{
+  "name": "Riddim",
+  "description": "Repetitive and relatively simplistic style inspired by mid-to-late-2000s UK Dubstep, often using robotic and/or squishy sound design along with bouncy square basses and less prominent buildups.",
+  "url": "https://rateyourmusic.com/genre/riddim/",
+  "parent": "Dubstep",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Future Riddim",
+      "url": "https://rateyourmusic.com/genre/future-riddim/",
+      "description": "Melodic and futuristic style inspired by Future Bass, and to a lesser extent Colour Bass and Melodic Dubstep.",
+      "level": "sub-4",
+      "parent": "Riddim"
+    },
+    {
+      "name": "Future Riddim",
+      "url": "https://rateyourmusic.com/genre/future-riddim/",
+      "description": "Melodic and futuristic style inspired by Future Bass, and to a lesser extent Colour Bass and Melodic Dubstep.",
+      "level": "sub-4",
+      "parent": "Riddim"
+    },
+    {
+      "name": "Liquid Riddim",
+      "url": "https://rateyourmusic.com/genre/liquid-riddim/",
+      "description": "Distinct for its atmospheric production, overpowering ambience, watery synths, and melodic bass patterns.",
+      "level": "sub-4",
+      "parent": "Riddim"
+    },
+    {
+      "name": "Liquid Riddim",
+      "url": "https://rateyourmusic.com/genre/liquid-riddim/",
+      "description": "Distinct for its atmospheric production, overpowering ambience, watery synths, and melodic bass patterns.",
+      "level": "sub-4",
+      "parent": "Riddim"
+    }
+  ]
+}

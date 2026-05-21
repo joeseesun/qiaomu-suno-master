@@ -1,0 +1,36 @@
+{
+  "name": "Ambient",
+  "description": "Emphasizes texture and tone over traditional musical structure, aimed at evoking a particular atmosphere or mood.",
+  "url": "https://rateyourmusic.com/genre/ambient/",
+  "sub_genres_count": 4,
+  "sub_genres": [
+    {
+      "name": "Ambient Americana",
+      "url": "https://rateyourmusic.com/genre/ambient-americana/",
+      "description": "Made using traditional Americana and Country instrumentation, typically to evoke a pastoral atmosphere.",
+      "level": "sub",
+      "parent": "Ambient"
+    },
+    {
+      "name": "Dark Ambient",
+      "url": "https://rateyourmusic.com/genre/dark-ambient/",
+      "description": "Emphasizes an ominous, gloomy, and dissonant atmosphere.",
+      "level": "sub",
+      "parent": "Ambient"
+    },
+    {
+      "name": "Space Ambient",
+      "url": "https://rateyourmusic.com/genre/space-ambient/",
+      "description": "Flowing and relaxing synthesizer-based music derived from Progressive Electronic, often oriented around imagery of outer space.",
+      "level": "sub",
+      "parent": "Ambient"
+    },
+    {
+      "name": "Tribal Ambient",
+      "url": "https://rateyourmusic.com/genre/tribal-ambient/",
+      "description": "Combines the theory and atmosphere of Ambient with traditional instruments and sounds from around the globe.",
+      "level": "sub",
+      "parent": "Ambient"
+    }
+  ]
+}

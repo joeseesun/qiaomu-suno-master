@@ -1,0 +1,24 @@
+{
+  "name": "Mass",
+  "description": "Composition for choir, with or without instrumental accompaniment, that sets to music text from the liturgy of the Eucharist, principally from the Latin rites of the Roman Catholic Church.",
+  "url": "https://rateyourmusic.com/genre/mass/",
+  "parent": "Choral",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Requiem",
+      "url": "https://rateyourmusic.com/genre/requiem/",
+      "description": "Musical setting commemorating the deceased with text usually derived from the Roman Catholic mass of the dead.",
+      "level": "sub-4",
+      "parent": "Mass"
+    },
+    {
+      "name": "Requiem",
+      "url": "https://rateyourmusic.com/genre/requiem/",
+      "description": "Musical setting commemorating the deceased with text usually derived from the Roman Catholic mass of the dead.",
+      "level": "sub-3",
+      "parent": "Mass"
+    }
+  ]
+}

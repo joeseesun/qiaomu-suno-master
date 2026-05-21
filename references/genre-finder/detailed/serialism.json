@@ -1,0 +1,17 @@
+{
+  "name": "Serialism",
+  "description": "Compositional method in which pitches are grouped into sets (tone rows) to determine the order and frequency of their use.",
+  "url": "https://rateyourmusic.com/genre/serialism/",
+  "parent": "Modern Classical",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Integral Serialism",
+      "url": "https://rateyourmusic.com/genre/integral-serialism/",
+      "description": "Application of twelve-tone technique in early Serialism to as many compositional factors as possible (in an attempt to apply total serial control).",
+      "level": "sub-4",
+      "parent": "Serialism"
+    }
+  ]
+}

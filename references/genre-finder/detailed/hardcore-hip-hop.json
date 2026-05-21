@@ -1,0 +1,59 @@
+{
+  "name": "Hardcore Hip Hop",
+  "description": "Confrontation and aggression, whether in the lyricism, vocal delivery, hard beats, heavy production, or any combination thereof.",
+  "url": "https://rateyourmusic.com/genre/hardcore-hip-hop/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Britcore",
+      "url": "https://rateyourmusic.com/genre/britcore/",
+      "description": "British subgenre from the late 1980s and early 1990s featuring fast breakbeats and rapping.",
+      "level": "sub-2",
+      "parent": "Hardcore Hip Hop"
+    },
+    {
+      "name": "Chopper",
+      "url": "https://rateyourmusic.com/genre/chopper/",
+      "description": "Originated in the American Midwest in the 1990s; initially defined by slow jam beats rapped over with very fast flows and resonant choruses.",
+      "level": "sub-2",
+      "parent": "Hardcore Hip Hop"
+    },
+    {
+      "name": "Gangsta Rap",
+      "url": "https://rateyourmusic.com/genre/gangsta-rap/",
+      "description": "Lyrics from a gangster's perspective.",
+      "level": "sub-2",
+      "parent": "Hardcore Hip Hop"
+    },
+    {
+      "name": "Horrorcore",
+      "url": "https://rateyourmusic.com/genre/horrorcore/",
+      "description": "Lyrical and aesthetic focus on the macabre and morbid, with production generally of a darker nature than is typically found in other Hip Hop.",
+      "level": "sub-2",
+      "parent": "Hardcore Hip Hop"
+    },
+    {
+      "name": "Memphis Rap",
+      "url": "https://rateyourmusic.com/genre/memphis-rap/",
+      "description": "Minimalistic half-time drum machine programming with droning bass, often paired with aggressive rapping and a double time flow.",
+      "level": "sub-2",
+      "parent": "Hardcore Hip Hop"
+    },
+    {
+      "name": "Mid-School Hip Hop",
+      "url": "https://rateyourmusic.com/genre/mid-school-hip-hop/",
+      "description": "Based around heavy, stripped-down drum machine beats.",
+      "level": "sub-2",
+      "parent": "Hardcore Hip Hop"
+    },
+    {
+      "name": "Trap Metal",
+      "url": "https://rateyourmusic.com/genre/trap-metal/",
+      "description": "Loud, distorted 808s and basslines, as well as aggressive vocals that are usually yelled or screamed.",
+      "level": "sub-2",
+      "parent": "Hardcore Hip Hop"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Classical Music",
+  "description": "Part of a broad generalization about the structure and function of music throughout history across the globe, describing traditions distinct from Traditional Folk Music and popular music.",
+  "url": "https://rateyourmusic.com/genre/classical-music/",
+  "sub_genres_count": 11,
+  "sub_genres": [
+    {
+      "name": "Buganda Royal Court Music",
+      "url": "https://rateyourmusic.com/genre/buganda-royal-court-music/",
+      "description": "Highest traditional and refined musical forms of Buganda, reserved for the Kabaka (the king of Buganda).",
+      "level": "sub",
+      "parent": "Classical Music"
+    },
+    {
+      "name": "East Asian Classical Music",
+      "url": "https://rateyourmusic.com/genre/east-asian-classical-music/",
+      "description": "Covers all the forms of pan-East Asian Classical Music sharing origins in Chinese Classical Music.",
+      "level": "sub",
+      "parent": "Classical Music"
+    },
+    {
+      "name": "Inkiranya",
+      "url": "https://rateyourmusic.com/genre/inkiranya/",
+      "description": "Influential drumming style originating in Burundi carried out by a percussion ensemble.",
+      "level": "sub",
+      "parent": "Classical Music"
+    },
+    {
+      "name": "Kete",
+      "url": "https://rateyourmusic.com/genre/kete/",
+      "description": "Traditional percussive style played at special occasions in the courts of high ranking Asante chieftains.",
+      "level": "sub",
+      "parent": "Classical Music"
+    },
+    {
+      "name": "Maqāmic Music",
+      "url": "https://rateyourmusic.com/genre/maqamic-music/",
+      "description": "Originating in the Middle East and founded upon maqāmāt scales, encompassing an extensive and diverse cultural and musical legacy that spans from Morocco to Southeast Asia.",
+      "level": "sub",
+      "parent": "Classical Music"
+    },
+    {
+      "name": "Minyue",
+      "url": "https://rateyourmusic.com/genre/minyue/",
+      "description": "Modernized composition for Chinese instruments on the basis of Chinese Folk Music, incorporating aspects of Western Classical Music.",
+      "level": "sub",
+      "parent": "Classical Music"
+    },
+    {
+      "name": "Pìobaireachd",
+      "url": "https://rateyourmusic.com/genre/piobaireachd/",
+      "description": "Art tradition which originated in the Scottish Highlands, usually associated with the Great Highland bagpipes.",
+      "level": "sub",
+      "parent": "Classical Music"
+    },
+    {
+      "name": "South Asian Classical Music",
+      "url": "https://rateyourmusic.com/genre/south-asian-classical-music/",
+      "description": "Meta-genre that covers the diverse forms of Classical Music from South Asia.",
+      "level": "sub",
+      "parent": "Classical Music"
+    },
+    {
+      "name": "Southeast Asian Classical Music",
+      "url": "https://rateyourmusic.com/genre/southeast-asian-classical-music/",
+      "description": "Formal music developed in Southeast Asian countries (Burma, Cambodia, Thailand, Indonesia, Malaysia, Philippines, East Timor, Brunei Darussalam) usually in form of gong-chime orchestras such as gamelan, kulintang and pi phat.",
+      "level": "sub",
+      "parent": "Classical Music"
+    },
+    {
+      "name": "Tibetan Buddhist Chant",
+      "url": "https://rateyourmusic.com/genre/tibetan-buddhist-chant/",
+      "description": "Ritual vocal music of the Tibetan Buddhist faith characterized by its low pitch, droning repetitiousness, and frequent use of overtone singing.",
+      "level": "sub",
+      "parent": "Classical Music"
+    },
+    {
+      "name": "Western Classical Music",
+      "url": "https://rateyourmusic.com/genre/western-classical-music/",
+      "description": "Broad range of art music associated with the aristocracy that originated in Europe around 500 AD.",
+      "level": "sub",
+      "parent": "Classical Music"
+    }
+  ]
+}

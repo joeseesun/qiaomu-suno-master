@@ -1,0 +1,192 @@
+{
+  "name": "West African Music",
+  "description": "Traditional and regional popular music from the Western portion of Sub-Saharan Africa.",
+  "url": "https://rateyourmusic.com/genre/west-african-music/",
+  "parent": "African Music",
+  "level": "sub-2",
+  "children_count": 26,
+  "children": [
+    {
+      "name": "Afro-Funk",
+      "url": "https://rateyourmusic.com/genre/afro-funk/",
+      "description": "Strongly mixed with traditional and more modern genres in sub-Saharan West Africa.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Afro-Rock",
+      "url": "https://rateyourmusic.com/genre/afro-rock/",
+      "description": "Incorporates West African influences; initially emerged in the early 1970s.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Afrobeat",
+      "url": "https://rateyourmusic.com/genre/afrobeat/",
+      "description": "Merges West African styles such as traditional Yoruba Music and Highlife with elements of Funk and  Jazz, typically resulting in extended improvisatory jams with call-and-response vocals.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Akan Music",
+      "url": "https://rateyourmusic.com/genre/akan-music/",
+      "description": "Music of the Akan people of Ghana and Côte d'Ivoire, including a variety of traditional and neo-traditional styles which are based on some of the oldest traditions in West Africa.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Balani Show",
+      "url": "https://rateyourmusic.com/genre/balani-show/",
+      "description": "Emerged in the late 1990s in Mali; peaks at around 170BPM and prominently features looping, cut-up balafon samples.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Dagomba Music",
+      "url": "https://rateyourmusic.com/genre/dagomba-music/",
+      "description": "Music of the Dagomba people of northern Ghana.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Ewe Music",
+      "url": "https://rateyourmusic.com/genre/ewe-music/",
+      "description": "Music of the Ewe people, found in southern Togo, southeastern Ghana and southwestern Benin.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Fon Music",
+      "url": "https://rateyourmusic.com/genre/fon-music/",
+      "description": "The traditions of the Fon people, originating in central and southeastern Benin as well as the southwestern region of Nigeria.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Fula Music",
+      "url": "https://rateyourmusic.com/genre/fula-music/",
+      "description": "Music of the Fula, Fulani, or Fulɓe people, one of the largest ethnic groups in the Sahel region, present from the far West African countries of Senegal and Mauritania to Central African Cameroon with the biggest population located in Nigeria.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Griot Music",
+      "url": "https://rateyourmusic.com/genre/griot-music/",
+      "description": "Type of hereditary professional caste in West African Music culture that preserves tradition.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Gumbe",
+      "url": "https://rateyourmusic.com/genre/gumbe/",
+      "description": "Vocal and percussive tradition from Guinea-Bissau developed in the 1970s as a fusion of various traditional genres in the country; sometimes used as a catch-all term for the music of Guinea-Bissau in general.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Hausa Music",
+      "url": "https://rateyourmusic.com/genre/hausa-music/",
+      "description": "Hausa are one of the largest ethnic groups in Africa, living mainly in northern Nigeria and southern Niger in west Africa.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Highlife",
+      "url": "https://rateyourmusic.com/genre/highlife/",
+      "description": "Originally began along the Ghanaian coast in the 1920s as a blend of western brass band instrumentation and rhythms with traditional Akan Music and Dagomba Music.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Hipco",
+      "url": "https://rateyourmusic.com/genre/hipco/",
+      "description": "Developed in Liberia, often featuring conscious and political lyrics and influences from local dance styles.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Hiplife",
+      "url": "https://rateyourmusic.com/genre/hiplife/",
+      "description": "Fusion of Ghanaian Highlife with Hip Hop.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Igbo Music",
+      "url": "https://rateyourmusic.com/genre/igbo-music/",
+      "description": "Music of the Igbo people, who live mainly in a region of southeastern Nigeria often known as \"Igboland\".",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Kabye Folk Music",
+      "url": "https://rateyourmusic.com/genre/kabye-folk-music/",
+      "description": "Traditional Folk Music of the Kabye people of northern Togo, including some of the most singular styles that can be found in West Africa.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Kru Music",
+      "url": "https://rateyourmusic.com/genre/kru-music/",
+      "description": "Music of the Kru peoples indigenous to Liberia and Ivory Coast.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Mande Music",
+      "url": "https://rateyourmusic.com/genre/mande-music/",
+      "description": "Encompasses the diverse forms of the Mande peoples, a group of West African ethnic groups who speak any of the Mande languages.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Mossi Music",
+      "url": "https://rateyourmusic.com/genre/mossi-music/",
+      "description": "Music of the Mossi people of Burkina Faso.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Songhai Music",
+      "url": "https://rateyourmusic.com/genre/songhai-music/",
+      "description": "Music of the Songhai people of Mali, who descend from the ancient Songhai Empire which once ruled most of interior West Africa.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Tradi-moderne ivoirien",
+      "url": "https://rateyourmusic.com/genre/tradi-moderne-ivoirien/",
+      "description": "Blends traditional Ivorian songs, rhythms and instruments with modern electric and electronic instruments.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Wassoulou",
+      "url": "https://rateyourmusic.com/genre/wassoulou/",
+      "description": "Traditionally sung by women and containing lyrics relating to women's issues such as childbearing and fertility.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Wolof Music",
+      "url": "https://rateyourmusic.com/genre/wolof-music/",
+      "description": "Music of the Wolof people of Senegal and The Gambia comprising a wide variety of West African Music traditions influenced by nearby cultures.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Yoruba Music",
+      "url": "https://rateyourmusic.com/genre/yoruba-music/",
+      "description": "Music of the Yoruba people of southwestern Nigeria and Benin, comprising a variety of ancient and modern traditions crucial to West African Music.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    },
+    {
+      "name": "Zouglou",
+      "url": "https://rateyourmusic.com/genre/zouglou/",
+      "description": "Ivorian dance music that began in the early 1990s, with socially conscious lyrics and driving rhythms.",
+      "level": "sub-3",
+      "parent": "West African Music"
+    }
+  ]
+}

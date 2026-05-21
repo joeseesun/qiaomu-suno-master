@@ -1,0 +1,31 @@
+{
+  "name": "Portuguese Music",
+  "description": "Music of Portugal.",
+  "url": "https://rateyourmusic.com/genre/portuguese-music/",
+  "parent": "Iberian Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Música de intervenção",
+      "url": "https://rateyourmusic.com/genre/musica-de-intervencao/",
+      "description": "Wave of Portuguese singer-songwriters in the 1960s and 1970s who agitated against the Estado Novo regime and the colonial war waged by Portugal against national liberation fronts.",
+      "level": "sub-4",
+      "parent": "Portuguese Music"
+    },
+    {
+      "name": "Pimba",
+      "url": "https://rateyourmusic.com/genre/pimba/",
+      "description": "Humorous lyrics and a basic harmonic structure.",
+      "level": "sub-4",
+      "parent": "Portuguese Music"
+    },
+    {
+      "name": "Portuguese Folk Music",
+      "url": "https://rateyourmusic.com/genre/portuguese-folk-music/",
+      "description": "Traditional Folk Music from Portugal.",
+      "level": "sub-4",
+      "parent": "Portuguese Music"
+    }
+  ]
+}

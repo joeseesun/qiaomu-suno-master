@@ -1,0 +1,619 @@
+{
+  "name": "European Folk Music",
+  "description": "Encompasses numerous folk traditions found in Europe.",
+  "url": "https://rateyourmusic.com/genre/european-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 87,
+  "children": [
+    {
+      "name": "Alpine Folk Music",
+      "url": "https://rateyourmusic.com/genre/alpine-folk-music/",
+      "description": "Traditional Folk Music of the Alps, including parts of Germany, Austria, Slovenia, Switzerland, and Italy.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Alpine Folk Music",
+      "url": "https://rateyourmusic.com/genre/alpine-folk-music/",
+      "description": "Traditional Folk Music of the Alps, including parts of Germany, Austria, Slovenia, Switzerland, and Italy.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Alpine Folk Music",
+      "url": "https://rateyourmusic.com/genre/alpine-folk-music/",
+      "description": "Traditional Folk Music of the Alps, including parts of Germany, Austria, Slovenia, Switzerland, and Italy.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Balkan Folk Music",
+      "url": "https://rateyourmusic.com/genre/balkan-folk-music/",
+      "description": "Traditional Folk Music of the Balkan region of Southeastern Europe.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Balkan Folk Music",
+      "url": "https://rateyourmusic.com/genre/balkan-folk-music/",
+      "description": "Traditional Folk Music of the Balkan region of Southeastern Europe.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Balkan Folk Music",
+      "url": "https://rateyourmusic.com/genre/balkan-folk-music/",
+      "description": "Traditional Folk Music of the Balkan region of Southeastern Europe.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Baltic Folk Music",
+      "url": "https://rateyourmusic.com/genre/baltic-folk-music/",
+      "description": "Traditional Folk Music of the Balts.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Baltic Folk Music",
+      "url": "https://rateyourmusic.com/genre/baltic-folk-music/",
+      "description": "Traditional Folk Music of the Balts.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Baltic Folk Music",
+      "url": "https://rateyourmusic.com/genre/baltic-folk-music/",
+      "description": "Traditional Folk Music of the Balts.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Balto-Finnic Folk Music",
+      "url": "https://rateyourmusic.com/genre/balto-finnic-folk-music/",
+      "description": "Traditional Folk Music of Balto-Finnic peoples.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Balto-Finnic Folk Music",
+      "url": "https://rateyourmusic.com/genre/balto-finnic-folk-music/",
+      "description": "Traditional Folk Music of Balto-Finnic peoples.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Balto-Finnic Folk Music",
+      "url": "https://rateyourmusic.com/genre/balto-finnic-folk-music/",
+      "description": "Traditional Folk Music of Balto-Finnic peoples.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Basque Folk Music",
+      "url": "https://rateyourmusic.com/genre/basque-folk-music/",
+      "description": "Traditional Folk Music of the Basque people.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Basque Folk Music",
+      "url": "https://rateyourmusic.com/genre/basque-folk-music/",
+      "description": "Traditional Folk Music of the Basque people.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Basque Folk Music",
+      "url": "https://rateyourmusic.com/genre/basque-folk-music/",
+      "description": "Traditional Folk Music of the Basque people.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Catalan Folk Music",
+      "url": "https://rateyourmusic.com/genre/catalan-folk-music/",
+      "description": "Blend of local styles and influences from the Iberian Peninsula region and the Catalonian area of Southern France.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Catalan Folk Music",
+      "url": "https://rateyourmusic.com/genre/catalan-folk-music/",
+      "description": "Blend of local styles and influences from the Iberian Peninsula region and the Catalonian area of Southern France.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Catalan Folk Music",
+      "url": "https://rateyourmusic.com/genre/catalan-folk-music/",
+      "description": "Blend of local styles and influences from the Iberian Peninsula region and the Catalonian area of Southern France.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Celtic Folk Music",
+      "url": "https://rateyourmusic.com/genre/celtic-folk-music/",
+      "description": "Derived from Celtic traditions of Ireland, Scotland, Wales, Cornwall, the Isle of Man, Brittany, Galicia, Cantabria, Asturias, and Trás-os-Montes (Portugal).",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Celtic Folk Music",
+      "url": "https://rateyourmusic.com/genre/celtic-folk-music/",
+      "description": "Derived from Celtic traditions of Ireland, Scotland, Wales, Cornwall, the Isle of Man, Brittany, Galicia, Cantabria, Asturias, and Trás-os-Montes (Portugal).",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Celtic Folk Music",
+      "url": "https://rateyourmusic.com/genre/celtic-folk-music/",
+      "description": "Derived from Celtic traditions of Ireland, Scotland, Wales, Cornwall, the Isle of Man, Brittany, Galicia, Cantabria, Asturias, and Trás-os-Montes (Portugal).",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Dutch Folk Music",
+      "url": "https://rateyourmusic.com/genre/dutch-folk-music/",
+      "description": "Traditional Folk Music from the Netherlands.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Dutch Folk Music",
+      "url": "https://rateyourmusic.com/genre/dutch-folk-music/",
+      "description": "Traditional Folk Music from the Netherlands.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Dutch Folk Music",
+      "url": "https://rateyourmusic.com/genre/dutch-folk-music/",
+      "description": "Traditional Folk Music from the Netherlands.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "English Folk Music",
+      "url": "https://rateyourmusic.com/genre/english-folk-music/",
+      "description": "Musical traditions of the English people, primarily divided into dance music and folksongs.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "English Folk Music",
+      "url": "https://rateyourmusic.com/genre/english-folk-music/",
+      "description": "Musical traditions of the English people, primarily divided into dance music and folksongs.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "English Folk Music",
+      "url": "https://rateyourmusic.com/genre/english-folk-music/",
+      "description": "Musical traditions of the English people, primarily divided into dance music and folksongs.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Flemish Folk Music",
+      "url": "https://rateyourmusic.com/genre/flemish-folk-music/",
+      "description": "Traditional Folk Music of the Flanders region in northern Belgium, typically sung in the local Flemish dialect.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Flemish Folk Music",
+      "url": "https://rateyourmusic.com/genre/flemish-folk-music/",
+      "description": "Traditional Folk Music of the Flanders region in northern Belgium, typically sung in the local Flemish dialect.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Flemish Folk Music",
+      "url": "https://rateyourmusic.com/genre/flemish-folk-music/",
+      "description": "Traditional Folk Music of the Flanders region in northern Belgium, typically sung in the local Flemish dialect.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "French Folk Music",
+      "url": "https://rateyourmusic.com/genre/french-folk-music/",
+      "description": "Traditional Folk Music of metropolitan France, including that of its regional cultures.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "French Folk Music",
+      "url": "https://rateyourmusic.com/genre/french-folk-music/",
+      "description": "Traditional Folk Music of metropolitan France, including that of its regional cultures.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "French Folk Music",
+      "url": "https://rateyourmusic.com/genre/french-folk-music/",
+      "description": "Traditional Folk Music of metropolitan France, including that of its regional cultures.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "German Folk Music",
+      "url": "https://rateyourmusic.com/genre/german-folk-music/",
+      "description": "Traditional Folk Music of Germany.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "German Folk Music",
+      "url": "https://rateyourmusic.com/genre/german-folk-music/",
+      "description": "Traditional Folk Music of Germany.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "German Folk Music",
+      "url": "https://rateyourmusic.com/genre/german-folk-music/",
+      "description": "Traditional Folk Music of Germany.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Għana",
+      "url": "https://rateyourmusic.com/genre/ghana/",
+      "description": "Indigenous Maltese folk which consists of quatrains, ideally improvised, following a rhyme scheme of a-b-c-b, and sung to traditional tunes, usually accompanied by guitars.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Għana",
+      "url": "https://rateyourmusic.com/genre/ghana/",
+      "description": "Indigenous Maltese folk which consists of quatrains, ideally improvised, following a rhyme scheme of a-b-c-b, and sung to traditional tunes, usually accompanied by guitars.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Għana",
+      "url": "https://rateyourmusic.com/genre/ghana/",
+      "description": "Indigenous Maltese folk which consists of quatrains, ideally improvised, following a rhyme scheme of a-b-c-b, and sung to traditional tunes, usually accompanied by guitars.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Hungarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/hungarian-folk-music/",
+      "description": "Traditional Folk Music of the Hungarians.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Hungarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/hungarian-folk-music/",
+      "description": "Traditional Folk Music of the Hungarians.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Hungarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/hungarian-folk-music/",
+      "description": "Traditional Folk Music of the Hungarians.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Istrian Folk Music",
+      "url": "https://rateyourmusic.com/genre/istrian-folk-music/",
+      "description": "Traditional Folk Music of Istria.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Istrian Folk Music",
+      "url": "https://rateyourmusic.com/genre/istrian-folk-music/",
+      "description": "Traditional Folk Music of Istria.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Istrian Folk Music",
+      "url": "https://rateyourmusic.com/genre/istrian-folk-music/",
+      "description": "Traditional Folk Music of Istria.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Italian Folk Music",
+      "url": "https://rateyourmusic.com/genre/italian-folk-music/",
+      "description": "Folk traditions of Italy.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Italian Folk Music",
+      "url": "https://rateyourmusic.com/genre/italian-folk-music/",
+      "description": "Folk traditions of Italy.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Italian Folk Music",
+      "url": "https://rateyourmusic.com/genre/italian-folk-music/",
+      "description": "Folk traditions of Italy.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Luxembourgish Folk Music",
+      "url": "https://rateyourmusic.com/genre/luxembourgish-folk-music/",
+      "description": "Traditional folk music of the Luxembourgish people.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Luxembourgish Folk Music",
+      "url": "https://rateyourmusic.com/genre/luxembourgish-folk-music/",
+      "description": "Traditional folk music of the Luxembourgish people.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Luxembourgish Folk Music",
+      "url": "https://rateyourmusic.com/genre/luxembourgish-folk-music/",
+      "description": "Traditional folk music of the Luxembourgish people.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Neo-Medieval Folk",
+      "url": "https://rateyourmusic.com/genre/neo-medieval-folk/",
+      "description": "Emulates European Folk Music from the Middle Ages, originating in Germany in the 1980s.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Neo-Medieval Folk",
+      "url": "https://rateyourmusic.com/genre/neo-medieval-folk/",
+      "description": "Emulates European Folk Music from the Middle Ages, originating in Germany in the 1980s.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Neo-Medieval Folk",
+      "url": "https://rateyourmusic.com/genre/neo-medieval-folk/",
+      "description": "Emulates European Folk Music from the Middle Ages, originating in Germany in the 1980s.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Neo-Pagan Folk",
+      "url": "https://rateyourmusic.com/genre/neo-pagan-folk/",
+      "description": "Emulates music played by pagan people, particularly from pre-Christian Europe.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Neo-Pagan Folk",
+      "url": "https://rateyourmusic.com/genre/neo-pagan-folk/",
+      "description": "Emulates music played by pagan people, particularly from pre-Christian Europe.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Neo-Pagan Folk",
+      "url": "https://rateyourmusic.com/genre/neo-pagan-folk/",
+      "description": "Emulates music played by pagan people, particularly from pre-Christian Europe.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Nordic Folk Music",
+      "url": "https://rateyourmusic.com/genre/nordic-folk-music/",
+      "description": "Folk of Nordic countries of Denmark, Finland, Iceland, Norway, and Sweden.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Nordic Folk Music",
+      "url": "https://rateyourmusic.com/genre/nordic-folk-music/",
+      "description": "Folk of Nordic countries of Denmark, Finland, Iceland, Norway, and Sweden.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Nordic Folk Music",
+      "url": "https://rateyourmusic.com/genre/nordic-folk-music/",
+      "description": "Folk of Nordic countries of Denmark, Finland, Iceland, Norway, and Sweden.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Polka",
+      "url": "https://rateyourmusic.com/genre/polka/",
+      "description": "Lively style and corresponding dance originating in Central and Eastern Europe, featuring a 2/4 cut time beat and instruments which vary by region.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Polka",
+      "url": "https://rateyourmusic.com/genre/polka/",
+      "description": "Lively style and corresponding dance originating in Central and Eastern Europe, featuring a 2/4 cut time beat and instruments which vary by region.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Polka",
+      "url": "https://rateyourmusic.com/genre/polka/",
+      "description": "Lively style and corresponding dance originating in Central and Eastern Europe, featuring a 2/4 cut time beat and instruments which vary by region.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Portuguese Folk Music",
+      "url": "https://rateyourmusic.com/genre/portuguese-folk-music/",
+      "description": "Traditional Folk Music from Portugal.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Portuguese Folk Music",
+      "url": "https://rateyourmusic.com/genre/portuguese-folk-music/",
+      "description": "Traditional Folk Music from Portugal.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Portuguese Folk Music",
+      "url": "https://rateyourmusic.com/genre/portuguese-folk-music/",
+      "description": "Traditional Folk Music from Portugal.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Romanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/romanian-folk-music/",
+      "description": "Traditional Folk Music of the Romanians.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Romanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/romanian-folk-music/",
+      "description": "Traditional Folk Music of the Romanians.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Romanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/romanian-folk-music/",
+      "description": "Traditional Folk Music of the Romanians.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Slavic Folk Music",
+      "url": "https://rateyourmusic.com/genre/slavic-folk-music/",
+      "description": "Traditional Folk Music native to Slavic peoples.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Slavic Folk Music",
+      "url": "https://rateyourmusic.com/genre/slavic-folk-music/",
+      "description": "Traditional Folk Music native to Slavic peoples.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Slavic Folk Music",
+      "url": "https://rateyourmusic.com/genre/slavic-folk-music/",
+      "description": "Traditional Folk Music native to Slavic peoples.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Spanish Folk Music",
+      "url": "https://rateyourmusic.com/genre/spanish-folk-music/",
+      "description": "Traditional Folk Music of Spain, widely diverse due to the distinct culture and traditions of the country's different regions.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Spanish Folk Music",
+      "url": "https://rateyourmusic.com/genre/spanish-folk-music/",
+      "description": "Traditional Folk Music of Spain, widely diverse due to the distinct culture and traditions of the country's different regions.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Spanish Folk Music",
+      "url": "https://rateyourmusic.com/genre/spanish-folk-music/",
+      "description": "Traditional Folk Music of Spain, widely diverse due to the distinct culture and traditions of the country's different regions.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Volga-Ural Folk Music",
+      "url": "https://rateyourmusic.com/genre/volga-ural-folk-music/",
+      "description": "Traditional Folk Music of the Volga-Ural region in the European Russia.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Volga-Ural Folk Music",
+      "url": "https://rateyourmusic.com/genre/volga-ural-folk-music/",
+      "description": "Traditional Folk Music of the Volga-Ural region in the European Russia.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Volga-Ural Folk Music",
+      "url": "https://rateyourmusic.com/genre/volga-ural-folk-music/",
+      "description": "Traditional Folk Music of the Volga-Ural region in the European Russia.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Walloon Folk Music",
+      "url": "https://rateyourmusic.com/genre/walloon-folk-music/",
+      "description": "Traditional Folk Music of Wallonia, the mostly French-speaking southern region of Belgium which also includes a few Flemish and German minorities.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Walloon Folk Music",
+      "url": "https://rateyourmusic.com/genre/walloon-folk-music/",
+      "description": "Traditional Folk Music of Wallonia, the mostly French-speaking southern region of Belgium which also includes a few Flemish and German minorities.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Walloon Folk Music",
+      "url": "https://rateyourmusic.com/genre/walloon-folk-music/",
+      "description": "Traditional Folk Music of Wallonia, the mostly French-speaking southern region of Belgium which also includes a few Flemish and German minorities.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "White Voice",
+      "url": "https://rateyourmusic.com/genre/white-voice/",
+      "description": "Traditional form of vocal music of Eastern European peoples.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "White Voice",
+      "url": "https://rateyourmusic.com/genre/white-voice/",
+      "description": "Traditional form of vocal music of Eastern European peoples.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "White Voice",
+      "url": "https://rateyourmusic.com/genre/white-voice/",
+      "description": "Traditional form of vocal music of Eastern European peoples.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Yiddish Folksong",
+      "url": "https://rateyourmusic.com/genre/yiddish-folksong/",
+      "description": "Traditional folk developed in Ashkenazi Jewish communities, particularly those of Yiddish-speaking Eastern and Central Europe.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Yiddish Folksong",
+      "url": "https://rateyourmusic.com/genre/yiddish-folksong/",
+      "description": "Traditional folk developed in Ashkenazi Jewish communities, particularly those of Yiddish-speaking Eastern and Central Europe.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    },
+    {
+      "name": "Yiddish Folksong",
+      "url": "https://rateyourmusic.com/genre/yiddish-folksong/",
+      "description": "Traditional folk developed in Ashkenazi Jewish communities, particularly those of Yiddish-speaking Eastern and Central Europe.",
+      "level": "sub-3",
+      "parent": "European Folk Music"
+    }
+  ]
+}

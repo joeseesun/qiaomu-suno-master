@@ -1,0 +1,73 @@
+{
+  "name": "Sufi Music",
+  "description": "Covering the various musical traditions of Sufis.",
+  "url": "https://rateyourmusic.com/genre/sufi-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Banga",
+      "url": "https://rateyourmusic.com/genre/banga/",
+      "description": "Sufi ritual trance music of southern Tunisia performed by Black communities.",
+      "level": "sub-2",
+      "parent": "Sufi Music"
+    },
+    {
+      "name": "Jilala Music",
+      "url": "https://rateyourmusic.com/genre/jilala-music/",
+      "description": "Music of the Jilala Sufi order, most notably used in healing trance rituals.",
+      "level": "sub-2",
+      "parent": "Sufi Music"
+    },
+    {
+      "name": "Kafi",
+      "url": "https://rateyourmusic.com/genre/kafi/",
+      "description": "Sufi vocal style popular in Pakistan, differentiated from Qawwali by its small ensemble size and simple arrangements.",
+      "level": "sub-2",
+      "parent": "Sufi Music"
+    },
+    {
+      "name": "Manzuma",
+      "url": "https://rateyourmusic.com/genre/manzuma/",
+      "description": "Melodic, devotional music performed by Sufi Islami communities in Ethiopia and neighboring countries",
+      "level": "sub-2",
+      "parent": "Sufi Music"
+    },
+    {
+      "name": "Qawwali",
+      "url": "https://rateyourmusic.com/genre/qawwali/",
+      "description": "Sufi Music in India and Pakistan using the raga and tala templates of Hindustani Classical Music.",
+      "level": "sub-2",
+      "parent": "Sufi Music"
+    },
+    {
+      "name": "Rapai dabõih",
+      "url": "https://rateyourmusic.com/genre/rapai-daboih/",
+      "description": "Religious music meant to accompany the dabõih ceremony of the Acehnese people.",
+      "level": "sub-2",
+      "parent": "Sufi Music"
+    },
+    {
+      "name": "Sufi Rock",
+      "url": "https://rateyourmusic.com/genre/sufi-rock/",
+      "description": "Pakistani subgenre rooted in Sufi tradition, featuring South Asian instruments like the dhol, tabla, and sitar within a Rock band format with lyrics and imagery inspired by traditional Sufi poets.",
+      "level": "sub-2",
+      "parent": "Sufi Music"
+    },
+    {
+      "name": "Sufiana kalam",
+      "url": "https://rateyourmusic.com/genre/sufiana-kalam/",
+      "description": "Classical music from Kashmir, the northernmost part of the Indian subcontinent.",
+      "level": "sub-2",
+      "parent": "Sufi Music"
+    },
+    {
+      "name": "Turkish Mevlevi Music",
+      "url": "https://rateyourmusic.com/genre/turkish-mevlevi-music/",
+      "description": "Traditional music performed among Turkish practitioners of the Mevlevi order of Sufism.",
+      "level": "sub-2",
+      "parent": "Sufi Music"
+    }
+  ]
+}

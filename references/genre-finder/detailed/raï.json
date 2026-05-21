@@ -1,0 +1,38 @@
+{
+  "name": "Raï",
+  "description": "Originated in Algeria in the 1920s as a form of Bedouin Music, blending influences from various rural and urban genres.",
+  "url": "https://rateyourmusic.com/genre/rai/",
+  "parent": "Maghrebi Music",
+  "level": "sub-4",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Pop Raï",
+      "url": "https://rateyourmusic.com/genre/pop-rai/",
+      "description": "Fuses melodic sensibilities into the traditional Raï structure, with increased utilization of synthesizers, guitars, and drum machines.",
+      "level": "sub-5",
+      "parent": "Raï"
+    },
+    {
+      "name": "Pop Raï",
+      "url": "https://rateyourmusic.com/genre/pop-rai/",
+      "description": "Fuses melodic sensibilities into the traditional Raï structure, with increased utilization of synthesizers, guitars, and drum machines.",
+      "level": "sub-3",
+      "parent": "Raï"
+    },
+    {
+      "name": "Traditional Raï",
+      "url": "https://rateyourmusic.com/genre/traditional-rai/",
+      "description": "Original folk of the popular Algerian Raï, combining various rural and cabaret styles with Bedouin rhythms.",
+      "level": "sub-5",
+      "parent": "Raï"
+    },
+    {
+      "name": "Traditional Raï",
+      "url": "https://rateyourmusic.com/genre/traditional-rai/",
+      "description": "Original folk of the popular Algerian Raï, combining various rural and cabaret styles with Bedouin rhythms.",
+      "level": "sub-3",
+      "parent": "Raï"
+    }
+  ]
+}

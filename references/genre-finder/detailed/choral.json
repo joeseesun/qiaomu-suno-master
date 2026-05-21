@@ -1,0 +1,31 @@
+{
+  "name": "Choral",
+  "description": "Choir-sung classical works covering periods from medieval music (an early form being Gregorian Chant) up to present day.",
+  "url": "https://rateyourmusic.com/genre/choral/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Choral Concerto",
+      "url": "https://rateyourmusic.com/genre/choral-concerto/",
+      "description": "Composition for unaccompanied choir, set to sacred texts of Eastern Orthodox tradition.",
+      "level": "sub-3",
+      "parent": "Choral"
+    },
+    {
+      "name": "Choral Symphony",
+      "url": "https://rateyourmusic.com/genre/choral-symphony/",
+      "description": "Combines symphonic Orchestral Music forces & structure with vocal parts for choir.",
+      "level": "sub-3",
+      "parent": "Choral"
+    },
+    {
+      "name": "Mass",
+      "url": "https://rateyourmusic.com/genre/mass/",
+      "description": "Composition for choir, with or without instrumental accompaniment, that sets to music text from the liturgy of the Eucharist, principally from the Latin rites of the Roman Catholic Church.",
+      "level": "sub-3",
+      "parent": "Choral"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tracker Music",
+  "description": "Vertical text-based step-sequencer software sampler music in the first and second gen module formats like .MOD, .MED, .S3M, .XM and .IT.",
+  "url": "https://rateyourmusic.com/genre/tracker-music/",
+  "parent": "Sequencer & Tracker",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Amigacore",
+      "url": "https://rateyourmusic.com/genre/amigacore/",
+      "description": "Gabber-like forms of Hardcore [EDM] written in first-gen trackers for the Amiga like ProTracker and OctaMED, resulting in a minimalistic raw lo-fi sound.",
+      "level": "sub-4",
+      "parent": "Tracker Music"
+    },
+    {
+      "name": "Demostyle",
+      "url": "https://rateyourmusic.com/genre/demostyle/",
+      "description": "Traditional eclectic style of the Demoscene with a special emphasis on tracker techniques and samples, and combining numerous elements of completely different genres - from Italo-Disco, Progressive Electronic and Funk to Belgian Techno, Ambient and Drum and Bass.",
+      "level": "sub-4",
+      "parent": "Tracker Music"
+    }
+  ]
+}

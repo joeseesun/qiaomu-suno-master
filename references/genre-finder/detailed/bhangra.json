@@ -1,0 +1,17 @@
+{
+  "name": "Bhangra",
+  "description": "Percussion-driven blend of Punjabi Folk Music with modern Pop, with its name coming from a traditional folk dance celebrating the harvest.",
+  "url": "https://rateyourmusic.com/genre/bhangra/",
+  "parent": "South Asian Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Folkhop",
+      "url": "https://rateyourmusic.com/genre/folkhop/",
+      "description": "Influenced by Hip Hop, including looped beats with Bhangra instrumentation and rapped vocals.",
+      "level": "sub-4",
+      "parent": "Bhangra"
+    }
+  ]
+}

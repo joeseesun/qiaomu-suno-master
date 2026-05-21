@@ -1,0 +1,31 @@
+{
+  "name": "Canadian Maritime Folk",
+  "description": "Traditional folk of Canada's Maritimes (Nova Scotia, Prince Edward Island, and New Brunswick).",
+  "url": "https://rateyourmusic.com/genre/canadian-maritime-folk/",
+  "parent": "Canadian Folk Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Cape Breton Folk Music",
+      "url": "https://rateyourmusic.com/genre/cape-breton-folk-music/",
+      "description": "Celtic Folk Music that emerged in Cape Breton, an island at the eastern shore of Nova Scotia, through immigrants from Scotland and Ireland.",
+      "level": "sub-4",
+      "parent": "Canadian Maritime Folk"
+    },
+    {
+      "name": "Cape Breton Folk Music",
+      "url": "https://rateyourmusic.com/genre/cape-breton-folk-music/",
+      "description": "Celtic Folk Music that emerged in Cape Breton, an island at the eastern shore of Nova Scotia, through immigrants from Scotland and Ireland.",
+      "level": "sub-4",
+      "parent": "Canadian Maritime Folk"
+    },
+    {
+      "name": "Cape Breton Folk Music",
+      "url": "https://rateyourmusic.com/genre/cape-breton-folk-music/",
+      "description": "Celtic Folk Music that emerged in Cape Breton, an island at the eastern shore of Nova Scotia, through immigrants from Scotland and Ireland.",
+      "level": "sub-4",
+      "parent": "Canadian Maritime Folk"
+    }
+  ]
+}

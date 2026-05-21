@@ -1,0 +1,52 @@
+{
+  "name": "Renaissance Music",
+  "description": "Encompasses Western Classical Music from the 15th to 16th centuries.",
+  "url": "https://rateyourmusic.com/genre/renaissance-music/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Contenance angloise",
+      "url": "https://rateyourmusic.com/genre/contenance-angloise/",
+      "description": "Distinct style of Polyphonic Chant developed in fifteenth-century England.",
+      "level": "sub-3",
+      "parent": "Renaissance Music"
+    },
+    {
+      "name": "Contenance angloise",
+      "url": "https://rateyourmusic.com/genre/contenance-angloise/",
+      "description": "Distinct style of Polyphonic Chant developed in fifteenth-century England.",
+      "level": "sub-3",
+      "parent": "Renaissance Music"
+    },
+    {
+      "name": "Elizabethan Song",
+      "url": "https://rateyourmusic.com/genre/elizabethan-song/",
+      "description": "Monophonic style developed in Renaissance England that is typically composed in strophic form for one to several vocalists with instrumental accompaniment ranging from solo lute to chamber ensemble.",
+      "level": "sub-3",
+      "parent": "Renaissance Music"
+    },
+    {
+      "name": "Elizabethan Song",
+      "url": "https://rateyourmusic.com/genre/elizabethan-song/",
+      "description": "Monophonic style developed in Renaissance England that is typically composed in strophic form for one to several vocalists with instrumental accompaniment ranging from solo lute to chamber ensemble.",
+      "level": "sub-3",
+      "parent": "Renaissance Music"
+    },
+    {
+      "name": "Franco-Flemish School",
+      "url": "https://rateyourmusic.com/genre/franco-flemish-school/",
+      "description": "Musical movement centered in the Low Countries, known for its intricate polyphony, emotional expression, and influence on European sacred and secular music from the 1440s to 1550.",
+      "level": "sub-3",
+      "parent": "Renaissance Music"
+    },
+    {
+      "name": "Franco-Flemish School",
+      "url": "https://rateyourmusic.com/genre/franco-flemish-school/",
+      "description": "Musical movement centered in the Low Countries, known for its intricate polyphony, emotional expression, and influence on European sacred and secular music from the 1440s to 1550.",
+      "level": "sub-3",
+      "parent": "Renaissance Music"
+    }
+  ]
+}

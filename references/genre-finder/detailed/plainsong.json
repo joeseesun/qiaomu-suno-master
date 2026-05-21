@@ -1,0 +1,157 @@
+{
+  "name": "Plainsong",
+  "description": "Monophonic chanting in the context of Roman Catholic and modern Anglican liturgy.",
+  "url": "https://rateyourmusic.com/genre/plainsong/",
+  "parent": "Medieval Classical Music",
+  "level": "sub-3",
+  "children_count": 21,
+  "children": [
+    {
+      "name": "Ambrosian Chant",
+      "url": "https://rateyourmusic.com/genre/ambrosian-chant/",
+      "description": "Liturgical chant practiced in parts of Italy and Switzerland, characterized by stepped melodic progression.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Ambrosian Chant",
+      "url": "https://rateyourmusic.com/genre/ambrosian-chant/",
+      "description": "Liturgical chant practiced in parts of Italy and Switzerland, characterized by stepped melodic progression.",
+      "level": "sub-3",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Ambrosian Chant",
+      "url": "https://rateyourmusic.com/genre/ambrosian-chant/",
+      "description": "Liturgical chant practiced in parts of Italy and Switzerland, characterized by stepped melodic progression.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Canto beneventano",
+      "url": "https://rateyourmusic.com/genre/canto-beneventano/",
+      "description": "Extinct plainchant tradition of Southern Italy characterized by lengthy melodies, extensive use of repetition, and a steady, undulating progression.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Canto beneventano",
+      "url": "https://rateyourmusic.com/genre/canto-beneventano/",
+      "description": "Extinct plainchant tradition of Southern Italy characterized by lengthy melodies, extensive use of repetition, and a steady, undulating progression.",
+      "level": "sub-3",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Canto beneventano",
+      "url": "https://rateyourmusic.com/genre/canto-beneventano/",
+      "description": "Extinct plainchant tradition of Southern Italy characterized by lengthy melodies, extensive use of repetition, and a steady, undulating progression.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Canto mozárabe",
+      "url": "https://rateyourmusic.com/genre/canto-mozarabe/",
+      "description": "Iberian form of plainchant that flourished roughly 550-1085 AD.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Canto mozárabe",
+      "url": "https://rateyourmusic.com/genre/canto-mozarabe/",
+      "description": "Iberian form of plainchant that flourished roughly 550-1085 AD.",
+      "level": "sub-3",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Canto mozárabe",
+      "url": "https://rateyourmusic.com/genre/canto-mozarabe/",
+      "description": "Iberian form of plainchant that flourished roughly 550-1085 AD.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Celtic Chant",
+      "url": "https://rateyourmusic.com/genre/celtic-chant/",
+      "description": "Extinct tradition of Catholic liturgical chant developed by the Celtic Christians of Britain, Ireland, and Brittany.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Celtic Chant",
+      "url": "https://rateyourmusic.com/genre/celtic-chant/",
+      "description": "Extinct tradition of Catholic liturgical chant developed by the Celtic Christians of Britain, Ireland, and Brittany.",
+      "level": "sub-3",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Celtic Chant",
+      "url": "https://rateyourmusic.com/genre/celtic-chant/",
+      "description": "Extinct tradition of Catholic liturgical chant developed by the Celtic Christians of Britain, Ireland, and Brittany.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Gallican Chant",
+      "url": "https://rateyourmusic.com/genre/gallican-chant/",
+      "description": "Extinct plainchant tradition originating from the region of Gaul (now modern-day France).",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Gallican Chant",
+      "url": "https://rateyourmusic.com/genre/gallican-chant/",
+      "description": "Extinct plainchant tradition originating from the region of Gaul (now modern-day France).",
+      "level": "sub-3",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Gallican Chant",
+      "url": "https://rateyourmusic.com/genre/gallican-chant/",
+      "description": "Extinct plainchant tradition originating from the region of Gaul (now modern-day France).",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Gregorian Chant",
+      "url": "https://rateyourmusic.com/genre/gregorian-chant/",
+      "description": "Liturgical, monophonic chant that accompanied Mass and other rituals in Western Christianity.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Gregorian Chant",
+      "url": "https://rateyourmusic.com/genre/gregorian-chant/",
+      "description": "Liturgical, monophonic chant that accompanied Mass and other rituals in Western Christianity.",
+      "level": "sub-3",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Gregorian Chant",
+      "url": "https://rateyourmusic.com/genre/gregorian-chant/",
+      "description": "Liturgical, monophonic chant that accompanied Mass and other rituals in Western Christianity.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Old Roman Chant",
+      "url": "https://rateyourmusic.com/genre/old-roman-chant/",
+      "description": "Plainchant tradition of Medieval Rome that was closely related to Gregorian Chant, though often more musically ornate.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Old Roman Chant",
+      "url": "https://rateyourmusic.com/genre/old-roman-chant/",
+      "description": "Plainchant tradition of Medieval Rome that was closely related to Gregorian Chant, though often more musically ornate.",
+      "level": "sub-3",
+      "parent": "Plainsong"
+    },
+    {
+      "name": "Old Roman Chant",
+      "url": "https://rateyourmusic.com/genre/old-roman-chant/",
+      "description": "Plainchant tradition of Medieval Rome that was closely related to Gregorian Chant, though often more musically ornate.",
+      "level": "sub-4",
+      "parent": "Plainsong"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Korean Ballad",
+  "description": "South Korean Pop from the 1980s to the early 90s taking influence from western Blues, Synthpop, Soul and Contemporary Folk.",
+  "url": "https://rateyourmusic.com/genre/korean-ballad/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Oriental Ballad",
+      "url": "https://rateyourmusic.com/genre/oriental-ballad/",
+      "description": "Emerged in the late 1990s in South Korea, taking influence from more traditional forms of Korean Music.",
+      "level": "sub-2",
+      "parent": "Korean Ballad"
+    }
+  ]
+}

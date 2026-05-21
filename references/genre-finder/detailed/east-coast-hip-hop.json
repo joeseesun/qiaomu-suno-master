@@ -1,0 +1,24 @@
+{
+  "name": "East Coast Hip Hop",
+  "description": "Highly influential Hip Hop scene that developed in New York City, particularly in the South Bronx, during the 1970s.",
+  "url": "https://rateyourmusic.com/genre/east-coast-hip-hop/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Bronx Drill",
+      "url": "https://rateyourmusic.com/genre/bronx-drill/",
+      "description": "Bronx scene that popularized Sample Drill and aggressive New York Drill delivery and production in the early 2020s.",
+      "level": "sub-2",
+      "parent": "East Coast Hip Hop"
+    },
+    {
+      "name": "Brooklyn Drill",
+      "url": "https://rateyourmusic.com/genre/brooklyn-drill/",
+      "description": "Brooklyn scene that kickstarted New York Drill in the mid-2010s, primarily through adopted UK Drill production.",
+      "level": "sub-2",
+      "parent": "East Coast Hip Hop"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Jamaican Music",
+  "description": "Regional music of Jamaica ranges from its cultural origins in traditional and religious folk of the late 19th and early 20th centuries to the international popularity of Reggae from the 1970s onwards.",
+  "url": "https://rateyourmusic.com/genre/jamaican-music/",
+  "parent": "Caribbean Music",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Dancehall",
+      "url": "https://rateyourmusic.com/genre/dancehall/",
+      "description": "Developed from Reggae in the late 1970s, when Roots Reggae became more stripped-down, with an increased emphasis on pure rhythm.",
+      "level": "sub-3",
+      "parent": "Jamaican Music"
+    },
+    {
+      "name": "Jamaican Ska",
+      "url": "https://rateyourmusic.com/genre/jamaican-ska/",
+      "description": "Originated in Jamaica with groups who combined Jazz and Rhythm & Blues with rhythms of traditional Caribbean Music like Mento and Calypso.",
+      "level": "sub-3",
+      "parent": "Jamaican Music"
+    },
+    {
+      "name": "Mento",
+      "url": "https://rateyourmusic.com/genre/mento/",
+      "description": "Jamaican folk originating in the late 19th century which brought together African and European elements, going on to influence the rhythm in Reggae.",
+      "level": "sub-3",
+      "parent": "Jamaican Music"
+    },
+    {
+      "name": "Nyahbinghi",
+      "url": "https://rateyourmusic.com/genre/nyahbinghi/",
+      "description": "Performed at Rastafari religious ceremonies, consisting of tripartite hand-drumming and often accompanied by vocal chants.",
+      "level": "sub-3",
+      "parent": "Jamaican Music"
+    },
+    {
+      "name": "Reggae",
+      "url": "https://rateyourmusic.com/genre/reggae/",
+      "description": "Developed in the 1960s; shuffling \"bubble\" and offbeat rhythms played on an organ, and staccato guitar and piano chords known as \"skank.\"",
+      "level": "sub-3",
+      "parent": "Jamaican Music"
+    },
+    {
+      "name": "Rocksteady",
+      "url": "https://rateyourmusic.com/genre/rocksteady/",
+      "description": "Jamaican popular music that blossomed briefly between 1966 and 1968 as an evolution of Ska, being slower, more relaxed, and soulful.",
+      "level": "sub-3",
+      "parent": "Jamaican Music"
+    }
+  ]
+}

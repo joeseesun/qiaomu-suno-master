@@ -1,0 +1,17 @@
+{
+  "name": "Neofolk",
+  "description": "Emerged in the mid-1980s from the Post-Industrial scene, with a dark, often martial atmosphere.",
+  "url": "https://rateyourmusic.com/genre/neofolk/",
+  "parent": "Contemporary Folk",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Dark Folk",
+      "url": "https://rateyourmusic.com/genre/dark-folk/",
+      "description": "Minimalistic and melancholic sound with influence from Nordic Folk Music and even Ambient.",
+      "level": "sub-3",
+      "parent": "Neofolk"
+    }
+  ]
+}

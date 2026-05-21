@@ -1,0 +1,17 @@
+{
+  "name": "Kizomba",
+  "description": "Combines elements of Angolan Semba and French Caribbean Zouk.",
+  "url": "https://rateyourmusic.com/genre/kizomba/",
+  "parent": "Central African Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Tarraxinha",
+      "url": "https://rateyourmusic.com/genre/tarraxinha/",
+      "description": "Heavy-hitting beats and electronic bass, putting less emphasis on melodies and vocals.",
+      "level": "sub-4",
+      "parent": "Kizomba"
+    }
+  ]
+}

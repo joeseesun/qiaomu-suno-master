@@ -1,0 +1,38 @@
+{
+  "name": "Dagestani Folk Music",
+  "description": "Traditional Folk Music of the Dagestani people.",
+  "url": "https://rateyourmusic.com/genre/dagestani-folk-music/",
+  "parent": "Caucasian Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Avar Folk Music",
+      "url": "https://rateyourmusic.com/genre/avar-folk-music/",
+      "description": "Traditional Folk Music of the Avar people.",
+      "level": "sub-4",
+      "parent": "Dagestani Folk Music"
+    },
+    {
+      "name": "Avar Folk Music",
+      "url": "https://rateyourmusic.com/genre/avar-folk-music/",
+      "description": "Traditional Folk Music of the Avar people.",
+      "level": "sub-6",
+      "parent": "Dagestani Folk Music"
+    },
+    {
+      "name": "Avar Folk Music",
+      "url": "https://rateyourmusic.com/genre/avar-folk-music/",
+      "description": "Traditional Folk Music of the Avar people.",
+      "level": "sub-5",
+      "parent": "Dagestani Folk Music"
+    },
+    {
+      "name": "Avar Folk Music",
+      "url": "https://rateyourmusic.com/genre/avar-folk-music/",
+      "description": "Traditional Folk Music of the Avar people.",
+      "level": "sub-4",
+      "parent": "Dagestani Folk Music"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Avant-Garde Jazz",
+  "description": "Combines traditional or mainstream Jazz stylings with non-traditional techniques of avant-garde art music by experimenting with characteristics such as rhythm, harmony, structure, melody, and instrumentation.",
+  "url": "https://rateyourmusic.com/genre/avant-garde-jazz/",
+  "parent": "Jazz",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Experimental Big Band",
+      "url": "https://rateyourmusic.com/genre/experimental-big-band/",
+      "description": "Dispensing with traditional Jazz structures and Swing sounds, instead performing Avant-Garde Jazz and pushing the boundaries of the medium.",
+      "level": "sub-2",
+      "parent": "Avant-Garde Jazz"
+    },
+    {
+      "name": "Free Jazz",
+      "url": "https://rateyourmusic.com/genre/free-jazz/",
+      "description": "Attempts to break free from the conventions and patterns of earlier Jazz subgenres through the use of elements such as dissonance, atonality, and free-flowing rhythmic structures.",
+      "level": "sub-2",
+      "parent": "Avant-Garde Jazz"
+    }
+  ]
+}

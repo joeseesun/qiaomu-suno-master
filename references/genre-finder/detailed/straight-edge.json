@@ -1,0 +1,31 @@
+{
+  "name": "Straight Edge",
+  "description": "Developed in the early 1980s DC Hardcore Punk scene, promoting abstinence from the use of substances such as alcohol, tobacco, and other drugs.",
+  "url": "https://rateyourmusic.com/genre/straight-edge/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Krishnacore",
+      "url": "https://rateyourmusic.com/genre/krishnacore/",
+      "description": "Straight Edge subculture that spawned from the New York Hardcore scene, promoting the Hare Krishna movement.",
+      "level": "sub-2",
+      "parent": "Straight Edge"
+    },
+    {
+      "name": "Vegan Straight Edge",
+      "url": "https://rateyourmusic.com/genre/vegan-straight-edge/",
+      "description": "Espouses veganism, environmentalism, and animal liberation causes.",
+      "level": "sub-2",
+      "parent": "Straight Edge"
+    },
+    {
+      "name": "Youth Crew",
+      "url": "https://rateyourmusic.com/genre/youth-crew/",
+      "description": "Hardcore Punk subculture that emerged in the mid-1980s New York Hardcore scene, distinguished by its optimistic and moralistic outlook and close ties to Straight Edge.",
+      "level": "sub-2",
+      "parent": "Straight Edge"
+    }
+  ]
+}

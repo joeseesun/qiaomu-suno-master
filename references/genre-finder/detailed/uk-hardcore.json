@@ -1,0 +1,66 @@
+{
+  "name": "UK Hardcore",
+  "description": "Four-on-the-floor beat around 175 BPM, thick, prominent basslines, and uplifting synth leads, with a cleaner and more accessible sound than other forms of Hardcore [EDM].",
+  "url": "https://rateyourmusic.com/genre/uk-hardcore/",
+  "parent": "Happy Hardcore",
+  "level": "sub-4",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Future Core",
+      "url": "https://rateyourmusic.com/genre/future-core/",
+      "description": "Blends the speed, basslines, and rhythms of UK Hardcore (mostly coming from the J-core sphere) with euphoric, woozy synths, 7th chords and arpeggios, and vocal chops of Future Bass, particularly Kawaii Future Bass.",
+      "level": "sub-5",
+      "parent": "UK Hardcore"
+    },
+    {
+      "name": "Future Core",
+      "url": "https://rateyourmusic.com/genre/future-core/",
+      "description": "Blends the speed, basslines, and rhythms of UK Hardcore (mostly coming from the J-core sphere) with euphoric, woozy synths, 7th chords and arpeggios, and vocal chops of Future Bass, particularly Kawaii Future Bass.",
+      "level": "sub-4",
+      "parent": "UK Hardcore"
+    },
+    {
+      "name": "Future Core",
+      "url": "https://rateyourmusic.com/genre/future-core/",
+      "description": "Blends the speed, basslines, and rhythms of UK Hardcore (mostly coming from the J-core sphere) with euphoric, woozy synths, 7th chords and arpeggios, and vocal chops of Future Bass, particularly Kawaii Future Bass.",
+      "level": "sub-5",
+      "parent": "UK Hardcore"
+    },
+    {
+      "name": "Future Core",
+      "url": "https://rateyourmusic.com/genre/future-core/",
+      "description": "Blends the speed, basslines, and rhythms of UK Hardcore (mostly coming from the J-core sphere) with euphoric, woozy synths, 7th chords and arpeggios, and vocal chops of Future Bass, particularly Kawaii Future Bass.",
+      "level": "sub-4",
+      "parent": "UK Hardcore"
+    },
+    {
+      "name": "Powerstomp",
+      "url": "https://rateyourmusic.com/genre/powerstomp/",
+      "description": "Prominent, \"stomping\", and slightly distorted kick, relentless, repetitive reverse basses on the offbeats (borrowed from Hardstyle) that drive the tracks, giving the genre its distinct energetic sound, and cacophonous, noisy riffs and synth leads.",
+      "level": "sub-5",
+      "parent": "UK Hardcore"
+    },
+    {
+      "name": "Powerstomp",
+      "url": "https://rateyourmusic.com/genre/powerstomp/",
+      "description": "Prominent, \"stomping\", and slightly distorted kick, relentless, repetitive reverse basses on the offbeats (borrowed from Hardstyle) that drive the tracks, giving the genre its distinct energetic sound, and cacophonous, noisy riffs and synth leads.",
+      "level": "sub-4",
+      "parent": "UK Hardcore"
+    },
+    {
+      "name": "Powerstomp",
+      "url": "https://rateyourmusic.com/genre/powerstomp/",
+      "description": "Prominent, \"stomping\", and slightly distorted kick, relentless, repetitive reverse basses on the offbeats (borrowed from Hardstyle) that drive the tracks, giving the genre its distinct energetic sound, and cacophonous, noisy riffs and synth leads.",
+      "level": "sub-5",
+      "parent": "UK Hardcore"
+    },
+    {
+      "name": "Powerstomp",
+      "url": "https://rateyourmusic.com/genre/powerstomp/",
+      "description": "Prominent, \"stomping\", and slightly distorted kick, relentless, repetitive reverse basses on the offbeats (borrowed from Hardstyle) that drive the tracks, giving the genre its distinct energetic sound, and cacophonous, noisy riffs and synth leads.",
+      "level": "sub-4",
+      "parent": "UK Hardcore"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Laika",
+  "description": "Greek popular music played with local instruments like the bouzouki, Greek baglama, and the jouras.",
+  "url": "https://rateyourmusic.com/genre/laika/",
+  "parent": "Balkan Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Entechna laika",
+      "url": "https://rateyourmusic.com/genre/entechna-laika/",
+      "description": "Artistic side of Laika played mainly but not always with the basic instruments of it, the bouzouki, Greek baglama, and the jouras, sometimes with the accompaniment of orchestras.",
+      "level": "sub-4",
+      "parent": "Laika"
+    },
+    {
+      "name": "Entechna laika",
+      "url": "https://rateyourmusic.com/genre/entechna-laika/",
+      "description": "Artistic side of Laika played mainly but not always with the basic instruments of it, the bouzouki, Greek baglama, and the jouras, sometimes with the accompaniment of orchestras.",
+      "level": "sub-4",
+      "parent": "Laika"
+    },
+    {
+      "name": "Modern Laika",
+      "url": "https://rateyourmusic.com/genre/modern-laika/",
+      "description": "Laiki music mixed with popular Western music, most notably pop and dance.",
+      "level": "sub-4",
+      "parent": "Laika"
+    },
+    {
+      "name": "Modern Laika",
+      "url": "https://rateyourmusic.com/genre/modern-laika/",
+      "description": "Laiki music mixed with popular Western music, most notably pop and dance.",
+      "level": "sub-4",
+      "parent": "Laika"
+    },
+    {
+      "name": "Skiladika",
+      "url": "https://rateyourmusic.com/genre/skiladika/",
+      "description": "Greek popular artists who used more Arabian elements; originally a derogatory term used to refer to a more decadent side of Laika.",
+      "level": "sub-4",
+      "parent": "Laika"
+    },
+    {
+      "name": "Skiladika",
+      "url": "https://rateyourmusic.com/genre/skiladika/",
+      "description": "Greek popular artists who used more Arabian elements; originally a derogatory term used to refer to a more decadent side of Laika.",
+      "level": "sub-4",
+      "parent": "Laika"
+    }
+  ]
+}

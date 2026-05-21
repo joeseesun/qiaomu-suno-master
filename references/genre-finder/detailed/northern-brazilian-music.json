@@ -1,0 +1,38 @@
+{
+  "name": "Northern Brazilian Music",
+  "description": "Regional styles rooted in Northern Brazil, often influenced by Caribbean rhythms and instrumentations, usually with focus on romance, celebrations, the relationship between the man and the Amazon rainforest, and danced in fast and sensual movements.",
+  "url": "https://rateyourmusic.com/genre/northern-brazilian-music/",
+  "parent": "Brazilian Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Brega calypso",
+      "url": "https://rateyourmusic.com/genre/brega-calypso/",
+      "description": "Romantic vocals and lyrics, bubbly and sensual melodies and rhythms, horn sections and lush Caribbean-like guitar riffs over fast tempos.",
+      "level": "sub-4",
+      "parent": "Northern Brazilian Music"
+    },
+    {
+      "name": "Carimbó",
+      "url": "https://rateyourmusic.com/genre/carimbo/",
+      "description": "Originated in rural areas in the state of Pará, danced frenetically to the beat of syncopated drums, with international recognition after its modernization.",
+      "level": "sub-4",
+      "parent": "Northern Brazilian Music"
+    },
+    {
+      "name": "Lambada",
+      "url": "https://rateyourmusic.com/genre/lambada/",
+      "description": "Agitated and sensual, with rhythms and sounds drawn from Carimbó, Cumbia and Forró, and dance moves inherited from Maxixe and Merengue.",
+      "level": "sub-4",
+      "parent": "Northern Brazilian Music"
+    },
+    {
+      "name": "Tecnobrega",
+      "url": "https://rateyourmusic.com/genre/tecnobrega/",
+      "description": "Fast and electronic-based style that evolved from Brega calypso, particularly associated with peripheral areas of the city of Belém.",
+      "level": "sub-4",
+      "parent": "Northern Brazilian Music"
+    }
+  ]
+}

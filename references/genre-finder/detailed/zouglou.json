@@ -1,0 +1,17 @@
+{
+  "name": "Zouglou",
+  "description": "Ivorian dance music that began in the early 1990s, with socially conscious lyrics and driving rhythms.",
+  "url": "https://rateyourmusic.com/genre/zouglou/",
+  "parent": "West African Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Coupé-décalé",
+      "url": "https://rateyourmusic.com/genre/coupe-decale/",
+      "description": "Bass-heavy and minimal style of Ivorian popular dance music, drawing heavily from Zouglou and Congolese rhythms.",
+      "level": "sub-4",
+      "parent": "Zouglou"
+    }
+  ]
+}

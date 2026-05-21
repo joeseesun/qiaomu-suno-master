@@ -1,0 +1,136 @@
+{
+  "name": "Spanish Music",
+  "description": "Music of Spain.",
+  "url": "https://rateyourmusic.com/genre/spanish-music/",
+  "parent": "Iberian Music",
+  "level": "sub-3",
+  "children_count": 18,
+  "children": [
+    {
+      "name": "Bolero español",
+      "url": "https://rateyourmusic.com/genre/bolero-espanol/",
+      "description": "Spanish genre originating in the 18th century, based around moderate tempos in a 3/4 time signature accompanied by a dance of the same name.",
+      "level": "sub-4",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Bolero español",
+      "url": "https://rateyourmusic.com/genre/bolero-espanol/",
+      "description": "Spanish genre originating in the 18th century, based around moderate tempos in a 3/4 time signature accompanied by a dance of the same name.",
+      "level": "sub-3",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Flamenco",
+      "url": "https://rateyourmusic.com/genre/flamenco/",
+      "description": "Traditional Spanish style based around fiery acoustic guitar rhythms, emotional vocals, and accompaniment from traditional percussion and dance.",
+      "level": "sub-4",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Flamenco",
+      "url": "https://rateyourmusic.com/genre/flamenco/",
+      "description": "Traditional Spanish style based around fiery acoustic guitar rhythms, emotional vocals, and accompaniment from traditional percussion and dance.",
+      "level": "sub-3",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Flamenco Pop",
+      "url": "https://rateyourmusic.com/genre/flamenco-pop/",
+      "description": "Incorporates Flamenco sub-styles into a more commercial Pop form; particularly through the vocal style and rhythms.",
+      "level": "sub-4",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Flamenco Pop",
+      "url": "https://rateyourmusic.com/genre/flamenco-pop/",
+      "description": "Incorporates Flamenco sub-styles into a more commercial Pop form; particularly through the vocal style and rhythms.",
+      "level": "sub-3",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Nueva canción española",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-espanola/",
+      "description": "Arose in Spain in the 1960s, inspired in part by Nova cançó's reclaiming of Catalan regional identity, that spread across the country in regional variations.",
+      "level": "sub-4",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Nueva canción española",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion-espanola/",
+      "description": "Arose in Spain in the 1960s, inspired in part by Nova cançó's reclaiming of Catalan regional identity, that spread across the country in regional variations.",
+      "level": "sub-3",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Rock andaluz",
+      "url": "https://rateyourmusic.com/genre/rock-andaluz/",
+      "description": "Emerged during the mid-1970s in Spain; primarily utilizes Flamenco and often Symphonic Prog elements.",
+      "level": "sub-4",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Rock andaluz",
+      "url": "https://rateyourmusic.com/genre/rock-andaluz/",
+      "description": "Emerged during the mid-1970s in Spain; primarily utilizes Flamenco and often Symphonic Prog elements.",
+      "level": "sub-3",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Rumba catalana",
+      "url": "https://rateyourmusic.com/genre/rumba-catalana/",
+      "description": "Cheerful Catalan genre that takes influences from Rumba cubana, Andalusian Rumba flamenca, and Pop.",
+      "level": "sub-4",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Rumba catalana",
+      "url": "https://rateyourmusic.com/genre/rumba-catalana/",
+      "description": "Cheerful Catalan genre that takes influences from Rumba cubana, Andalusian Rumba flamenca, and Pop.",
+      "level": "sub-3",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Spanish Classical Music",
+      "url": "https://rateyourmusic.com/genre/spanish-classical-music/",
+      "description": "Incorporation of Spanish Music within the context of Western Classical Music, particularly characterized by the use of the classical guitar.",
+      "level": "sub-4",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Spanish Classical Music",
+      "url": "https://rateyourmusic.com/genre/spanish-classical-music/",
+      "description": "Incorporation of Spanish Music within the context of Western Classical Music, particularly characterized by the use of the classical guitar.",
+      "level": "sub-3",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Spanish Folk Music",
+      "url": "https://rateyourmusic.com/genre/spanish-folk-music/",
+      "description": "Traditional Folk Music of Spain, widely diverse due to the distinct culture and traditions of the country's different regions.",
+      "level": "sub-4",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Spanish Folk Music",
+      "url": "https://rateyourmusic.com/genre/spanish-folk-music/",
+      "description": "Traditional Folk Music of Spain, widely diverse due to the distinct culture and traditions of the country's different regions.",
+      "level": "sub-3",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Tecnorumba",
+      "url": "https://rateyourmusic.com/genre/tecnorumba/",
+      "description": "Blend of the themes and singing style of Rumba flamenca with the most commercial forms of House, Techno, and Makina.",
+      "level": "sub-4",
+      "parent": "Spanish Music"
+    },
+    {
+      "name": "Tecnorumba",
+      "url": "https://rateyourmusic.com/genre/tecnorumba/",
+      "description": "Blend of the themes and singing style of Rumba flamenca with the most commercial forms of House, Techno, and Makina.",
+      "level": "sub-3",
+      "parent": "Spanish Music"
+    }
+  ]
+}

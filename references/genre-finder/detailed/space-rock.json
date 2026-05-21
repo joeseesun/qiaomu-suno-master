@@ -1,0 +1,24 @@
+{
+  "name": "Space Rock",
+  "description": "Heavy use of synthesizers and guitar effects to create dense atmospheric soundscapes intended to evoke images of outer space and science fiction scenarios.",
+  "url": "https://rateyourmusic.com/genre/space-rock/",
+  "parent": "Psychedelic Rock",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Space Rock Revival",
+      "url": "https://rateyourmusic.com/genre/space-rock-revival/",
+      "description": "Draws from the aesthetics and atmospheric soundscapes of Space Rock combined with the more minimal, back-to-basics approach of the Post-Punk era.",
+      "level": "sub-3",
+      "parent": "Space Rock"
+    },
+    {
+      "name": "Space Rock Revival",
+      "url": "https://rateyourmusic.com/genre/space-rock-revival/",
+      "description": "Draws from the aesthetics and atmospheric soundscapes of Space Rock combined with the more minimal, back-to-basics approach of the Post-Punk era.",
+      "level": "sub-3",
+      "parent": "Space Rock"
+    }
+  ]
+}

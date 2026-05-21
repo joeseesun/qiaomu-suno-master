@@ -1,0 +1,38 @@
+{
+  "name": "Yodeling",
+  "description": "Vocal technique that arose in many cultures around the world as a form of calling and communication.",
+  "url": "https://rateyourmusic.com/genre/yodeling/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Country Yodeling",
+      "url": "https://rateyourmusic.com/genre/country-yodeling/",
+      "description": "Vocal technique of Yodeling, brought to the United States by German settlers, sung over the instrumentation of Traditional Country.",
+      "level": "sub-3",
+      "parent": "Yodeling"
+    },
+    {
+      "name": "Country Yodeling",
+      "url": "https://rateyourmusic.com/genre/country-yodeling/",
+      "description": "Vocal technique of Yodeling, brought to the United States by German settlers, sung over the instrumentation of Traditional Country.",
+      "level": "sub-3",
+      "parent": "Yodeling"
+    },
+    {
+      "name": "Naturjodel",
+      "url": "https://rateyourmusic.com/genre/naturjodel/",
+      "description": "Originated in Toggenburg and Appenzell in Switzerland; deep vocal range, relaxed voice, free tempo, polyphony, elongated notes, improvisation, glissando, and use of syllabic sounds.",
+      "level": "sub-3",
+      "parent": "Yodeling"
+    },
+    {
+      "name": "Naturjodel",
+      "url": "https://rateyourmusic.com/genre/naturjodel/",
+      "description": "Originated in Toggenburg and Appenzell in Switzerland; deep vocal range, relaxed voice, free tempo, polyphony, elongated notes, improvisation, glissando, and use of syllabic sounds.",
+      "level": "sub-3",
+      "parent": "Yodeling"
+    }
+  ]
+}

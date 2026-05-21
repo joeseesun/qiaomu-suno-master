@@ -1,0 +1,94 @@
+{
+  "name": "Christian Liturgical Music",
+  "description": "Traditionally accompanies church services, as well as extra-liturgical functions such as processionals and sermons.",
+  "url": "https://rateyourmusic.com/genre/christian-liturgical-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Anglican Chant",
+      "url": "https://rateyourmusic.com/genre/anglican-chant/",
+      "description": "Simple, harmonized, English-language setting of the Christian liturgy, principally devised by the Anglican Church.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    },
+    {
+      "name": "Armenian Church Music",
+      "url": "https://rateyourmusic.com/genre/armenian-church-music/",
+      "description": "One of the oldest branches of Christian culture, this is the predominantly vocal music of the Armenian Apostolic Church.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    },
+    {
+      "name": "Byzantine Chant",
+      "url": "https://rateyourmusic.com/genre/byzantine-chant/",
+      "description": "Liturgical chant of Christian churches following the Orthodox rite.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    },
+    {
+      "name": "Coptic Music",
+      "url": "https://rateyourmusic.com/genre/coptic-music/",
+      "description": "Church music specifically made for worship in the Coptic (Egyptian) Orthodox Church.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    },
+    {
+      "name": "Ethiopian Church Music",
+      "url": "https://rateyourmusic.com/genre/ethiopian-church-music/",
+      "description": "Sacred tradition of the Ethiopian Orthodox Tewahedo Church, sung in an ancient Semitic language called Ge'ez and credited with assembling the current Ethiopian notation system.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    },
+    {
+      "name": "Kyivan Chant",
+      "url": "https://rateyourmusic.com/genre/kyivan-chant/",
+      "description": "Chant form inspired by Znamenny Chant that's characterized by simplified melodic and rhythmic structures.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    },
+    {
+      "name": "Mass",
+      "url": "https://rateyourmusic.com/genre/mass/",
+      "description": "Composition for choir, with or without instrumental accompaniment, that sets to music text from the liturgy of the Eucharist, principally from the Latin rites of the Roman Catholic Church.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    },
+    {
+      "name": "Passion",
+      "url": "https://rateyourmusic.com/genre/passion/",
+      "description": "Musical re-enactment of the suffering and crucifixion of Christ, typically based on one of the four canonical Gospels.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    },
+    {
+      "name": "Plainsong",
+      "url": "https://rateyourmusic.com/genre/plainsong/",
+      "description": "Monophonic chanting in the context of Roman Catholic and modern Anglican liturgy.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    },
+    {
+      "name": "Russian Orthodox Liturgical Music",
+      "url": "https://rateyourmusic.com/genre/russian-orthodox-liturgical-music/",
+      "description": "Tradition of the Russian Orthodox Church, implemented with the Christianization of Kievan Rus' in 988.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    },
+    {
+      "name": "Seinn nan salm",
+      "url": "https://rateyourmusic.com/genre/seinn-nan-salm/",
+      "description": "Unaccompanied, rhythmically free-flowing psalm singing in Gaelic practiced by Presbyterian churches, which involves a call-and-response between the precentor and the congregation.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    },
+    {
+      "name": "Syriac Chant",
+      "url": "https://rateyourmusic.com/genre/syriac-chant/",
+      "description": "Liturgical chant repertoire practiced within Syriac Christianity, comprising the East Syrian and West Syrian liturgical rites.",
+      "level": "sub-2",
+      "parent": "Christian Liturgical Music"
+    }
+  ]
+}

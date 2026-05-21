@@ -1,0 +1,38 @@
+{
+  "name": "Avant-Prog",
+  "description": "Focuses on highly complex, dense arrangements often featuring high amounts of dissonance and uncommon time signatures, sometimes extending towards atonality, free time, improvisation, and other avant-garde techniques.",
+  "url": "https://rateyourmusic.com/genre/avant-prog/",
+  "parent": "Experimental Rock",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Brutal Prog",
+      "url": "https://rateyourmusic.com/genre/brutal-prog/",
+      "description": "Highly intense and visceral songwriting, usually featuring substantial reliance on dissonance, odd time signatures, blistering tempos, angular and mercurial rhythms, and Punk's DIY attitude.",
+      "level": "sub-3",
+      "parent": "Avant-Prog"
+    },
+    {
+      "name": "Brutal Prog",
+      "url": "https://rateyourmusic.com/genre/brutal-prog/",
+      "description": "Highly intense and visceral songwriting, usually featuring substantial reliance on dissonance, odd time signatures, blistering tempos, angular and mercurial rhythms, and Punk's DIY attitude.",
+      "level": "sub-3",
+      "parent": "Avant-Prog"
+    },
+    {
+      "name": "Zeuhl",
+      "url": "https://rateyourmusic.com/genre/zeuhl/",
+      "description": "Epic, operatic sound fusing Jazz, Progressive Rock and Modern Classical music.",
+      "level": "sub-3",
+      "parent": "Avant-Prog"
+    },
+    {
+      "name": "Zeuhl",
+      "url": "https://rateyourmusic.com/genre/zeuhl/",
+      "description": "Epic, operatic sound fusing Jazz, Progressive Rock and Modern Classical music.",
+      "level": "sub-3",
+      "parent": "Avant-Prog"
+    }
+  ]
+}

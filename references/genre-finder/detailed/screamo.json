@@ -1,0 +1,38 @@
+{
+  "name": "Screamo",
+  "description": "Intense, aggressive and complex approach to Emo featuring higher levels of abrasiveness and dissonance, accompanied by guitar-focused melodicism and harsh vocals.",
+  "url": "https://rateyourmusic.com/genre/screamo/",
+  "parent": "Emo",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Emoviolence",
+      "url": "https://rateyourmusic.com/genre/emoviolence/",
+      "description": "Shorter length and volatile song structures, while borrowing techniques from Powerviolence such as blast beats, unconventional screaming and noisier sounds.",
+      "level": "sub-3",
+      "parent": "Screamo"
+    },
+    {
+      "name": "Emoviolence",
+      "url": "https://rateyourmusic.com/genre/emoviolence/",
+      "description": "Shorter length and volatile song structures, while borrowing techniques from Powerviolence such as blast beats, unconventional screaming and noisier sounds.",
+      "level": "sub-4",
+      "parent": "Screamo"
+    },
+    {
+      "name": "Emoviolence",
+      "url": "https://rateyourmusic.com/genre/emoviolence/",
+      "description": "Shorter length and volatile song structures, while borrowing techniques from Powerviolence such as blast beats, unconventional screaming and noisier sounds.",
+      "level": "sub-3",
+      "parent": "Screamo"
+    },
+    {
+      "name": "Emoviolence",
+      "url": "https://rateyourmusic.com/genre/emoviolence/",
+      "description": "Shorter length and volatile song structures, while borrowing techniques from Powerviolence such as blast beats, unconventional screaming and noisier sounds.",
+      "level": "sub-4",
+      "parent": "Screamo"
+    }
+  ]
+}

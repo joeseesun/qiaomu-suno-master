@@ -1,0 +1,136 @@
+{
+  "name": "East Asian Folk Music",
+  "description": "All the forms of Traditional Folk Music from East Asia, including Japanese Folk Music, Chinese Folk Music, and Korean Folk Music.",
+  "url": "https://rateyourmusic.com/genre/east-asian-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 18,
+  "children": [
+    {
+      "name": "Amami shimauta",
+      "url": "https://rateyourmusic.com/genre/amami-shimauta/",
+      "description": "Tradition from the Amami Islands, located in southern Japan.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Amami shimauta",
+      "url": "https://rateyourmusic.com/genre/amami-shimauta/",
+      "description": "Tradition from the Amami Islands, located in southern Japan.",
+      "level": "sub-4",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Amami shimauta",
+      "url": "https://rateyourmusic.com/genre/amami-shimauta/",
+      "description": "Tradition from the Amami Islands, located in southern Japan.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Chinese Folk Music",
+      "url": "https://rateyourmusic.com/genre/chinese-folk-music/",
+      "description": "Traditional folk of the Chinese people.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Chinese Folk Music",
+      "url": "https://rateyourmusic.com/genre/chinese-folk-music/",
+      "description": "Traditional folk of the Chinese people.",
+      "level": "sub-4",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Chinese Folk Music",
+      "url": "https://rateyourmusic.com/genre/chinese-folk-music/",
+      "description": "Traditional folk of the Chinese people.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Indigenous Taiwanese Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-taiwanese-music/",
+      "description": "Traditional Folk Music of the various Austronesian people groups that make up the indigenous population of the island of Taiwan.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Indigenous Taiwanese Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-taiwanese-music/",
+      "description": "Traditional Folk Music of the various Austronesian people groups that make up the indigenous population of the island of Taiwan.",
+      "level": "sub-4",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Indigenous Taiwanese Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-taiwanese-music/",
+      "description": "Traditional Folk Music of the various Austronesian people groups that make up the indigenous population of the island of Taiwan.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Japanese Folk Music",
+      "url": "https://rateyourmusic.com/genre/japanese-folk-music/",
+      "description": "Folk traditions of Japan.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Japanese Folk Music",
+      "url": "https://rateyourmusic.com/genre/japanese-folk-music/",
+      "description": "Folk traditions of Japan.",
+      "level": "sub-4",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Japanese Folk Music",
+      "url": "https://rateyourmusic.com/genre/japanese-folk-music/",
+      "description": "Folk traditions of Japan.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Korean Folk Music",
+      "url": "https://rateyourmusic.com/genre/korean-folk-music/",
+      "description": "Traditional Folk Music of the Korean people.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Korean Folk Music",
+      "url": "https://rateyourmusic.com/genre/korean-folk-music/",
+      "description": "Traditional Folk Music of the Korean people.",
+      "level": "sub-4",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Korean Folk Music",
+      "url": "https://rateyourmusic.com/genre/korean-folk-music/",
+      "description": "Traditional Folk Music of the Korean people.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Vietnamese Folk Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-folk-music/",
+      "description": "Traditional Folk Music of the Vietnamese people, with traditions influenced by both Chinese Music and Austronesian culture through the Cham people.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Vietnamese Folk Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-folk-music/",
+      "description": "Traditional Folk Music of the Vietnamese people, with traditions influenced by both Chinese Music and Austronesian culture through the Cham people.",
+      "level": "sub-4",
+      "parent": "East Asian Folk Music"
+    },
+    {
+      "name": "Vietnamese Folk Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-folk-music/",
+      "description": "Traditional Folk Music of the Vietnamese people, with traditions influenced by both Chinese Music and Austronesian culture through the Cham people.",
+      "level": "sub-3",
+      "parent": "East Asian Folk Music"
+    }
+  ]
+}

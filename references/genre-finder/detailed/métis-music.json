@@ -1,0 +1,24 @@
+{
+  "name": "Métis Music",
+  "description": "Music of the indigenous Métis people of Canada and the United States.",
+  "url": "https://rateyourmusic.com/genre/metis-music/",
+  "parent": "Indigenous North American Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Métis Fiddling",
+      "url": "https://rateyourmusic.com/genre/metis-fiddling/",
+      "description": "Canadian style blending First Nations and European musical influences into an up-tempo style of fiddling characterized by the use of syncopation and indigenous rhythms.",
+      "level": "sub-4",
+      "parent": "Métis Music"
+    },
+    {
+      "name": "Métis Fiddling",
+      "url": "https://rateyourmusic.com/genre/metis-fiddling/",
+      "description": "Canadian style blending First Nations and European musical influences into an up-tempo style of fiddling characterized by the use of syncopation and indigenous rhythms.",
+      "level": "sub-4",
+      "parent": "Métis Music"
+    }
+  ]
+}

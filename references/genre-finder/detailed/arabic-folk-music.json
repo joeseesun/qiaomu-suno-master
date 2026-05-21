@@ -1,0 +1,157 @@
+{
+  "name": "Arabic Folk Music",
+  "description": "Traditional Folk Music of the Arabic people.",
+  "url": "https://rateyourmusic.com/genre/arabic-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 21,
+  "children": [
+    {
+      "name": "Aita",
+      "url": "https://rateyourmusic.com/genre/aita/",
+      "description": "Arabic Folk Music from rural Morocco with piercing singing, scratchy viola, and rollicking hand drums.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Aita",
+      "url": "https://rateyourmusic.com/genre/aita/",
+      "description": "Arabic Folk Music from rural Morocco with piercing singing, scratchy viola, and rollicking hand drums.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Aita",
+      "url": "https://rateyourmusic.com/genre/aita/",
+      "description": "Arabic Folk Music from rural Morocco with piercing singing, scratchy viola, and rollicking hand drums.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Arabic Bellydance Music",
+      "url": "https://rateyourmusic.com/genre/arabic-bellydance-music/",
+      "description": "Accompaniment to traditional belly dances.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Arabic Bellydance Music",
+      "url": "https://rateyourmusic.com/genre/arabic-bellydance-music/",
+      "description": "Accompaniment to traditional belly dances.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Arabic Bellydance Music",
+      "url": "https://rateyourmusic.com/genre/arabic-bellydance-music/",
+      "description": "Accompaniment to traditional belly dances.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Ayyalah",
+      "url": "https://rateyourmusic.com/genre/ayyalah/",
+      "description": "Traditional Khaliji-Bedouin weapon performance, commonly found across the United Arab Emirates and Northwestern Oman.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Ayyalah",
+      "url": "https://rateyourmusic.com/genre/ayyalah/",
+      "description": "Traditional Khaliji-Bedouin weapon performance, commonly found across the United Arab Emirates and Northwestern Oman.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Ayyalah",
+      "url": "https://rateyourmusic.com/genre/ayyalah/",
+      "description": "Traditional Khaliji-Bedouin weapon performance, commonly found across the United Arab Emirates and Northwestern Oman.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Fijiri",
+      "url": "https://rateyourmusic.com/genre/fijiri/",
+      "description": "Deeply rooted in the Persian Gulf pearl diving culture, and sung during weekly gatherings combining solo and choral sections with minimal percussion.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Fijiri",
+      "url": "https://rateyourmusic.com/genre/fijiri/",
+      "description": "Deeply rooted in the Persian Gulf pearl diving culture, and sung during weekly gatherings combining solo and choral sections with minimal percussion.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Fijiri",
+      "url": "https://rateyourmusic.com/genre/fijiri/",
+      "description": "Deeply rooted in the Persian Gulf pearl diving culture, and sung during weekly gatherings combining solo and choral sections with minimal percussion.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Liwa",
+      "url": "https://rateyourmusic.com/genre/liwa/",
+      "description": "Traditional Khaliji performance with East African Music roots centered around the mizmar and traditional drums, typically sung in Khaliji Arabic and Swahili.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Liwa",
+      "url": "https://rateyourmusic.com/genre/liwa/",
+      "description": "Traditional Khaliji performance with East African Music roots centered around the mizmar and traditional drums, typically sung in Khaliji Arabic and Swahili.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Liwa",
+      "url": "https://rateyourmusic.com/genre/liwa/",
+      "description": "Traditional Khaliji performance with East African Music roots centered around the mizmar and traditional drums, typically sung in Khaliji Arabic and Swahili.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Nuban",
+      "url": "https://rateyourmusic.com/genre/nuban/",
+      "description": "Traditional Afro-Emirati Folk performance of Nuban origin most commonly performed in the emirate of Dubai.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Nuban",
+      "url": "https://rateyourmusic.com/genre/nuban/",
+      "description": "Traditional Afro-Emirati Folk performance of Nuban origin most commonly performed in the emirate of Dubai.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Nuban",
+      "url": "https://rateyourmusic.com/genre/nuban/",
+      "description": "Traditional Afro-Emirati Folk performance of Nuban origin most commonly performed in the emirate of Dubai.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Sa'idi",
+      "url": "https://rateyourmusic.com/genre/saidi/",
+      "description": "Traditional folkloric performance and form of Arabic Folk Music originating from Upper Egypt.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Sa'idi",
+      "url": "https://rateyourmusic.com/genre/saidi/",
+      "description": "Traditional folkloric performance and form of Arabic Folk Music originating from Upper Egypt.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    },
+    {
+      "name": "Sa'idi",
+      "url": "https://rateyourmusic.com/genre/saidi/",
+      "description": "Traditional folkloric performance and form of Arabic Folk Music originating from Upper Egypt.",
+      "level": "sub-3",
+      "parent": "Arabic Folk Music"
+    }
+  ]
+}

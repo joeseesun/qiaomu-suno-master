@@ -1,0 +1,87 @@
+{
+  "name": "African Music",
+  "description": "All forms with roots in Africa.",
+  "url": "https://rateyourmusic.com/genre/african-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 11,
+  "children": [
+    {
+      "name": "African Folk Music",
+      "url": "https://rateyourmusic.com/genre/african-folk-music/",
+      "description": "Indigenous music of Africa that is passed down orally from generation to generation, the authors of the songs are usually unknown.",
+      "level": "sub-2",
+      "parent": "African Music"
+    },
+    {
+      "name": "Afro-Jazz",
+      "url": "https://rateyourmusic.com/genre/afro-jazz/",
+      "description": "African-styled percussion and rhythms.",
+      "level": "sub-2",
+      "parent": "African Music"
+    },
+    {
+      "name": "Cape Verdean Music",
+      "url": "https://rateyourmusic.com/genre/cape-verdean-music/",
+      "description": "Music developed in the archipelago of Cape Verde.",
+      "level": "sub-2",
+      "parent": "African Music"
+    },
+    {
+      "name": "Central African Music",
+      "url": "https://rateyourmusic.com/genre/central-african-music/",
+      "description": "Music of the areas speaking Adamawa-Eastern languages and many Bantu languages, through most of the Democratic Republic of the Congo, all of Gabon, Equatorial Guinea, the islands of São Tomé and Príncipe, Republic of the Congo, most of the Central African Republic, and large parts of Cameroon, Angola, and the northern parts of Zambia.",
+      "level": "sub-2",
+      "parent": "African Music"
+    },
+    {
+      "name": "East African Music",
+      "url": "https://rateyourmusic.com/genre/east-african-music/",
+      "description": "Traditions which originate from the eastern subregion of the African continent, encompassing a wide variety of cultures and styles.",
+      "level": "sub-2",
+      "parent": "African Music"
+    },
+    {
+      "name": "Malagasy Music",
+      "url": "https://rateyourmusic.com/genre/malagasy-music/",
+      "description": "Music of the Malagasy peoples.",
+      "level": "sub-2",
+      "parent": "African Music"
+    },
+    {
+      "name": "North African Music",
+      "url": "https://rateyourmusic.com/genre/north-african-music/",
+      "description": "Music of North Africa.",
+      "level": "sub-2",
+      "parent": "African Music"
+    },
+    {
+      "name": "Northeastern African Music",
+      "url": "https://rateyourmusic.com/genre/northeastern-african-music/",
+      "description": "Music of Northeastern Africa.",
+      "level": "sub-2",
+      "parent": "African Music"
+    },
+    {
+      "name": "Seychelles & Mascarene Islands Music",
+      "url": "https://rateyourmusic.com/genre/seychelles-and-mascarene-islands-music/",
+      "description": "Styles from La Réunion, Mauritius, Rodrigues, and Seychelles.",
+      "level": "sub-2",
+      "parent": "African Music"
+    },
+    {
+      "name": "Southern African Music",
+      "url": "https://rateyourmusic.com/genre/southern-african-music/",
+      "description": "Encompasses Southern African Folk Music and more modern genres, consisting in a specific style of a worldwide popular genre mixed with or rooted in a local traditional folk genre, through South Africa, Lesotho, Botswana, Eswatini, Namibia, southern Angola, and Matabeleland region in southern Zimbabwe.",
+      "level": "sub-2",
+      "parent": "African Music"
+    },
+    {
+      "name": "West African Music",
+      "url": "https://rateyourmusic.com/genre/west-african-music/",
+      "description": "Traditional and regional popular music from the Western portion of Sub-Saharan Africa.",
+      "level": "sub-2",
+      "parent": "African Music"
+    }
+  ]
+}

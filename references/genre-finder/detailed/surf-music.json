@@ -1,0 +1,45 @@
+{
+  "name": "Surf Music",
+  "description": "Evolved from late 1950s instrumental Rock & Roll in the USA, particularly associated with the surfing culture in Southern California.",
+  "url": "https://rateyourmusic.com/genre/surf-music/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Hot Rod Music",
+      "url": "https://rateyourmusic.com/genre/hot-rod-music/",
+      "description": "Features prominent lyrics about hot rods and car culture and incorporates Sound Effects and guitar textures to mimic sounds made by automobiles.",
+      "level": "sub-2",
+      "parent": "Surf Music"
+    },
+    {
+      "name": "Indie Surf",
+      "url": "https://rateyourmusic.com/genre/indie-surf/",
+      "description": "Reverb-drenched, nostalgic, and often lo-fi, with influences from Surf Rock and Vocal Surf; rose to popularity around 2009.",
+      "level": "sub-2",
+      "parent": "Surf Music"
+    },
+    {
+      "name": "Surf Punk",
+      "url": "https://rateyourmusic.com/genre/surf-punk/",
+      "description": "Punk Rock that incorporates elements of Surf Rock.",
+      "level": "sub-2",
+      "parent": "Surf Music"
+    },
+    {
+      "name": "Surf Rock",
+      "url": "https://rateyourmusic.com/genre/surf-rock/",
+      "description": "Short instrumental songs with Rock & Roll rhythms overlaid with cheerful melodies played on reverb-drenched tremolo guitar.",
+      "level": "sub-2",
+      "parent": "Surf Music"
+    },
+    {
+      "name": "Vocal Surf",
+      "url": "https://rateyourmusic.com/genre/vocal-surf/",
+      "description": "Appropriates the sounds of instrumental Surf Rock, combining surfing- and car-themed lyrics with a style that draws primarily from Doo-Wop and Rock & Roll.",
+      "level": "sub-2",
+      "parent": "Surf Music"
+    }
+  ]
+}

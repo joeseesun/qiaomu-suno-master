@@ -1,0 +1,185 @@
+{
+  "name": "Greek Folk Music",
+  "description": "Greek folk traditions.",
+  "url": "https://rateyourmusic.com/genre/greek-folk-music/",
+  "parent": "Balkan Folk Music",
+  "level": "sub-4",
+  "children_count": 25,
+  "children": [
+    {
+      "name": "Aegean Islands Folk Music",
+      "url": "https://rateyourmusic.com/genre/aegean-islands-folk-music/",
+      "description": "Music of the Greek Aegean Islands.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Aegean Islands Folk Music",
+      "url": "https://rateyourmusic.com/genre/aegean-islands-folk-music/",
+      "description": "Music of the Greek Aegean Islands.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Aegean Islands Folk Music",
+      "url": "https://rateyourmusic.com/genre/aegean-islands-folk-music/",
+      "description": "Music of the Greek Aegean Islands.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Aegean Islands Folk Music",
+      "url": "https://rateyourmusic.com/genre/aegean-islands-folk-music/",
+      "description": "Music of the Greek Aegean Islands.",
+      "level": "sub-4",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Aegean Islands Folk Music",
+      "url": "https://rateyourmusic.com/genre/aegean-islands-folk-music/",
+      "description": "Music of the Greek Aegean Islands.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Cretan Folk Music",
+      "url": "https://rateyourmusic.com/genre/cretan-folk-music/",
+      "description": "Folk of the Greek island Crete.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Cretan Folk Music",
+      "url": "https://rateyourmusic.com/genre/cretan-folk-music/",
+      "description": "Folk of the Greek island Crete.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Cretan Folk Music",
+      "url": "https://rateyourmusic.com/genre/cretan-folk-music/",
+      "description": "Folk of the Greek island Crete.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Cretan Folk Music",
+      "url": "https://rateyourmusic.com/genre/cretan-folk-music/",
+      "description": "Folk of the Greek island Crete.",
+      "level": "sub-4",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Cretan Folk Music",
+      "url": "https://rateyourmusic.com/genre/cretan-folk-music/",
+      "description": "Folk of the Greek island Crete.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Dimotika",
+      "url": "https://rateyourmusic.com/genre/dimotika/",
+      "description": "Traditional Folk Music of the Greek mainland, often using clarinet, guitar, tambourine, and violin as accompaniment, while also incorporating various forms of Greek dance and vocal music.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Dimotika",
+      "url": "https://rateyourmusic.com/genre/dimotika/",
+      "description": "Traditional Folk Music of the Greek mainland, often using clarinet, guitar, tambourine, and violin as accompaniment, while also incorporating various forms of Greek dance and vocal music.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Dimotika",
+      "url": "https://rateyourmusic.com/genre/dimotika/",
+      "description": "Traditional Folk Music of the Greek mainland, often using clarinet, guitar, tambourine, and violin as accompaniment, while also incorporating various forms of Greek dance and vocal music.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Dimotika",
+      "url": "https://rateyourmusic.com/genre/dimotika/",
+      "description": "Traditional Folk Music of the Greek mainland, often using clarinet, guitar, tambourine, and violin as accompaniment, while also incorporating various forms of Greek dance and vocal music.",
+      "level": "sub-4",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Dimotika",
+      "url": "https://rateyourmusic.com/genre/dimotika/",
+      "description": "Traditional Folk Music of the Greek mainland, often using clarinet, guitar, tambourine, and violin as accompaniment, while also incorporating various forms of Greek dance and vocal music.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Ionian Islands Folk Music",
+      "url": "https://rateyourmusic.com/genre/ionian-islands-folk-music/",
+      "description": "Traditional Folk Music from the Ionian Islands in Greece.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Ionian Islands Folk Music",
+      "url": "https://rateyourmusic.com/genre/ionian-islands-folk-music/",
+      "description": "Traditional Folk Music from the Ionian Islands in Greece.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Ionian Islands Folk Music",
+      "url": "https://rateyourmusic.com/genre/ionian-islands-folk-music/",
+      "description": "Traditional Folk Music from the Ionian Islands in Greece.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Ionian Islands Folk Music",
+      "url": "https://rateyourmusic.com/genre/ionian-islands-folk-music/",
+      "description": "Traditional Folk Music from the Ionian Islands in Greece.",
+      "level": "sub-4",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Ionian Islands Folk Music",
+      "url": "https://rateyourmusic.com/genre/ionian-islands-folk-music/",
+      "description": "Traditional Folk Music from the Ionian Islands in Greece.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Rembetika",
+      "url": "https://rateyourmusic.com/genre/rembetika/",
+      "description": "Greek tradition originating in traditional Mikrasiatiki and Smyrnaiki music with elements of other local traditional Greek genres.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Rembetika",
+      "url": "https://rateyourmusic.com/genre/rembetika/",
+      "description": "Greek tradition originating in traditional Mikrasiatiki and Smyrnaiki music with elements of other local traditional Greek genres.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Rembetika",
+      "url": "https://rateyourmusic.com/genre/rembetika/",
+      "description": "Greek tradition originating in traditional Mikrasiatiki and Smyrnaiki music with elements of other local traditional Greek genres.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Rembetika",
+      "url": "https://rateyourmusic.com/genre/rembetika/",
+      "description": "Greek tradition originating in traditional Mikrasiatiki and Smyrnaiki music with elements of other local traditional Greek genres.",
+      "level": "sub-4",
+      "parent": "Greek Folk Music"
+    },
+    {
+      "name": "Rembetika",
+      "url": "https://rateyourmusic.com/genre/rembetika/",
+      "description": "Greek tradition originating in traditional Mikrasiatiki and Smyrnaiki music with elements of other local traditional Greek genres.",
+      "level": "sub-5",
+      "parent": "Greek Folk Music"
+    }
+  ]
+}

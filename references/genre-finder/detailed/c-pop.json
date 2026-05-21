@@ -1,0 +1,45 @@
+{
+  "name": "C-Pop",
+  "description": "Commercialized style performed by Chinese communities across China and Taiwan, alongside its large diaspora.",
+  "url": "https://rateyourmusic.com/genre/c-pop/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Cantopop",
+      "url": "https://rateyourmusic.com/genre/cantopop/",
+      "description": "Modern commercial Pop music sung in the Cantonese language, usually produced in Hong Kong or adjacent regions.",
+      "level": "sub-2",
+      "parent": "C-Pop"
+    },
+    {
+      "name": "Gufeng",
+      "url": "https://rateyourmusic.com/genre/gufeng/",
+      "description": "Emphasizes Chineseness and an \"ancient\" atmosphere, and often features semi-classical lyrics.",
+      "level": "sub-2",
+      "parent": "C-Pop"
+    },
+    {
+      "name": "Hokkien Pop",
+      "url": "https://rateyourmusic.com/genre/hokkien-pop/",
+      "description": "Modern Pop music sung in Hokkien dialects, with its industry largely centered across Taiwan and Southeast Asia.",
+      "level": "sub-2",
+      "parent": "C-Pop"
+    },
+    {
+      "name": "Mandopop",
+      "url": "https://rateyourmusic.com/genre/mandopop/",
+      "description": "C-Pop in which songs are performed in Mandarin.",
+      "level": "sub-2",
+      "parent": "C-Pop"
+    },
+    {
+      "name": "Zhongguo feng",
+      "url": "https://rateyourmusic.com/genre/zhongguo-feng/",
+      "description": "Inspired by traditional elements of Chinese Music with lyrical themes constantly revolving around Chinese culture and tales.",
+      "level": "sub-2",
+      "parent": "C-Pop"
+    }
+  ]
+}

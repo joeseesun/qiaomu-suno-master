@@ -1,0 +1,101 @@
+{
+  "name": "Arabic Music",
+  "description": "Originating with and primarily performed by the Arab people.",
+  "url": "https://rateyourmusic.com/genre/arabic-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 13,
+  "children": [
+    {
+      "name": "Al-Jadīd",
+      "url": "https://rateyourmusic.com/genre/al-jadid/",
+      "description": "Modern Arabic music that emerged in the mid-20th century, blending traditional Arabic modes and vocal styles with Western harmonic, orchestral, and structural elements.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Algerian Chaabi",
+      "url": "https://rateyourmusic.com/genre/algerian-chaabi/",
+      "description": "Features mournful vocals over an orchestral setting of violins, mandolins, pianos, and percussion.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Arabic Classical Music",
+      "url": "https://rateyourmusic.com/genre/arabic-classical-music/",
+      "description": "Arabic Classical Music tradition, whose guidelines for modulation, rhythm, and tuning were set down in treatises in the 8th and 9th centuries, based around Maqāmic Music.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Arabic Folk Music",
+      "url": "https://rateyourmusic.com/genre/arabic-folk-music/",
+      "description": "Traditional Folk Music of the Arabic people.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Arabic Jazz",
+      "url": "https://rateyourmusic.com/genre/arabic-jazz/",
+      "description": "Blending of Arabic Music and Jazz.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Arabic Pop",
+      "url": "https://rateyourmusic.com/genre/arabic-pop/",
+      "description": "Synthesis of Arabic Music with Western Pop melodies, almost always sung in Arabic and typically performed with Arabic instruments, alongside some Western instruments like the guitar.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Bedouin Music",
+      "url": "https://rateyourmusic.com/genre/bedouin-music/",
+      "description": "Music made by the Bedouin, nomadic Arab tribes that have historically inhabited desert regions all across the Arab world.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Khaliji Music",
+      "url": "https://rateyourmusic.com/genre/khaliji-music/",
+      "description": "Musical traditions of Eastern Arabia and the Persian Gulf region, roughly covering the Arabic-speaking people of the modern countries of the United Arab Emirates, Bahrain, Kuwait, Qatar, Saudi Arabia, Oman, Iraq, and Iran.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Levantine Arabic Music",
+      "url": "https://rateyourmusic.com/genre/levantine-arabic-music/",
+      "description": "The musical traditions of the Levantine Arabs, roughly covering the Arabic people of the modern countries of Israel, Jordan, Lebanon, Palestine, and Syria.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Orkes gambus",
+      "url": "https://rateyourmusic.com/genre/orkes-gambus/",
+      "description": "Indonesian songs based on Arabic hits, adapted for a small ensemble featuring the gambus lute, percussion, and electric instruments.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Raï",
+      "url": "https://rateyourmusic.com/genre/rai/",
+      "description": "Originated in Algeria in the 1920s as a form of Bedouin Music, blending influences from various rural and urban genres.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Shaabi",
+      "url": "https://rateyourmusic.com/genre/shaabi/",
+      "description": "Developed in Egypt during the early 1970s, typically created by and for the urban working class with witty lyrics that reflect this.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    },
+    {
+      "name": "Zajal",
+      "url": "https://rateyourmusic.com/genre/zajal/",
+      "description": "Style of recited poetry found across the Arab world, notably written in colloquial dialects.",
+      "level": "sub-2",
+      "parent": "Arabic Music"
+    }
+  ]
+}

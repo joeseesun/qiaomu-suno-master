@@ -1,0 +1,31 @@
+{
+  "name": "Bengali Folk Music",
+  "description": "Traditions of the Bengali people found mainly in the Indian state of West Bengal and the country of Bangladesh.",
+  "url": "https://rateyourmusic.com/genre/bengali-folk-music/",
+  "parent": "South Asian Folk Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Baul gaan",
+      "url": "https://rateyourmusic.com/genre/baul-gaan/",
+      "description": "Songs performed by the Bauls, a movement of mystic entertainers influenced by diverse spiritual traditions.",
+      "level": "sub-4",
+      "parent": "Bengali Folk Music"
+    },
+    {
+      "name": "Baul gaan",
+      "url": "https://rateyourmusic.com/genre/baul-gaan/",
+      "description": "Songs performed by the Bauls, a movement of mystic entertainers influenced by diverse spiritual traditions.",
+      "level": "sub-5",
+      "parent": "Bengali Folk Music"
+    },
+    {
+      "name": "Baul gaan",
+      "url": "https://rateyourmusic.com/genre/baul-gaan/",
+      "description": "Songs performed by the Bauls, a movement of mystic entertainers influenced by diverse spiritual traditions.",
+      "level": "sub-4",
+      "parent": "Bengali Folk Music"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Synth Funk",
+  "description": "Stripped-down and futuristic, driven by synthesizer melodies and often incorporating drum machines.",
+  "url": "https://rateyourmusic.com/genre/synth-funk/",
+  "parent": "Funk",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Minneapolis Sound",
+      "url": "https://rateyourmusic.com/genre/minneapolis-sound/",
+      "description": "Emerged in late 1970s Minneapolis, characterized by glossy Contemporary R&B-influenced production techniques, angular New Wave-inspired rhythms, and a larger emphasis on electric guitar layers.",
+      "level": "sub-3",
+      "parent": "Synth Funk"
+    }
+  ]
+}

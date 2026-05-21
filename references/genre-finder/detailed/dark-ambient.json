@@ -1,0 +1,38 @@
+{
+  "name": "Dark Ambient",
+  "description": "Emphasizes an ominous, gloomy, and dissonant atmosphere.",
+  "url": "https://rateyourmusic.com/genre/dark-ambient/",
+  "parent": "Ambient",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Black Ambient",
+      "url": "https://rateyourmusic.com/genre/black-ambient/",
+      "description": "Incorporates elements such as guitars, synthesizers, harsh or whispered vocals, raw production, or other elements associated with Black Metal and Dungeon Synth.",
+      "level": "sub-2",
+      "parent": "Dark Ambient"
+    },
+    {
+      "name": "Black Ambient",
+      "url": "https://rateyourmusic.com/genre/black-ambient/",
+      "description": "Incorporates elements such as guitars, synthesizers, harsh or whispered vocals, raw production, or other elements associated with Black Metal and Dungeon Synth.",
+      "level": "sub-3",
+      "parent": "Dark Ambient"
+    },
+    {
+      "name": "Ritual Ambient",
+      "url": "https://rateyourmusic.com/genre/ritual-ambient/",
+      "description": "Dark, disturbing, ritualistic, and occult atmosphere, often taking inspiration from various existing ritual practices around the world.",
+      "level": "sub-2",
+      "parent": "Dark Ambient"
+    },
+    {
+      "name": "Ritual Ambient",
+      "url": "https://rateyourmusic.com/genre/ritual-ambient/",
+      "description": "Dark, disturbing, ritualistic, and occult atmosphere, often taking inspiration from various existing ritual practices around the world.",
+      "level": "sub-3",
+      "parent": "Dark Ambient"
+    }
+  ]
+}

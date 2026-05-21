@@ -1,0 +1,38 @@
+{
+  "name": "Canción melódica",
+  "description": "Sentimental vocal music sung in Spanish with a focus on the chorus, originally developed in the first half of the 20th century from a variety of traditional Hispanic genres.",
+  "url": "https://rateyourmusic.com/genre/cancion-melodica/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Bolero-Beat",
+      "url": "https://rateyourmusic.com/genre/bolero-beat/",
+      "description": "Latin American style stemming from both Canción melódica and the British Beat.",
+      "level": "sub-2",
+      "parent": "Canción melódica"
+    },
+    {
+      "name": "Bolero-Beat",
+      "url": "https://rateyourmusic.com/genre/bolero-beat/",
+      "description": "Latin American style stemming from both Canción melódica and the British Beat.",
+      "level": "sub-3",
+      "parent": "Canción melódica"
+    },
+    {
+      "name": "Música cebolla",
+      "url": "https://rateyourmusic.com/genre/musica-cebolla/",
+      "description": "Chilean offshoot of Canción melódica that expresses a much more melancholic or nostalgic side.",
+      "level": "sub-2",
+      "parent": "Canción melódica"
+    },
+    {
+      "name": "Música cebolla",
+      "url": "https://rateyourmusic.com/genre/musica-cebolla/",
+      "description": "Chilean offshoot of Canción melódica that expresses a much more melancholic or nostalgic side.",
+      "level": "sub-3",
+      "parent": "Canción melódica"
+    }
+  ]
+}

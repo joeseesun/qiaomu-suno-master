@@ -1,0 +1,31 @@
+{
+  "name": "Tamil Folk Music",
+  "description": "Traditional Folk Music of the Tamil people.",
+  "url": "https://rateyourmusic.com/genre/tamil-folk-music/",
+  "parent": "South Asian Folk Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Urumi melam",
+      "url": "https://rateyourmusic.com/genre/urumi-melam/",
+      "description": "Percussive ensemble native to the Tamil Nadu region, taking its name from the urumi drum.",
+      "level": "sub-4",
+      "parent": "Tamil Folk Music"
+    },
+    {
+      "name": "Urumi melam",
+      "url": "https://rateyourmusic.com/genre/urumi-melam/",
+      "description": "Percussive ensemble native to the Tamil Nadu region, taking its name from the urumi drum.",
+      "level": "sub-5",
+      "parent": "Tamil Folk Music"
+    },
+    {
+      "name": "Urumi melam",
+      "url": "https://rateyourmusic.com/genre/urumi-melam/",
+      "description": "Percussive ensemble native to the Tamil Nadu region, taking its name from the urumi drum.",
+      "level": "sub-4",
+      "parent": "Tamil Folk Music"
+    }
+  ]
+}

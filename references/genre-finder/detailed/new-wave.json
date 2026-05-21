@@ -1,0 +1,31 @@
+{
+  "name": "New Wave",
+  "description": "Broad term referring to a variety of styles that saw popularity in the wake of the Punk Rock explosion of 1976-77, initially strongly associated with more accessible and stylish offshoots of punk; developed alongside Post-Punk, similarly emphasising freshness and daring.",
+  "url": "https://rateyourmusic.com/genre/new-wave/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "2 Tone",
+      "url": "https://rateyourmusic.com/genre/2-tone/",
+      "description": "Combines 1960s Jamaican Ska with Punk Rock and New Wave to create tracks played at faster tempos and with a harder edge than the original Jamaican records.",
+      "level": "sub-2",
+      "parent": "New Wave"
+    },
+    {
+      "name": "Beat Rock",
+      "url": "https://rateyourmusic.com/genre/beat-rock/",
+      "description": "Japan-exclusive subgenre which combines Pop melodicism with a punchy, driving sound drawing on Punk Rock and New Wave.",
+      "level": "sub-2",
+      "parent": "New Wave"
+    },
+    {
+      "name": "Mod Revival",
+      "url": "https://rateyourmusic.com/genre/mod-revival/",
+      "description": "Late 1970s and early 1980s revival of Mod fashion and music, featuring influence from the nascent Punk Rock scene.",
+      "level": "sub-2",
+      "parent": "New Wave"
+    }
+  ]
+}

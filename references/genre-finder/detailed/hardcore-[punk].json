@@ -1,0 +1,150 @@
+{
+  "name": "Hardcore [Punk]",
+  "description": "Broad genre which encompasses the first wave of Hardcore Punk beginning in the 1970s, as well as its derivative styles that incorporate diverse musical influences and stray away from the core Punk Rock sound.",
+  "url": "https://rateyourmusic.com/genre/hardcore-punk-1/",
+  "parent": "Punk",
+  "level": "sub",
+  "children_count": 20,
+  "children": [
+    {
+      "name": "Beatdown Hardcore",
+      "url": "https://rateyourmusic.com/genre/beatdown-hardcore/",
+      "description": "Heavy, urban-inspired and breakdown-oriented with strong relations to Metalcore.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Beatdown Hardcore",
+      "url": "https://rateyourmusic.com/genre/beatdown-hardcore/",
+      "description": "Heavy, urban-inspired and breakdown-oriented with strong relations to Metalcore.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Easycore",
+      "url": "https://rateyourmusic.com/genre/easycore/",
+      "description": "Combines the radio-friendly stylings of second-wave Pop Punk with Metalcore-inspired breakdowns, lower guitar tunings, and occasional unclean vocals.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Easycore",
+      "url": "https://rateyourmusic.com/genre/easycore/",
+      "description": "Combines the radio-friendly stylings of second-wave Pop Punk with Metalcore-inspired breakdowns, lower guitar tunings, and occasional unclean vocals.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Electronicore",
+      "url": "https://rateyourmusic.com/genre/electronicore/",
+      "description": "Hybrid of Metalcore and/or Post-Hardcore with various Electronic Dance Music styles, utilizing Electronic instrumentation and occasional Dance beats.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Electronicore",
+      "url": "https://rateyourmusic.com/genre/electronicore/",
+      "description": "Hybrid of Metalcore and/or Post-Hardcore with various Electronic Dance Music styles, utilizing Electronic instrumentation and occasional Dance beats.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Grindcore",
+      "url": "https://rateyourmusic.com/genre/grindcore/",
+      "description": "Brief and intense song structures featuring a plethora of blast beats, down-tuned and tremolo-picked guitars, and abrasive, usually raw production.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Grindcore",
+      "url": "https://rateyourmusic.com/genre/grindcore/",
+      "description": "Brief and intense song structures featuring a plethora of blast beats, down-tuned and tremolo-picked guitars, and abrasive, usually raw production.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Hardcore Punk",
+      "url": "https://rateyourmusic.com/genre/hardcore-punk/",
+      "description": "Emerged in the late 1970s, often featuring extensive use of yelling or screaming, a stripped-down production style, and very short songs.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Hardcore Punk",
+      "url": "https://rateyourmusic.com/genre/hardcore-punk/",
+      "description": "Emerged in the late 1970s, often featuring extensive use of yelling or screaming, a stripped-down production style, and very short songs.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Metalcore",
+      "url": "https://rateyourmusic.com/genre/metalcore/",
+      "description": "Drop-tuned guitar riffs, constant double kick drumming with varying tempos and techniques, breakdown sections, and screaming or shouting vocals.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Metalcore",
+      "url": "https://rateyourmusic.com/genre/metalcore/",
+      "description": "Drop-tuned guitar riffs, constant double kick drumming with varying tempos and techniques, breakdown sections, and screaming or shouting vocals.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Nintendocore",
+      "url": "https://rateyourmusic.com/genre/nintendocore/",
+      "description": "Fuses Post-Hardcore and Metalcore influences with Chiptune instrumentation.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Nintendocore",
+      "url": "https://rateyourmusic.com/genre/nintendocore/",
+      "description": "Fuses Post-Hardcore and Metalcore influences with Chiptune instrumentation.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Noisecore",
+      "url": "https://rateyourmusic.com/genre/noisecore/",
+      "description": "Short blasts of riff-less, Noise-driven music accompanied with chaotic drums and screamed vocals.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Noisecore",
+      "url": "https://rateyourmusic.com/genre/noisecore/",
+      "description": "Short blasts of riff-less, Noise-driven music accompanied with chaotic drums and screamed vocals.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Post-Hardcore",
+      "url": "https://rateyourmusic.com/genre/post-hardcore/",
+      "description": "Emerged in the mid-1980s from Hardcore Punk that expanded on its aggression and dynamics through longer and more complex arrangements.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Post-Hardcore",
+      "url": "https://rateyourmusic.com/genre/post-hardcore/",
+      "description": "Emerged in the mid-1980s from Hardcore Punk that expanded on its aggression and dynamics through longer and more complex arrangements.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Sass",
+      "url": "https://rateyourmusic.com/genre/sass/",
+      "description": "Emerged from Post-Hardcore in the early 2000s; characterized by sassy vocal styles and chaotic, erratic instrumentals.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    },
+    {
+      "name": "Sass",
+      "url": "https://rateyourmusic.com/genre/sass/",
+      "description": "Emerged from Post-Hardcore in the early 2000s; characterized by sassy vocal styles and chaotic, erratic instrumentals.",
+      "level": "sub-2",
+      "parent": "Hardcore [Punk]"
+    }
+  ]
+}

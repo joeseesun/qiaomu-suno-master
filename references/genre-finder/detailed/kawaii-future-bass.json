@@ -1,0 +1,24 @@
+{
+  "name": "Kawaii Future Bass",
+  "description": "\"Cute\" style of Future Bass rooted in anime and video game culture; emerged in Japan in the mid-2010s.",
+  "url": "https://rateyourmusic.com/genre/kawaii-future-bass/",
+  "parent": "Future Bass",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Future Core",
+      "url": "https://rateyourmusic.com/genre/future-core/",
+      "description": "Blends the speed, basslines, and rhythms of UK Hardcore (mostly coming from the J-core sphere) with euphoric, woozy synths, 7th chords and arpeggios, and vocal chops of Future Bass, particularly Kawaii Future Bass.",
+      "level": "sub-4",
+      "parent": "Kawaii Future Bass"
+    },
+    {
+      "name": "Future Core",
+      "url": "https://rateyourmusic.com/genre/future-core/",
+      "description": "Blends the speed, basslines, and rhythms of UK Hardcore (mostly coming from the J-core sphere) with euphoric, woozy synths, 7th chords and arpeggios, and vocal chops of Future Bass, particularly Kawaii Future Bass.",
+      "level": "sub-4",
+      "parent": "Kawaii Future Bass"
+    }
+  ]
+}

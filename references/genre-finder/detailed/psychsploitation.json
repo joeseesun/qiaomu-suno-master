@@ -1,0 +1,24 @@
+{
+  "name": "Psychsploitation",
+  "description": "Short-lived genre seeking to capitalise on the popularity of Psychedelia in the 1960s, featuring quickly and cheaply recorded material played by session musicians and put out by budget labels.",
+  "url": "https://rateyourmusic.com/genre/psychsploitation/",
+  "parent": "Psychedelia",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Sitarsploitation",
+      "url": "https://rateyourmusic.com/genre/sitarsploitation/",
+      "description": "Variant of Exotica capitalising on the surge of Western interest in Indian music in the late 1960s; featured melodies played on the sitar (or instruments imitating it) atop Easy Listening accompaniment.",
+      "level": "sub-2",
+      "parent": "Psychsploitation"
+    },
+    {
+      "name": "Sitarsploitation",
+      "url": "https://rateyourmusic.com/genre/sitarsploitation/",
+      "description": "Variant of Exotica capitalising on the surge of Western interest in Indian music in the late 1960s; featured melodies played on the sitar (or instruments imitating it) atop Easy Listening accompaniment.",
+      "level": "sub-2",
+      "parent": "Psychsploitation"
+    }
+  ]
+}

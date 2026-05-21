@@ -1,0 +1,115 @@
+{
+  "name": "Modern Classical",
+  "description": "Multitude of different compositional approaches beginning in the 20th century that deviate significantly from the previously-held tenets.",
+  "url": "https://rateyourmusic.com/genre/modern-classical/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 15,
+  "children": [
+    {
+      "name": "American Gamelan",
+      "url": "https://rateyourmusic.com/genre/american-gamelan/",
+      "description": "Mid-20th-century style, influenced by arrangements, instrumentation, rhythms, timbres, and tunings of Indonesian Gamelan.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Expressionism",
+      "url": "https://rateyourmusic.com/genre/expressionism/",
+      "description": "Originating between the abandonment of tonality at the conclusion of the period of Romanticism and the creation of twelve-tone composition.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Futurism",
+      "url": "https://rateyourmusic.com/genre/futurism/",
+      "description": "Radical and militant attitude, rejection of Western Classical Music and traditional criteria of craft, non-conformity, and a fascination with machines.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Impressionism",
+      "url": "https://rateyourmusic.com/genre/impressionism/",
+      "description": "Originated in late 19th to early 20th century France as a reaction to Romanticism, placing a greater focus on depicting atmosphere and mood rather than fixed concepts.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Indeterminacy",
+      "url": "https://rateyourmusic.com/genre/indeterminacy/",
+      "description": "Leaves elements of composition, performance, or both up to chance.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Microtonal Classical",
+      "url": "https://rateyourmusic.com/genre/microtonal-classical/",
+      "description": "Eschews the traditional twelve-tone scale of Western Classical Music, utilizing intervals outside of its bounds.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Minimalism",
+      "url": "https://rateyourmusic.com/genre/minimalism/",
+      "description": "Developed in the United States in the 1960s; recognized for its repetitive nature and use of static harmony.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Musique concrète instrumentale",
+      "url": "https://rateyourmusic.com/genre/musique-concrete-instrumentale/",
+      "description": "Acoustic, through-composed Classical Music that relies heavily on unconventional instrumental techniques.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "New Complexity",
+      "url": "https://rateyourmusic.com/genre/new-complexity/",
+      "description": "Dense, difficult, and rigorously academic approach to Modern Classical composition which emerged in the 1980s.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Post-Minimalism",
+      "url": "https://rateyourmusic.com/genre/post-minimalism/",
+      "description": "Seeks to push Minimalism's linear composition style forward, and takes in influences from genres such as Jazz, Traditional Folk Music, and others.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Process Music",
+      "url": "https://rateyourmusic.com/genre/process-music/",
+      "description": "Compositions centering musical processes, both audible and inaudible.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Serialism",
+      "url": "https://rateyourmusic.com/genre/serialism/",
+      "description": "Compositional method in which pitches are grouped into sets (tone rows) to determine the order and frequency of their use.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Sonorism",
+      "url": "https://rateyourmusic.com/genre/sonorism/",
+      "description": "Techniques and forms that emphasize texture and timbre.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Spectralism",
+      "url": "https://rateyourmusic.com/genre/spectralism/",
+      "description": "Compositional practice involving analysis, manipulation, and transformation of sound spectra.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    },
+    {
+      "name": "Stochastic Music",
+      "url": "https://rateyourmusic.com/genre/stochastic-music/",
+      "description": "Composition featuring guided indeterminism, where the following state is only partially determined by the preceding state.",
+      "level": "sub-3",
+      "parent": "Modern Classical"
+    }
+  ]
+}

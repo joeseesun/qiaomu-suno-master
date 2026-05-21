@@ -1,0 +1,66 @@
+{
+  "name": "Psychedelic Folk",
+  "description": "Acoustic forms that capture an atmosphere that is at turns dream-like, 'spaced-out', whimsical, haunting, mystical, and melancholic.",
+  "url": "https://rateyourmusic.com/genre/psychedelic-folk/",
+  "parent": "Contemporary Folk",
+  "level": "sub-2",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Freak Folk",
+      "url": "https://rateyourmusic.com/genre/freak-folk/",
+      "description": "Loosely defined 2000s Psychedelic Folk revival closely associated with the New Weird America movement, sometimes also a shorthand for certain leftfield styles of psychedelic and Indie Folk.",
+      "level": "sub-3",
+      "parent": "Psychedelic Folk"
+    },
+    {
+      "name": "Freak Folk",
+      "url": "https://rateyourmusic.com/genre/freak-folk/",
+      "description": "Loosely defined 2000s Psychedelic Folk revival closely associated with the New Weird America movement, sometimes also a shorthand for certain leftfield styles of psychedelic and Indie Folk.",
+      "level": "sub-2",
+      "parent": "Psychedelic Folk"
+    },
+    {
+      "name": "Free Folk",
+      "url": "https://rateyourmusic.com/genre/free-folk/",
+      "description": "Incorporates improvisation, repetition and extended song lengths.",
+      "level": "sub-3",
+      "parent": "Psychedelic Folk"
+    },
+    {
+      "name": "Free Folk",
+      "url": "https://rateyourmusic.com/genre/free-folk/",
+      "description": "Incorporates improvisation, repetition and extended song lengths.",
+      "level": "sub-2",
+      "parent": "Psychedelic Folk"
+    },
+    {
+      "name": "Udigrudi",
+      "url": "https://rateyourmusic.com/genre/udigrudi/",
+      "description": "Movement that emerged in the Brazilian city of Recife during the 1970s that combines psychedelic elements with music of Northeastern Brazil.",
+      "level": "sub-3",
+      "parent": "Psychedelic Folk"
+    },
+    {
+      "name": "Udigrudi",
+      "url": "https://rateyourmusic.com/genre/udigrudi/",
+      "description": "Movement that emerged in the Brazilian city of Recife during the 1970s that combines psychedelic elements with music of Northeastern Brazil.",
+      "level": "sub-2",
+      "parent": "Psychedelic Folk"
+    },
+    {
+      "name": "Wyrd Folk",
+      "url": "https://rateyourmusic.com/genre/wyrd-folk/",
+      "description": "Closely tied to mysticism, old folk beliefs, and Folk Horror; often described as 'witchy' or 'pagan.'",
+      "level": "sub-3",
+      "parent": "Psychedelic Folk"
+    },
+    {
+      "name": "Wyrd Folk",
+      "url": "https://rateyourmusic.com/genre/wyrd-folk/",
+      "description": "Closely tied to mysticism, old folk beliefs, and Folk Horror; often described as 'witchy' or 'pagan.'",
+      "level": "sub-2",
+      "parent": "Psychedelic Folk"
+    }
+  ]
+}

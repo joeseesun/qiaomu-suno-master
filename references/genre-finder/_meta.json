@@ -1,0 +1,13 @@
+{
+  "total_genres": 5947,
+  "main_genres": 49,
+  "sub_genres": 737,
+  "detailed_genres": 5161,
+  "last_updated": "2026-01-31 19:32:04",
+  "source": "https://rateyourmusic.com/genres/",
+  "usage": {
+    "step1": "读取 _index.json 查看所有主分类",
+    "step2": "读取 main/{genre-name}.json 查看直接子分类",
+    "step3": "读取 detailed/{subgenre-name}.json 查看更深层级"
+  }
+}

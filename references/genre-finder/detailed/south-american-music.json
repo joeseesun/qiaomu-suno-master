@@ -1,0 +1,339 @@
+{
+  "name": "South American Music",
+  "description": "Rooted in the traditions of South America.",
+  "url": "https://rateyourmusic.com/genre/south-american-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 47,
+  "children": [
+    {
+      "name": "Aleke",
+      "url": "https://rateyourmusic.com/genre/aleke/",
+      "description": "Derived from traditional Surinamese Maroon music, especially aukansi, features distinct faster rhythms.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Argentine Music",
+      "url": "https://rateyourmusic.com/genre/argentine-music/",
+      "description": "Music developed by the Argentine people.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Avanzada",
+      "url": "https://rateyourmusic.com/genre/avanzada/",
+      "description": "Fusion of Polka paraguaya and Guarania with elements of Bossa nova and MPB.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Bailecito",
+      "url": "https://rateyourmusic.com/genre/bailecito/",
+      "description": "Agile and lively dance derived from Zamacueca, typical of the western and central region of Bolivia.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Baithak gana",
+      "url": "https://rateyourmusic.com/genre/baithak-gana/",
+      "description": "Indo-Caribbean genre from Suriname, consisting of Bhojpuri Folk Music with local Caribbean influence.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Bambuco",
+      "url": "https://rateyourmusic.com/genre/bambuco/",
+      "description": "Follows a 6/8 or 3/4 time signature with non-percussive instrumentation, often melancholic in sound with bright guitars and a rich melodic base.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Brazilian Music",
+      "url": "https://rateyourmusic.com/genre/brazilian-music/",
+      "description": "All forms of music with roots in Brazil.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Bullerengue",
+      "url": "https://rateyourmusic.com/genre/bullerengue/",
+      "description": "Afro-Colombian popular genre which features a strong emphasis on rhythm and improvisation and a call-and-response format.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Calipso venezolano",
+      "url": "https://rateyourmusic.com/genre/calipso-venezolano/",
+      "description": "Derived from Trinidadian Calypso, popular in the eastern region of Venezuela and associated with Carnival.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Caporal",
+      "url": "https://rateyourmusic.com/genre/caporal/",
+      "description": "Bolivian neofolkloric dance music characterized by a double beat bass drum pattern that emerged in the latter half of the twentieth century.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Carnaval cruceño",
+      "url": "https://rateyourmusic.com/genre/carnaval-cruceno/",
+      "description": "Danceable genre, similar to the Polka, from the city of Santa Cruz, Bolivia, characteristic of the area’s Carnival celebrations and generally composed for brass band musicians.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Carranga",
+      "url": "https://rateyourmusic.com/genre/carranga/",
+      "description": "Colombian folk music that originated in Boyacá province, best known for its wordplay and humorous lyrics.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Chacarera",
+      "url": "https://rateyourmusic.com/genre/chacarera/",
+      "description": "Originated in northwest Argentina and southern Bolivia around 1850, typically in 6/8 and traditionally performed with instruments like the guitar, bombo legüero (traditional drum), and violin.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Chamamé",
+      "url": "https://rateyourmusic.com/genre/chamame/",
+      "description": "Mixes native Guaraní music with Polka paraguaya and European schottische music.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Champeta",
+      "url": "https://rateyourmusic.com/genre/champeta/",
+      "description": "Colombian genre heavily influenced by the traditional music of San Basilio de Palenque as well as modern Caribbean and African sensibilities.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Chilean Music",
+      "url": "https://rateyourmusic.com/genre/chilean-music/",
+      "description": "Music developed by the Chilean people.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Chuntunqui romántico",
+      "url": "https://rateyourmusic.com/genre/chuntunqui-romantico/",
+      "description": "Vibrant Bolivian genre set in 6/8 meter featuring choral refrains, harmonic progressions, and lyrics exploring the subject of romantic love.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Conjunto andino",
+      "url": "https://rateyourmusic.com/genre/conjunto-andino/",
+      "description": "Urban folk ensembles using musical instruments of Andean Indigenous origin or association; despite frequent association with Indigenous villages, they bear little resemblance to the Indigenous expressions of the Southern Andes.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Cueca",
+      "url": "https://rateyourmusic.com/genre/cueca/",
+      "description": "Popular in Chile, Argentina, and Bolivia, accompanied by a 6/8 or 3/4 time signature and usually structured into 14 verses.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Cumbia colombiana",
+      "url": "https://rateyourmusic.com/genre/cumbia-colombiana/",
+      "description": "Style that incorporates elements of Colombian traditional music, which includes and keeps influences from Spanish, African, and Indigenous cultures.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Currulao",
+      "url": "https://rateyourmusic.com/genre/currulao/",
+      "description": "Pacific coast Afro-Colombian music and folk dance performed by a marimba/percussion ensemble with heavy use of call-and-response vocals.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Gaita zuliana",
+      "url": "https://rateyourmusic.com/genre/gaita-zuliana/",
+      "description": "Emerged in the state of Zulia in the 1950s, merging Spanish Folk Music and Venezuelan Christmas carols.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Guarania",
+      "url": "https://rateyourmusic.com/genre/guarania/",
+      "description": "Slow and melancholic rhythms, primarily performed on the Paraguayan harp.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Indigenous Andean Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-andean-music/",
+      "description": "Diverse styles and genres developed by the indigenous peoples of the Andes.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Joropo",
+      "url": "https://rateyourmusic.com/genre/joropo/",
+      "description": "Incorporates elements of Creole music and the Venezuelan waltz.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Kaseko",
+      "url": "https://rateyourmusic.com/genre/kaseko/",
+      "description": "Surinamese popular music with roots in Surinamese Creole music, which was influenced by folk traditions of Africa, Europe, and the Americas.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Malagueña venezolana",
+      "url": "https://rateyourmusic.com/genre/malaguena-venezolana/",
+      "description": "Traditional musical accompaniment to the Venezuelan 'velorios de cruz de mayo' celebrations, played with the mandolin (as lead instrument), cuatro and guitar.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Mapuche Folk Music",
+      "url": "https://rateyourmusic.com/genre/mapuche-folk-music/",
+      "description": "Traditional Folk Music of the Mapuche people of Chile and Argentina.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Muliza",
+      "url": "https://rateyourmusic.com/genre/muliza/",
+      "description": "Mestizo folk genre popular in the central Peruvian Andes, characterized by a pronounced, though sedate, rhythm; traces of Andean melody; and octosyllabic verses.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Música llanera",
+      "url": "https://rateyourmusic.com/genre/musica-llanera/",
+      "description": "Traditional music originating from the Llanos region of Colombia and Venezuela.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Onda nueva",
+      "url": "https://rateyourmusic.com/genre/onda-nueva/",
+      "description": "Based on Joropo, it incorporates elements of Bossa nova and Jazz.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Pasillo",
+      "url": "https://rateyourmusic.com/genre/pasillo/",
+      "description": "Traditional dance popular in Ecuador and Colombia; based on European Waltz and often performed with guitar and mandolin.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Payada",
+      "url": "https://rateyourmusic.com/genre/payada/",
+      "description": "Improvised poetry accompanied by a guitar that is tied to gaucho culture, usually performed in duo as a verse duel.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Peruvian Music",
+      "url": "https://rateyourmusic.com/genre/peruvian-music/",
+      "description": "Music developed by the Peruvian people.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Polka paraguaya",
+      "url": "https://rateyourmusic.com/genre/polka-paraguaya/",
+      "description": "Popular music originating in Paraguay and the Province of Corrientes (Argentina), derived from the Bohemian polka and traditional music of Hispanic-Jesuit origin.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Porro",
+      "url": "https://rateyourmusic.com/genre/porro/",
+      "description": "Lively Hispanic American Music and dance style native to Colombia which gained popularity in the 1940s.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Rioplatense Music",
+      "url": "https://rateyourmusic.com/genre/rioplatense-music/",
+      "description": "Music developed by the people of the Rio de la Plata region.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Rock andino",
+      "url": "https://rateyourmusic.com/genre/rock-andino/",
+      "description": "Emerged in the Andean countries in the late 1960s and early 1970s, incorporating traditional instruments and harmonies from Indigenous Andean Music within a Rock format.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Salsa choke",
+      "url": "https://rateyourmusic.com/genre/salsa-choke/",
+      "description": "Colombian style that takes heavy influence from Reggaetón, House, Hip Hop, and various Afro-Colombian and Colombian Pacific styles.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Saya",
+      "url": "https://rateyourmusic.com/genre/saya/",
+      "description": "Fast-paced, percussive traditional genre created by the Afro-Bolivian people.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Taquirari",
+      "url": "https://rateyourmusic.com/genre/taquirari/",
+      "description": "Developed by the indigenous peoples of eastern Bolivia, bringing in some elements of Hispanic Music, and featuring a syncopated rhythm.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Tecnomerengue",
+      "url": "https://rateyourmusic.com/genre/tecnomerengue/",
+      "description": "Fuses basic Merengue rhythms with influences from Cumbia and Lambada, being largely synthesized, with live instruments usually limited to percussion and brass.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Vallenato",
+      "url": "https://rateyourmusic.com/genre/vallenato/",
+      "description": "Accordion-led style of folk and popular music originating in Colombia's Caribbean region.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Vals venezolano",
+      "url": "https://rateyourmusic.com/genre/vals-venezolano/",
+      "description": "Venezuelan dance music that employs heavy use of syncopation, complex rhythms, and regional instruments.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Yaraví",
+      "url": "https://rateyourmusic.com/genre/yaravi/",
+      "description": "Peruvian criollo-mestizo songs with recurring themes of sadness and unrequited love, usually in 6/8 meter.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Zamacueca",
+      "url": "https://rateyourmusic.com/genre/zamacueca/",
+      "description": "Traditional genre and dance of 19th century Peru, sung in the minor mode and accompanied by a varying combination of guitar, vihuela, harp and cajón.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    },
+    {
+      "name": "Zamba",
+      "url": "https://rateyourmusic.com/genre/zamba/",
+      "description": "Folk dance that evolved out of Peruvian Zamacueca during the 19th century.",
+      "level": "sub-2",
+      "parent": "South American Music"
+    }
+  ]
+}

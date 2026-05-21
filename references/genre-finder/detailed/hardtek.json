@@ -1,0 +1,38 @@
+{
+  "name": "Hardtek",
+  "description": "Modern version of the \"tribecore\" sound featuring deep alternating basses and festival EDM-influenced drops.",
+  "url": "https://rateyourmusic.com/genre/hardtek/",
+  "parent": "Hardcore [EDM]",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Raggatek",
+      "url": "https://rateyourmusic.com/genre/raggatek/",
+      "description": "Influenced by Reggae, Ragga and Dancehall, combining half-time instrumental sections with Hardtek's fast four-on-the-floor rhythms, as well as vocal samples, clean basslines and skank rhythms.",
+      "level": "sub-4",
+      "parent": "Hardtek"
+    },
+    {
+      "name": "Raggatek",
+      "url": "https://rateyourmusic.com/genre/raggatek/",
+      "description": "Influenced by Reggae, Ragga and Dancehall, combining half-time instrumental sections with Hardtek's fast four-on-the-floor rhythms, as well as vocal samples, clean basslines and skank rhythms.",
+      "level": "sub-4",
+      "parent": "Hardtek"
+    },
+    {
+      "name": "Raggatek",
+      "url": "https://rateyourmusic.com/genre/raggatek/",
+      "description": "Influenced by Reggae, Ragga and Dancehall, combining half-time instrumental sections with Hardtek's fast four-on-the-floor rhythms, as well as vocal samples, clean basslines and skank rhythms.",
+      "level": "sub-4",
+      "parent": "Hardtek"
+    },
+    {
+      "name": "Raggatek",
+      "url": "https://rateyourmusic.com/genre/raggatek/",
+      "description": "Influenced by Reggae, Ragga and Dancehall, combining half-time instrumental sections with Hardtek's fast four-on-the-floor rhythms, as well as vocal samples, clean basslines and skank rhythms.",
+      "level": "sub-4",
+      "parent": "Hardtek"
+    }
+  ]
+}

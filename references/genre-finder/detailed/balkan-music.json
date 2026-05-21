@@ -1,0 +1,52 @@
+{
+  "name": "Balkan Music",
+  "description": "Meta-genre covering all forms developed in the Balkan Peninsula.",
+  "url": "https://rateyourmusic.com/genre/balkan-music/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Balkan Folk Music",
+      "url": "https://rateyourmusic.com/genre/balkan-folk-music/",
+      "description": "Traditional Folk Music of the Balkan region of Southeastern Europe.",
+      "level": "sub-3",
+      "parent": "Balkan Music"
+    },
+    {
+      "name": "Balkan Pop-Folk",
+      "url": "https://rateyourmusic.com/genre/balkan-pop-folk/",
+      "description": "Balkan popular music which blends Pop, Folk, and ethnic music.",
+      "level": "sub-3",
+      "parent": "Balkan Music"
+    },
+    {
+      "name": "Entechna",
+      "url": "https://rateyourmusic.com/genre/entechna/",
+      "description": "First appeared in Greece in the late 1950s, featuring orchestrated arrangements with influence from Greek Folk Music and the popular Laika style.",
+      "level": "sub-3",
+      "parent": "Balkan Music"
+    },
+    {
+      "name": "Laika",
+      "url": "https://rateyourmusic.com/genre/laika/",
+      "description": "Greek popular music played with local instruments like the bouzouki, Greek baglama, and the jouras.",
+      "level": "sub-3",
+      "parent": "Balkan Music"
+    },
+    {
+      "name": "Romanţe",
+      "url": "https://rateyourmusic.com/genre/romante/",
+      "description": "Expressive and poetic Romanian style, generally sung similar to a Chanson and composed for piano and guitar orchestral arrangements.",
+      "level": "sub-3",
+      "parent": "Balkan Music"
+    },
+    {
+      "name": "Yu-Mex",
+      "url": "https://rateyourmusic.com/genre/yu-mex/",
+      "description": "Style of popular music from former Yugoslavia that incorporates elements of Mexican Music.",
+      "level": "sub-3",
+      "parent": "Balkan Music"
+    }
+  ]
+}

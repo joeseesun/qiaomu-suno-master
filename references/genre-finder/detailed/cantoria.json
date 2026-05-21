@@ -1,0 +1,38 @@
+{
+  "name": "Cantoria",
+  "description": "Sung poetry of itinerant cantadores from Northeastern Brazil.",
+  "url": "https://rateyourmusic.com/genre/cantoria/",
+  "parent": "Brazilian Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Repente",
+      "url": "https://rateyourmusic.com/genre/repente/",
+      "description": "Contest of fully improvised poetry sung in different stanza formats.",
+      "level": "sub-4",
+      "parent": "Cantoria"
+    },
+    {
+      "name": "Repente",
+      "url": "https://rateyourmusic.com/genre/repente/",
+      "description": "Contest of fully improvised poetry sung in different stanza formats.",
+      "level": "sub-5",
+      "parent": "Cantoria"
+    },
+    {
+      "name": "Repente",
+      "url": "https://rateyourmusic.com/genre/repente/",
+      "description": "Contest of fully improvised poetry sung in different stanza formats.",
+      "level": "sub-5",
+      "parent": "Cantoria"
+    },
+    {
+      "name": "Repente",
+      "url": "https://rateyourmusic.com/genre/repente/",
+      "description": "Contest of fully improvised poetry sung in different stanza formats.",
+      "level": "sub-4",
+      "parent": "Cantoria"
+    }
+  ]
+}

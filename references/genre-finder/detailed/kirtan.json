@@ -1,0 +1,31 @@
+{
+  "name": "Kirtan",
+  "description": "Call-and-response chanting that involves the singing of devotional mantras and hymns in a bhakti devotional style, occasionally accompanied with traditional folk instrumentation.",
+  "url": "https://rateyourmusic.com/genre/kirtan/",
+  "parent": "South Asian Folk Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Shabad kirtan",
+      "url": "https://rateyourmusic.com/genre/shabad-kirtan/",
+      "description": "Religious Sikh Hymns backed by specially selected ragas and taal.",
+      "level": "sub-4",
+      "parent": "Kirtan"
+    },
+    {
+      "name": "Shabad kirtan",
+      "url": "https://rateyourmusic.com/genre/shabad-kirtan/",
+      "description": "Religious Sikh Hymns backed by specially selected ragas and taal.",
+      "level": "sub-5",
+      "parent": "Kirtan"
+    },
+    {
+      "name": "Shabad kirtan",
+      "url": "https://rateyourmusic.com/genre/shabad-kirtan/",
+      "description": "Religious Sikh Hymns backed by specially selected ragas and taal.",
+      "level": "sub-4",
+      "parent": "Kirtan"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Trap",
+  "description": "Originated in Atlanta in the early 2000s; distinctive fast hi-hat sound and heavy bass at moderate tempos.",
+  "url": "https://rateyourmusic.com/genre/trap/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 13,
+  "children": [
+    {
+      "name": "Chicago Drill",
+      "url": "https://rateyourmusic.com/genre/chicago-drill/",
+      "description": "Bass-heavy, dense, and typically syncopated percussion, featuring ticking hi-hats and gunshot-like snare rolls, usually accompanied by menacing synth melodies and violent Gangsta Rap lyricism.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "Free Car Music",
+      "url": "https://rateyourmusic.com/genre/free-car-music/",
+      "description": "Chaotic and metallic percussion with clanging rides, rapid hi hat rolls, and tense kick buildups typically coupled with staggered, punched-in rapping.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "Futuristic Swag",
+      "url": "https://rateyourmusic.com/genre/futuristic-swag/",
+      "description": "Playful, Snap-influenced and party-oriented.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "New Jazz",
+      "url": "https://rateyourmusic.com/genre/new-jazz/",
+      "description": "Colorful, repetitive synths and synthetic instruments, playful vocal chops, and wonky bass selections set to bouncy Trap drums.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "No Melody",
+      "url": "https://rateyourmusic.com/genre/no-melody/",
+      "description": "Usage of minimalistic, repetitive midtempo drum patterns, and simple, prominent 808s.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "Plugg",
+      "url": "https://rateyourmusic.com/genre/plugg/",
+      "description": "Use of sparse and compact drum and hi-hat patterns, subby 808s and heavy low end; commonly features piano samples, airy pads, and icy synths.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "Rage",
+      "url": "https://rateyourmusic.com/genre/rage/",
+      "description": "Dense, buzzing synth work with repetitive chord progressions and melodic synth leads.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "Rare Phonk",
+      "url": "https://rateyourmusic.com/genre/rare-phonk/",
+      "description": "Primarily features eclectic sampling and lush, jazzy beats, usually set to Trap rhythms with prominent influences of Memphis Rap.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "Regalia",
+      "url": "https://rateyourmusic.com/genre/regalia/",
+      "description": "Lush, sweeping string arrangements, dreamy piano passages, and other orchestral instrumentation set to cinematic Trap percussion.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "Trap Metal",
+      "url": "https://rateyourmusic.com/genre/trap-metal/",
+      "description": "Loud, distorted 808s and basslines, as well as aggressive vocals that are usually yelled or screamed.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "Trap Soul",
+      "url": "https://rateyourmusic.com/genre/trap-soul/",
+      "description": "Mixes passionate vocals derived from Contemporary R&B with laid-back, nocturnal and atmospheric Trap production.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "Trap latino",
+      "url": "https://rateyourmusic.com/genre/trap-latino/",
+      "description": "Distinguished by its Reggaetón and Latin Rap roots, with smooth and moody production inspired by Alternative R&B and Contemporary R&B.",
+      "level": "sub-2",
+      "parent": "Trap"
+    },
+    {
+      "name": "Tread",
+      "url": "https://rateyourmusic.com/genre/tread/",
+      "description": "Icy or futuristic synths with busy and high-tempo drum programming using distinctive 808 patterns.",
+      "level": "sub-2",
+      "parent": "Trap"
+    }
+  ]
+}

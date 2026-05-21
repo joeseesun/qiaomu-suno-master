@@ -1,0 +1,136 @@
+{
+  "name": "Reggae",
+  "description": "Developed in the 1960s; shuffling \"bubble\" and offbeat rhythms played on an organ, and staccato guitar and piano chords known as \"skank.\"",
+  "url": "https://rateyourmusic.com/genre/reggae/",
+  "parent": "Reggae / Ska / Dancehall",
+  "level": "sub",
+  "children_count": 18,
+  "children": [
+    {
+      "name": "Deejay",
+      "url": "https://rateyourmusic.com/genre/deejay/",
+      "description": "Reggae in which a deejay (similar to an MC in Hip Hop) talks or chants lyrics over a pre-recorded reggae rhythm.",
+      "level": "sub-2",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Deejay",
+      "url": "https://rateyourmusic.com/genre/deejay/",
+      "description": "Reggae in which a deejay (similar to an MC in Hip Hop) talks or chants lyrics over a pre-recorded reggae rhythm.",
+      "level": "sub-4",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Digital Dancehall",
+      "url": "https://rateyourmusic.com/genre/digital-dancehall/",
+      "description": "First, pre-Ragga style of Dancehall to popularize Electronic rhythms that arose in the mid-1980s.",
+      "level": "sub-2",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Digital Dancehall",
+      "url": "https://rateyourmusic.com/genre/digital-dancehall/",
+      "description": "First, pre-Ragga style of Dancehall to popularize Electronic rhythms that arose in the mid-1980s.",
+      "level": "sub-4",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Dub",
+      "url": "https://rateyourmusic.com/genre/dub/",
+      "description": "Primarily instrumental Reggae which developed from the extensive use of studio techniques and effects like reverb and delay.",
+      "level": "sub-2",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Dub",
+      "url": "https://rateyourmusic.com/genre/dub/",
+      "description": "Primarily instrumental Reggae which developed from the extensive use of studio techniques and effects like reverb and delay.",
+      "level": "sub-4",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Lovers Rock",
+      "url": "https://rateyourmusic.com/genre/lovers-rock/",
+      "description": "Smooth, quiet Reggae beats with lyrics focusing on romance and love.",
+      "level": "sub-2",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Lovers Rock",
+      "url": "https://rateyourmusic.com/genre/lovers-rock/",
+      "description": "Smooth, quiet Reggae beats with lyrics focusing on romance and love.",
+      "level": "sub-4",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Pacific Reggae",
+      "url": "https://rateyourmusic.com/genre/pacific-reggae/",
+      "description": "Developed in Pacific island communities, incorporating elements from local Oceanian Music styles.",
+      "level": "sub-2",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Pacific Reggae",
+      "url": "https://rateyourmusic.com/genre/pacific-reggae/",
+      "description": "Developed in Pacific island communities, incorporating elements from local Oceanian Music styles.",
+      "level": "sub-4",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Pop Reggae",
+      "url": "https://rateyourmusic.com/genre/pop-reggae/",
+      "description": "Light, commercial form of Reggae designed to crossover and break through to a more mainstream Pop audience.",
+      "level": "sub-2",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Pop Reggae",
+      "url": "https://rateyourmusic.com/genre/pop-reggae/",
+      "description": "Light, commercial form of Reggae designed to crossover and break through to a more mainstream Pop audience.",
+      "level": "sub-4",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Roots Reggae",
+      "url": "https://rateyourmusic.com/genre/roots-reggae/",
+      "description": "Primarily defined through the political, spiritual, and socially conscious messages of its lyrics.",
+      "level": "sub-2",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Roots Reggae",
+      "url": "https://rateyourmusic.com/genre/roots-reggae/",
+      "description": "Primarily defined through the political, spiritual, and socially conscious messages of its lyrics.",
+      "level": "sub-4",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Seggae",
+      "url": "https://rateyourmusic.com/genre/seggae/",
+      "description": "Fusion of Séga and Reggae, popular on Mauritius and other Mascarene Islands.",
+      "level": "sub-2",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Seggae",
+      "url": "https://rateyourmusic.com/genre/seggae/",
+      "description": "Fusion of Séga and Reggae, popular on Mauritius and other Mascarene Islands.",
+      "level": "sub-4",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Skinhead Reggae",
+      "url": "https://rateyourmusic.com/genre/skinhead-reggae/",
+      "description": "Early subgenre prominent from 1968 to 1971; known for its high tempos and driving rhythms compared with the more languid pace of most later styles.",
+      "level": "sub-2",
+      "parent": "Reggae"
+    },
+    {
+      "name": "Skinhead Reggae",
+      "url": "https://rateyourmusic.com/genre/skinhead-reggae/",
+      "description": "Early subgenre prominent from 1968 to 1971; known for its high tempos and driving rhythms compared with the more languid pace of most later styles.",
+      "level": "sub-4",
+      "parent": "Reggae"
+    }
+  ]
+}

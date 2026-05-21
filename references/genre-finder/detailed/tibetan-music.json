@@ -1,0 +1,31 @@
+{
+  "name": "Tibetan Music",
+  "description": "Traditional and modern music of the Tibetan peoples, mainly produced in Tibet and also practiced in Bhutan, Nepal, and northern India, and influential on the traditions of Burma.",
+  "url": "https://rateyourmusic.com/genre/tibetan-music/",
+  "parent": "Central Asian Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Chöd",
+      "url": "https://rateyourmusic.com/genre/chod/",
+      "description": "Tibetan Buddhist and Bönpo practice incorporating ritualized liturgical chants and instrumental accompaniment from the chöd damaru, drilbu, and kangling.",
+      "level": "sub-4",
+      "parent": "Tibetan Music"
+    },
+    {
+      "name": "Tibetan Buddhist Chant",
+      "url": "https://rateyourmusic.com/genre/tibetan-buddhist-chant/",
+      "description": "Ritual vocal music of the Tibetan Buddhist faith characterized by its low pitch, droning repetitiousness, and frequent use of overtone singing.",
+      "level": "sub-4",
+      "parent": "Tibetan Music"
+    },
+    {
+      "name": "Zhabdro gorgom",
+      "url": "https://rateyourmusic.com/genre/zhabdro-gorgom/",
+      "description": "Lively, rhythmic and informal Bhutanese folk music of Tibetan origin.",
+      "level": "sub-4",
+      "parent": "Tibetan Music"
+    }
+  ]
+}

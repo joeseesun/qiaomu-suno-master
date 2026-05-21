@@ -1,0 +1,24 @@
+{
+  "name": "Séga",
+  "description": "Mascarene Islands and Seychelles genre featuring a distinctive 6/8 rhythm.",
+  "url": "https://rateyourmusic.com/genre/sega/",
+  "parent": "Seychelles & Mascarene Islands Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Seggae",
+      "url": "https://rateyourmusic.com/genre/seggae/",
+      "description": "Fusion of Séga and Reggae, popular on Mauritius and other Mascarene Islands.",
+      "level": "sub-4",
+      "parent": "Séga"
+    },
+    {
+      "name": "Traditional Séga",
+      "url": "https://rateyourmusic.com/genre/traditional-sega/",
+      "description": "Séga dance music born in the 18th century, before its later adoption of Western pop elements.",
+      "level": "sub-4",
+      "parent": "Séga"
+    }
+  ]
+}

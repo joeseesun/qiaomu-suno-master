@@ -7,6 +7,7 @@ description: |
 # Qiaomu Suno Master
 
 Create commercial-grade Suno lyrics, then use the installed `suno` command to generate and optionally download the music.
+It also includes a local music genre finder so vague moods can become precise Suno style tags.
 
 ## When To Use
 
@@ -17,6 +18,7 @@ Use this skill when the user wants:
 - Music generated through the local Rust `suno` CLI
 - A completed song file downloaded locally
 - Existing Suno clip IDs exported as audio, video/MTV, timed LRC, SRT, clean SRT, or Markdown lyrics
+- Music genre/style recommendations before lyric writing or generation
 
 Do not use this skill for pure music theory, ordinary poetry not intended for Suno, or non-Suno audio editing.
 
@@ -28,6 +30,7 @@ Infer these from the user request when possible:
 - `lyrics`: complete Suno-ready lyrics with structural tags
 - `style_description`: comma-separated Suno style tags
 - `exclude_styles`: comma-separated styles, instruments, or moods to avoid
+- `genre_candidates`: optional recommended genres from `scripts/find_music_genres.py`
 - `title_options`: three concise title candidates before choosing the final title
 - `model`: default `v5.5`
 - `vocal`: optional `male` or `female`
@@ -39,21 +42,24 @@ If the user only asks for lyrics, produce the requested creative output without 
 ## Workflow
 
 1. Analyze the song brief: theme, audience, language, mood, style, vocal, tempo, and any forbidden elements.
-2. Read `references/lyric-craft.md` and apply the lyric quality rules.
-3. Produce:
+2. If style is missing, vague, or worth sharpening, read `references/genre-selection.md` and run `scripts/find_music_genres.py "<brief or mood>" --limit 5`.
+3. Choose 1-3 fitting genre tags plus a small set of vocal, instrument, tempo, and mood tags. Keep `style_description` focused.
+4. Read `references/lyric-craft.md` and apply the lyric quality rules.
+5. Produce:
    - `title_options`
    - selected `title`
+   - optional `genre_candidates`
    - `style_description`
    - `exclude_styles`
    - `lyrics`
-4. Save lyrics to a temporary `.txt` file when running the CLI. Prefer a file over shell-quoting long multiline lyrics.
-5. Generate with:
+6. Save lyrics to a temporary `.txt` file when running the CLI. Prefer a file over shell-quoting long multiline lyrics.
+7. Generate with:
 
 ```bash
 suno generate --title "$TITLE" --tags "$STYLE_DESCRIPTION" --exclude "$EXCLUDE_STYLES" --lyrics-file "$LYRICS_FILE" --model v5.5 --wait --download "$OUTPUT_DIR"
 ```
 
-6. Report the saved output directory and any generated clip IDs or file paths shown by the command.
+8. Report the saved output directory and any generated clip IDs or file paths shown by the command.
 
 Never save generated songs, subtitles, videos, or exported lyric files inside the skill directory. Use `~/Documents/Suno/<song-title>/` by default.
 
@@ -71,6 +77,20 @@ Never save generated songs, subtitles, videos, or exported lyric files inside th
 - Use `scripts/export_suno_assets.py` when the user wants SRT/LRC/timed lyrics, clean MTV subtitles, audio download, or video/MTV download from existing clip IDs.
 - Use `scripts/clean_srt_for_mtv.py` to remove Suno structural markers such as `[Verse]` and `[Chorus]` from subtitle files.
 - Add `--json` when machine-readable output is needed for follow-up processing.
+
+## Genre Finder
+
+This skill vendors `joeseesun/music-genre-finder` data in `references/genre-finder/`.
+
+Use:
+
+```bash
+scripts/find_music_genres.py "深夜 空灵 梦幻" --limit 5
+scripts/find_music_genres.py "raw energetic punk" --limit 5
+scripts/find_music_genres.py "世界音乐 鼓 长笛" --json
+```
+
+For Suno, convert recommendations into concise style tags. Prefer 2-4 genre tags plus vocal, instrument, tempo, and mood tags. Avoid dumping many related subgenres into one prompt.
 
 ## Asset Export
 

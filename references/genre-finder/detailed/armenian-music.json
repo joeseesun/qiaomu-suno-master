@@ -1,0 +1,31 @@
+{
+  "name": "Armenian Music",
+  "description": "Music of Armenia.",
+  "url": "https://rateyourmusic.com/genre/armenian-music/",
+  "parent": "West Asian Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Armenian Church Music",
+      "url": "https://rateyourmusic.com/genre/armenian-church-music/",
+      "description": "One of the oldest branches of Christian culture, this is the predominantly vocal music of the Armenian Apostolic Church.",
+      "level": "sub-4",
+      "parent": "Armenian Music"
+    },
+    {
+      "name": "Armenian Folk Music",
+      "url": "https://rateyourmusic.com/genre/armenian-folk-music/",
+      "description": "Traditional Folk Music of the Armenians, which is attested in historic Armenia since antiquity, with unique regional dialects unified by general melodic structure.",
+      "level": "sub-4",
+      "parent": "Armenian Music"
+    },
+    {
+      "name": "Rabiz",
+      "url": "https://rateyourmusic.com/genre/rabiz/",
+      "description": "Elements of Armenian folk in its instrumentation, oftentimes incorporating influences from Arabic and other West Asian forms on a background of synthesizer arrangements.",
+      "level": "sub-4",
+      "parent": "Armenian Music"
+    }
+  ]
+}

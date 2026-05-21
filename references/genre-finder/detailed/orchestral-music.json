@@ -1,0 +1,38 @@
+{
+  "name": "Orchestral Music",
+  "description": "Western Classical Music performed by an orchestra.",
+  "url": "https://rateyourmusic.com/genre/orchestral-music/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Orchestral Song",
+      "url": "https://rateyourmusic.com/genre/orchestral-song/",
+      "description": "Classical song for solo voice or voices with orchestral accompaniment.",
+      "level": "sub-3",
+      "parent": "Orchestral Music"
+    },
+    {
+      "name": "Symphonic Mugham",
+      "url": "https://rateyourmusic.com/genre/symphonic-mugham/",
+      "description": "Introduces elements of Azerbaijani Mugham into the structure of the composition, played on a full western orchestra.",
+      "level": "sub-3",
+      "parent": "Orchestral Music"
+    },
+    {
+      "name": "Symphony",
+      "url": "https://rateyourmusic.com/genre/symphony/",
+      "description": "Large-scale Western Classical Music works for orchestra, typically with four movements: 1) allegro, almost always in sonata-allegro form 2) a slow movement 3) scherzo or minuet 4) finale, typically allegro or rondo.",
+      "level": "sub-3",
+      "parent": "Orchestral Music"
+    },
+    {
+      "name": "Tone Poem",
+      "url": "https://rateyourmusic.com/genre/tone-poem/",
+      "description": "Programmatic work, usually in a single movement, that is entirely based on external non-musical themes, ideas, tales, etc.",
+      "level": "sub-3",
+      "parent": "Orchestral Music"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Musical Theatre and Entertainment",
+  "description": "Range of styles of theatre individually popular in the United States or in various countries in Europe, mostly from the 19th century to the mid-20th century.",
+  "url": "https://rateyourmusic.com/genre/musical-theatre-and-entertainment/",
+  "sub_genres_count": 17,
+  "sub_genres": [
+    {
+      "name": "Ballad Opera",
+      "url": "https://rateyourmusic.com/genre/ballad-opera/",
+      "description": "English reaction to the Italian Opera styles with a satirical sense of humor and scores borrowing from Traditional Folk Music and popular music.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Cabaret",
+      "url": "https://rateyourmusic.com/genre/cabaret/",
+      "description": "Entertainment featuring Comedy, song, dance, and theatre.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Comédie-ballet",
+      "url": "https://rateyourmusic.com/genre/comedie-ballet/",
+      "description": "French form of musical drama from the 17th century that combines operatic singing, classical dance, and theater.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Cuplé",
+      "url": "https://rateyourmusic.com/genre/cuple/",
+      "description": "Originally developed in the 19th century as a blend of old theatre Spanish styles based in short monologues (jácara and tonadilla) and French Couplet.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Dutch Cabaret",
+      "url": "https://rateyourmusic.com/genre/dutch-cabaret/",
+      "description": "Popular comedy form in the Netherlands which evolved out of traditional Cabaret in the 1890s.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Kabarett",
+      "url": "https://rateyourmusic.com/genre/kabarett/",
+      "description": "Theatrical entertainment consisting of mixed elements of music, sketches, monologues, dialogues, lyric poetry and/or ballads.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Kanto",
+      "url": "https://rateyourmusic.com/genre/kanto/",
+      "description": "Songs performed at the Tuluat Theaters of İstanbul in the late 19th century.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Minstrelsy",
+      "url": "https://rateyourmusic.com/genre/minstrelsy/",
+      "description": "Popular song and entertainment tradition from the U.S. engendered in variety shows employing racist caricature and blackface.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Murga",
+      "url": "https://rateyourmusic.com/genre/murga/",
+      "description": "Popular carnival music traditional in some cities of Spain and Hispanic America.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Music Hall",
+      "url": "https://rateyourmusic.com/genre/music-hall/",
+      "description": "British theatrical entertainment popular in the 19th and 20th centuries, featuring light and comedic popular songs.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Operetta",
+      "url": "https://rateyourmusic.com/genre/operetta/",
+      "description": "Light opera interspersed with spoken dialogues, being usually satirical and/or humorous in nature and centered around romantic plots and dancing scenes.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Revue",
+      "url": "https://rateyourmusic.com/genre/revue/",
+      "description": "French Musical Theatre and Entertainment based on numbers and sketches inspired by the most relevant events of the year.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Rock Musical",
+      "url": "https://rateyourmusic.com/genre/rock-musical/",
+      "description": "Style of musical theatre inspired by Rock.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Show Tunes",
+      "url": "https://rateyourmusic.com/genre/show-tunes/",
+      "description": "Originally composed to forward the story or enhance the characters or other plot elements of Broadway productions and other stage music.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Siffleur",
+      "url": "https://rateyourmusic.com/genre/siffleur/",
+      "description": "Professional whistlers on the Vaudeville and Music Hall circuits.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Singspiel",
+      "url": "https://rateyourmusic.com/genre/singspiel/",
+      "description": "German form of Opera distinguished by the prominent usage of spoken dialogues mixed with lyrical or folklore arias/ballads.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    },
+    {
+      "name": "Vaudeville",
+      "url": "https://rateyourmusic.com/genre/vaudeville/",
+      "description": "Performed in American musical theaters typically as part of a lowbrow, often comedic variety performance.",
+      "level": "sub",
+      "parent": "Musical Theatre and Entertainment"
+    }
+  ]
+}

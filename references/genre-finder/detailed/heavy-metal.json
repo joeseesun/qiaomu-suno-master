@@ -1,0 +1,38 @@
+{
+  "name": "Heavy Metal",
+  "description": "Heavier outgrowth of Hard Rock featuring greater distortion and intensity along with lesser Blues influences.",
+  "url": "https://rateyourmusic.com/genre/heavy-metal/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Speed Metal",
+      "url": "https://rateyourmusic.com/genre/speed-metal/",
+      "description": "Fast tempos, double-time feel, aggressive riffs, precise, often virtuosic soloing and expressive vocal styles.",
+      "level": "sub-2",
+      "parent": "Heavy Metal"
+    },
+    {
+      "name": "Speed Metal",
+      "url": "https://rateyourmusic.com/genre/speed-metal/",
+      "description": "Fast tempos, double-time feel, aggressive riffs, precise, often virtuosic soloing and expressive vocal styles.",
+      "level": "sub-3",
+      "parent": "Heavy Metal"
+    },
+    {
+      "name": "US Power Metal",
+      "url": "https://rateyourmusic.com/genre/us-power-metal/",
+      "description": "American style influenced by NWOBHM that features heavily distorted guitars paired with more aggressive riffs, mid-tempo Heavy Metal rhythms, and over-the-top theatrical vocals with fantasy or conceptual themes.",
+      "level": "sub-2",
+      "parent": "Heavy Metal"
+    },
+    {
+      "name": "US Power Metal",
+      "url": "https://rateyourmusic.com/genre/us-power-metal/",
+      "description": "American style influenced by NWOBHM that features heavily distorted guitars paired with more aggressive riffs, mid-tempo Heavy Metal rhythms, and over-the-top theatrical vocals with fantasy or conceptual themes.",
+      "level": "sub-3",
+      "parent": "Heavy Metal"
+    }
+  ]
+}

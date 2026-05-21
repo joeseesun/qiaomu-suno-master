@@ -1,0 +1,66 @@
+{
+  "name": "Malagasy Music",
+  "description": "Music of the Malagasy peoples.",
+  "url": "https://rateyourmusic.com/genre/malagasy-music/",
+  "parent": "African Music",
+  "level": "sub-2",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Kalon'ny fahiny",
+      "url": "https://rateyourmusic.com/genre/kalonny-fahiny/",
+      "description": "Fusion of music from the highlands of Madagascar and western Operetta.",
+      "level": "sub-3",
+      "parent": "Malagasy Music"
+    },
+    {
+      "name": "Kalon'ny fahiny",
+      "url": "https://rateyourmusic.com/genre/kalonny-fahiny/",
+      "description": "Fusion of music from the highlands of Madagascar and western Operetta.",
+      "level": "sub-3",
+      "parent": "Malagasy Music"
+    },
+    {
+      "name": "Malagasy Folk Music",
+      "url": "https://rateyourmusic.com/genre/malagasy-folk-music/",
+      "description": "Melodic, chordophone-dominated sound; based on the Austronesian Music of the first settlers that arrived on the island from Borneo.",
+      "level": "sub-3",
+      "parent": "Malagasy Music"
+    },
+    {
+      "name": "Malagasy Folk Music",
+      "url": "https://rateyourmusic.com/genre/malagasy-folk-music/",
+      "description": "Melodic, chordophone-dominated sound; based on the Austronesian Music of the first settlers that arrived on the island from Borneo.",
+      "level": "sub-3",
+      "parent": "Malagasy Music"
+    },
+    {
+      "name": "Salegy",
+      "url": "https://rateyourmusic.com/genre/salegy/",
+      "description": "Features rich, harmonized vocals and chiming guitar lines.",
+      "level": "sub-3",
+      "parent": "Malagasy Music"
+    },
+    {
+      "name": "Salegy",
+      "url": "https://rateyourmusic.com/genre/salegy/",
+      "description": "Features rich, harmonized vocals and chiming guitar lines.",
+      "level": "sub-3",
+      "parent": "Malagasy Music"
+    },
+    {
+      "name": "Tsapiky",
+      "url": "https://rateyourmusic.com/genre/tsapiky/",
+      "description": "Very fast and jerky rhythms, guitar duets, and polyharmonic chants.",
+      "level": "sub-3",
+      "parent": "Malagasy Music"
+    },
+    {
+      "name": "Tsapiky",
+      "url": "https://rateyourmusic.com/genre/tsapiky/",
+      "description": "Very fast and jerky rhythms, guitar duets, and polyharmonic chants.",
+      "level": "sub-3",
+      "parent": "Malagasy Music"
+    }
+  ]
+}

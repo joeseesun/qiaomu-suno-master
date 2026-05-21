@@ -1,0 +1,24 @@
+{
+  "name": "Genge",
+  "description": "Combines elements of Dancehall with various traditions of Kenya.",
+  "url": "https://rateyourmusic.com/genre/genge/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Gengetone",
+      "url": "https://rateyourmusic.com/genre/gengetone/",
+      "description": "Takes strong influence from Reggaetón and modern Dancehall, featuring more explicit lyrics and harder beats.",
+      "level": "sub-2",
+      "parent": "Genge"
+    },
+    {
+      "name": "Gengetone",
+      "url": "https://rateyourmusic.com/genre/gengetone/",
+      "description": "Takes strong influence from Reggaetón and modern Dancehall, featuring more explicit lyrics and harder beats.",
+      "level": "sub-4",
+      "parent": "Genge"
+    }
+  ]
+}

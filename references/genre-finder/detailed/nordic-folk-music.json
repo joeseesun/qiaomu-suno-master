@@ -1,0 +1,234 @@
+{
+  "name": "Nordic Folk Music",
+  "description": "Folk of Nordic countries of Denmark, Finland, Iceland, Norway, and Sweden.",
+  "url": "https://rateyourmusic.com/genre/nordic-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 32,
+  "children": [
+    {
+      "name": "Danish Folk Music",
+      "url": "https://rateyourmusic.com/genre/danish-folk-music/",
+      "description": "Folk of the Danish people.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Danish Folk Music",
+      "url": "https://rateyourmusic.com/genre/danish-folk-music/",
+      "description": "Folk of the Danish people.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Danish Folk Music",
+      "url": "https://rateyourmusic.com/genre/danish-folk-music/",
+      "description": "Folk of the Danish people.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Danish Folk Music",
+      "url": "https://rateyourmusic.com/genre/danish-folk-music/",
+      "description": "Folk of the Danish people.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Faroese Folk Music",
+      "url": "https://rateyourmusic.com/genre/faroese-folk-music/",
+      "description": "Traditional Folk Music of the Faroe Islands.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Faroese Folk Music",
+      "url": "https://rateyourmusic.com/genre/faroese-folk-music/",
+      "description": "Traditional Folk Music of the Faroe Islands.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Faroese Folk Music",
+      "url": "https://rateyourmusic.com/genre/faroese-folk-music/",
+      "description": "Traditional Folk Music of the Faroe Islands.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Faroese Folk Music",
+      "url": "https://rateyourmusic.com/genre/faroese-folk-music/",
+      "description": "Traditional Folk Music of the Faroe Islands.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Finnish Folk Music",
+      "url": "https://rateyourmusic.com/genre/finnish-folk-music/",
+      "description": "Traditional Folk Music of the Finnish people.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Finnish Folk Music",
+      "url": "https://rateyourmusic.com/genre/finnish-folk-music/",
+      "description": "Traditional Folk Music of the Finnish people.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Finnish Folk Music",
+      "url": "https://rateyourmusic.com/genre/finnish-folk-music/",
+      "description": "Traditional Folk Music of the Finnish people.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Finnish Folk Music",
+      "url": "https://rateyourmusic.com/genre/finnish-folk-music/",
+      "description": "Traditional Folk Music of the Finnish people.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Icelandic Folk Music",
+      "url": "https://rateyourmusic.com/genre/icelandic-folk-music/",
+      "description": "Traditional Folk Music of Iceland, including a variety of styles like the rímur, the kvædaskapur and langspil instrumental music.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Icelandic Folk Music",
+      "url": "https://rateyourmusic.com/genre/icelandic-folk-music/",
+      "description": "Traditional Folk Music of Iceland, including a variety of styles like the rímur, the kvædaskapur and langspil instrumental music.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Icelandic Folk Music",
+      "url": "https://rateyourmusic.com/genre/icelandic-folk-music/",
+      "description": "Traditional Folk Music of Iceland, including a variety of styles like the rímur, the kvædaskapur and langspil instrumental music.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Icelandic Folk Music",
+      "url": "https://rateyourmusic.com/genre/icelandic-folk-music/",
+      "description": "Traditional Folk Music of Iceland, including a variety of styles like the rímur, the kvædaskapur and langspil instrumental music.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Joik",
+      "url": "https://rateyourmusic.com/genre/joik/",
+      "description": "Traditional Sami singing style found in northern Finland, Sweden, Norway and Russia.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Joik",
+      "url": "https://rateyourmusic.com/genre/joik/",
+      "description": "Traditional Sami singing style found in northern Finland, Sweden, Norway and Russia.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Joik",
+      "url": "https://rateyourmusic.com/genre/joik/",
+      "description": "Traditional Sami singing style found in northern Finland, Sweden, Norway and Russia.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Joik",
+      "url": "https://rateyourmusic.com/genre/joik/",
+      "description": "Traditional Sami singing style found in northern Finland, Sweden, Norway and Russia.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Nordic Old Time Dance Music",
+      "url": "https://rateyourmusic.com/genre/nordic-old-time-dance-music/",
+      "description": "Meta-genre strongly related to Nordic Folk Music having less complex structures, easy rhythms, and melodic lines.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Nordic Old Time Dance Music",
+      "url": "https://rateyourmusic.com/genre/nordic-old-time-dance-music/",
+      "description": "Meta-genre strongly related to Nordic Folk Music having less complex structures, easy rhythms, and melodic lines.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Nordic Old Time Dance Music",
+      "url": "https://rateyourmusic.com/genre/nordic-old-time-dance-music/",
+      "description": "Meta-genre strongly related to Nordic Folk Music having less complex structures, easy rhythms, and melodic lines.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Nordic Old Time Dance Music",
+      "url": "https://rateyourmusic.com/genre/nordic-old-time-dance-music/",
+      "description": "Meta-genre strongly related to Nordic Folk Music having less complex structures, easy rhythms, and melodic lines.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Norwegian Folk Music",
+      "url": "https://rateyourmusic.com/genre/norwegian-folk-music/",
+      "description": "Traditional Folk Music of Norway, primarily intended as accompaniment for dancing and coming in two main varieties, instrumental and vocal music.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Norwegian Folk Music",
+      "url": "https://rateyourmusic.com/genre/norwegian-folk-music/",
+      "description": "Traditional Folk Music of Norway, primarily intended as accompaniment for dancing and coming in two main varieties, instrumental and vocal music.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Norwegian Folk Music",
+      "url": "https://rateyourmusic.com/genre/norwegian-folk-music/",
+      "description": "Traditional Folk Music of Norway, primarily intended as accompaniment for dancing and coming in two main varieties, instrumental and vocal music.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Norwegian Folk Music",
+      "url": "https://rateyourmusic.com/genre/norwegian-folk-music/",
+      "description": "Traditional Folk Music of Norway, primarily intended as accompaniment for dancing and coming in two main varieties, instrumental and vocal music.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Swedish Folk Music",
+      "url": "https://rateyourmusic.com/genre/swedish-folk-music/",
+      "description": "Traditional music of the Swedish people, commonly incorporating fiddle, accordion, flute, nyckelharpa, and/or voice.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Swedish Folk Music",
+      "url": "https://rateyourmusic.com/genre/swedish-folk-music/",
+      "description": "Traditional music of the Swedish people, commonly incorporating fiddle, accordion, flute, nyckelharpa, and/or voice.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Swedish Folk Music",
+      "url": "https://rateyourmusic.com/genre/swedish-folk-music/",
+      "description": "Traditional music of the Swedish people, commonly incorporating fiddle, accordion, flute, nyckelharpa, and/or voice.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    },
+    {
+      "name": "Swedish Folk Music",
+      "url": "https://rateyourmusic.com/genre/swedish-folk-music/",
+      "description": "Traditional music of the Swedish people, commonly incorporating fiddle, accordion, flute, nyckelharpa, and/or voice.",
+      "level": "sub-4",
+      "parent": "Nordic Folk Music"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Easy Listening",
+  "description": "Typically instrumental, including lush arrangements and melodies played by orchestras or big bands aiming for light entertainment.",
+  "url": "https://rateyourmusic.com/genre/easy-listening/",
+  "sub_genres_count": 6,
+  "sub_genres": [
+    {
+      "name": "Cocktail Nation",
+      "url": "https://rateyourmusic.com/genre/cocktail-nation/",
+      "description": "Decidedly ironic take on Lounge that emerged in the early 1990s.",
+      "level": "sub",
+      "parent": "Easy Listening"
+    },
+    {
+      "name": "Exotica",
+      "url": "https://rateyourmusic.com/genre/exotica/",
+      "description": "Emerged in the early 1950s as the United States developed a fascination with Polynesia and the South Pacific, incorporates traditional instruments and rhythms from these cultures into a Western Pop context.",
+      "level": "sub",
+      "parent": "Easy Listening"
+    },
+    {
+      "name": "Light Music",
+      "url": "https://rateyourmusic.com/genre/light-music/",
+      "description": "Instrumental, typically through-composed style performed by an orchestra or small ensemble, with simpler arrangements and an emphasis on strong melodies.",
+      "level": "sub",
+      "parent": "Easy Listening"
+    },
+    {
+      "name": "Lounge",
+      "url": "https://rateyourmusic.com/genre/lounge/",
+      "description": "Emerged in the United States during the 1950s, emphasizing a chilled-out atmosphere with light instrumentation and sometimes vocals indebted to Vocal Jazz.",
+      "level": "sub",
+      "parent": "Easy Listening"
+    },
+    {
+      "name": "Pops Orchestra",
+      "url": "https://rateyourmusic.com/genre/pops-orchestra/",
+      "description": "Orchestra that plays covers of popular songs as well as famous classical compositions.",
+      "level": "sub",
+      "parent": "Easy Listening"
+    },
+    {
+      "name": "Space Age Pop",
+      "url": "https://rateyourmusic.com/genre/space-age-pop/",
+      "description": "Inspired by the excitement and optimism of the Space Age during the 1950s and 1960s, frequently experimenting with futuristic sounds made possible by contemporary technology.",
+      "level": "sub",
+      "parent": "Easy Listening"
+    }
+  ]
+}

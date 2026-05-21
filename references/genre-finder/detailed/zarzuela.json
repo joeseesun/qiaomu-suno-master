@@ -1,0 +1,94 @@
+{
+  "name": "Zarzuela",
+  "description": "Spanish dramatic genre where spoken scenes are mixed with passages sung in operatic or popular styles.",
+  "url": "https://rateyourmusic.com/genre/zarzuela/",
+  "parent": "Opera",
+  "level": "sub-3",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Género chico",
+      "url": "https://rateyourmusic.com/genre/genero-chico/",
+      "description": "Light, small-scale musical comedy with mild social commentary, populist themes, and catchy melodies.",
+      "level": "sub-4",
+      "parent": "Zarzuela"
+    },
+    {
+      "name": "Género chico",
+      "url": "https://rateyourmusic.com/genre/genero-chico/",
+      "description": "Light, small-scale musical comedy with mild social commentary, populist themes, and catchy melodies.",
+      "level": "sub-4",
+      "parent": "Zarzuela"
+    },
+    {
+      "name": "Género chico",
+      "url": "https://rateyourmusic.com/genre/genero-chico/",
+      "description": "Light, small-scale musical comedy with mild social commentary, populist themes, and catchy melodies.",
+      "level": "sub-6",
+      "parent": "Zarzuela"
+    },
+    {
+      "name": "Género chico",
+      "url": "https://rateyourmusic.com/genre/genero-chico/",
+      "description": "Light, small-scale musical comedy with mild social commentary, populist themes, and catchy melodies.",
+      "level": "sub-5",
+      "parent": "Zarzuela"
+    },
+    {
+      "name": "Zarzuela barroca",
+      "url": "https://rateyourmusic.com/genre/zarzuela-barroca/",
+      "description": "Earliest form that draws from a broad range of artistic sources, including theater, operatic singing, instrumental music, dance, popular music, poetry, and comedy.",
+      "level": "sub-4",
+      "parent": "Zarzuela"
+    },
+    {
+      "name": "Zarzuela barroca",
+      "url": "https://rateyourmusic.com/genre/zarzuela-barroca/",
+      "description": "Earliest form that draws from a broad range of artistic sources, including theater, operatic singing, instrumental music, dance, popular music, poetry, and comedy.",
+      "level": "sub-4",
+      "parent": "Zarzuela"
+    },
+    {
+      "name": "Zarzuela barroca",
+      "url": "https://rateyourmusic.com/genre/zarzuela-barroca/",
+      "description": "Earliest form that draws from a broad range of artistic sources, including theater, operatic singing, instrumental music, dance, popular music, poetry, and comedy.",
+      "level": "sub-6",
+      "parent": "Zarzuela"
+    },
+    {
+      "name": "Zarzuela barroca",
+      "url": "https://rateyourmusic.com/genre/zarzuela-barroca/",
+      "description": "Earliest form that draws from a broad range of artistic sources, including theater, operatic singing, instrumental music, dance, popular music, poetry, and comedy.",
+      "level": "sub-5",
+      "parent": "Zarzuela"
+    },
+    {
+      "name": "Zarzuela grande",
+      "url": "https://rateyourmusic.com/genre/zarzuela-grande/",
+      "description": "Romantic musical comedy akin to Operetta developed during the mid-19th century.",
+      "level": "sub-4",
+      "parent": "Zarzuela"
+    },
+    {
+      "name": "Zarzuela grande",
+      "url": "https://rateyourmusic.com/genre/zarzuela-grande/",
+      "description": "Romantic musical comedy akin to Operetta developed during the mid-19th century.",
+      "level": "sub-4",
+      "parent": "Zarzuela"
+    },
+    {
+      "name": "Zarzuela grande",
+      "url": "https://rateyourmusic.com/genre/zarzuela-grande/",
+      "description": "Romantic musical comedy akin to Operetta developed during the mid-19th century.",
+      "level": "sub-6",
+      "parent": "Zarzuela"
+    },
+    {
+      "name": "Zarzuela grande",
+      "url": "https://rateyourmusic.com/genre/zarzuela-grande/",
+      "description": "Romantic musical comedy akin to Operetta developed during the mid-19th century.",
+      "level": "sub-5",
+      "parent": "Zarzuela"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Beat",
+  "description": "Emerged in the early 1960s in the United Kingdom, drawing on Rock & Roll and the late 1950s Skiffle revival in a simple guitar-band format with strong melodies.",
+  "url": "https://rateyourmusic.com/genre/beat/",
+  "parent": "Pop Rock",
+  "level": "sub-2",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Freakbeat",
+      "url": "https://rateyourmusic.com/genre/freakbeat/",
+      "description": "Outgrowth of the Mod movement which combines elements of British Rhythm & Blues and Beat with studio effects common in Psychedelia such as fuzztones, flanging and chorus; often seen as a British relative of the American Garage Psych scene.",
+      "level": "sub-3",
+      "parent": "Beat"
+    },
+    {
+      "name": "Freakbeat",
+      "url": "https://rateyourmusic.com/genre/freakbeat/",
+      "description": "Outgrowth of the Mod movement which combines elements of British Rhythm & Blues and Beat with studio effects common in Psychedelia such as fuzztones, flanging and chorus; often seen as a British relative of the American Garage Psych scene.",
+      "level": "sub-3",
+      "parent": "Beat"
+    },
+    {
+      "name": "Group Sounds",
+      "url": "https://rateyourmusic.com/genre/group-sounds/",
+      "description": "Japanese bands in the mid-to-late 1960s who began performing a style of Beat primarily in English.",
+      "level": "sub-3",
+      "parent": "Beat"
+    },
+    {
+      "name": "Group Sounds",
+      "url": "https://rateyourmusic.com/genre/group-sounds/",
+      "description": "Japanese bands in the mid-to-late 1960s who began performing a style of Beat primarily in English.",
+      "level": "sub-3",
+      "parent": "Beat"
+    },
+    {
+      "name": "Jovem Guarda",
+      "url": "https://rateyourmusic.com/genre/jovem-guarda/",
+      "description": "1960s Brazilian youth-oriented Pop Rock, with romantic lyrics and influenced by Merseybeat and Rockabilly.",
+      "level": "sub-3",
+      "parent": "Beat"
+    },
+    {
+      "name": "Jovem Guarda",
+      "url": "https://rateyourmusic.com/genre/jovem-guarda/",
+      "description": "1960s Brazilian youth-oriented Pop Rock, with romantic lyrics and influenced by Merseybeat and Rockabilly.",
+      "level": "sub-3",
+      "parent": "Beat"
+    },
+    {
+      "name": "Merseybeat",
+      "url": "https://rateyourmusic.com/genre/merseybeat/",
+      "description": "Light, highly melodic style of Beat popular in the UK during the early 1960s, named due to the abundance of bands from Liverpool beside the River Mersey.",
+      "level": "sub-3",
+      "parent": "Beat"
+    },
+    {
+      "name": "Merseybeat",
+      "url": "https://rateyourmusic.com/genre/merseybeat/",
+      "description": "Light, highly melodic style of Beat popular in the UK during the early 1960s, named due to the abundance of bands from Liverpool beside the River Mersey.",
+      "level": "sub-3",
+      "parent": "Beat"
+    },
+    {
+      "name": "Nederbeat",
+      "url": "https://rateyourmusic.com/genre/nederbeat/",
+      "description": "Dutch answer to the British Beat boom of the 1960s.",
+      "level": "sub-3",
+      "parent": "Beat"
+    },
+    {
+      "name": "Nederbeat",
+      "url": "https://rateyourmusic.com/genre/nederbeat/",
+      "description": "Dutch answer to the British Beat boom of the 1960s.",
+      "level": "sub-3",
+      "parent": "Beat"
+    }
+  ]
+}

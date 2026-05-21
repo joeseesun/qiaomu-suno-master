@@ -1,0 +1,45 @@
+{
+  "name": "Indigenous American Music",
+  "description": "Diverse styles and genres developed by the indigenous peoples of the Americas.",
+  "url": "https://rateyourmusic.com/genre/indigenous-american-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Garifuna Music",
+      "url": "https://rateyourmusic.com/genre/garifuna-music/",
+      "description": "Music of the Garifuna, an Afro-Indigenous people from Central America and Saint Vincent and the Grenadines.",
+      "level": "sub-2",
+      "parent": "Indigenous American Music"
+    },
+    {
+      "name": "Indigenous American Traditional Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-american-traditional-music/",
+      "description": "Meta-genre encompassing traditions attributed to the indigenous peoples of the Americas.",
+      "level": "sub-2",
+      "parent": "Indigenous American Music"
+    },
+    {
+      "name": "Indigenous Andean Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-andean-music/",
+      "description": "Diverse styles and genres developed by the indigenous peoples of the Andes.",
+      "level": "sub-2",
+      "parent": "Indigenous American Music"
+    },
+    {
+      "name": "Indigenous North American Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-north-american-music/",
+      "description": "Diverse styles and genres developed by the indigenous peoples of present-day Canada, the United States and northwestern Mexico.",
+      "level": "sub-2",
+      "parent": "Indigenous American Music"
+    },
+    {
+      "name": "Mesoamerican Music",
+      "url": "https://rateyourmusic.com/genre/mesoamerican-music/",
+      "description": "Diverse styles and genres developed by the Indigenous peoples of Mesoamerica, a cultural region extending from central and southern Mexico through parts of Central America.",
+      "level": "sub-2",
+      "parent": "Indigenous American Music"
+    }
+  ]
+}

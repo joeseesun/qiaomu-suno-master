@@ -1,0 +1,17 @@
+{
+  "name": "Latin Alternative",
+  "description": "Incorporates common elements from Hispanic American Music like Cumbia, Tango or Mexican Music into Rock.",
+  "url": "https://rateyourmusic.com/genre/latin-alternative/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Nueva cumbia chilena",
+      "url": "https://rateyourmusic.com/genre/nueva-cumbia-chilena/",
+      "description": "Rock-infused instrumentation, incorporating an eclectic repertoire of influences, such as Ska, Salsa, Indigenous Andean Music, Reggae, and Bolero.",
+      "level": "sub-4",
+      "parent": "Latin Alternative"
+    }
+  ]
+}

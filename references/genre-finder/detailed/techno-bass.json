@@ -1,0 +1,38 @@
+{
+  "name": "Techno Bass",
+  "description": "Minimal, stripped-down with an emphasis on low-frequency bass partitions.",
+  "url": "https://rateyourmusic.com/genre/techno-bass/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Car Audio Bass",
+      "url": "https://rateyourmusic.com/genre/car-audio-bass/",
+      "description": "Slow and minimalistic extreme form, focused on ultra-low frequency sine wave notes and mainly intended for stress testing subwoofer sound systems.",
+      "level": "sub-3",
+      "parent": "Techno Bass"
+    },
+    {
+      "name": "Car Audio Bass",
+      "url": "https://rateyourmusic.com/genre/car-audio-bass/",
+      "description": "Slow and minimalistic extreme form, focused on ultra-low frequency sine wave notes and mainly intended for stress testing subwoofer sound systems.",
+      "level": "sub-3",
+      "parent": "Techno Bass"
+    },
+    {
+      "name": "Car Audio Bass",
+      "url": "https://rateyourmusic.com/genre/car-audio-bass/",
+      "description": "Slow and minimalistic extreme form, focused on ultra-low frequency sine wave notes and mainly intended for stress testing subwoofer sound systems.",
+      "level": "sub-3",
+      "parent": "Techno Bass"
+    },
+    {
+      "name": "Car Audio Bass",
+      "url": "https://rateyourmusic.com/genre/car-audio-bass/",
+      "description": "Slow and minimalistic extreme form, focused on ultra-low frequency sine wave notes and mainly intended for stress testing subwoofer sound systems.",
+      "level": "sub-3",
+      "parent": "Techno Bass"
+    }
+  ]
+}

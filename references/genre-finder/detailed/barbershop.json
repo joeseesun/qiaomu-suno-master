@@ -1,0 +1,17 @@
+{
+  "name": "Barbershop",
+  "description": "Harmonized singing consisting of four vocal elements: the 'lead' (2nd tenor), the 1st tenor, the baritone, and the bass.",
+  "url": "https://rateyourmusic.com/genre/barbershop/",
+  "parent": "Northern American Music",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Jubilee",
+      "url": "https://rateyourmusic.com/genre/jubilee/",
+      "description": "Rooted in African-American culture, characterized by complex rhythms and call-and-response vocals.",
+      "level": "sub-3",
+      "parent": "Barbershop"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "name": "Opera",
+  "description": "European tradition which combines drama and distinctive vocal style in the context of Western Classical Music, usually performed as a theatrical work on stage.",
+  "url": "https://rateyourmusic.com/genre/opera/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 15,
+  "children": [
+    {
+      "name": "Ballad Opera",
+      "url": "https://rateyourmusic.com/genre/ballad-opera/",
+      "description": "English reaction to the Italian Opera styles with a satirical sense of humor and scores borrowing from Traditional Folk Music and popular music.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Grand opéra",
+      "url": "https://rateyourmusic.com/genre/grand-opera/",
+      "description": "French style characterized by its enlarged scope and sense of grandeur, with bigger orchestras and casts, and ornate sceneries and costumes.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Monodrama",
+      "url": "https://rateyourmusic.com/genre/monodrama/",
+      "description": "Mostly modern style written for a single virtuoso singer with accompaniment, often shorter in length and with a more philosophically introspective or abstract libretto.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Opera buffa",
+      "url": "https://rateyourmusic.com/genre/opera-buffa/",
+      "description": "Lighthearted and amusing counterpart to Opera seria; developed in Naples in the first half of the 18th century.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Opera semiseria",
+      "url": "https://rateyourmusic.com/genre/opera-semiseria/",
+      "description": "Popular in the early and middle 19th century, containing appeals to emotion of Opera seria as well as some comedy elements present in Opera buffa.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Opera seria",
+      "url": "https://rateyourmusic.com/genre/opera-seria/",
+      "description": "Italian Opera popular among European nobility and royalty throughout most of the 18th century, typified by its exaggerated dramatic flair and interspersed with dry recitative.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Operetta",
+      "url": "https://rateyourmusic.com/genre/operetta/",
+      "description": "Light opera interspersed with spoken dialogues, being usually satirical and/or humorous in nature and centered around romantic plots and dancing scenes.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Opéra-ballet",
+      "url": "https://rateyourmusic.com/genre/opera-ballet/",
+      "description": "Principally French style of musical drama that combines operatic singing with classical dance, usually with small Orchestral Music accompaniment.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Opéra-comique",
+      "url": "https://rateyourmusic.com/genre/opera-comique/",
+      "description": "French style of Opera characterized by the use of some spoken dialogues to connect major arias and sung parts, as well as a more restrained approach to recitatives.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Romantische Oper",
+      "url": "https://rateyourmusic.com/genre/romantische-oper/",
+      "description": "Early 19th century Germanic style of Opera influenced by German Folk Music and legends with a focus on fantasy, emotivity, heroic figures, and nationalism.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Singspiel",
+      "url": "https://rateyourmusic.com/genre/singspiel/",
+      "description": "German form of Opera distinguished by the prominent usage of spoken dialogues mixed with lyrical or folklore arias/ballads.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Tragédie en musique",
+      "url": "https://rateyourmusic.com/genre/tragedie-en-musique/",
+      "description": "French Opera genre developed by Jean-Baptiste Lully and Philippe Quinault in the second half of the 17th century, consisting of alterations made to the coeval Italian format to better fit the French language and please an audience more accustomed to the ballet de cour.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Verismo",
+      "url": "https://rateyourmusic.com/genre/verismo/",
+      "description": "Developed in Italy around the turn of the 20th century and favored melodramatic realism, a rejection of bel canto standards, and declamatory singing.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Zarzuela",
+      "url": "https://rateyourmusic.com/genre/zarzuela/",
+      "description": "Spanish dramatic genre where spoken scenes are mixed with passages sung in operatic or popular styles.",
+      "level": "sub-3",
+      "parent": "Opera"
+    },
+    {
+      "name": "Zeitoper",
+      "url": "https://rateyourmusic.com/genre/zeitoper/",
+      "description": "Short-lived scene in Weimar Germany, often having satirical plots and allusions to popular music.",
+      "level": "sub-3",
+      "parent": "Opera"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Latin Pop",
+  "description": "Incorporates elements and tropes from Hispanic and Latin American forms of music into a commercial Pop context.",
+  "url": "https://rateyourmusic.com/genre/latin-pop/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Cumbia pop",
+      "url": "https://rateyourmusic.com/genre/cumbia-pop/",
+      "description": "Developed in the Río de la Plata region in the mid-2010s, featuring Latin Pop influences and lyrics related to romance, youth, and fun.",
+      "level": "sub-2",
+      "parent": "Latin Pop"
+    },
+    {
+      "name": "Cumbia pop",
+      "url": "https://rateyourmusic.com/genre/cumbia-pop/",
+      "description": "Developed in the Río de la Plata region in the mid-2010s, featuring Latin Pop influences and lyrics related to romance, youth, and fun.",
+      "level": "sub-4",
+      "parent": "Latin Pop"
+    },
+    {
+      "name": "Tropipop",
+      "url": "https://rateyourmusic.com/genre/tropipop/",
+      "description": "Subgenre of Colombian origin fusing Vallenato instrumentation into a Latin Pop context.",
+      "level": "sub-2",
+      "parent": "Latin Pop"
+    },
+    {
+      "name": "Tropipop",
+      "url": "https://rateyourmusic.com/genre/tropipop/",
+      "description": "Subgenre of Colombian origin fusing Vallenato instrumentation into a Latin Pop context.",
+      "level": "sub-4",
+      "parent": "Latin Pop"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Industrial Techno",
+  "description": "Harder, darker style of Techno which draws parallels with factories and the rhythm of machinery.",
+  "url": "https://rateyourmusic.com/genre/industrial-techno/",
+  "parent": "Techno",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Birmingham Sound",
+      "url": "https://rateyourmusic.com/genre/birmingham-sound/",
+      "description": "Cold, mechanical, and hypnotic tracks, typically lacking the harsher and noisier elements of later Industrial Techno.",
+      "level": "sub-4",
+      "parent": "Industrial Techno"
+    },
+    {
+      "name": "Birmingham Sound",
+      "url": "https://rateyourmusic.com/genre/birmingham-sound/",
+      "description": "Cold, mechanical, and hypnotic tracks, typically lacking the harsher and noisier elements of later Industrial Techno.",
+      "level": "sub-4",
+      "parent": "Industrial Techno"
+    },
+    {
+      "name": "Birmingham Sound",
+      "url": "https://rateyourmusic.com/genre/birmingham-sound/",
+      "description": "Cold, mechanical, and hypnotic tracks, typically lacking the harsher and noisier elements of later Industrial Techno.",
+      "level": "sub-3",
+      "parent": "Industrial Techno"
+    }
+  ]
+}

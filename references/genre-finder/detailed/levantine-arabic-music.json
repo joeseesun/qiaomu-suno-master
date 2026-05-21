@@ -1,0 +1,52 @@
+{
+  "name": "Levantine Arabic Music",
+  "description": "The musical traditions of the Levantine Arabs, roughly covering the Arabic people of the modern countries of Israel, Jordan, Lebanon, Palestine, and Syria.",
+  "url": "https://rateyourmusic.com/genre/levantine-arabic-music/",
+  "parent": "Arabic Music",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Dabke",
+      "url": "https://rateyourmusic.com/genre/dabke/",
+      "description": "Fast-paced dance and music style, most commonly performed in the Levant.",
+      "level": "sub-3",
+      "parent": "Levantine Arabic Music"
+    },
+    {
+      "name": "Dabke",
+      "url": "https://rateyourmusic.com/genre/dabke/",
+      "description": "Fast-paced dance and music style, most commonly performed in the Levant.",
+      "level": "sub-4",
+      "parent": "Levantine Arabic Music"
+    },
+    {
+      "name": "Druze Music",
+      "url": "https://rateyourmusic.com/genre/druze-music/",
+      "description": "Musical traditions of the Druze people.",
+      "level": "sub-3",
+      "parent": "Levantine Arabic Music"
+    },
+    {
+      "name": "Druze Music",
+      "url": "https://rateyourmusic.com/genre/druze-music/",
+      "description": "Musical traditions of the Druze people.",
+      "level": "sub-4",
+      "parent": "Levantine Arabic Music"
+    },
+    {
+      "name": "Mūsīqā lubnāniyya",
+      "url": "https://rateyourmusic.com/genre/musiqa-lubnaniyya/",
+      "description": "Lebanese pop genre that emerged post-independence as a nationalist tradition distinct from Egyptian and Levantine music, blending local influences with western orchestration, peaking in Lebanon's 1957–1975 golden age through radio, cinema, and stage.",
+      "level": "sub-3",
+      "parent": "Levantine Arabic Music"
+    },
+    {
+      "name": "Mūsīqā lubnāniyya",
+      "url": "https://rateyourmusic.com/genre/musiqa-lubnaniyya/",
+      "description": "Lebanese pop genre that emerged post-independence as a nationalist tradition distinct from Egyptian and Levantine music, blending local influences with western orchestration, peaking in Lebanon's 1957–1975 golden age through radio, cinema, and stage.",
+      "level": "sub-4",
+      "parent": "Levantine Arabic Music"
+    }
+  ]
+}

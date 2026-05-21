@@ -1,0 +1,73 @@
+{
+  "name": "Polish Music",
+  "description": "Music rooted in the traditions of the Poles.",
+  "url": "https://rateyourmusic.com/genre/polish-music/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Chicago Polka",
+      "url": "https://rateyourmusic.com/genre/chicago-polka/",
+      "description": "Polish-American style known for slower tempo, improvisation and the ensemble typically including the clarinet, trumpet, and concertina.",
+      "level": "sub-3",
+      "parent": "Polish Music"
+    },
+    {
+      "name": "Disco polo",
+      "url": "https://rateyourmusic.com/genre/disco-polo/",
+      "description": "Polish Dance-Pop, originally established from contemporary wedding / feast songs and Italo-Disco.",
+      "level": "sub-3",
+      "parent": "Polish Music"
+    },
+    {
+      "name": "Eastern-Style Polka",
+      "url": "https://rateyourmusic.com/genre/eastern-style-polka/",
+      "description": "Fast, urban Polish-American style performed by a Big Band-like ensemble.",
+      "level": "sub-3",
+      "parent": "Polish Music"
+    },
+    {
+      "name": "Mazur",
+      "url": "https://rateyourmusic.com/genre/mazur/",
+      "description": "Lively triple-time national dance with folk origins, popular with the nobility and in the 19th century ballrooms.",
+      "level": "sub-3",
+      "parent": "Polish Music"
+    },
+    {
+      "name": "Mazurka",
+      "url": "https://rateyourmusic.com/genre/mazurka/",
+      "description": "Folk or folk-inspired form based on the triple-time rhythm of Mazur, Kujawiak and Oberek.",
+      "level": "sub-3",
+      "parent": "Polish Music"
+    },
+    {
+      "name": "Miejski folk",
+      "url": "https://rateyourmusic.com/genre/miejski-folk/",
+      "description": "Alternative and Punk music influenced by Folklor miejski and Contemporary Folk.",
+      "level": "sub-3",
+      "parent": "Polish Music"
+    },
+    {
+      "name": "Poezja śpiewana",
+      "url": "https://rateyourmusic.com/genre/poezja-spiewana/",
+      "description": "Polish sung poetry; the poem is the centerpiece of a song, often with sparse instrumental accompaniment.",
+      "level": "sub-3",
+      "parent": "Polish Music"
+    },
+    {
+      "name": "Polish Folk Music",
+      "url": "https://rateyourmusic.com/genre/polish-folk-music/",
+      "description": "Traditional Folk Music of the Poles.",
+      "level": "sub-3",
+      "parent": "Polish Music"
+    },
+    {
+      "name": "Polonaise",
+      "url": "https://rateyourmusic.com/genre/polonaise/",
+      "description": "Stately national dance with music in triple meter and moderate tempo.",
+      "level": "sub-3",
+      "parent": "Polish Music"
+    }
+  ]
+}

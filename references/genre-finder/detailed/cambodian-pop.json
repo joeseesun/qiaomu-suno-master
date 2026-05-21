@@ -1,0 +1,24 @@
+{
+  "name": "Cambodian Pop",
+  "description": "Popular music produced in Cambodia or by Khmer people.",
+  "url": "https://rateyourmusic.com/genre/cambodian-pop/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Rom kbach",
+      "url": "https://rateyourmusic.com/genre/rom-kbach/",
+      "description": "Cambodian pop with a slow melody that is similar to Luk thung.",
+      "level": "sub-2",
+      "parent": "Cambodian Pop"
+    },
+    {
+      "name": "Rom kbach",
+      "url": "https://rateyourmusic.com/genre/rom-kbach/",
+      "description": "Cambodian pop with a slow melody that is similar to Luk thung.",
+      "level": "sub-5",
+      "parent": "Cambodian Pop"
+    }
+  ]
+}

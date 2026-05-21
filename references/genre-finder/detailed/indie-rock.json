@@ -1,0 +1,108 @@
+{
+  "name": "Indie Rock",
+  "description": "Associated with a less mainstream-oriented and a DIY approach while often dabbling in Pop-informed melodic songwriting, eclecticism, and adopting an \"authentic\" or raw style.",
+  "url": "https://rateyourmusic.com/genre/indie-rock/",
+  "parent": "Alternative Rock",
+  "level": "sub-2",
+  "children_count": 14,
+  "children": [
+    {
+      "name": "Baggy",
+      "url": "https://rateyourmusic.com/genre/baggy/",
+      "description": "Blends Dance and Funk-based grooves with a laid-back, psychedelic atmosphere; frequently features jangly guitars, looping basslines, four-bar drum patterns, and a hypnotic, carefree feel that originated in the Madchester scene of the late 1980s.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "C86",
+      "url": "https://rateyourmusic.com/genre/c86/",
+      "description": "Distinctly ramshackle, often Twee Pop-infused combination of British Indie Rock and Jangle Pop.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "Dolewave",
+      "url": "https://rateyourmusic.com/genre/dolewave/",
+      "description": "Loose, low-key, and sardonic with erudite lyrics and considerable influence from the Dunedin Sound and Slacker Rock; came to prominence in Melbourne in the early 2010s.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "Dunedin Sound",
+      "url": "https://rateyourmusic.com/genre/dunedin-sound/",
+      "description": "Emerged in Dunedin, New Zealand in the early 1980s, featuring a murky, lo-fi sound that overlaps with contemporaneous Jangle Pop and Slacker Rock styles.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "Garage Rock Revival",
+      "url": "https://rateyourmusic.com/genre/garage-rock-revival/",
+      "description": "Incorporated the raucous spirit of '60s Garage Rock into the sensibilities of Alternative Rock and Indie Rock; predominant in the '00s.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "Indie Surf",
+      "url": "https://rateyourmusic.com/genre/indie-surf/",
+      "description": "Reverb-drenched, nostalgic, and often lo-fi, with influences from Surf Rock and Vocal Surf; rose to popularity around 2009.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "Math Pop",
+      "url": "https://rateyourmusic.com/genre/math-pop/",
+      "description": "Indie Rock that incorporates clean, melodic vocals and Pop-informed songwriting into the progressive and polyrhythmic instrumentation of Math Rock.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "Midwest Emo",
+      "url": "https://rateyourmusic.com/genre/midwest-emo/",
+      "description": "Characterized by shifts between loud and soft dynamics, off-key, strained and emotional vocals, sometimes with intricate instrumental arrangements and layered arpeggiated guitar parts.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "New Rave",
+      "url": "https://rateyourmusic.com/genre/new-rave/",
+      "description": "High energy mid-2000s style combining the tight and punchy grooves of Dance-Punk Revival with synths and four-on-the-floor rhythms from genres like Electroclash and Electro House.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "Noise Pop",
+      "url": "https://rateyourmusic.com/genre/noise-pop/",
+      "description": "Arose in the mid-1980s; blend of poppier Rock songwriting and melodies with the dissonant, noisy timbres of distorted guitars and frequent use of guitar feedback.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "Post-Punk Revival",
+      "url": "https://rateyourmusic.com/genre/post-punk-revival/",
+      "description": "Incorporating the sounds and aesthetics of Post-Punk into Indie Rock, with jagged guitarwork, a dominant and danceable rhythm section, clean production, and poppy song structures.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "Slacker Rock",
+      "url": "https://rateyourmusic.com/genre/slacker-rock/",
+      "description": "Raw, noisy, and melodic, with a loose, blasé approach to performances and typically low-fidelity production.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "Slowcore",
+      "url": "https://rateyourmusic.com/genre/slowcore/",
+      "description": "Characterized by its subdued, often sombre songwriting and slow tempos, while taking primarily from genres like Dream Pop and Folk Rock.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    },
+    {
+      "name": "Twee Pop",
+      "url": "https://rateyourmusic.com/genre/twee-pop/",
+      "description": "Distinct Post-Punk background and often jangling guitars, defined by a cute aesthetic and lyrics combined with an indie/DIY attitude and a simplicity often indebted to Punk Rock.",
+      "level": "sub-3",
+      "parent": "Indie Rock"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Sertanejo",
+  "description": "Acoustic guitar-based and originated from the rural parts of Brazilian Center-South region.",
+  "url": "https://rateyourmusic.com/genre/sertanejo/",
+  "parent": "Brazilian Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Rasqueado",
+      "url": "https://rateyourmusic.com/genre/rasqueado/",
+      "description": "Regional dance and its accompanying music from the Brazilian midwest, predominantly the state of Mato Grosso.",
+      "level": "sub-4",
+      "parent": "Sertanejo"
+    },
+    {
+      "name": "Sertanejo de raiz",
+      "url": "https://rateyourmusic.com/genre/sertanejo-de-raiz/",
+      "description": "Earliest form of Sertanejo, emerging in pre-World War II rural Brazil during the late 1920s; quickly strummed acoustic guitars, most commonly the 10-string viola caipira and classical guitar, and a highly emotive vocal style.",
+      "level": "sub-4",
+      "parent": "Sertanejo"
+    },
+    {
+      "name": "Sertanejo romântico",
+      "url": "https://rateyourmusic.com/genre/sertanejo-romantico/",
+      "description": "Electric instrumentation and romantic lyrics, made popular nationwide during the mid-to-late 1980s.",
+      "level": "sub-4",
+      "parent": "Sertanejo"
+    },
+    {
+      "name": "Sertanejo universitário",
+      "url": "https://rateyourmusic.com/genre/sertanejo-universitario/",
+      "description": "Modernized style combining rural themes and acoustic instrumentation with commercial production and Electronic instrumentation.",
+      "level": "sub-4",
+      "parent": "Sertanejo"
+    }
+  ]
+}

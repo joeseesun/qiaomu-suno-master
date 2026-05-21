@@ -1,0 +1,108 @@
+{
+  "name": "Dubstep",
+  "description": "Half-time syncopated and sparse beats set around 140 BPM with heavy sub-basses; emerged in South London in the early 2000s.",
+  "url": "https://rateyourmusic.com/genre/dubstep/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 14,
+  "children": [
+    {
+      "name": "Brostep",
+      "url": "https://rateyourmusic.com/genre/brostep/",
+      "description": "Offshoot of Dubstep which replaces its sub-bass-oriented sound with an emphasis on catchy or aggressive mid-range melodies.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Brostep",
+      "url": "https://rateyourmusic.com/genre/brostep/",
+      "description": "Offshoot of Dubstep which replaces its sub-bass-oriented sound with an emphasis on catchy or aggressive mid-range melodies.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Chillstep",
+      "url": "https://rateyourmusic.com/genre/chillstep/",
+      "description": "Relaxed Dubstep influenced by Downtempo and Ambient.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Chillstep",
+      "url": "https://rateyourmusic.com/genre/chillstep/",
+      "description": "Relaxed Dubstep influenced by Downtempo and Ambient.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Dungeon Sound",
+      "url": "https://rateyourmusic.com/genre/dungeon-sound/",
+      "description": "Commonly features dark textures, spatial production, and midrange basses.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Dungeon Sound",
+      "url": "https://rateyourmusic.com/genre/dungeon-sound/",
+      "description": "Commonly features dark textures, spatial production, and midrange basses.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Melodic Dubstep",
+      "url": "https://rateyourmusic.com/genre/melodic-dubstep/",
+      "description": "Melodious, tuneful drops, rich, lush synth leads, powerful stretched chords, and light and harmonious sound design.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Melodic Dubstep",
+      "url": "https://rateyourmusic.com/genre/melodic-dubstep/",
+      "description": "Melodious, tuneful drops, rich, lush synth leads, powerful stretched chords, and light and harmonious sound design.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Purple Sound",
+      "url": "https://rateyourmusic.com/genre/purple-sound/",
+      "description": "Emerged in the late 2000s out of the Dubstep scene of the time, incorporating synth leads and basslines inspired by 1980s Synth Funk and 1990s G-Funk, and Video Game Music, into a rhythmic palette mostly derived from dubstep and Grime.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Purple Sound",
+      "url": "https://rateyourmusic.com/genre/purple-sound/",
+      "description": "Emerged in the late 2000s out of the Dubstep scene of the time, incorporating synth leads and basslines inspired by 1980s Synth Funk and 1990s G-Funk, and Video Game Music, into a rhythmic palette mostly derived from dubstep and Grime.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Riddim",
+      "url": "https://rateyourmusic.com/genre/riddim/",
+      "description": "Repetitive and relatively simplistic style inspired by mid-to-late-2000s UK Dubstep, often using robotic and/or squishy sound design along with bouncy square basses and less prominent buildups.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Riddim",
+      "url": "https://rateyourmusic.com/genre/riddim/",
+      "description": "Repetitive and relatively simplistic style inspired by mid-to-late-2000s UK Dubstep, often using robotic and/or squishy sound design along with bouncy square basses and less prominent buildups.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Tearout",
+      "url": "https://rateyourmusic.com/genre/tearout-1/",
+      "description": "Emerged in the late 2000s, characterized by a gritty, aggressive sound and closely affiliated with early, deep Dubstep.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    },
+    {
+      "name": "Tearout",
+      "url": "https://rateyourmusic.com/genre/tearout-1/",
+      "description": "Emerged in the late 2000s, characterized by a gritty, aggressive sound and closely affiliated with early, deep Dubstep.",
+      "level": "sub-3",
+      "parent": "Dubstep"
+    }
+  ]
+}

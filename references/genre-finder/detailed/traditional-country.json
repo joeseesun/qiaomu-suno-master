@@ -1,0 +1,150 @@
+{
+  "name": "Traditional Country",
+  "description": "Closely aligned with American Folk Music and Blues roots, from country's inception in Appalachia and the American South until the popularity of Honky Tonk and Country Pop in the 1950s.",
+  "url": "https://rateyourmusic.com/genre/traditional-country/",
+  "parent": "Country",
+  "level": "sub",
+  "children_count": 20,
+  "children": [
+    {
+      "name": "Close Harmony",
+      "url": "https://rateyourmusic.com/genre/close-harmony/",
+      "description": "Traditional two-part harmony singing performed mostly by brothers.",
+      "level": "sub-2",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Close Harmony",
+      "url": "https://rateyourmusic.com/genre/close-harmony/",
+      "description": "Traditional two-part harmony singing performed mostly by brothers.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Close Harmony",
+      "url": "https://rateyourmusic.com/genre/close-harmony/",
+      "description": "Traditional two-part harmony singing performed mostly by brothers.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Close Harmony",
+      "url": "https://rateyourmusic.com/genre/close-harmony/",
+      "description": "Traditional two-part harmony singing performed mostly by brothers.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Close Harmony",
+      "url": "https://rateyourmusic.com/genre/close-harmony/",
+      "description": "Traditional two-part harmony singing performed mostly by brothers.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Country Gospel",
+      "url": "https://rateyourmusic.com/genre/country-gospel/",
+      "description": "Incorporates the harmonies and Christian themes of Gospel.",
+      "level": "sub-2",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Country Gospel",
+      "url": "https://rateyourmusic.com/genre/country-gospel/",
+      "description": "Incorporates the harmonies and Christian themes of Gospel.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Country Gospel",
+      "url": "https://rateyourmusic.com/genre/country-gospel/",
+      "description": "Incorporates the harmonies and Christian themes of Gospel.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Country Gospel",
+      "url": "https://rateyourmusic.com/genre/country-gospel/",
+      "description": "Incorporates the harmonies and Christian themes of Gospel.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Country Gospel",
+      "url": "https://rateyourmusic.com/genre/country-gospel/",
+      "description": "Incorporates the harmonies and Christian themes of Gospel.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Country Yodeling",
+      "url": "https://rateyourmusic.com/genre/country-yodeling/",
+      "description": "Vocal technique of Yodeling, brought to the United States by German settlers, sung over the instrumentation of Traditional Country.",
+      "level": "sub-2",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Country Yodeling",
+      "url": "https://rateyourmusic.com/genre/country-yodeling/",
+      "description": "Vocal technique of Yodeling, brought to the United States by German settlers, sung over the instrumentation of Traditional Country.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Country Yodeling",
+      "url": "https://rateyourmusic.com/genre/country-yodeling/",
+      "description": "Vocal technique of Yodeling, brought to the United States by German settlers, sung over the instrumentation of Traditional Country.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Country Yodeling",
+      "url": "https://rateyourmusic.com/genre/country-yodeling/",
+      "description": "Vocal technique of Yodeling, brought to the United States by German settlers, sung over the instrumentation of Traditional Country.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Country Yodeling",
+      "url": "https://rateyourmusic.com/genre/country-yodeling/",
+      "description": "Vocal technique of Yodeling, brought to the United States by German settlers, sung over the instrumentation of Traditional Country.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Traditional Bluegrass",
+      "url": "https://rateyourmusic.com/genre/traditional-bluegrass/",
+      "description": "Driving tempos, acoustic stringed instrumentation, and high vocal harmonies, adhering to the stylistic roots of the Bluegrass genre.",
+      "level": "sub-2",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Traditional Bluegrass",
+      "url": "https://rateyourmusic.com/genre/traditional-bluegrass/",
+      "description": "Driving tempos, acoustic stringed instrumentation, and high vocal harmonies, adhering to the stylistic roots of the Bluegrass genre.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Traditional Bluegrass",
+      "url": "https://rateyourmusic.com/genre/traditional-bluegrass/",
+      "description": "Driving tempos, acoustic stringed instrumentation, and high vocal harmonies, adhering to the stylistic roots of the Bluegrass genre.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Traditional Bluegrass",
+      "url": "https://rateyourmusic.com/genre/traditional-bluegrass/",
+      "description": "Driving tempos, acoustic stringed instrumentation, and high vocal harmonies, adhering to the stylistic roots of the Bluegrass genre.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    },
+    {
+      "name": "Traditional Bluegrass",
+      "url": "https://rateyourmusic.com/genre/traditional-bluegrass/",
+      "description": "Driving tempos, acoustic stringed instrumentation, and high vocal harmonies, adhering to the stylistic roots of the Bluegrass genre.",
+      "level": "sub-4",
+      "parent": "Traditional Country"
+    }
+  ]
+}

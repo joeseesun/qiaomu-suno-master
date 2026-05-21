@@ -1,0 +1,87 @@
+{
+  "name": "Soul",
+  "description": "Originated in the African American culture of the 20th century, resulting from the combination of the ecstatic vocals of Gospel with the upbeat instrumentation of Rhythm & Blues, consisting of guitar, bass and percussion.",
+  "url": "https://rateyourmusic.com/genre/soul/",
+  "parent": "R&B",
+  "level": "sub",
+  "children_count": 11,
+  "children": [
+    {
+      "name": "Chicago Soul",
+      "url": "https://rateyourmusic.com/genre/chicago-soul/",
+      "description": "Combination of the hard, groove-oriented rhythms of Southern Soul and the sophisticated gloss of the Motown Sound which was developed in Chicago.",
+      "level": "sub-2",
+      "parent": "Soul"
+    },
+    {
+      "name": "Country Soul",
+      "url": "https://rateyourmusic.com/genre/country-soul/",
+      "description": "Combining the gritty horn-driven sound of Southern Soul with the textures and aesthetics of Country.",
+      "level": "sub-2",
+      "parent": "Soul"
+    },
+    {
+      "name": "Deep Soul",
+      "url": "https://rateyourmusic.com/genre/deep-soul/",
+      "description": "Draws on the typical Southern Soul groove and accentuates the Gospel and Blues influence, particularly Chicago Blues.",
+      "level": "sub-2",
+      "parent": "Soul"
+    },
+    {
+      "name": "Latin Soul",
+      "url": "https://rateyourmusic.com/genre/latin-soul/",
+      "description": "Soul combined with Hispanic American Music, such as Salsa and Mambo.",
+      "level": "sub-2",
+      "parent": "Soul"
+    },
+    {
+      "name": "Neo-Soul",
+      "url": "https://rateyourmusic.com/genre/neo-soul/",
+      "description": "Emerged during the mid-to-late 1990s; defined by a combination of Soul with the rhythmic percussion and groove of Hip Hop.",
+      "level": "sub-2",
+      "parent": "Soul"
+    },
+    {
+      "name": "Philly Soul",
+      "url": "https://rateyourmusic.com/genre/philly-soul/",
+      "description": "Defined by lush arrangements, often borrowing upon the orchestral instrumentation seen on productions from the 1960s, with the commercial atmosphere exemplified by Pop Soul and the Motown Sound.",
+      "level": "sub-2",
+      "parent": "Soul"
+    },
+    {
+      "name": "Pop Soul",
+      "url": "https://rateyourmusic.com/genre/pop-soul/",
+      "description": "Fusion of Pop and Soul; originated in the 1960s as an attempt to give soul crossover success.",
+      "level": "sub-2",
+      "parent": "Soul"
+    },
+    {
+      "name": "Progressive Soul",
+      "url": "https://rateyourmusic.com/genre/progressive-soul/",
+      "description": "Greater harmonic complexity, less conventional song structures, and conceptual, socially conscious or introspective lyrical themes, incorporating diverse influences and instrumentation from Jazz, Funk, Rock, and beyond.",
+      "level": "sub-2",
+      "parent": "Soul"
+    },
+    {
+      "name": "Psychedelic Soul",
+      "url": "https://rateyourmusic.com/genre/psychedelic-soul/",
+      "description": "Soul which incorporates the effects and instrumentation of Psychedelic Rock.",
+      "level": "sub-2",
+      "parent": "Soul"
+    },
+    {
+      "name": "Smooth Soul",
+      "url": "https://rateyourmusic.com/genre/smooth-soul/",
+      "description": "Slow tempo ballads with silky, often sensual, vocals and light, polished arrangements, creating an intimate, romantic atmosphere.",
+      "level": "sub-2",
+      "parent": "Soul"
+    },
+    {
+      "name": "Southern Soul",
+      "url": "https://rateyourmusic.com/genre/southern-soul/",
+      "description": "Soul primarily from the American South that was popular in the 1960s and 1970s, with a gritty and raw sound that places an emphasis on the groove, making it highly danceable.",
+      "level": "sub-2",
+      "parent": "Soul"
+    }
+  ]
+}

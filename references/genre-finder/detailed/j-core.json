@@ -1,0 +1,17 @@
+{
+  "name": "J-core",
+  "description": "Eclectic scene of Japanese Hardcore [EDM] heavily associated with Doujin Music.",
+  "url": "https://rateyourmusic.com/genre/j-core/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Future Core",
+      "url": "https://rateyourmusic.com/genre/future-core/",
+      "description": "Blends the speed, basslines, and rhythms of UK Hardcore (mostly coming from the J-core sphere) with euphoric, woozy synths, 7th chords and arpeggios, and vocal chops of Future Bass, particularly Kawaii Future Bass.",
+      "level": "sub-2",
+      "parent": "J-core"
+    }
+  ]
+}

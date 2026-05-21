@@ -1,0 +1,52 @@
+{
+  "name": "Disco",
+  "description": "Combines the lush orchestration of Philly Soul and bass grooves of Funk with a four-on-the-floor rhythm.",
+  "url": "https://rateyourmusic.com/genre/disco/",
+  "parent": "Dance",
+  "level": "sub",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Boogie",
+      "url": "https://rateyourmusic.com/genre/boogie/",
+      "description": "Continuation of the Disco sound with increased influence from Funk, Synth Funk, and R&B and a slower tempo, often featuring drum machines and filter modulated synthesizers.",
+      "level": "sub-2",
+      "parent": "Disco"
+    },
+    {
+      "name": "Electro-Disco",
+      "url": "https://rateyourmusic.com/genre/electro-disco/",
+      "description": "Disco instrumentation is largely - if not entirely - replaced by synthesizers and augmented with futuristic elements such as the vocoder.",
+      "level": "sub-2",
+      "parent": "Disco"
+    },
+    {
+      "name": "Euro-Disco",
+      "url": "https://rateyourmusic.com/genre/euro-disco/",
+      "description": "European style that moved away from the genre's Rhythm & Blues and Soul roots, speeding up the tempo and adding Electronic instruments like synthesizers and drum machines as a backing for more melodic Europop-influenced vocals.",
+      "level": "sub-2",
+      "parent": "Disco"
+    },
+    {
+      "name": "Latin Disco",
+      "url": "https://rateyourmusic.com/genre/latin-disco/",
+      "description": "Disco that incorporates elements from Hispanic American Music styles.",
+      "level": "sub-2",
+      "parent": "Disco"
+    },
+    {
+      "name": "Mutant Disco",
+      "url": "https://rateyourmusic.com/genre/mutant-disco/",
+      "description": "Danceable basslines, syncopated grooves, and angular guitar riffs, characterized by a spirit of experimentation and integration of disparate sounds.",
+      "level": "sub-2",
+      "parent": "Disco"
+    },
+    {
+      "name": "Nu-Disco",
+      "url": "https://rateyourmusic.com/genre/nu-disco/",
+      "description": "21st-century trend mixing modern, polished Electronic production with the aesthetics, structures, and lively, organic beats of 1970s and 1980s Disco.",
+      "level": "sub-2",
+      "parent": "Disco"
+    }
+  ]
+}

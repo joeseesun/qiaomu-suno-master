@@ -1,0 +1,94 @@
+{
+  "name": "Hardstyle",
+  "description": "Hard, four-on-the-floor kick drums, fast tempo around 150 BPM, reverse bass and harsh, distorted synths.",
+  "url": "https://rateyourmusic.com/genre/hardstyle/",
+  "parent": "Hard Dance",
+  "level": "sub-3",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Dubstyle",
+      "url": "https://rateyourmusic.com/genre/dubstyle/",
+      "description": "Characterized by the incorporation of the half-time rhythms and wobbly basslines of Dubstep.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    },
+    {
+      "name": "Dubstyle",
+      "url": "https://rateyourmusic.com/genre/dubstyle/",
+      "description": "Characterized by the incorporation of the half-time rhythms and wobbly basslines of Dubstep.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    },
+    {
+      "name": "Early Hardstyle",
+      "url": "https://rateyourmusic.com/genre/early-hardstyle/",
+      "description": "Forerunner subgenre that emerged around the turn of the 2000s from Hard Trance and Gabber, distinguished by the signature reverse bass groove, slower tempo around 140 BPM and straightforward, repetitive sound.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    },
+    {
+      "name": "Early Hardstyle",
+      "url": "https://rateyourmusic.com/genre/early-hardstyle/",
+      "description": "Forerunner subgenre that emerged around the turn of the 2000s from Hard Trance and Gabber, distinguished by the signature reverse bass groove, slower tempo around 140 BPM and straightforward, repetitive sound.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    },
+    {
+      "name": "Euphoric Hardstyle",
+      "url": "https://rateyourmusic.com/genre/euphoric-hardstyle/",
+      "description": "Melodic, more lighthearted, and accessible Hardstyle.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    },
+    {
+      "name": "Euphoric Hardstyle",
+      "url": "https://rateyourmusic.com/genre/euphoric-hardstyle/",
+      "description": "Melodic, more lighthearted, and accessible Hardstyle.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    },
+    {
+      "name": "Nustyle",
+      "url": "https://rateyourmusic.com/genre/nustyle/",
+      "description": "Developed out of Early Hardstyle from the mid-to-late 2000s, by incorporating distorted, crunchy, pitched kicks, faster tempo around 150 BPM, and detuned supersaw/square synth leads playing stompy, dramatic melodies.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    },
+    {
+      "name": "Nustyle",
+      "url": "https://rateyourmusic.com/genre/nustyle/",
+      "description": "Developed out of Early Hardstyle from the mid-to-late 2000s, by incorporating distorted, crunchy, pitched kicks, faster tempo around 150 BPM, and detuned supersaw/square synth leads playing stompy, dramatic melodies.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    },
+    {
+      "name": "Psystyle",
+      "url": "https://rateyourmusic.com/genre/psystyle/",
+      "description": "Prominent Psytrance influences, especially the basslines and energy of mainstream psytrance.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    },
+    {
+      "name": "Psystyle",
+      "url": "https://rateyourmusic.com/genre/psystyle/",
+      "description": "Prominent Psytrance influences, especially the basslines and energy of mainstream psytrance.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    },
+    {
+      "name": "Rawstyle",
+      "url": "https://rateyourmusic.com/genre/rawstyle/",
+      "description": "Incorporates earlier Hardstyle and Hardcore [EDM] influences into the sound of 2010s hardstyle, creating a distinctly harsh, simplistic, raw, and dark sound, with fast BPM.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    },
+    {
+      "name": "Rawstyle",
+      "url": "https://rateyourmusic.com/genre/rawstyle/",
+      "description": "Incorporates earlier Hardstyle and Hardcore [EDM] influences into the sound of 2010s hardstyle, creating a distinctly harsh, simplistic, raw, and dark sound, with fast BPM.",
+      "level": "sub-4",
+      "parent": "Hardstyle"
+    }
+  ]
+}

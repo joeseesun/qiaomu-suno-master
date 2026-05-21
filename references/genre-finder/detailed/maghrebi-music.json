@@ -1,0 +1,73 @@
+{
+  "name": "Maghrebi Music",
+  "description": "Western region of the Arab world, encompassing the modern countries of Algeria, Libya, Morocco, Tunisia, and the disputed territory of Western Sahara.",
+  "url": "https://rateyourmusic.com/genre/maghrebi-music/",
+  "parent": "North African Music",
+  "level": "sub-3",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Aita",
+      "url": "https://rateyourmusic.com/genre/aita/",
+      "description": "Arabic Folk Music from rural Morocco with piercing singing, scratchy viola, and rollicking hand drums.",
+      "level": "sub-4",
+      "parent": "Maghrebi Music"
+    },
+    {
+      "name": "Algerian Chaabi",
+      "url": "https://rateyourmusic.com/genre/algerian-chaabi/",
+      "description": "Features mournful vocals over an orchestral setting of violins, mandolins, pianos, and percussion.",
+      "level": "sub-4",
+      "parent": "Maghrebi Music"
+    },
+    {
+      "name": "Andalusian Classical Music",
+      "url": "https://rateyourmusic.com/genre/andalusian-classical-music/",
+      "description": "Arabic Classical Music tradition that had its beginnings in Al-Andalus, the medieval Islamic Iberian peninsula, which later spread and developed in the Maghreb.",
+      "level": "sub-4",
+      "parent": "Maghrebi Music"
+    },
+    {
+      "name": "Banga",
+      "url": "https://rateyourmusic.com/genre/banga/",
+      "description": "Sufi ritual trance music of southern Tunisia performed by Black communities.",
+      "level": "sub-4",
+      "parent": "Maghrebi Music"
+    },
+    {
+      "name": "Gnawa",
+      "url": "https://rateyourmusic.com/genre/gnawa/",
+      "description": "A mystical musical tradition centred around the qraqab castanets and guembri bass lute, named after its originators, the Afro-Maghrebi Gnawa people.",
+      "level": "sub-4",
+      "parent": "Maghrebi Music"
+    },
+    {
+      "name": "Jilala Music",
+      "url": "https://rateyourmusic.com/genre/jilala-music/",
+      "description": "Music of the Jilala Sufi order, most notably used in healing trance rituals.",
+      "level": "sub-4",
+      "parent": "Maghrebi Music"
+    },
+    {
+      "name": "Malhun",
+      "url": "https://rateyourmusic.com/genre/malhun/",
+      "description": "Moroccan sung poetry with instrumental accompaniment.",
+      "level": "sub-4",
+      "parent": "Maghrebi Music"
+    },
+    {
+      "name": "Moroccan Chaabi",
+      "url": "https://rateyourmusic.com/genre/moroccan-chaabi/",
+      "description": "Upbeat style of Moroccan popular music played in streets, cafés, weddings, and festivals.",
+      "level": "sub-4",
+      "parent": "Maghrebi Music"
+    },
+    {
+      "name": "Raï",
+      "url": "https://rateyourmusic.com/genre/rai/",
+      "description": "Originated in Algeria in the 1920s as a form of Bedouin Music, blending influences from various rural and urban genres.",
+      "level": "sub-4",
+      "parent": "Maghrebi Music"
+    }
+  ]
+}

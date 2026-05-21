@@ -1,0 +1,24 @@
+{
+  "name": "Noise Rock",
+  "description": "Explores dissonance and distortion through unconventional playing and guitar effects, commonly augmented by lo-fi production and bursts of feedback.",
+  "url": "https://rateyourmusic.com/genre/noise-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Pigfuck",
+      "url": "https://rateyourmusic.com/genre/pigfuck/",
+      "description": "Sloppy, abrasive and feedback-laden riffing with vulgar and edgy lyricism, informed by Post-Hardcore's aggression and Post-Punk's rhythm section.",
+      "level": "sub-2",
+      "parent": "Noise Rock"
+    },
+    {
+      "name": "Shitgaze",
+      "url": "https://rateyourmusic.com/genre/shitgaze/",
+      "description": "Blends extremely raw and lo-fi aesthetics, abrasive guitar tones, and typically, the ethos of raucous Garage Rock, to create a sonic wall of deafening distortion evocative of Shoegaze.",
+      "level": "sub-2",
+      "parent": "Noise Rock"
+    }
+  ]
+}

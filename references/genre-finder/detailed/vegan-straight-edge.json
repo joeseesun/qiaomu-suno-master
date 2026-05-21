@@ -1,0 +1,24 @@
+{
+  "name": "Vegan Straight Edge",
+  "description": "Espouses veganism, environmentalism, and animal liberation causes.",
+  "url": "https://rateyourmusic.com/genre/vegan-straight-edge/",
+  "parent": "Straight Edge",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "H8000",
+      "url": "https://rateyourmusic.com/genre/h8000/",
+      "description": "Belgian Hardcore [Punk] scene centered in West Flanders, famed for its Vegan Straight Edge Metalcore.",
+      "level": "sub-3",
+      "parent": "Vegan Straight Edge"
+    },
+    {
+      "name": "Hardline",
+      "url": "https://rateyourmusic.com/genre/hardline/",
+      "description": "Militant outgrowth of Vegan Straight Edge influenced by deep ecology.",
+      "level": "sub-3",
+      "parent": "Vegan Straight Edge"
+    }
+  ]
+}

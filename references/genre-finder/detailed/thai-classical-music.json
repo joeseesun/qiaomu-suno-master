@@ -1,0 +1,73 @@
+{
+  "name": "Thai Classical Music",
+  "description": "Emerged from the royal courts of Central Thailand around the 13th century, based on a traditional Thai sound-scale of seven tempered notes.",
+  "url": "https://rateyourmusic.com/genre/thai-classical-music/",
+  "parent": "Southeast Asian Classical Music",
+  "level": "sub-2",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Fon leb",
+      "url": "https://rateyourmusic.com/genre/fon-leb/",
+      "description": "Traditional performance music originating in northern Thailand consist of an ensemble with Piphat instruments and a pair of female choreographers.",
+      "level": "sub-3",
+      "parent": "Thai Classical Music"
+    },
+    {
+      "name": "Fon leb",
+      "url": "https://rateyourmusic.com/genre/fon-leb/",
+      "description": "Traditional performance music originating in northern Thailand consist of an ensemble with Piphat instruments and a pair of female choreographers.",
+      "level": "sub-5",
+      "parent": "Thai Classical Music"
+    },
+    {
+      "name": "Fon leb",
+      "url": "https://rateyourmusic.com/genre/fon-leb/",
+      "description": "Traditional performance music originating in northern Thailand consist of an ensemble with Piphat instruments and a pair of female choreographers.",
+      "level": "sub-5",
+      "parent": "Thai Classical Music"
+    },
+    {
+      "name": "Khrueang sai",
+      "url": "https://rateyourmusic.com/genre/khrueang-sai/",
+      "description": "Thai Classical Music emphasizing string instruments while also incorporating other kinds of instruments to enrich the sound.",
+      "level": "sub-3",
+      "parent": "Thai Classical Music"
+    },
+    {
+      "name": "Khrueang sai",
+      "url": "https://rateyourmusic.com/genre/khrueang-sai/",
+      "description": "Thai Classical Music emphasizing string instruments while also incorporating other kinds of instruments to enrich the sound.",
+      "level": "sub-5",
+      "parent": "Thai Classical Music"
+    },
+    {
+      "name": "Khrueang sai",
+      "url": "https://rateyourmusic.com/genre/khrueang-sai/",
+      "description": "Thai Classical Music emphasizing string instruments while also incorporating other kinds of instruments to enrich the sound.",
+      "level": "sub-5",
+      "parent": "Thai Classical Music"
+    },
+    {
+      "name": "Piphat",
+      "url": "https://rateyourmusic.com/genre/piphat/",
+      "description": "Led by wind and percussion instruments, with ensembles ranging from 6 to 10 instruments.",
+      "level": "sub-3",
+      "parent": "Thai Classical Music"
+    },
+    {
+      "name": "Piphat",
+      "url": "https://rateyourmusic.com/genre/piphat/",
+      "description": "Led by wind and percussion instruments, with ensembles ranging from 6 to 10 instruments.",
+      "level": "sub-5",
+      "parent": "Thai Classical Music"
+    },
+    {
+      "name": "Piphat",
+      "url": "https://rateyourmusic.com/genre/piphat/",
+      "description": "Led by wind and percussion instruments, with ensembles ranging from 6 to 10 instruments.",
+      "level": "sub-5",
+      "parent": "Thai Classical Music"
+    }
+  ]
+}

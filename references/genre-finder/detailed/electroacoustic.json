@@ -1,0 +1,52 @@
+{
+  "name": "Electroacoustic",
+  "description": "Manipulation and processing of sound sources to create atmospheric pieces.",
+  "url": "https://rateyourmusic.com/genre/electroacoustic/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Acousmatic Music",
+      "url": "https://rateyourmusic.com/genre/acousmatic-music/",
+      "description": "Fixed-media Electroacoustic music designed to be reproduced by multiple loudspeakers without the presence of instrumentalists and visual cues.",
+      "level": "sub-2",
+      "parent": "Electroacoustic"
+    },
+    {
+      "name": "Acousmatic Music",
+      "url": "https://rateyourmusic.com/genre/acousmatic-music/",
+      "description": "Fixed-media Electroacoustic music designed to be reproduced by multiple loudspeakers without the presence of instrumentalists and visual cues.",
+      "level": "sub-2",
+      "parent": "Electroacoustic"
+    },
+    {
+      "name": "EAI",
+      "url": "https://rateyourmusic.com/genre/eai/",
+      "description": "Slow paced, physical, textured aesthetic - often created using unconventional instruments processed through a computer.",
+      "level": "sub-2",
+      "parent": "Electroacoustic"
+    },
+    {
+      "name": "EAI",
+      "url": "https://rateyourmusic.com/genre/eai/",
+      "description": "Slow paced, physical, textured aesthetic - often created using unconventional instruments processed through a computer.",
+      "level": "sub-2",
+      "parent": "Electroacoustic"
+    },
+    {
+      "name": "Musique concrète",
+      "url": "https://rateyourmusic.com/genre/musique-concrete/",
+      "description": "Manipulation of recorded sounds, mostly Field Recordings, natural sounds, and real-world noises, as a process of abstracting \"concrete\" sounds, or \"sound objects\", from their acoustic origins.",
+      "level": "sub-2",
+      "parent": "Electroacoustic"
+    },
+    {
+      "name": "Musique concrète",
+      "url": "https://rateyourmusic.com/genre/musique-concrete/",
+      "description": "Manipulation of recorded sounds, mostly Field Recordings, natural sounds, and real-world noises, as a process of abstracting \"concrete\" sounds, or \"sound objects\", from their acoustic origins.",
+      "level": "sub-2",
+      "parent": "Electroacoustic"
+    }
+  ]
+}

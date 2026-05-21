@@ -1,0 +1,38 @@
+{
+  "name": "Glitch Hop [EDM]",
+  "description": "Tempos around 100-110 BPM, swung, bouncy drum patterns, and a focus on upbeat, danceable drops and buildups.",
+  "url": "https://rateyourmusic.com/genre/glitch-hop-edm/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Ghetto Funk",
+      "url": "https://rateyourmusic.com/genre/ghetto-funk/",
+      "description": "Rich sampling, drawing from classic Hip Hop as well as from Funk and Soul, and strong midtempo break grooves.",
+      "level": "sub-3",
+      "parent": "Glitch Hop [EDM]"
+    },
+    {
+      "name": "Ghetto Funk",
+      "url": "https://rateyourmusic.com/genre/ghetto-funk/",
+      "description": "Rich sampling, drawing from classic Hip Hop as well as from Funk and Soul, and strong midtempo break grooves.",
+      "level": "sub-3",
+      "parent": "Glitch Hop [EDM]"
+    },
+    {
+      "name": "Neurohop",
+      "url": "https://rateyourmusic.com/genre/neurohop/",
+      "description": "Features the complex bass of Neurofunk and a frantic and mechanical sound design.",
+      "level": "sub-3",
+      "parent": "Glitch Hop [EDM]"
+    },
+    {
+      "name": "Neurohop",
+      "url": "https://rateyourmusic.com/genre/neurohop/",
+      "description": "Features the complex bass of Neurofunk and a frantic and mechanical sound design.",
+      "level": "sub-3",
+      "parent": "Glitch Hop [EDM]"
+    }
+  ]
+}

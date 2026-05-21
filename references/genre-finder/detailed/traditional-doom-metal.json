@@ -1,0 +1,24 @@
+{
+  "name": "Traditional Doom Metal",
+  "description": "Monotonous and heavy playing style; repetitive, rough, and sometimes atonal guitar riffs; a \"rocking to sleep\" bass; and influences from both Blues Rock and Psychedelic Rock.",
+  "url": "https://rateyourmusic.com/genre/traditional-doom-metal/",
+  "parent": "Doom Metal",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Epic Doom Metal",
+      "url": "https://rateyourmusic.com/genre/epic-doom-metal/",
+      "description": "Emphasizes Heavy Metal influence and theatrical vocals.",
+      "level": "sub-3",
+      "parent": "Traditional Doom Metal"
+    },
+    {
+      "name": "Epic Doom Metal",
+      "url": "https://rateyourmusic.com/genre/epic-doom-metal/",
+      "description": "Emphasizes Heavy Metal influence and theatrical vocals.",
+      "level": "sub-4",
+      "parent": "Traditional Doom Metal"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "name": "Punk Rock",
+  "description": "Fast tempos, loud and distorted riffs, simple songs, frequent use of power chords, and shouted vocals, originating in the mid-1970s in response to commercial, sentimental, and complex Rock.",
+  "url": "https://rateyourmusic.com/genre/punk-rock/",
+  "parent": "Punk",
+  "level": "sub",
+  "children_count": 36,
+  "children": [
+    {
+      "name": "Anarcho-Punk",
+      "url": "https://rateyourmusic.com/genre/anarcho-punk/",
+      "description": "Intentionally rougher and sloppier sound, with lyrics pertaining to anarchist ideology and sociopolitical injustices.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Anarcho-Punk",
+      "url": "https://rateyourmusic.com/genre/anarcho-punk/",
+      "description": "Intentionally rougher and sloppier sound, with lyrics pertaining to anarchist ideology and sociopolitical injustices.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Celtic Punk",
+      "url": "https://rateyourmusic.com/genre/celtic-punk/",
+      "description": "Infuses the sounds of Celtic Folk Music into Punk Rock.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Celtic Punk",
+      "url": "https://rateyourmusic.com/genre/celtic-punk/",
+      "description": "Infuses the sounds of Celtic Folk Music into Punk Rock.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Deathrock",
+      "url": "https://rateyourmusic.com/genre/deathrock/",
+      "description": "More Punk-oriented offshoot of Gothic Rock that emphasizes energy and an effect-laden sound over pure atmosphere.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Deathrock",
+      "url": "https://rateyourmusic.com/genre/deathrock/",
+      "description": "More Punk-oriented offshoot of Gothic Rock that emphasizes energy and an effect-laden sound over pure atmosphere.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Deutschpunk",
+      "url": "https://rateyourmusic.com/genre/deutschpunk/",
+      "description": "Partly a reaction to the commercialization of the German movement Neue Deutsche Welle; characterized by extreme speed, consciously basic songwriting, crude musicianship, and radical leftism.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Deutschpunk",
+      "url": "https://rateyourmusic.com/genre/deutschpunk/",
+      "description": "Partly a reaction to the commercialization of the German movement Neue Deutsche Welle; characterized by extreme speed, consciously basic songwriting, crude musicianship, and radical leftism.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Egg Punk",
+      "url": "https://rateyourmusic.com/genre/egg-punk/",
+      "description": "Originated in the early 2010s; features lo-fi production, eccentric lyrics, quick tempos, nasally vocals, and cheap keyboard sounds.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Egg Punk",
+      "url": "https://rateyourmusic.com/genre/egg-punk/",
+      "description": "Originated in the early 2010s; features lo-fi production, eccentric lyrics, quick tempos, nasally vocals, and cheap keyboard sounds.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Garage Punk",
+      "url": "https://rateyourmusic.com/genre/garage-punk/",
+      "description": "Combination of the raw fuzztones of the original Garage Rock bands of the 1960s with the tempo and attitude of Punk Rock.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Garage Punk",
+      "url": "https://rateyourmusic.com/genre/garage-punk/",
+      "description": "Combination of the raw fuzztones of the original Garage Rock bands of the 1960s with the tempo and attitude of Punk Rock.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Glam Punk",
+      "url": "https://rateyourmusic.com/genre/glam-punk/",
+      "description": "Contrasts a snotty, nihilistic, and combative attitude of punk with theatrics and flamboyance.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Glam Punk",
+      "url": "https://rateyourmusic.com/genre/glam-punk/",
+      "description": "Contrasts a snotty, nihilistic, and combative attitude of punk with theatrics and flamboyance.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Hardcore Punk",
+      "url": "https://rateyourmusic.com/genre/hardcore-punk/",
+      "description": "Emerged in the late 1970s, often featuring extensive use of yelling or screaming, a stripped-down production style, and very short songs.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Hardcore Punk",
+      "url": "https://rateyourmusic.com/genre/hardcore-punk/",
+      "description": "Emerged in the late 1970s, often featuring extensive use of yelling or screaming, a stripped-down production style, and very short songs.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Horror Punk",
+      "url": "https://rateyourmusic.com/genre/horror-punk/",
+      "description": "Thematically and lyrically derived from Horror movies, typically with a nostalgic and campy attitude.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Horror Punk",
+      "url": "https://rateyourmusic.com/genre/horror-punk/",
+      "description": "Thematically and lyrically derived from Horror movies, typically with a nostalgic and campy attitude.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Könsrock",
+      "url": "https://rateyourmusic.com/genre/konsrock/",
+      "description": "Inspired by Post-Punk but with a more bizarre atmosphere with unusual or comic vocal techniques and a lyrical focus on the offensive and scatological.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Könsrock",
+      "url": "https://rateyourmusic.com/genre/konsrock/",
+      "description": "Inspired by Post-Punk but with a more bizarre atmosphere with unusual or comic vocal techniques and a lyrical focus on the offensive and scatological.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Oi!",
+      "url": "https://rateyourmusic.com/genre/oi/",
+      "description": "Rejection of perceived intellectualism and elitism in Post-Punk and Art Punk, characterized by a return to a straightforward, melodic Punk Rock sound, sing-along choruses, and a lyrical focus on working class youth culture.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Oi!",
+      "url": "https://rateyourmusic.com/genre/oi/",
+      "description": "Rejection of perceived intellectualism and elitism in Post-Punk and Art Punk, characterized by a return to a straightforward, melodic Punk Rock sound, sing-along choruses, and a lyrical focus on working class youth culture.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Pop Punk",
+      "url": "https://rateyourmusic.com/genre/pop-punk/",
+      "description": "Blends the loud, fast-paced sound of Punk Rock with the melodic hooks of Pop.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Pop Punk",
+      "url": "https://rateyourmusic.com/genre/pop-punk/",
+      "description": "Blends the loud, fast-paced sound of Punk Rock with the melodic hooks of Pop.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Positive Punk",
+      "url": "https://rateyourmusic.com/genre/positive-punk/",
+      "description": "Early goth scene in London that grew out of the Anarcho-Punk movement and promoted themes of virtue and mysticism; commonly features wailing vocals, screeching guitars, prominent basslines, and eclectic drum patterns.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Positive Punk",
+      "url": "https://rateyourmusic.com/genre/positive-punk/",
+      "description": "Early goth scene in London that grew out of the Anarcho-Punk movement and promoted themes of virtue and mysticism; commonly features wailing vocals, screeching guitars, prominent basslines, and eclectic drum patterns.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Psychobilly",
+      "url": "https://rateyourmusic.com/genre/psychobilly/",
+      "description": "Cross-pollination of Punk Rock and Rockabilly.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Psychobilly",
+      "url": "https://rateyourmusic.com/genre/psychobilly/",
+      "description": "Cross-pollination of Punk Rock and Rockabilly.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Ska Punk",
+      "url": "https://rateyourmusic.com/genre/ska-punk/",
+      "description": "Utilizes skank rhythms, walking basslines, and often horn instrumentation in combination with a fast-paced Punk Rock playstyle.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Ska Punk",
+      "url": "https://rateyourmusic.com/genre/ska-punk/",
+      "description": "Utilizes skank rhythms, walking basslines, and often horn instrumentation in combination with a fast-paced Punk Rock playstyle.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Skate Punk",
+      "url": "https://rateyourmusic.com/genre/skate-punk/",
+      "description": "Combines the speed of Melodic Hardcore with the catchiness of Pop Punk, finding a middle ground between the two.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Skate Punk",
+      "url": "https://rateyourmusic.com/genre/skate-punk/",
+      "description": "Combines the speed of Melodic Hardcore with the catchiness of Pop Punk, finding a middle ground between the two.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Surf Punk",
+      "url": "https://rateyourmusic.com/genre/surf-punk/",
+      "description": "Punk Rock that incorporates elements of Surf Rock.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Surf Punk",
+      "url": "https://rateyourmusic.com/genre/surf-punk/",
+      "description": "Punk Rock that incorporates elements of Surf Rock.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Vikingarock",
+      "url": "https://rateyourmusic.com/genre/vikingarock/",
+      "description": "Incorporates influences from Nordic Folk Music and the imagery of Viking romanticism and Norse mythology.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    },
+    {
+      "name": "Vikingarock",
+      "url": "https://rateyourmusic.com/genre/vikingarock/",
+      "description": "Incorporates influences from Nordic Folk Music and the imagery of Viking romanticism and Norse mythology.",
+      "level": "sub-2",
+      "parent": "Punk Rock"
+    }
+  ]
+}

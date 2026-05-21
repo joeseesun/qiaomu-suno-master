@@ -1,0 +1,24 @@
+{
+  "name": "Nashville Sound",
+  "description": "Production style characterized by smooth vocals over a relaxed ensemble of guitars and rhythm section, and variously incorporating elements from other styles of Country and Pop.",
+  "url": "https://rateyourmusic.com/genre/nashville-sound/",
+  "parent": "Country",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Countrypolitan",
+      "url": "https://rateyourmusic.com/genre/countrypolitan/",
+      "description": "Emphasizes Pop-oriented orchestration and songwriting while reducing the role of Country instrumentation and rhythms; often featuring lush string arrangements and group backing vocals.",
+      "level": "sub-2",
+      "parent": "Nashville Sound"
+    },
+    {
+      "name": "Countrypolitan",
+      "url": "https://rateyourmusic.com/genre/countrypolitan/",
+      "description": "Emphasizes Pop-oriented orchestration and songwriting while reducing the role of Country instrumentation and rhythms; often featuring lush string arrangements and group backing vocals.",
+      "level": "sub-4",
+      "parent": "Nashville Sound"
+    }
+  ]
+}

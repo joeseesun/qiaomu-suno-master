@@ -1,0 +1,38 @@
+{
+  "name": "Gothic Rock",
+  "description": "Combines drama and a dark atmosphere with effects-laden guitars, prominent basslines, propulsive drums, and occasional keyboards and drum machines.",
+  "url": "https://rateyourmusic.com/genre/gothic-rock/",
+  "parent": "Post-Punk",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Deathrock",
+      "url": "https://rateyourmusic.com/genre/deathrock/",
+      "description": "More Punk-oriented offshoot of Gothic Rock that emphasizes energy and an effect-laden sound over pure atmosphere.",
+      "level": "sub-3",
+      "parent": "Gothic Rock"
+    },
+    {
+      "name": "Deathrock",
+      "url": "https://rateyourmusic.com/genre/deathrock/",
+      "description": "More Punk-oriented offshoot of Gothic Rock that emphasizes energy and an effect-laden sound over pure atmosphere.",
+      "level": "sub-3",
+      "parent": "Gothic Rock"
+    },
+    {
+      "name": "Positive Punk",
+      "url": "https://rateyourmusic.com/genre/positive-punk/",
+      "description": "Early goth scene in London that grew out of the Anarcho-Punk movement and promoted themes of virtue and mysticism; commonly features wailing vocals, screeching guitars, prominent basslines, and eclectic drum patterns.",
+      "level": "sub-3",
+      "parent": "Gothic Rock"
+    },
+    {
+      "name": "Positive Punk",
+      "url": "https://rateyourmusic.com/genre/positive-punk/",
+      "description": "Early goth scene in London that grew out of the Anarcho-Punk movement and promoted themes of virtue and mysticism; commonly features wailing vocals, screeching guitars, prominent basslines, and eclectic drum patterns.",
+      "level": "sub-3",
+      "parent": "Gothic Rock"
+    }
+  ]
+}

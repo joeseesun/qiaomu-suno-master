@@ -1,0 +1,38 @@
+{
+  "name": "Ngoma",
+  "description": "Played in Swahili-speaking African countries; primarily focused on rhythm.",
+  "url": "https://rateyourmusic.com/genre/ngoma/",
+  "parent": "African Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Unyago",
+      "url": "https://rateyourmusic.com/genre/unyago/",
+      "description": "Traditional music from Zanzibar, traditionally played at women's initiation rituals and weddings.",
+      "level": "sub-4",
+      "parent": "Ngoma"
+    },
+    {
+      "name": "Unyago",
+      "url": "https://rateyourmusic.com/genre/unyago/",
+      "description": "Traditional music from Zanzibar, traditionally played at women's initiation rituals and weddings.",
+      "level": "sub-4",
+      "parent": "Ngoma"
+    },
+    {
+      "name": "Unyago",
+      "url": "https://rateyourmusic.com/genre/unyago/",
+      "description": "Traditional music from Zanzibar, traditionally played at women's initiation rituals and weddings.",
+      "level": "sub-4",
+      "parent": "Ngoma"
+    },
+    {
+      "name": "Unyago",
+      "url": "https://rateyourmusic.com/genre/unyago/",
+      "description": "Traditional music from Zanzibar, traditionally played at women's initiation rituals and weddings.",
+      "level": "sub-4",
+      "parent": "Ngoma"
+    }
+  ]
+}

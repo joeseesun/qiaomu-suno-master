@@ -1,0 +1,17 @@
+{
+  "name": "MPB",
+  "description": "Short for música popular brasileira; formed in the mid-1960s as a modernized version of Bossa nova and Samba-canção.",
+  "url": "https://rateyourmusic.com/genre/mpb/",
+  "parent": "Brazilian Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Tropicália",
+      "url": "https://rateyourmusic.com/genre/tropicalia/",
+      "description": "Blends Brazilian popular styles with the influence of Anglo-American Psychedelia; emerged as part of Brazil's late-1960s counterculture.",
+      "level": "sub-4",
+      "parent": "MPB"
+    }
+  ]
+}

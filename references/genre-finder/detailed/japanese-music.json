@@ -1,0 +1,45 @@
+{
+  "name": "Japanese Music",
+  "description": "Japanese meta-genre covers all forms of music, traditional or contemporary, rooted in Japanese Folk Music.",
+  "url": "https://rateyourmusic.com/genre/japanese-music/",
+  "parent": "East Asian Music",
+  "level": "sub-3",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Eleki",
+      "url": "https://rateyourmusic.com/genre/eleki/",
+      "description": "Japanese Surf Rock that emerged during the early to mid-1960s, incorporating elements of Japanese Folk Music.",
+      "level": "sub-4",
+      "parent": "Japanese Music"
+    },
+    {
+      "name": "Enka",
+      "url": "https://rateyourmusic.com/genre/enka/",
+      "description": "Evolved from Ryūkōka in the mid-1950s, based around the pentatonic scale and with a lyrical focus on expressive and emotional topics such as love, loss, loneliness, and death.",
+      "level": "sub-4",
+      "parent": "Japanese Music"
+    },
+    {
+      "name": "Japanese Classical Music",
+      "url": "https://rateyourmusic.com/genre/japanese-classical-music/",
+      "description": "Classical music of Japan.",
+      "level": "sub-4",
+      "parent": "Japanese Music"
+    },
+    {
+      "name": "Japanese Folk Music",
+      "url": "https://rateyourmusic.com/genre/japanese-folk-music/",
+      "description": "Folk traditions of Japan.",
+      "level": "sub-4",
+      "parent": "Japanese Music"
+    },
+    {
+      "name": "Ryūkōka",
+      "url": "https://rateyourmusic.com/genre/ryukoka/",
+      "description": "Uses elements of Western Classical Music, and adopts the legato style of singing.",
+      "level": "sub-4",
+      "parent": "Japanese Music"
+    }
+  ]
+}

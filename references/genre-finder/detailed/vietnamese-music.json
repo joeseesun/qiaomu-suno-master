@@ -1,0 +1,164 @@
+{
+  "name": "Vietnamese Music",
+  "description": "Music of the Vietnamese people.",
+  "url": "https://rateyourmusic.com/genre/vietnamese-music/",
+  "parent": "East Asian Music",
+  "level": "sub-3",
+  "children_count": 22,
+  "children": [
+    {
+      "name": "Bolero Việt Nam",
+      "url": "https://rateyourmusic.com/genre/bolero-viet-nam/",
+      "description": "Romantic Vietnamese popular music, originating from standards mixing Latin American Bolero with local music.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Bolero Việt Nam",
+      "url": "https://rateyourmusic.com/genre/bolero-viet-nam/",
+      "description": "Romantic Vietnamese popular music, originating from standards mixing Latin American Bolero with local music.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Ca trù",
+      "url": "https://rateyourmusic.com/genre/ca-tru/",
+      "description": "Sung poetry from northern Vietnam, performed by a female vocalist to the accompaniment of a three-stringed lute and percussion.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Ca trù",
+      "url": "https://rateyourmusic.com/genre/ca-tru/",
+      "description": "Sung poetry from northern Vietnam, performed by a female vocalist to the accompaniment of a three-stringed lute and percussion.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Cải lương",
+      "url": "https://rateyourmusic.com/genre/cai-lưong/",
+      "description": "Blends classical Vietnamese Opera with southern Vietnamese Folk Music and colonial French spoken melodrama.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Cải lương",
+      "url": "https://rateyourmusic.com/genre/cai-lưong/",
+      "description": "Blends classical Vietnamese Opera with southern Vietnamese Folk Music and colonial French spoken melodrama.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Hát lô tô",
+      "url": "https://rateyourmusic.com/genre/hat-lo-to/",
+      "description": "Short songs performed in the Vietnamese lô tô game to reveal drawn numbers.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Hát lô tô",
+      "url": "https://rateyourmusic.com/genre/hat-lo-to/",
+      "description": "Short songs performed in the Vietnamese lô tô game to reveal drawn numbers.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Ngâm thơ",
+      "url": "https://rateyourmusic.com/genre/ngam-tho/",
+      "description": "Vietnamese Poetry recitation backed by traditional instruments.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Ngâm thơ",
+      "url": "https://rateyourmusic.com/genre/ngam-tho/",
+      "description": "Vietnamese Poetry recitation backed by traditional instruments.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Nhạc tiền chiến",
+      "url": "https://rateyourmusic.com/genre/nhac-tien-chien/",
+      "description": "Popular music with romantic and poetic lyrics largely written between 1930s and 1940s.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Nhạc tiền chiến",
+      "url": "https://rateyourmusic.com/genre/nhac-tien-chien/",
+      "description": "Popular music with romantic and poetic lyrics largely written between 1930s and 1940s.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Nhạc vàng",
+      "url": "https://rateyourmusic.com/genre/nhac-vang/",
+      "description": "Made largely from the 1950s until the 1970s; introspective and sentimental lyrical themes.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Nhạc vàng",
+      "url": "https://rateyourmusic.com/genre/nhac-vang/",
+      "description": "Made largely from the 1950s until the 1970s; introspective and sentimental lyrical themes.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Nhạc đỏ",
+      "url": "https://rateyourmusic.com/genre/nhac-do/",
+      "description": "Vietnamese revolutionary music, which may contain elements of Western Classical Music, Bolero Việt Nam, and Vietnamese Folk Music, and usually political and war-themed lyrics.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Nhạc đỏ",
+      "url": "https://rateyourmusic.com/genre/nhac-do/",
+      "description": "Vietnamese revolutionary music, which may contain elements of Western Classical Music, Bolero Việt Nam, and Vietnamese Folk Music, and usually political and war-themed lyrics.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Tân cổ giao duyên",
+      "url": "https://rateyourmusic.com/genre/tan-co-giao-duyen/",
+      "description": "Mixes the vọng cổ musical structure with popular, non-traditional Vietnamese music.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Tân cổ giao duyên",
+      "url": "https://rateyourmusic.com/genre/tan-co-giao-duyen/",
+      "description": "Mixes the vọng cổ musical structure with popular, non-traditional Vietnamese music.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Vietnamese Court Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-court-music/",
+      "description": "Traditional court music of Vietnam, specifically that of the Nguyễn dynasty.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Vietnamese Court Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-court-music/",
+      "description": "Traditional court music of Vietnam, specifically that of the Nguyễn dynasty.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Vietnamese Folk Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-folk-music/",
+      "description": "Traditional Folk Music of the Vietnamese people, with traditions influenced by both Chinese Music and Austronesian culture through the Cham people.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    },
+    {
+      "name": "Vietnamese Folk Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-folk-music/",
+      "description": "Traditional Folk Music of the Vietnamese people, with traditions influenced by both Chinese Music and Austronesian culture through the Cham people.",
+      "level": "sub-4",
+      "parent": "Vietnamese Music"
+    }
+  ]
+}

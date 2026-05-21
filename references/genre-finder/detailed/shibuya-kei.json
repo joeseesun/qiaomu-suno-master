@@ -1,0 +1,24 @@
+{
+  "name": "Shibuya-kei",
+  "description": "Eclectic scene emerging from the Shibuya district of Tokyo near the end of the 1980s; often borrows kitschy, retro-inspired aesthetics alongside diverse musical influences from Indie Pop, 1960s Pop and Easy Listening, Jazz, and Electronic styles.",
+  "url": "https://rateyourmusic.com/genre/shibuya-kei/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Akishibu-kei",
+      "url": "https://rateyourmusic.com/genre/akishibu-kei/",
+      "description": "Otaku inclined update of the style pioneered by the Shibuya-kei scene, mixed with J-Pop and often tied to Anime and Video Game Music.",
+      "level": "sub-2",
+      "parent": "Shibuya-kei"
+    },
+    {
+      "name": "Picopop",
+      "url": "https://rateyourmusic.com/genre/picopop/",
+      "description": "Originated in the early 2000s as an offshoot of the Japanese Shibuya-kei movement when artists introduced more prominent \"bleepy\" electronic elements and faster tempos.",
+      "level": "sub-2",
+      "parent": "Shibuya-kei"
+    }
+  ]
+}

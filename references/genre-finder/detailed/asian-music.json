@@ -1,0 +1,66 @@
+{
+  "name": "Asian Music",
+  "description": "Rooted in the traditions of Asian peoples.",
+  "url": "https://rateyourmusic.com/genre/asian-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Buddhist Music",
+      "url": "https://rateyourmusic.com/genre/buddhist-music/",
+      "description": "Encompassing the various musical practices that have developed throughout Buddhist history and across the many regions Buddhism spread to.",
+      "level": "sub-2",
+      "parent": "Asian Music"
+    },
+    {
+      "name": "Central Asian Music",
+      "url": "https://rateyourmusic.com/genre/central-asian-music/",
+      "description": "Music of the former Soviet Central Asian republics, Mongolia, Western China and related neighbouring peoples.",
+      "level": "sub-2",
+      "parent": "Asian Music"
+    },
+    {
+      "name": "East Asian Music",
+      "url": "https://rateyourmusic.com/genre/east-asian-music/",
+      "description": "Covers the different forms of music with origins in Japan, Korea, China, Taiwan, and Vietnam.",
+      "level": "sub-2",
+      "parent": "Asian Music"
+    },
+    {
+      "name": "Ghazal",
+      "url": "https://rateyourmusic.com/genre/ghazal/",
+      "description": "Developed in Arabia with further evolutions in Persia and the Indian subcontinent; based on rhyming couplets with intricate schemes and deal with romance, loss, and religion.",
+      "level": "sub-2",
+      "parent": "Asian Music"
+    },
+    {
+      "name": "North Asian Music",
+      "url": "https://rateyourmusic.com/genre/north-asian-music/",
+      "description": "Music of the indigenous peoples of Siberia, the Russian Far East, and outlying islands.",
+      "level": "sub-2",
+      "parent": "Asian Music"
+    },
+    {
+      "name": "South Asian Music",
+      "url": "https://rateyourmusic.com/genre/south-asian-music/",
+      "description": "Traditional and modern regional music of India, Pakistan, Bangladesh, Nepal, and Sri Lanka, which culturally have close connections.",
+      "level": "sub-2",
+      "parent": "Asian Music"
+    },
+    {
+      "name": "Southeast Asian Music",
+      "url": "https://rateyourmusic.com/genre/southeast-asian-music/",
+      "description": "Geographic meta-parent that covers different forms with origins in Burma, Cambodia, Thailand, Indonesia, Malaysia, Philippines, East Timor, Laos, Singapore, and Brunei.",
+      "level": "sub-2",
+      "parent": "Asian Music"
+    },
+    {
+      "name": "West Asian Music",
+      "url": "https://rateyourmusic.com/genre/west-asian-music/",
+      "description": "Music of West Asia, a region covering most of what is commonly known as the Middle East but not extending into North Africa.",
+      "level": "sub-2",
+      "parent": "Asian Music"
+    }
+  ]
+}

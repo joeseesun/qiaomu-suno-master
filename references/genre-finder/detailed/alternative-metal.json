@@ -1,0 +1,66 @@
+{
+  "name": "Alternative Metal",
+  "description": "Mid-tempo style emphasizing melodicism and rhythmic heaviness; branches outside of the stylistic conventions of Metal.",
+  "url": "https://rateyourmusic.com/genre/alternative-metal/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Funk Metal",
+      "url": "https://rateyourmusic.com/genre/funk-metal/",
+      "description": "Melds Funk Rock grooves with slap basslines and metallic guitarwork.",
+      "level": "sub-2",
+      "parent": "Alternative Metal"
+    },
+    {
+      "name": "Funk Metal",
+      "url": "https://rateyourmusic.com/genre/funk-metal/",
+      "description": "Melds Funk Rock grooves with slap basslines and metallic guitarwork.",
+      "level": "sub-3",
+      "parent": "Alternative Metal"
+    },
+    {
+      "name": "Neue Deutsche Härte",
+      "url": "https://rateyourmusic.com/genre/neue-deutsche-harte/",
+      "description": "Alternative Metal and Industrial Metal that incorporates various aspects of electronic music, specifically Electronic Dance Music.",
+      "level": "sub-2",
+      "parent": "Alternative Metal"
+    },
+    {
+      "name": "Neue Deutsche Härte",
+      "url": "https://rateyourmusic.com/genre/neue-deutsche-harte/",
+      "description": "Alternative Metal and Industrial Metal that incorporates various aspects of electronic music, specifically Electronic Dance Music.",
+      "level": "sub-3",
+      "parent": "Alternative Metal"
+    },
+    {
+      "name": "Nu Metal",
+      "url": "https://rateyourmusic.com/genre/nu-metal/",
+      "description": "Emphasizes bouncy, drop-tuned riffs, alternating vocal styles, and genre-bending, often incorporating Hip Hop and Funk Metal elements.",
+      "level": "sub-2",
+      "parent": "Alternative Metal"
+    },
+    {
+      "name": "Nu Metal",
+      "url": "https://rateyourmusic.com/genre/nu-metal/",
+      "description": "Emphasizes bouncy, drop-tuned riffs, alternating vocal styles, and genre-bending, often incorporating Hip Hop and Funk Metal elements.",
+      "level": "sub-3",
+      "parent": "Alternative Metal"
+    },
+    {
+      "name": "Rap Metal",
+      "url": "https://rateyourmusic.com/genre/rap-metal/",
+      "description": "Features rapped vocals, typically formed around heavy, mid-tempo, and groove-oriented playing in addition to elements of Hip Hop beats such as record scratching.",
+      "level": "sub-2",
+      "parent": "Alternative Metal"
+    },
+    {
+      "name": "Rap Metal",
+      "url": "https://rateyourmusic.com/genre/rap-metal/",
+      "description": "Features rapped vocals, typically formed around heavy, mid-tempo, and groove-oriented playing in addition to elements of Hip Hop beats such as record scratching.",
+      "level": "sub-3",
+      "parent": "Alternative Metal"
+    }
+  ]
+}

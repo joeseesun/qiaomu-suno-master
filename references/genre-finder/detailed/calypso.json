@@ -1,0 +1,24 @@
+{
+  "name": "Calypso",
+  "description": "Genre from Trinidad and Tobago featuring a brass section and percussion.",
+  "url": "https://rateyourmusic.com/genre/calypso/",
+  "parent": "Caribbean Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Calipso venezolano",
+      "url": "https://rateyourmusic.com/genre/calipso-venezolano/",
+      "description": "Derived from Trinidadian Calypso, popular in the eastern region of Venezuela and associated with Carnival.",
+      "level": "sub-3",
+      "parent": "Calypso"
+    },
+    {
+      "name": "Spouge",
+      "url": "https://rateyourmusic.com/genre/spouge/",
+      "description": "Fusion of Calypso and Ska originating in Barbados during the 1960s and 70s.",
+      "level": "sub-3",
+      "parent": "Calypso"
+    }
+  ]
+}

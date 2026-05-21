@@ -1,0 +1,115 @@
+{
+  "name": "Polyphonic Chant",
+  "description": "Chanting that combines two or more melodic lines that are harmonically cohesive but differ in rhythm and utilize non-parallel motion.",
+  "url": "https://rateyourmusic.com/genre/polyphonic-chant/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 15,
+  "children": [
+    {
+      "name": "Ars nova",
+      "url": "https://rateyourmusic.com/genre/ars-nova/",
+      "description": "Period (around 1310-1380) that succeeded Ars antiqua, mixing the sacred with the secular.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Ars subtilior",
+      "url": "https://rateyourmusic.com/genre/ars-subtilior/",
+      "description": "Emerged in the final period of late medieval music (around 1380-1420) and continued to use the technique of isorhythms but with added complexity.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Cante alentejano",
+      "url": "https://rateyourmusic.com/genre/cante-alentejano/",
+      "description": "Traditional Portuguese Music based on vocal music from the Alentejo region.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Cantu a tenore",
+      "url": "https://rateyourmusic.com/genre/cantu-a-tenore/",
+      "description": "Secular Polyphonic Chant from the Mediterranean island of Sardinia.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Contenance angloise",
+      "url": "https://rateyourmusic.com/genre/contenance-angloise/",
+      "description": "Distinct style of Polyphonic Chant developed in fifteenth-century England.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Ganga",
+      "url": "https://rateyourmusic.com/genre/ganga/",
+      "description": "Dissonant form of polyphonic singing from the regions of Herzegovina and Dalmatia.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Himene tarava",
+      "url": "https://rateyourmusic.com/genre/himene-tarava/",
+      "description": "Protestant choral songs in Tahiti and other southern Polynesian islands.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Izvorna bosanska muzika",
+      "url": "https://rateyourmusic.com/genre/izvorna-bosanska-muzika/",
+      "description": "Polyphonic vocal music that developed in Bosnia in the 20th century, bearing connections to traditional Bosnian genres.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Lab Polyphony",
+      "url": "https://rateyourmusic.com/genre/lab-polyphony/",
+      "description": "One of several genres of iso-polyphonic music performed in southern Albania, with \"iso\" referring to the distinctive drone voice used.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Madrigal",
+      "url": "https://rateyourmusic.com/genre/madrigal/",
+      "description": "Secular polyphonic music based around poetry and generally performed by unaccompanied vocal ensembles of two to eight persons.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Paghjella",
+      "url": "https://rateyourmusic.com/genre/paghjella/",
+      "description": "Traditional Polyphonic Chant from Corsica consisting of three registers of vocalists singing in a semicircle.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Seto leelo",
+      "url": "https://rateyourmusic.com/genre/seto-leelo/",
+      "description": "Style of polyphonic singing of the Seto people.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Sutartinės",
+      "url": "https://rateyourmusic.com/genre/sutartines/",
+      "description": "Unique form of polyphonic vocal music originating from a small area of Northeastern Lithuania.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Tosk Polyphony",
+      "url": "https://rateyourmusic.com/genre/tosk-polyphony/",
+      "description": "Polyphonic singing in the Toskëri region of southern Albania.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    },
+    {
+      "name": "Trallalero",
+      "url": "https://rateyourmusic.com/genre/trallalero/",
+      "description": "Polyphonic Traditional Folk Music originating in the Ligurian region of Genoa, in northern Italy.",
+      "level": "sub-2",
+      "parent": "Polyphonic Chant"
+    }
+  ]
+}

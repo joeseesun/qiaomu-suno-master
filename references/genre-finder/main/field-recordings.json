@@ -1,0 +1,22 @@
+{
+  "name": "Field Recordings",
+  "description": "Material recorded outside of a recording studio for the purpose of capturing the audible illustration of an environment.",
+  "url": "https://rateyourmusic.com/genre/field-recordings/",
+  "sub_genres_count": 2,
+  "sub_genres": [
+    {
+      "name": "Nature Recordings",
+      "url": "https://rateyourmusic.com/genre/nature-recordings/",
+      "description": "Recordings of natural phenomena such as waterfalls, ocean waves, and storms, as well as Animal Sounds.",
+      "level": "sub",
+      "parent": "Field Recordings"
+    },
+    {
+      "name": "Radio Broadcast Recordings",
+      "url": "https://rateyourmusic.com/genre/radio-broadcast-recordings/",
+      "description": "Recordings of transmissions sent by radio waves, used for sending communications to a wide audience.",
+      "level": "sub",
+      "parent": "Field Recordings"
+    }
+  ]
+}

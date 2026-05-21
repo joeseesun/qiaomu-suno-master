@@ -1,0 +1,31 @@
+{
+  "name": "Trova",
+  "description": "One of the most ancient expressions of Cuban Music, based around lone Singer-Songwriters who use nothing but a guitar as their preferred accompaniment and place emphasis on lyrics.",
+  "url": "https://rateyourmusic.com/genre/trova/",
+  "parent": "Cuban Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Nueva trova",
+      "url": "https://rateyourmusic.com/genre/nueva-trova/",
+      "description": "Found inspiration in the 1950s Cuban Revolution and had the intention of introducing new musical ideas to the original Trova.",
+      "level": "sub-4",
+      "parent": "Trova"
+    },
+    {
+      "name": "Nueva trova",
+      "url": "https://rateyourmusic.com/genre/nueva-trova/",
+      "description": "Found inspiration in the 1950s Cuban Revolution and had the intention of introducing new musical ideas to the original Trova.",
+      "level": "sub-5",
+      "parent": "Trova"
+    },
+    {
+      "name": "Nueva trova",
+      "url": "https://rateyourmusic.com/genre/nueva-trova/",
+      "description": "Found inspiration in the 1950s Cuban Revolution and had the intention of introducing new musical ideas to the original Trova.",
+      "level": "sub-2",
+      "parent": "Trova"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Korean Music",
+  "description": "Music of the Korean people.",
+  "url": "https://rateyourmusic.com/genre/korean-music/",
+  "parent": "East Asian Music",
+  "level": "sub-3",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Beompae",
+      "url": "https://rateyourmusic.com/genre/beompae/",
+      "description": "Korean genre of Buddhist chants and songs performed by monks while celebrating religious rituals in temples.",
+      "level": "sub-4",
+      "parent": "Korean Music"
+    },
+    {
+      "name": "Changjak gugak",
+      "url": "https://rateyourmusic.com/genre/changjak-gugak/",
+      "description": "Emerged in the mid-twentieth century as an attempt to preserve the sound of Korea's traditional music while adapting it to modern sensibilities and Western compositional norms.",
+      "level": "sub-4",
+      "parent": "Korean Music"
+    },
+    {
+      "name": "Fusion Gugak",
+      "url": "https://rateyourmusic.com/genre/fusion-gugak/",
+      "description": "Traditional Korean Folk Music and Korean Classical Music combined with elements taken from contemporary styles of popular music and Western music.",
+      "level": "sub-4",
+      "parent": "Korean Music"
+    },
+    {
+      "name": "Korean Classical Music",
+      "url": "https://rateyourmusic.com/genre/korean-classical-music/",
+      "description": "Classical Music of Korea.",
+      "level": "sub-4",
+      "parent": "Korean Music"
+    },
+    {
+      "name": "Korean Folk Music",
+      "url": "https://rateyourmusic.com/genre/korean-folk-music/",
+      "description": "Traditional Folk Music of the Korean people.",
+      "level": "sub-4",
+      "parent": "Korean Music"
+    },
+    {
+      "name": "Korean Revolutionary Opera",
+      "url": "https://rateyourmusic.com/genre/korean-revolutionary-opera/",
+      "description": "Heavily influenced by Chinese Revolutionary Opera and supported by the North Korean government.",
+      "level": "sub-4",
+      "parent": "Korean Music"
+    },
+    {
+      "name": "Oriental Ballad",
+      "url": "https://rateyourmusic.com/genre/oriental-ballad/",
+      "description": "Emerged in the late 1990s in South Korea, taking influence from more traditional forms of Korean Music.",
+      "level": "sub-4",
+      "parent": "Korean Music"
+    },
+    {
+      "name": "Trot",
+      "url": "https://rateyourmusic.com/genre/trot/",
+      "description": "Considered the oldest form of Korean pop, which derives its name from the Foxtrot-inspired beat, and might be influenced by Japanese Enka.",
+      "level": "sub-4",
+      "parent": "Korean Music"
+    }
+  ]
+}

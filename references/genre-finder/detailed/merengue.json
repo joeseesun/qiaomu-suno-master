@@ -1,0 +1,80 @@
+{
+  "name": "Merengue",
+  "description": "Dominican Republic dance genre that had a commercial boom at the end of the 1980s.",
+  "url": "https://rateyourmusic.com/genre/merengue/",
+  "parent": "Caribbean Music",
+  "level": "sub-2",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Mambo urbano",
+      "url": "https://rateyourmusic.com/genre/mambo-urbano/",
+      "description": "Rhythmically simpler and more eclectic style, absorbing influences from Hip Hop, Reggaetón, and other modern genres, particularly in regards to vocals.",
+      "level": "sub-3",
+      "parent": "Merengue"
+    },
+    {
+      "name": "Mambo urbano",
+      "url": "https://rateyourmusic.com/genre/mambo-urbano/",
+      "description": "Rhythmically simpler and more eclectic style, absorbing influences from Hip Hop, Reggaetón, and other modern genres, particularly in regards to vocals.",
+      "level": "sub-4",
+      "parent": "Merengue"
+    },
+    {
+      "name": "Merecumbé",
+      "url": "https://rateyourmusic.com/genre/merecumbe/",
+      "description": "Colombian genre which combines Cumbia with Merengue.",
+      "level": "sub-3",
+      "parent": "Merengue"
+    },
+    {
+      "name": "Merecumbé",
+      "url": "https://rateyourmusic.com/genre/merecumbe/",
+      "description": "Colombian genre which combines Cumbia with Merengue.",
+      "level": "sub-4",
+      "parent": "Merengue"
+    },
+    {
+      "name": "Merengue típico",
+      "url": "https://rateyourmusic.com/genre/merengue-tipico/",
+      "description": "Earliest, most stripped-down form of Merengue.",
+      "level": "sub-3",
+      "parent": "Merengue"
+    },
+    {
+      "name": "Merengue típico",
+      "url": "https://rateyourmusic.com/genre/merengue-tipico/",
+      "description": "Earliest, most stripped-down form of Merengue.",
+      "level": "sub-4",
+      "parent": "Merengue"
+    },
+    {
+      "name": "Merenhouse",
+      "url": "https://rateyourmusic.com/genre/merenhouse/",
+      "description": "Popularized by Dominican-American artists of the 1990s, blending modern Merengue with electronic instrumentation and the combination of rapping/singing vocals.",
+      "level": "sub-3",
+      "parent": "Merengue"
+    },
+    {
+      "name": "Merenhouse",
+      "url": "https://rateyourmusic.com/genre/merenhouse/",
+      "description": "Popularized by Dominican-American artists of the 1990s, blending modern Merengue with electronic instrumentation and the combination of rapping/singing vocals.",
+      "level": "sub-4",
+      "parent": "Merengue"
+    },
+    {
+      "name": "Tecnomerengue",
+      "url": "https://rateyourmusic.com/genre/tecnomerengue/",
+      "description": "Fuses basic Merengue rhythms with influences from Cumbia and Lambada, being largely synthesized, with live instruments usually limited to percussion and brass.",
+      "level": "sub-3",
+      "parent": "Merengue"
+    },
+    {
+      "name": "Tecnomerengue",
+      "url": "https://rateyourmusic.com/genre/tecnomerengue/",
+      "description": "Fuses basic Merengue rhythms with influences from Cumbia and Lambada, being largely synthesized, with live instruments usually limited to percussion and brass.",
+      "level": "sub-4",
+      "parent": "Merengue"
+    }
+  ]
+}

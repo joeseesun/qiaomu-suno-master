@@ -1,0 +1,80 @@
+{
+  "name": "UK Garage",
+  "description": "Shuffling rhythms and influences from sources including Contemporary R&B and Hip Hop, as well as many forms of Electronic.",
+  "url": "https://rateyourmusic.com/genre/uk-garage/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "2-Step",
+      "url": "https://rateyourmusic.com/genre/2-step/",
+      "description": "Originating in London and popular in the late 1990s; jittery, shuffling rhythms rarely following a four-on-the-floor pattern.",
+      "level": "sub-3",
+      "parent": "UK Garage"
+    },
+    {
+      "name": "2-Step",
+      "url": "https://rateyourmusic.com/genre/2-step/",
+      "description": "Originating in London and popular in the late 1990s; jittery, shuffling rhythms rarely following a four-on-the-floor pattern.",
+      "level": "sub-3",
+      "parent": "UK Garage"
+    },
+    {
+      "name": "Bassline",
+      "url": "https://rateyourmusic.com/genre/bassline/",
+      "description": "Strong emphasis on intricate basslines as well as four-on-the-floor beat patterns.",
+      "level": "sub-3",
+      "parent": "UK Garage"
+    },
+    {
+      "name": "Bassline",
+      "url": "https://rateyourmusic.com/genre/bassline/",
+      "description": "Strong emphasis on intricate basslines as well as four-on-the-floor beat patterns.",
+      "level": "sub-3",
+      "parent": "UK Garage"
+    },
+    {
+      "name": "Breakstep",
+      "url": "https://rateyourmusic.com/genre/breakstep/",
+      "description": "Hard-hitting Breakbeat rhythms and heavy, rolling basslines.",
+      "level": "sub-3",
+      "parent": "UK Garage"
+    },
+    {
+      "name": "Breakstep",
+      "url": "https://rateyourmusic.com/genre/breakstep/",
+      "description": "Hard-hitting Breakbeat rhythms and heavy, rolling basslines.",
+      "level": "sub-3",
+      "parent": "UK Garage"
+    },
+    {
+      "name": "Future Garage",
+      "url": "https://rateyourmusic.com/genre/future-garage/",
+      "description": "Combines the rhythms of late 1990s and early 2000s 2-Step with novel moods and production approaches, commonly featuring jittery, broken rhythms, vocal chops, and warm synth pads and plucks.",
+      "level": "sub-3",
+      "parent": "UK Garage"
+    },
+    {
+      "name": "Future Garage",
+      "url": "https://rateyourmusic.com/genre/future-garage/",
+      "description": "Combines the rhythms of late 1990s and early 2000s 2-Step with novel moods and production approaches, commonly featuring jittery, broken rhythms, vocal chops, and warm synth pads and plucks.",
+      "level": "sub-3",
+      "parent": "UK Garage"
+    },
+    {
+      "name": "Speed Garage",
+      "url": "https://rateyourmusic.com/genre/speed-garage/",
+      "description": "Primarily British style that paved the way for UK Garage, combining cut-up vocal samples and sped up four-on-the-floor Garage House rhythms with Jungle-esque basslines.",
+      "level": "sub-3",
+      "parent": "UK Garage"
+    },
+    {
+      "name": "Speed Garage",
+      "url": "https://rateyourmusic.com/genre/speed-garage/",
+      "description": "Primarily British style that paved the way for UK Garage, combining cut-up vocal samples and sped up four-on-the-floor Garage House rhythms with Jungle-esque basslines.",
+      "level": "sub-3",
+      "parent": "UK Garage"
+    }
+  ]
+}

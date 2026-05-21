@@ -1,0 +1,17 @@
+{
+  "name": "Chazzanut",
+  "description": "Traditions used by the Jewish cantor, the chazzan when reciting and chanting different parts of the Jewish prayer in Jewish Liturgical Music.",
+  "url": "https://rateyourmusic.com/genre/chazzanut/",
+  "parent": "Jewish Liturgical Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Ashkenazi Cantorial Music",
+      "url": "https://rateyourmusic.com/genre/ashkenazi-cantorial-music/",
+      "description": "Artistic, refined form of Chazzanut that greatly borrows from and implements elements of Western Classical Music and Christian Liturgical Music into the context of liturgical singing and chanting.",
+      "level": "sub-4",
+      "parent": "Chazzanut"
+    }
+  ]
+}

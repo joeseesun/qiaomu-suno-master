@@ -1,0 +1,122 @@
+{
+  "name": "Romanian Folk Music",
+  "description": "Traditional Folk Music of the Romanians.",
+  "url": "https://rateyourmusic.com/genre/romanian-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Bocet",
+      "url": "https://rateyourmusic.com/genre/bocet/",
+      "description": "Traditional Romanian music sung by women mourning at a funeral.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Bocet",
+      "url": "https://rateyourmusic.com/genre/bocet/",
+      "description": "Traditional Romanian music sung by women mourning at a funeral.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Bocet",
+      "url": "https://rateyourmusic.com/genre/bocet/",
+      "description": "Traditional Romanian music sung by women mourning at a funeral.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Bocet",
+      "url": "https://rateyourmusic.com/genre/bocet/",
+      "description": "Traditional Romanian music sung by women mourning at a funeral.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Colinde",
+      "url": "https://rateyourmusic.com/genre/colinde/",
+      "description": "Christmas music from Romanian folklore with ritualistic and pagan roots.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Colinde",
+      "url": "https://rateyourmusic.com/genre/colinde/",
+      "description": "Christmas music from Romanian folklore with ritualistic and pagan roots.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Colinde",
+      "url": "https://rateyourmusic.com/genre/colinde/",
+      "description": "Christmas music from Romanian folklore with ritualistic and pagan roots.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Colinde",
+      "url": "https://rateyourmusic.com/genre/colinde/",
+      "description": "Christmas music from Romanian folklore with ritualistic and pagan roots.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Doină",
+      "url": "https://rateyourmusic.com/genre/doina/",
+      "description": "Melancholic, lyrical folk song characterised by its free rhythm.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Doină",
+      "url": "https://rateyourmusic.com/genre/doina/",
+      "description": "Melancholic, lyrical folk song characterised by its free rhythm.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Doină",
+      "url": "https://rateyourmusic.com/genre/doina/",
+      "description": "Melancholic, lyrical folk song characterised by its free rhythm.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Doină",
+      "url": "https://rateyourmusic.com/genre/doina/",
+      "description": "Melancholic, lyrical folk song characterised by its free rhythm.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Muzică lăutărească",
+      "url": "https://rateyourmusic.com/genre/muzica-lautareasca/",
+      "description": "Strongly influenced by folk from Turkey, Russia, and Western Europe, and even by Byzantine Church music.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Muzică lăutărească",
+      "url": "https://rateyourmusic.com/genre/muzica-lautareasca/",
+      "description": "Strongly influenced by folk from Turkey, Russia, and Western Europe, and even by Byzantine Church music.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Muzică lăutărească",
+      "url": "https://rateyourmusic.com/genre/muzica-lautareasca/",
+      "description": "Strongly influenced by folk from Turkey, Russia, and Western Europe, and even by Byzantine Church music.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    },
+    {
+      "name": "Muzică lăutărească",
+      "url": "https://rateyourmusic.com/genre/muzica-lautareasca/",
+      "description": "Strongly influenced by folk from Turkey, Russia, and Western Europe, and even by Byzantine Church music.",
+      "level": "sub-4",
+      "parent": "Romanian Folk Music"
+    }
+  ]
+}

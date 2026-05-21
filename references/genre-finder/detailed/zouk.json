@@ -1,0 +1,24 @@
+{
+  "name": "Zouk",
+  "description": "Fast-paced danceable pop that began in early 1980s French Antilles, merging and updating more traditional local genres.",
+  "url": "https://rateyourmusic.com/genre/zouk/",
+  "parent": "French Caribbean Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Cabo-Zouk",
+      "url": "https://rateyourmusic.com/genre/cabo-zouk/",
+      "description": "Popular in Cape Verde and the Cape Verdean diaspora in Europe and North America, with a slow and sensuous tempo, and favoring more sophisticated studio productions.",
+      "level": "sub-4",
+      "parent": "Zouk"
+    },
+    {
+      "name": "Zouk Love",
+      "url": "https://rateyourmusic.com/genre/zouk-love/",
+      "description": "More sentimental form of Zouk which emerged in the mid-1980s.",
+      "level": "sub-4",
+      "parent": "Zouk"
+    }
+  ]
+}

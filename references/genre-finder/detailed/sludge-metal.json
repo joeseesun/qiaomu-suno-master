@@ -1,0 +1,24 @@
+{
+  "name": "Sludge Metal",
+  "description": "Mixes Doom Metal's slow pacing, down-tuned riffing style and dark atmosphere with Hardcore Punk's aggression, abrasiveness and harsh vocals.",
+  "url": "https://rateyourmusic.com/genre/sludge-metal/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Atmospheric Sludge Metal",
+      "url": "https://rateyourmusic.com/genre/atmospheric-sludge-metal/",
+      "description": "Combines slow, churning guitar riffs and thunderous percussion with dark, extensive otherworldly sonic landscapes.",
+      "level": "sub-2",
+      "parent": "Sludge Metal"
+    },
+    {
+      "name": "Atmospheric Sludge Metal",
+      "url": "https://rateyourmusic.com/genre/atmospheric-sludge-metal/",
+      "description": "Combines slow, churning guitar riffs and thunderous percussion with dark, extensive otherworldly sonic landscapes.",
+      "level": "sub-3",
+      "parent": "Sludge Metal"
+    }
+  ]
+}

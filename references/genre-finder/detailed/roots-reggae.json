@@ -1,0 +1,24 @@
+{
+  "name": "Roots Reggae",
+  "description": "Primarily defined through the political, spiritual, and socially conscious messages of its lyrics.",
+  "url": "https://rateyourmusic.com/genre/roots-reggae/",
+  "parent": "Reggae",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Dub Poetry",
+      "url": "https://rateyourmusic.com/genre/dub-poetry/",
+      "description": "Poetry with Dub and Reggae backing rhythms, originating in Jamaica in the 1970s.",
+      "level": "sub-3",
+      "parent": "Roots Reggae"
+    },
+    {
+      "name": "Dub Poetry",
+      "url": "https://rateyourmusic.com/genre/dub-poetry/",
+      "description": "Poetry with Dub and Reggae backing rhythms, originating in Jamaica in the 1970s.",
+      "level": "sub-5",
+      "parent": "Roots Reggae"
+    }
+  ]
+}

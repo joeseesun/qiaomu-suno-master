@@ -1,0 +1,29 @@
+{
+  "name": "Sound Effects",
+  "description": "Non-musical audio works, including recorded sounds and sounds recreated synthetically or by other means, which are either sounds of known objects or abstract noise manifestations.",
+  "url": "https://rateyourmusic.com/genre/sound-effects/",
+  "sub_genres_count": 3,
+  "sub_genres": [
+    {
+      "name": "Battle Record",
+      "url": "https://rateyourmusic.com/genre/battle-record/",
+      "description": "Compilations of sounds, samples, and beats pressed on vinyl records for use in DJ performances.",
+      "level": "sub",
+      "parent": "Sound Effects"
+    },
+    {
+      "name": "Binaural Beats",
+      "url": "https://rateyourmusic.com/genre/binaural-beats/",
+      "description": "Auditory illusions created when two different frequencies are played simultaneously in separate ears.",
+      "level": "sub",
+      "parent": "Sound Effects"
+    },
+    {
+      "name": "Broadband Noise",
+      "url": "https://rateyourmusic.com/genre/broadband-noise/",
+      "description": "Audio signals with energy distributed across a wide range of frequencies; usually split into \"colours\" of noise and often marketed for relaxation or as a sleep aid.",
+      "level": "sub",
+      "parent": "Sound Effects"
+    }
+  ]
+}

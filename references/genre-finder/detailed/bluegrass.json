@@ -1,0 +1,38 @@
+{
+  "name": "Bluegrass",
+  "description": "Born in the Appalachian region of the United States during the late 1930s, characterized by fingerpicked banjo along with other traditional instruments.",
+  "url": "https://rateyourmusic.com/genre/bluegrass/",
+  "parent": "Country",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Progressive Bluegrass",
+      "url": "https://rateyourmusic.com/genre/progressive-bluegrass/",
+      "description": "Modernization with varied influences including Jazz, Folk, Rock, and other forms of Country.",
+      "level": "sub-2",
+      "parent": "Bluegrass"
+    },
+    {
+      "name": "Progressive Bluegrass",
+      "url": "https://rateyourmusic.com/genre/progressive-bluegrass/",
+      "description": "Modernization with varied influences including Jazz, Folk, Rock, and other forms of Country.",
+      "level": "sub-4",
+      "parent": "Bluegrass"
+    },
+    {
+      "name": "Traditional Bluegrass",
+      "url": "https://rateyourmusic.com/genre/traditional-bluegrass/",
+      "description": "Driving tempos, acoustic stringed instrumentation, and high vocal harmonies, adhering to the stylistic roots of the Bluegrass genre.",
+      "level": "sub-2",
+      "parent": "Bluegrass"
+    },
+    {
+      "name": "Traditional Bluegrass",
+      "url": "https://rateyourmusic.com/genre/traditional-bluegrass/",
+      "description": "Driving tempos, acoustic stringed instrumentation, and high vocal harmonies, adhering to the stylistic roots of the Bluegrass genre.",
+      "level": "sub-4",
+      "parent": "Bluegrass"
+    }
+  ]
+}

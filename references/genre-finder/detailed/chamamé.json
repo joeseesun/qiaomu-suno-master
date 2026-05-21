@@ -1,0 +1,38 @@
+{
+  "name": "Chamamé",
+  "description": "Mixes native Guaraní music with Polka paraguaya and European schottische music.",
+  "url": "https://rateyourmusic.com/genre/chamame/",
+  "parent": "Hispanic American Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Chamamé tropical",
+      "url": "https://rateyourmusic.com/genre/chamame-tropical/",
+      "description": "Takes heavy influence from the energy and instrumentation of Cumbia, popular in the late 1970s and 1980s.",
+      "level": "sub-4",
+      "parent": "Chamamé"
+    },
+    {
+      "name": "Chamamé tropical",
+      "url": "https://rateyourmusic.com/genre/chamame-tropical/",
+      "description": "Takes heavy influence from the energy and instrumentation of Cumbia, popular in the late 1970s and 1980s.",
+      "level": "sub-5",
+      "parent": "Chamamé"
+    },
+    {
+      "name": "Chamamé tropical",
+      "url": "https://rateyourmusic.com/genre/chamame-tropical/",
+      "description": "Takes heavy influence from the energy and instrumentation of Cumbia, popular in the late 1970s and 1980s.",
+      "level": "sub-3",
+      "parent": "Chamamé"
+    },
+    {
+      "name": "Chamamé tropical",
+      "url": "https://rateyourmusic.com/genre/chamame-tropical/",
+      "description": "Takes heavy influence from the energy and instrumentation of Cumbia, popular in the late 1970s and 1980s.",
+      "level": "sub-4",
+      "parent": "Chamamé"
+    }
+  ]
+}

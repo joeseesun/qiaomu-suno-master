@@ -1,0 +1,66 @@
+{
+  "name": "Post-Punk",
+  "description": "Emerged alongside the initial Punk Rock explosion in the mid-to-late 1970s, putting a greater emphasis on experimentation and atmosphere.",
+  "url": "https://rateyourmusic.com/genre/post-punk/",
+  "parent": "Punk",
+  "level": "sub",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Coldwave",
+      "url": "https://rateyourmusic.com/genre/coldwave/",
+      "description": "Originated in Europe in the late 1970s and early 1980s and is known for its generally dark, gloomy atmosphere and heavy reliance on synthesizers.",
+      "level": "sub-2",
+      "parent": "Post-Punk"
+    },
+    {
+      "name": "Coldwave",
+      "url": "https://rateyourmusic.com/genre/coldwave/",
+      "description": "Originated in Europe in the late 1970s and early 1980s and is known for its generally dark, gloomy atmosphere and heavy reliance on synthesizers.",
+      "level": "sub-2",
+      "parent": "Post-Punk"
+    },
+    {
+      "name": "Dance-Punk",
+      "url": "https://rateyourmusic.com/genre/dance-punk/",
+      "description": "Mixes the energy of Punk Rock with the danceable rhythms of Funk and Disco.",
+      "level": "sub-2",
+      "parent": "Post-Punk"
+    },
+    {
+      "name": "Dance-Punk",
+      "url": "https://rateyourmusic.com/genre/dance-punk/",
+      "description": "Mixes the energy of Punk Rock with the danceable rhythms of Funk and Disco.",
+      "level": "sub-2",
+      "parent": "Post-Punk"
+    },
+    {
+      "name": "Gothic Rock",
+      "url": "https://rateyourmusic.com/genre/gothic-rock/",
+      "description": "Combines drama and a dark atmosphere with effects-laden guitars, prominent basslines, propulsive drums, and occasional keyboards and drum machines.",
+      "level": "sub-2",
+      "parent": "Post-Punk"
+    },
+    {
+      "name": "Gothic Rock",
+      "url": "https://rateyourmusic.com/genre/gothic-rock/",
+      "description": "Combines drama and a dark atmosphere with effects-laden guitars, prominent basslines, propulsive drums, and occasional keyboards and drum machines.",
+      "level": "sub-2",
+      "parent": "Post-Punk"
+    },
+    {
+      "name": "Post-Punk Revival",
+      "url": "https://rateyourmusic.com/genre/post-punk-revival/",
+      "description": "Incorporating the sounds and aesthetics of Post-Punk into Indie Rock, with jagged guitarwork, a dominant and danceable rhythm section, clean production, and poppy song structures.",
+      "level": "sub-2",
+      "parent": "Post-Punk"
+    },
+    {
+      "name": "Post-Punk Revival",
+      "url": "https://rateyourmusic.com/genre/post-punk-revival/",
+      "description": "Incorporating the sounds and aesthetics of Post-Punk into Indie Rock, with jagged guitarwork, a dominant and danceable rhythm section, clean production, and poppy song structures.",
+      "level": "sub-2",
+      "parent": "Post-Punk"
+    }
+  ]
+}

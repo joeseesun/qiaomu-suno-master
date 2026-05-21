@@ -1,0 +1,24 @@
+{
+  "name": "Bass House",
+  "description": "Busy, punchy percussion, prominent basslines and dirty, distorted synths resembling other bass music genres, with influences including Brostep, Fidget House, Bassline, Speed Garage, and Tech House.",
+  "url": "https://rateyourmusic.com/genre/bass-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Speed House",
+      "url": "https://rateyourmusic.com/genre/speed-house/",
+      "description": "Mixes busy, dirty sound design and intense drums derived from Bass House with fast tempos from 140-160 BPM, pumping basslines, and other UK Hard House influences.",
+      "level": "sub-4",
+      "parent": "Bass House"
+    },
+    {
+      "name": "Speed House",
+      "url": "https://rateyourmusic.com/genre/speed-house/",
+      "description": "Mixes busy, dirty sound design and intense drums derived from Bass House with fast tempos from 140-160 BPM, pumping basslines, and other UK Hard House influences.",
+      "level": "sub-4",
+      "parent": "Bass House"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "CCM",
+  "description": "Popular music focused on Christian spirituality and faith.",
+  "url": "https://rateyourmusic.com/genre/ccm/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Praise & Worship",
+      "url": "https://rateyourmusic.com/genre/praise-and-worship/",
+      "description": "Christian music with lyrics focused on the greatness of God.",
+      "level": "sub-2",
+      "parent": "CCM"
+    },
+    {
+      "name": "Urban Contemporary Gospel",
+      "url": "https://rateyourmusic.com/genre/urban-contemporary-gospel/",
+      "description": "Inspired by Gospel music, featuring Christian lyrics adapted to contemporary rhythms and styles.",
+      "level": "sub-2",
+      "parent": "CCM"
+    }
+  ]
+}

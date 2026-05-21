@@ -1,0 +1,24 @@
+{
+  "name": "Dangdut",
+  "description": "Indonesian popular music distinguished by a rhythmic blend of Indian, Arabic, Western, Malay, Sundanese, and Javanese influences within Indonesian Music, characterized by a unique rhythmic pattern from kendang.",
+  "url": "https://rateyourmusic.com/genre/dangdut/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Dangdut koplo",
+      "url": "https://rateyourmusic.com/genre/dangdut-koplo/",
+      "description": "Development of Javanese Dangdut which originated in Indonesia in the 1990s, featuring a faster tempo and influences from international styles like Pop, Rock, and Reggae.",
+      "level": "sub-2",
+      "parent": "Dangdut"
+    },
+    {
+      "name": "Dangdut koplo",
+      "url": "https://rateyourmusic.com/genre/dangdut-koplo/",
+      "description": "Development of Javanese Dangdut which originated in Indonesia in the 1990s, featuring a faster tempo and influences from international styles like Pop, Rock, and Reggae.",
+      "level": "sub-5",
+      "parent": "Dangdut"
+    }
+  ]
+}

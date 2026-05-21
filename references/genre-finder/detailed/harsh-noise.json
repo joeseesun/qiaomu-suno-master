@@ -1,0 +1,24 @@
+{
+  "name": "Harsh Noise",
+  "description": "Highly aggressive walls of sound that assault the listener.",
+  "url": "https://rateyourmusic.com/genre/harsh-noise/",
+  "parent": "Noise",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Harsh Noise Wall",
+      "url": "https://rateyourmusic.com/genre/harsh-noise-wall/",
+      "description": "Harsh, distorted walls of sound that feature few dynamic variations and often take the form of long compositions with little to no change or progression over time.",
+      "level": "sub-3",
+      "parent": "Harsh Noise"
+    },
+    {
+      "name": "Harsh Noise Wall",
+      "url": "https://rateyourmusic.com/genre/harsh-noise-wall/",
+      "description": "Harsh, distorted walls of sound that feature few dynamic variations and often take the form of long compositions with little to no change or progression over time.",
+      "level": "sub-3",
+      "parent": "Harsh Noise"
+    }
+  ]
+}

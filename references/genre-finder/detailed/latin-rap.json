@@ -1,0 +1,17 @@
+{
+  "name": "Latin Rap",
+  "description": "Primarily done in Spanish; incorporates Hispanic American Music elements into its sound.",
+  "url": "https://rateyourmusic.com/genre/latin-rap/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Chicano Rap",
+      "url": "https://rateyourmusic.com/genre/chicano-rap/",
+      "description": "Latin Rap with a Mexican twist.",
+      "level": "sub-2",
+      "parent": "Latin Rap"
+    }
+  ]
+}

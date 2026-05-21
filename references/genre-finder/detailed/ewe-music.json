@@ -1,0 +1,24 @@
+{
+  "name": "Ewe Music",
+  "description": "Music of the Ewe people, found in southern Togo, southeastern Ghana and southwestern Benin.",
+  "url": "https://rateyourmusic.com/genre/ewe-music/",
+  "parent": "West African Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Agbadza",
+      "url": "https://rateyourmusic.com/genre/agbadza/",
+      "description": "National dance-drumming tradition of the Ewe people in Ghana.",
+      "level": "sub-4",
+      "parent": "Ewe Music"
+    },
+    {
+      "name": "Agbekor",
+      "url": "https://rateyourmusic.com/genre/agbekor/",
+      "description": "War dance of the Ewe people utilizing various percussive instruments and polyrhythms.",
+      "level": "sub-4",
+      "parent": "Ewe Music"
+    }
+  ]
+}

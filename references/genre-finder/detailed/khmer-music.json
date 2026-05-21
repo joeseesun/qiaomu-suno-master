@@ -1,0 +1,38 @@
+{
+  "name": "Khmer Music",
+  "description": "Music of the Khmer people, the majority ethnic group of Cambodia.",
+  "url": "https://rateyourmusic.com/genre/khmer-music/",
+  "parent": "Southeast Asian Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Cambodian Pop",
+      "url": "https://rateyourmusic.com/genre/cambodian-pop/",
+      "description": "Popular music produced in Cambodia or by Khmer people.",
+      "level": "sub-4",
+      "parent": "Khmer Music"
+    },
+    {
+      "name": "Kantruem",
+      "url": "https://rateyourmusic.com/genre/kantruem/",
+      "description": "Form of fast-paced dance music played by the Khmer people of northeast Thailand.",
+      "level": "sub-4",
+      "parent": "Khmer Music"
+    },
+    {
+      "name": "Khmer Folk Music",
+      "url": "https://rateyourmusic.com/genre/khmer-folk-music/",
+      "description": "Folk of the Khmer people, who mainly reside in Cambodia.",
+      "level": "sub-4",
+      "parent": "Khmer Music"
+    },
+    {
+      "name": "Pinpeat",
+      "url": "https://rateyourmusic.com/genre/pinpeat/",
+      "description": "Orchestra of wind and percussion instruments having its origins in the Khmer Empire era.",
+      "level": "sub-4",
+      "parent": "Khmer Music"
+    }
+  ]
+}

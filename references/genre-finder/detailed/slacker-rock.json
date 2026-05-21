@@ -1,0 +1,17 @@
+{
+  "name": "Slacker Rock",
+  "description": "Raw, noisy, and melodic, with a loose, blasé approach to performances and typically low-fidelity production.",
+  "url": "https://rateyourmusic.com/genre/slacker-rock/",
+  "parent": "Indie Rock",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Shitgaze",
+      "url": "https://rateyourmusic.com/genre/shitgaze/",
+      "description": "Blends extremely raw and lo-fi aesthetics, abrasive guitar tones, and typically, the ethos of raucous Garage Rock, to create a sonic wall of deafening distortion evocative of Shoegaze.",
+      "level": "sub-4",
+      "parent": "Slacker Rock"
+    }
+  ]
+}

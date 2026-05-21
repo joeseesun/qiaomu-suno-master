@@ -1,0 +1,52 @@
+{
+  "name": "Persian Music",
+  "description": "Music of the Persian people.",
+  "url": "https://rateyourmusic.com/genre/persian-music/",
+  "parent": "West Asian Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Achomi Music",
+      "url": "https://rateyourmusic.com/genre/achomi-music/",
+      "description": "Musical traditions of the Achomi people, an Iranian people native to the Persian Gulf coast.",
+      "level": "sub-4",
+      "parent": "Persian Music"
+    },
+    {
+      "name": "Bandari",
+      "url": "https://rateyourmusic.com/genre/bandari/",
+      "description": "Iranian dance music, often festive and energetic and set in 6/8, that traditionally makes primary use of Iranian bagpipes (ney-anbān).",
+      "level": "sub-4",
+      "parent": "Persian Music"
+    },
+    {
+      "name": "Koche bazari",
+      "url": "https://rateyourmusic.com/genre/koche-bazari/",
+      "description": "Style of popular music that combines traditional elements of Iranian music with upbeat rhythms & instrumentation, humorous/socially relevant lyrics, and influence from Arabic Music.",
+      "level": "sub-4",
+      "parent": "Persian Music"
+    },
+    {
+      "name": "Persian Classical Music",
+      "url": "https://rateyourmusic.com/genre/persian-classical-music/",
+      "description": "Traditional art music of the Persian civilization.",
+      "level": "sub-4",
+      "parent": "Persian Music"
+    },
+    {
+      "name": "Persian Folk Music",
+      "url": "https://rateyourmusic.com/genre/persian-folk-music/",
+      "description": "Traditional Folk Music of the Persian people.",
+      "level": "sub-4",
+      "parent": "Persian Music"
+    },
+    {
+      "name": "Persian Pop",
+      "url": "https://rateyourmusic.com/genre/persian-pop/",
+      "description": "Hybrid of Iranian and Persian-language popular music with Western instruments such as the guitar, drum kit, and synthesizer.",
+      "level": "sub-4",
+      "parent": "Persian Music"
+    }
+  ]
+}

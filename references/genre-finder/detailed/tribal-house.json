@@ -1,0 +1,24 @@
+{
+  "name": "Tribal House",
+  "description": "Prominent, syncopated rhythms of tribal drums such as toms and bongos on top of a House beat, usually resulting in a percussive, energetic sound, while ranging in mood.",
+  "url": "https://rateyourmusic.com/genre/tribal-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Guaracha [EDM]",
+      "url": "https://rateyourmusic.com/genre/guaracha-edm/",
+      "description": "Originated in Colombia, featuring \"fluttering\" trumpets, accordion, and tambora drums.",
+      "level": "sub-4",
+      "parent": "Tribal House"
+    },
+    {
+      "name": "Guaracha [EDM]",
+      "url": "https://rateyourmusic.com/genre/guaracha-edm/",
+      "description": "Originated in Colombia, featuring \"fluttering\" trumpets, accordion, and tambora drums.",
+      "level": "sub-4",
+      "parent": "Tribal House"
+    }
+  ]
+}

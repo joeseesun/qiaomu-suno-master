@@ -1,0 +1,38 @@
+{
+  "name": "Plugg",
+  "description": "Use of sparse and compact drum and hi-hat patterns, subby 808s and heavy low end; commonly features piano samples, airy pads, and icy synths.",
+  "url": "https://rateyourmusic.com/genre/plugg/",
+  "parent": "Trap",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Ambient Plugg",
+      "url": "https://rateyourmusic.com/genre/ambient-plugg/",
+      "description": "Strong atmosphere and texture taken from Ambient music; featuring tight drums and minimal low-end and 808s.",
+      "level": "sub-3",
+      "parent": "Plugg"
+    },
+    {
+      "name": "Dark Plugg",
+      "url": "https://rateyourmusic.com/genre/dark-plugg/",
+      "description": "Ominous, sinister synth pads and lead melodies, skittering hi-hats, and fast percussion and snare rolls.",
+      "level": "sub-3",
+      "parent": "Plugg"
+    },
+    {
+      "name": "PluggnB",
+      "url": "https://rateyourmusic.com/genre/pluggnb/",
+      "description": "Emphasizes more melodic and layered synth leads, denser and faster drum programming, and a lesser reliance on the laid-back, minimalistic atmosphere of earlier Plugg styles.",
+      "level": "sub-3",
+      "parent": "Plugg"
+    },
+    {
+      "name": "Terror Plugg",
+      "url": "https://rateyourmusic.com/genre/terror-plugg/",
+      "description": "Harsher and noisier, with 808s distorted to create a high-frequency sound.",
+      "level": "sub-3",
+      "parent": "Plugg"
+    }
+  ]
+}

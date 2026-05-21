@@ -1,0 +1,52 @@
+{
+  "name": "Indigenous Australian Traditional Music",
+  "description": "Traditional Folk Music of Aboriginal Australians and Torres Strait Islanders, collectively known as Indigenous Australians.",
+  "url": "https://rateyourmusic.com/genre/indigenous-australian-traditional-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Djanba",
+      "url": "https://rateyourmusic.com/genre/djanba/",
+      "description": "Sung and composed in the Murrinh-Patha language and consisting of a mixed group of men and women accompanied by bilma and handclaps, typically without didgeridoo.",
+      "level": "sub-3",
+      "parent": "Indigenous Australian Traditional Music"
+    },
+    {
+      "name": "Djanba",
+      "url": "https://rateyourmusic.com/genre/djanba/",
+      "description": "Sung and composed in the Murrinh-Patha language and consisting of a mixed group of men and women accompanied by bilma and handclaps, typically without didgeridoo.",
+      "level": "sub-3",
+      "parent": "Indigenous Australian Traditional Music"
+    },
+    {
+      "name": "Djanba",
+      "url": "https://rateyourmusic.com/genre/djanba/",
+      "description": "Sung and composed in the Murrinh-Patha language and consisting of a mixed group of men and women accompanied by bilma and handclaps, typically without didgeridoo.",
+      "level": "sub-3",
+      "parent": "Indigenous Australian Traditional Music"
+    },
+    {
+      "name": "Wangga",
+      "url": "https://rateyourmusic.com/genre/wangga/",
+      "description": "Originated from the Daly region, consists of performances featuring wood sticks, didgeridoo and voice.",
+      "level": "sub-3",
+      "parent": "Indigenous Australian Traditional Music"
+    },
+    {
+      "name": "Wangga",
+      "url": "https://rateyourmusic.com/genre/wangga/",
+      "description": "Originated from the Daly region, consists of performances featuring wood sticks, didgeridoo and voice.",
+      "level": "sub-3",
+      "parent": "Indigenous Australian Traditional Music"
+    },
+    {
+      "name": "Wangga",
+      "url": "https://rateyourmusic.com/genre/wangga/",
+      "description": "Originated from the Daly region, consists of performances featuring wood sticks, didgeridoo and voice.",
+      "level": "sub-3",
+      "parent": "Indigenous Australian Traditional Music"
+    }
+  ]
+}

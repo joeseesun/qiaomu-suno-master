@@ -1,0 +1,38 @@
+{
+  "name": "Thrash Metal",
+  "description": "Blistering tempos, palm-muted, technical riffing influenced by Speed Metal, aggressive drumming utilizing double-kick and skank beats, and diverse vocal styles ranging from harsh to clean techniques.",
+  "url": "https://rateyourmusic.com/genre/thrash-metal/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Crossover Thrash",
+      "url": "https://rateyourmusic.com/genre/crossover-thrash/",
+      "description": "Mixes the metallic instrumentation of Thrash Metal with the ethos and approach of Hardcore Punk.",
+      "level": "sub-2",
+      "parent": "Thrash Metal"
+    },
+    {
+      "name": "Crossover Thrash",
+      "url": "https://rateyourmusic.com/genre/crossover-thrash/",
+      "description": "Mixes the metallic instrumentation of Thrash Metal with the ethos and approach of Hardcore Punk.",
+      "level": "sub-3",
+      "parent": "Thrash Metal"
+    },
+    {
+      "name": "Technical Thrash Metal",
+      "url": "https://rateyourmusic.com/genre/technical-thrash-metal/",
+      "description": "Places great emphasis on complex songwriting and demanding instrumental parts.",
+      "level": "sub-2",
+      "parent": "Thrash Metal"
+    },
+    {
+      "name": "Technical Thrash Metal",
+      "url": "https://rateyourmusic.com/genre/technical-thrash-metal/",
+      "description": "Places great emphasis on complex songwriting and demanding instrumental parts.",
+      "level": "sub-3",
+      "parent": "Thrash Metal"
+    }
+  ]
+}

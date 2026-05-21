@@ -1,0 +1,52 @@
+{
+  "name": "Indie Pop",
+  "description": "Back-to-basics Rock approach combining a less mainstream and DIY ethos with melodic, lighthearted and straightforward songwriting.",
+  "url": "https://rateyourmusic.com/genre/indie-pop/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Bedroom Pop",
+      "url": "https://rateyourmusic.com/genre/bedroom-pop/",
+      "description": "Named for solo producers and singer-songwriters from the 2010s onward who created intimate, \"authentic\" music in their own homes, outside of a traditional studio environment.",
+      "level": "sub-2",
+      "parent": "Indie Pop"
+    },
+    {
+      "name": "C86",
+      "url": "https://rateyourmusic.com/genre/c86/",
+      "description": "Distinctly ramshackle, often Twee Pop-infused combination of British Indie Rock and Jangle Pop.",
+      "level": "sub-2",
+      "parent": "Indie Pop"
+    },
+    {
+      "name": "Chamber Pop",
+      "url": "https://rateyourmusic.com/genre/chamber-pop/",
+      "description": "Based on the smooth and melodic songwriting of Lounge and other Easy Listening, as well as the orchestration of Baroque Pop and the production styles of other 1960s pop genres.",
+      "level": "sub-2",
+      "parent": "Indie Pop"
+    },
+    {
+      "name": "Neo-Acoustic",
+      "url": "https://rateyourmusic.com/genre/neo-acoustic/",
+      "description": "Cross-section of Indie Pop and Jangle Pop with more prominent acoustic instrumentation and songwriting/arrangements that draw from Sophisti-Pop.",
+      "level": "sub-2",
+      "parent": "Indie Pop"
+    },
+    {
+      "name": "Tontipop",
+      "url": "https://rateyourmusic.com/genre/tontipop/",
+      "description": "Spanish scene known for its exuberant, child-like sound drawing directly from British Twee Pop, as well as Yé-yé, Bubblegum, and Synthpop.",
+      "level": "sub-2",
+      "parent": "Indie Pop"
+    },
+    {
+      "name": "Twee Pop",
+      "url": "https://rateyourmusic.com/genre/twee-pop/",
+      "description": "Distinct Post-Punk background and often jangling guitars, defined by a cute aesthetic and lyrics combined with an indie/DIY attitude and a simplicity often indebted to Punk Rock.",
+      "level": "sub-2",
+      "parent": "Indie Pop"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "French Caribbean Music",
+  "description": "Music from the French Antilles (Martinique, Guadeloupe, Dominica, Saint Lucia) and from Haiti.",
+  "url": "https://rateyourmusic.com/genre/french-caribbean-music/",
+  "parent": "Caribbean Music",
+  "level": "sub-2",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Bele",
+      "url": "https://rateyourmusic.com/genre/bele/",
+      "description": "Drum-based folkdance with a strong Afro-influence, conducted by duos of dancers and accompanied by call-and-response singing, particularly popular in Martinique, Dominica and Trinidad and Tobago.",
+      "level": "sub-3",
+      "parent": "French Caribbean Music"
+    },
+    {
+      "name": "Biguine",
+      "url": "https://rateyourmusic.com/genre/biguine/",
+      "description": "Dating back to the 19th century; originating as a fusion of traditional Bele music with Polka.",
+      "level": "sub-3",
+      "parent": "French Caribbean Music"
+    },
+    {
+      "name": "Bouyon",
+      "url": "https://rateyourmusic.com/genre/bouyon/",
+      "description": "With a name translating to \"broth\", this fast-paced genre from Dominica originated as a blend of various traditional and modern Caribbean styles.",
+      "level": "sub-3",
+      "parent": "French Caribbean Music"
+    },
+    {
+      "name": "Cadence lypso",
+      "url": "https://rateyourmusic.com/genre/cadence-lypso/",
+      "description": "Caribbean genre originating in the 1970s, combining elements of Haiti's Cadence rampa and Compas with Trinidad's Calypso.",
+      "level": "sub-3",
+      "parent": "French Caribbean Music"
+    },
+    {
+      "name": "Dennery Segment",
+      "url": "https://rateyourmusic.com/genre/dennery-segment/",
+      "description": "Developed in Saint Lucia in the early 2010s; heavily influenced by Angolan Kuduro, as well as incorporating elements of Zouk and Lucian drums alongside suggestive lyrics usually sung in Kwéyòl (Saint Lucian Creole).",
+      "level": "sub-3",
+      "parent": "French Caribbean Music"
+    },
+    {
+      "name": "Gwo ka",
+      "url": "https://rateyourmusic.com/genre/gwo-ka/",
+      "description": "Developed in the island of Guadeloupe; driven by a group of gwo ka drums.",
+      "level": "sub-3",
+      "parent": "French Caribbean Music"
+    },
+    {
+      "name": "Haitian Music",
+      "url": "https://rateyourmusic.com/genre/haitian-music/",
+      "description": "Encompasses the styles of music developed by the Haitian people.",
+      "level": "sub-3",
+      "parent": "French Caribbean Music"
+    },
+    {
+      "name": "Kréyol djaz",
+      "url": "https://rateyourmusic.com/genre/kreyol-djaz/",
+      "description": "Combines Jazz with various styles of French Caribbean Music.",
+      "level": "sub-3",
+      "parent": "French Caribbean Music"
+    },
+    {
+      "name": "Tumbélé",
+      "url": "https://rateyourmusic.com/genre/tumbele/",
+      "description": "Combines Haitian Compas, Soukous and Cuban Guaguancó with the local style of Biguine.",
+      "level": "sub-3",
+      "parent": "French Caribbean Music"
+    },
+    {
+      "name": "Zouk",
+      "url": "https://rateyourmusic.com/genre/zouk/",
+      "description": "Fast-paced danceable pop that began in early 1980s French Antilles, merging and updating more traditional local genres.",
+      "level": "sub-3",
+      "parent": "French Caribbean Music"
+    }
+  ]
+}

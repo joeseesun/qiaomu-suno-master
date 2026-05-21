@@ -1,0 +1,38 @@
+{
+  "name": "Jewish Liturgical Music",
+  "description": "Employed for different purposes in the practices of Jewish religion, such as the Kriyat haTorah of biblical verses during synagogue services.",
+  "url": "https://rateyourmusic.com/genre/jewish-liturgical-music/",
+  "parent": "Jewish Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Ancient Levitical Music",
+      "url": "https://rateyourmusic.com/genre/ancient-levitical-music/",
+      "description": "Reconstruction of Jerusalem temple music.",
+      "level": "sub-3",
+      "parent": "Jewish Liturgical Music"
+    },
+    {
+      "name": "Chazzanut",
+      "url": "https://rateyourmusic.com/genre/chazzanut/",
+      "description": "Traditions used by the Jewish cantor, the chazzan when reciting and chanting different parts of the Jewish prayer in Jewish Liturgical Music.",
+      "level": "sub-3",
+      "parent": "Jewish Liturgical Music"
+    },
+    {
+      "name": "Kriyat haTorah",
+      "url": "https://rateyourmusic.com/genre/kriyat-hatorah/",
+      "description": "Practice of ritual liturgical chanting of the Masoretic text of the Tanakh, often done during synagogue services.",
+      "level": "sub-3",
+      "parent": "Jewish Liturgical Music"
+    },
+    {
+      "name": "Piyyut",
+      "url": "https://rateyourmusic.com/genre/piyyut/",
+      "description": "Liturgical Jewish poems that are chanted or recited during religious occasions such as daily prayers and holidays.",
+      "level": "sub-3",
+      "parent": "Jewish Liturgical Music"
+    }
+  ]
+}

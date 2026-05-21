@@ -1,0 +1,31 @@
+{
+  "name": "Gregorian Chant",
+  "description": "Liturgical, monophonic chant that accompanied Mass and other rituals in Western Christianity.",
+  "url": "https://rateyourmusic.com/genre/gregorian-chant/",
+  "parent": "Plainsong",
+  "level": "sub-4",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Sarum Chant",
+      "url": "https://rateyourmusic.com/genre/sarum-chant/",
+      "description": "Latin Plainsong tradition of Salisbury, England, characterized by its unadorned simplicity.",
+      "level": "sub-5",
+      "parent": "Gregorian Chant"
+    },
+    {
+      "name": "Sarum Chant",
+      "url": "https://rateyourmusic.com/genre/sarum-chant/",
+      "description": "Latin Plainsong tradition of Salisbury, England, characterized by its unadorned simplicity.",
+      "level": "sub-4",
+      "parent": "Gregorian Chant"
+    },
+    {
+      "name": "Sarum Chant",
+      "url": "https://rateyourmusic.com/genre/sarum-chant/",
+      "description": "Latin Plainsong tradition of Salisbury, England, characterized by its unadorned simplicity.",
+      "level": "sub-5",
+      "parent": "Gregorian Chant"
+    }
+  ]
+}

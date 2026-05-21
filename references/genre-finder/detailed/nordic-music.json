@@ -1,0 +1,59 @@
+{
+  "name": "Nordic Music",
+  "description": "Music from the Nordic countries, including Iceland, Norway, Sweden, Denmark, and Finland.",
+  "url": "https://rateyourmusic.com/genre/nordic-music/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Dansbandsmusik",
+      "url": "https://rateyourmusic.com/genre/dansbandsmusik/",
+      "description": "Nordic Pop style originating from 1960s Pop Rock, incorporating Swing, Schlager, Nordic Old Time Dance Music and Country influences.",
+      "level": "sub-3",
+      "parent": "Nordic Music"
+    },
+    {
+      "name": "Dansktop",
+      "url": "https://rateyourmusic.com/genre/dansktop/",
+      "description": "Danish equivalent to Dansbandsmusik with Schlager and Country influences and Contemporary Folk and Pop elements.",
+      "level": "sub-3",
+      "parent": "Nordic Music"
+    },
+    {
+      "name": "Greenlandic Music",
+      "url": "https://rateyourmusic.com/genre/greenlandic-music/",
+      "description": "Majorly from Inuit ethnic groups in Greenland, a large island between the Atlantic and Arctic Oceans.",
+      "level": "sub-3",
+      "parent": "Nordic Music"
+    },
+    {
+      "name": "Nordic Folk Music",
+      "url": "https://rateyourmusic.com/genre/nordic-folk-music/",
+      "description": "Folk of Nordic countries of Denmark, Finland, Iceland, Norway, and Sweden.",
+      "level": "sub-3",
+      "parent": "Nordic Music"
+    },
+    {
+      "name": "Nordic Folk Rock",
+      "url": "https://rateyourmusic.com/genre/nordic-folk-rock/",
+      "description": "Fusion of Nordic Folk Music and Rock.",
+      "level": "sub-3",
+      "parent": "Nordic Music"
+    },
+    {
+      "name": "Rautalanka",
+      "url": "https://rateyourmusic.com/genre/rautalanka/",
+      "description": "Nordic guitar style mainly influenced by Rock & Roll, and traditional European Schlager.",
+      "level": "sub-3",
+      "parent": "Nordic Music"
+    },
+    {
+      "name": "Visa",
+      "url": "https://rateyourmusic.com/genre/visa/",
+      "description": "Nordic balladry focusing on lyrical content and simple vocal melodies.",
+      "level": "sub-3",
+      "parent": "Nordic Music"
+    }
+  ]
+}

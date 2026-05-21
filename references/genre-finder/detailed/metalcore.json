@@ -1,0 +1,122 @@
+{
+  "name": "Metalcore",
+  "description": "Drop-tuned guitar riffs, constant double kick drumming with varying tempos and techniques, breakdown sections, and screaming or shouting vocals.",
+  "url": "https://rateyourmusic.com/genre/metalcore/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Deathcore",
+      "url": "https://rateyourmusic.com/genre/deathcore/",
+      "description": "Integrates brutal palm-muted and tremolo-picked riffing, blast beat-focused drumming, and guttural vocals of Death Metal with groovy breakdown sections.",
+      "level": "sub-2",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Deathcore",
+      "url": "https://rateyourmusic.com/genre/deathcore/",
+      "description": "Integrates brutal palm-muted and tremolo-picked riffing, blast beat-focused drumming, and guttural vocals of Death Metal with groovy breakdown sections.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Deathcore",
+      "url": "https://rateyourmusic.com/genre/deathcore/",
+      "description": "Integrates brutal palm-muted and tremolo-picked riffing, blast beat-focused drumming, and guttural vocals of Death Metal with groovy breakdown sections.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Deathcore",
+      "url": "https://rateyourmusic.com/genre/deathcore/",
+      "description": "Integrates brutal palm-muted and tremolo-picked riffing, blast beat-focused drumming, and guttural vocals of Death Metal with groovy breakdown sections.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Mathcore",
+      "url": "https://rateyourmusic.com/genre/mathcore/",
+      "description": "Rhythmically complex, featuring unconventional time signatures, syncopated and dissonant riffs and erratic metric shifts.",
+      "level": "sub-2",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Mathcore",
+      "url": "https://rateyourmusic.com/genre/mathcore/",
+      "description": "Rhythmically complex, featuring unconventional time signatures, syncopated and dissonant riffs and erratic metric shifts.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Mathcore",
+      "url": "https://rateyourmusic.com/genre/mathcore/",
+      "description": "Rhythmically complex, featuring unconventional time signatures, syncopated and dissonant riffs and erratic metric shifts.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Mathcore",
+      "url": "https://rateyourmusic.com/genre/mathcore/",
+      "description": "Rhythmically complex, featuring unconventional time signatures, syncopated and dissonant riffs and erratic metric shifts.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Melodic Metalcore",
+      "url": "https://rateyourmusic.com/genre/melodic-metalcore/",
+      "description": "Originated in the late 1990s when some metalcore bands infused elements of Melodic Death Metal into their sound to create a more metallic and melodic style.",
+      "level": "sub-2",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Melodic Metalcore",
+      "url": "https://rateyourmusic.com/genre/melodic-metalcore/",
+      "description": "Originated in the late 1990s when some metalcore bands infused elements of Melodic Death Metal into their sound to create a more metallic and melodic style.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Melodic Metalcore",
+      "url": "https://rateyourmusic.com/genre/melodic-metalcore/",
+      "description": "Originated in the late 1990s when some metalcore bands infused elements of Melodic Death Metal into their sound to create a more metallic and melodic style.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Melodic Metalcore",
+      "url": "https://rateyourmusic.com/genre/melodic-metalcore/",
+      "description": "Originated in the late 1990s when some metalcore bands infused elements of Melodic Death Metal into their sound to create a more metallic and melodic style.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Thall",
+      "url": "https://rateyourmusic.com/genre/thall/",
+      "description": "Utilizes rapid release bends and a precise playstyle while contrasting pitch-shifted high and low notes, with ambient sections for atmosphere and buildup.",
+      "level": "sub-2",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Thall",
+      "url": "https://rateyourmusic.com/genre/thall/",
+      "description": "Utilizes rapid release bends and a precise playstyle while contrasting pitch-shifted high and low notes, with ambient sections for atmosphere and buildup.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Thall",
+      "url": "https://rateyourmusic.com/genre/thall/",
+      "description": "Utilizes rapid release bends and a precise playstyle while contrasting pitch-shifted high and low notes, with ambient sections for atmosphere and buildup.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    },
+    {
+      "name": "Thall",
+      "url": "https://rateyourmusic.com/genre/thall/",
+      "description": "Utilizes rapid release bends and a precise playstyle while contrasting pitch-shifted high and low notes, with ambient sections for atmosphere and buildup.",
+      "level": "sub-3",
+      "parent": "Metalcore"
+    }
+  ]
+}

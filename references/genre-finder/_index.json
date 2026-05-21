@@ -1,0 +1,250 @@
+{
+  "total_main_genres": 49,
+  "genres": [
+    {
+      "name": "ASMR",
+      "description": "Recordings intended to induce a pleasurable tingling sensation in the listener.",
+      "url": "https://rateyourmusic.com/genre/asmr/"
+    },
+    {
+      "name": "Ambient",
+      "description": "Emphasizes texture and tone over traditional musical structure, aimed at evoking a particular atmosphere or mood.",
+      "url": "https://rateyourmusic.com/genre/ambient/"
+    },
+    {
+      "name": "Ambient Pop",
+      "description": "Emphasizes texture and atmosphere with a degree of structural experimentation, drawing on Dream Pop, Neo-Psychedelia, and Post-Rock while tending towards more minimal, repetitive arrangements which may incorporate elements of Electronic or Krautrock.",
+      "url": "https://rateyourmusic.com/genre/ambient-pop/"
+    },
+    {
+      "name": "Audio Documentary",
+      "description": "Form of documentary that uses audio to document or explore a subject or theme.",
+      "url": "https://rateyourmusic.com/genre/audio-documentary/"
+    },
+    {
+      "name": "Beatboxing",
+      "description": "Form of vocal percussion developed during the 1980s, primarily involving the art of producing drum beats, rhythm, and musical sounds using one's mouth, lips, tongue, voice, and more.",
+      "url": "https://rateyourmusic.com/genre/beatboxing/"
+    },
+    {
+      "name": "Blues",
+      "description": "Originated toward the end of the 19th century in African American communities in the United States, particularly the Deep South; drew on traditional Spirituals and Work Song; highly influential to the whole of Western popular music.",
+      "url": "https://rateyourmusic.com/genre/blues/"
+    },
+    {
+      "name": "Bugle Call",
+      "description": "Short tunes played on a bugle; used in militaries for communication.",
+      "url": "https://rateyourmusic.com/genre/bugle-call/"
+    },
+    {
+      "name": "Children's Music",
+      "description": "Recorded for an intended audience of children.",
+      "url": "https://rateyourmusic.com/genre/childrens-music/"
+    },
+    {
+      "name": "Classical Music",
+      "description": "Part of a broad generalization about the structure and function of music throughout history across the globe, describing traditions distinct from Traditional Folk Music and popular music.",
+      "url": "https://rateyourmusic.com/genre/classical-music/"
+    },
+    {
+      "name": "Comedy",
+      "description": "Range of styles, both musical and non-musical, that always set out to make the listener laugh through humor.",
+      "url": "https://rateyourmusic.com/genre/comedy/"
+    },
+    {
+      "name": "Country",
+      "description": "American genre derived from Southern and Appalachian forms of American Folk Music and later Rock and Pop influences, with a focus on the life and culture of rural America.",
+      "url": "https://rateyourmusic.com/genre/country/"
+    },
+    {
+      "name": "Dance",
+      "description": "Rooted in Disco and developed largely within Electronic Dance Music; emphasizes rhythm and is generally produced for play by DJs at clubs, parties, or festivals.",
+      "url": "https://rateyourmusic.com/genre/dance/"
+    },
+    {
+      "name": "Dark Cabaret",
+      "description": "Dark, moody style incorporating elements of Cabaret in a modern context, with varied instrumentation.",
+      "url": "https://rateyourmusic.com/genre/dark-cabaret/"
+    },
+    {
+      "name": "Darkwave",
+      "description": "Expands on the dark, introspective and sorrowful atmosphere of Gothic Rock; borrowing aspects from Electronic and other non-Rock influences.",
+      "url": "https://rateyourmusic.com/genre/darkwave/"
+    },
+    {
+      "name": "Easy Listening",
+      "description": "Typically instrumental, including lush arrangements and melodies played by orchestras or big bands aiming for light entertainment.",
+      "url": "https://rateyourmusic.com/genre/easy-listening/"
+    },
+    {
+      "name": "Electronic",
+      "description": "Uses non-traditional electronic instrumentation and sound manipulation technology as the primary backbone of a composition.",
+      "url": "https://rateyourmusic.com/genre/electronic/"
+    },
+    {
+      "name": "Experimental",
+      "description": "Most radical approaches throughout history, featuring non-traditional production methods resulting in sounds and styles that go largely beyond traditional boundaries.",
+      "url": "https://rateyourmusic.com/genre/experimental/"
+    },
+    {
+      "name": "Field Recordings",
+      "description": "Material recorded outside of a recording studio for the purpose of capturing the audible illustration of an environment.",
+      "url": "https://rateyourmusic.com/genre/field-recordings/"
+    },
+    {
+      "name": "Folk",
+      "description": "Rooted in mostly oral traditions of the peoples of the world, encompassing international Traditional Folk Music as well as Western Contemporary Folk which arose in the 1940s.",
+      "url": "https://rateyourmusic.com/genre/folk/"
+    },
+    {
+      "name": "Gospel",
+      "description": "Arising from vocal Christian tradition often featuring emotive performances, layered accompaniments, and themes of faith and salvation.",
+      "url": "https://rateyourmusic.com/genre/gospel/"
+    },
+    {
+      "name": "Hanmai",
+      "description": "Chinese performance style featuring a performer shouting lyrics over an upbeat backing track.",
+      "url": "https://rateyourmusic.com/genre/hanmai/"
+    },
+    {
+      "name": "Hip Hop",
+      "description": "Emerged primarily on the United States East Coast in African-American communities in the late 1970s; emphasizes rhythmic beat patterns and a type of spoken vocal delivery known as rapping.",
+      "url": "https://rateyourmusic.com/genre/hip-hop/"
+    },
+    {
+      "name": "Hymns",
+      "description": "Performed and written with the purpose of praise, adoration, and prayer, often addressed to deities or other cultural figures.",
+      "url": "https://rateyourmusic.com/genre/hymns/"
+    },
+    {
+      "name": "Industrial & Noise",
+      "description": "Umbrella encompassing Noise and Industrial, as well as later derivatives that combine the latter aesthetics with other styles and in more accessible directions which fall under Post-Industrial.",
+      "url": "https://rateyourmusic.com/genre/industrial-and-noise/"
+    },
+    {
+      "name": "Jazz",
+      "description": "Originating in African American communities in the Southern United States around the turn of the 20th century, building on New Orleans Brass Band ensemble and influences from Ragtime and Blues to become a very popular style by the emergence of Swing in the 1930s.",
+      "url": "https://rateyourmusic.com/genre/jazz/"
+    },
+    {
+      "name": "Jingles",
+      "description": "Short, melodic phrases, traditionally used in advertisements, and later in ringtones and video games.",
+      "url": "https://rateyourmusic.com/genre/jingles/"
+    },
+    {
+      "name": "Mantra",
+      "description": "Sounds, words or phrases, often repeatedly chanted, used in religions originating in the Indian subcontinent, and spiritual practices influenced by them.",
+      "url": "https://rateyourmusic.com/genre/mantra/"
+    },
+    {
+      "name": "March",
+      "description": "Strong and regular rhythm originally written to walk in step easier or to back events like parades or marches.",
+      "url": "https://rateyourmusic.com/genre/march/"
+    },
+    {
+      "name": "Marching Band",
+      "description": "Covering the music of Western-derived marching bands, primarily used for entertainment, competition, military, and parade settings, typically involving large-scale orchestras featuring a variety of instruments.",
+      "url": "https://rateyourmusic.com/genre/marching-band/"
+    },
+    {
+      "name": "Mashup",
+      "description": "Songs created by mixing parts of two or more recordings together.",
+      "url": "https://rateyourmusic.com/genre/mashup/"
+    },
+    {
+      "name": "Mechanical Music",
+      "description": "Generated by self-playing devices, which read and reproduce music through purely mechanical means with no major electronically controlled elements.",
+      "url": "https://rateyourmusic.com/genre/mechanical-music/"
+    },
+    {
+      "name": "Metal",
+      "description": "Driving and distorted riffs, aggressive drumming, vigorous vocals, and an all-around show of brute force in its early days, since branching into dozens of subgenres.",
+      "url": "https://rateyourmusic.com/genre/metal/"
+    },
+    {
+      "name": "Musical Theatre and Entertainment",
+      "description": "Range of styles of theatre individually popular in the United States or in various countries in Europe, mostly from the 19th century to the mid-20th century.",
+      "url": "https://rateyourmusic.com/genre/musical-theatre-and-entertainment/"
+    },
+    {
+      "name": "New Age",
+      "description": "Broad genre centered on peaceful, meditative melodies, using a wide variety of instrumentation.",
+      "url": "https://rateyourmusic.com/genre/new-age/"
+    },
+    {
+      "name": "Parlour Music",
+      "description": "Early form of light, sentimental popular music; popular in USA and Europe from the late 1700s to the 1870s.",
+      "url": "https://rateyourmusic.com/genre/parlour-music/"
+    },
+    {
+      "name": "Pop",
+      "description": "Umbrella of popular styles closely tied to mass production and mass marketing, focusing on catchiness and accessibility through melody, rhythm, lyrics, and hooks.",
+      "url": "https://rateyourmusic.com/genre/pop/"
+    },
+    {
+      "name": "Psychedelia",
+      "description": "Umbrella of styles intended to replicate or enhance the altered state of consciousness brought on by the use of psychedelic drugs, originating in the 1960s.",
+      "url": "https://rateyourmusic.com/genre/psychedelia/"
+    },
+    {
+      "name": "Punk",
+      "description": "Musical and cultural product of Punk Rock known for its simplistic, brash playstyle and anti-establishment themes.",
+      "url": "https://rateyourmusic.com/genre/punk/"
+    },
+    {
+      "name": "R&B",
+      "description": "Umbrella of styles covering the most popular forms of Black American music from the late 1940s, when the term Rhythm & Blues first appeared; includes the developments of Soul and Funk in the '60s and '70s, and the Contemporary R&B of the 1980s onward.",
+      "url": "https://rateyourmusic.com/genre/randb/"
+    },
+    {
+      "name": "Reggae / Ska / Dancehall",
+      "description": "Umbrella for related forms of Jamaican Music which have grown beyond their regional roots to become global phenomena.",
+      "url": "https://rateyourmusic.com/genre/reggae-ska-dancehall/"
+    },
+    {
+      "name": "Regional Music",
+      "description": "Music of regional cultural traditions, that is or was predominantly played and produced in these regions.",
+      "url": "https://rateyourmusic.com/genre/regional-music/"
+    },
+    {
+      "name": "Rock",
+      "description": "Typically uses a verse-chorus structure with a backbeat rhythm and the electric guitar at the forefront; generally heavier and/or faster than its predecessors.",
+      "url": "https://rateyourmusic.com/genre/rock/"
+    },
+    {
+      "name": "Sacred Singing Circle",
+      "description": "Phenomenon that originally began in hippie gatherings, notably beginning with the counter-culture Rainbow Gatherings of the 1970s, features loose musical jams with varied and spontaneous performances.",
+      "url": "https://rateyourmusic.com/genre/sacred-singing-circle/"
+    },
+    {
+      "name": "Scenes & Movements",
+      "description": "",
+      "url": "https://rateyourmusic.com/genre/scenes-and-movements/"
+    },
+    {
+      "name": "Singer-Songwriter",
+      "description": "Heavily focused on lyrics and songwriting, with musical accompaniment tending to take lower precedence.",
+      "url": "https://rateyourmusic.com/genre/singer-songwriter/"
+    },
+    {
+      "name": "Sound Effects",
+      "description": "Non-musical audio works, including recorded sounds and sounds recreated synthetically or by other means, which are either sounds of known objects or abstract noise manifestations.",
+      "url": "https://rateyourmusic.com/genre/sound-effects/"
+    },
+    {
+      "name": "Spoken Word",
+      "description": "Usually unaccompanied vocal readings.",
+      "url": "https://rateyourmusic.com/genre/spoken-word/"
+    },
+    {
+      "name": "Toypop",
+      "description": "Avant-garde, naive, and child-like; explores the sonic capabilities of toy instruments.",
+      "url": "https://rateyourmusic.com/genre/toypop/"
+    },
+    {
+      "name": "Worldbeat",
+      "description": "Pairs elements from diverse sources from across the globe with contemporary, uplifting Westernised production, created primarily for a Western audience.",
+      "url": "https://rateyourmusic.com/genre/worldbeat/"
+    }
+  ]
+}

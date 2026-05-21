@@ -1,0 +1,17 @@
+{
+  "name": "Avant-Folk",
+  "description": "Experimental-influenced and playing with instrumentation, rhythm, and other factors not commonly found in folk.",
+  "url": "https://rateyourmusic.com/genre/avant-folk/",
+  "parent": "Contemporary Folk",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Free Folk",
+      "url": "https://rateyourmusic.com/genre/free-folk/",
+      "description": "Incorporates improvisation, repetition and extended song lengths.",
+      "level": "sub-3",
+      "parent": "Avant-Folk"
+    }
+  ]
+}

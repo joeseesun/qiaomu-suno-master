@@ -1,0 +1,17 @@
+{
+  "name": "Jersey Club Rap",
+  "description": "Incorporates Jersey Club's distinct kick-heavy rhythms, which are modified to better suit rapping, featuring less sampling and more atmospheric production than earlier Jersey club.",
+  "url": "https://rateyourmusic.com/genre/jersey-club-rap/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Jersey Drill",
+      "url": "https://rateyourmusic.com/genre/jersey-drill/",
+      "description": "Mixes Drill and Jersey Club production, characterized by an energetic sound and distinct syncopated rhythms.",
+      "level": "sub-2",
+      "parent": "Jersey Club Rap"
+    }
+  ]
+}

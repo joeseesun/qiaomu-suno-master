@@ -1,0 +1,106 @@
+{
+  "name": "Punk",
+  "description": "Musical and cultural product of Punk Rock known for its simplistic, brash playstyle and anti-establishment themes.",
+  "url": "https://rateyourmusic.com/genre/punk/",
+  "sub_genres_count": 14,
+  "sub_genres": [
+    {
+      "name": "Art Punk",
+      "url": "https://rateyourmusic.com/genre/art-punk/",
+      "description": "Combines the stripped-down aggression of rudimentary Punk Rock with frequent experimentation ranging from instrumental interplay, noise, dissonance, and/or influences from other genres such as Jazz or Funk.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Cowpunk",
+      "url": "https://rateyourmusic.com/genre/cowpunk/",
+      "description": "Mixes together Country Rock, Rockabilly, and Contemporary Folk with the familiar punk sound.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Digital Hardcore",
+      "url": "https://rateyourmusic.com/genre/digital-hardcore/",
+      "description": "High-tempo fusion of Hardcore Punk and Electronic, combining harsh vocals and electric guitars of the former with electronic instruments.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Emo",
+      "url": "https://rateyourmusic.com/genre/emo/",
+      "description": "Focuses on emotional lyrics, expressive vocals, melodic songwriting, and dynamic song structures.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Folk Punk",
+      "url": "https://rateyourmusic.com/genre/folk-punk/",
+      "description": "Influenced by various forms of Folk, including Traditional Folk Music as well as Contemporary Folk and Folk Rock.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Hardcore [Punk]",
+      "url": "https://rateyourmusic.com/genre/hardcore-punk-1/",
+      "description": "Broad genre which encompasses the first wave of Hardcore Punk beginning in the 1970s, as well as its derivative styles that incorporate diverse musical influences and stray away from the core Punk Rock sound.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Mod Revival",
+      "url": "https://rateyourmusic.com/genre/mod-revival/",
+      "description": "Late 1970s and early 1980s revival of Mod fashion and music, featuring influence from the nascent Punk Rock scene.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Pigfuck",
+      "url": "https://rateyourmusic.com/genre/pigfuck/",
+      "description": "Sloppy, abrasive and feedback-laden riffing with vulgar and edgy lyricism, informed by Post-Hardcore's aggression and Post-Punk's rhythm section.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Post-Punk",
+      "url": "https://rateyourmusic.com/genre/post-punk/",
+      "description": "Emerged alongside the initial Punk Rock explosion in the mid-to-late 1970s, putting a greater emphasis on experimentation and atmosphere.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Proto-Punk",
+      "url": "https://rateyourmusic.com/genre/proto-punk/",
+      "description": "Used to describe what influenced or in some way resembled Punk Rock before that genre's commercial breakthrough in 1976.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Punk Blues",
+      "url": "https://rateyourmusic.com/genre/punk-blues/",
+      "description": "Fusion of the instrumentation and scales of Blues Rock with Punk.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Punk Poetry",
+      "url": "https://rateyourmusic.com/genre/punk-poetry/",
+      "description": "Fast and rhythmic vocal delivery of political or satirical themes; frequently backed by Post-Punk or Minimal Wave instrumentation.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Punk Rock",
+      "url": "https://rateyourmusic.com/genre/punk-rock/",
+      "description": "Fast tempos, loud and distorted riffs, simple songs, frequent use of power chords, and shouted vocals, originating in the mid-1970s in response to commercial, sentimental, and complex Rock.",
+      "level": "sub",
+      "parent": "Punk"
+    },
+    {
+      "name": "Synth Punk",
+      "url": "https://rateyourmusic.com/genre/synth-punk/",
+      "description": "Appropriates the harsh elements of Punk Rock but replaces the predominance of guitars with synthesizers and drum machines.",
+      "level": "sub",
+      "parent": "Punk"
+    }
+  ]
+}

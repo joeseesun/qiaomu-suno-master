@@ -1,0 +1,122 @@
+{
+  "name": "Psychedelic Rock",
+  "description": "Rock which emerged in the mid-1960s that often attempts to emulate or enhance the effects of psychedelic drugs.",
+  "url": "https://rateyourmusic.com/genre/psychedelic-rock/",
+  "parent": "Psychedelia",
+  "level": "sub",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Acid Rock",
+      "url": "https://rateyourmusic.com/genre/acid-rock/",
+      "description": "Heavier with an emphasis on instrumental jamming and \"wah\" guitar effects.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Acid Rock",
+      "url": "https://rateyourmusic.com/genre/acid-rock/",
+      "description": "Heavier with an emphasis on instrumental jamming and \"wah\" guitar effects.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Freakbeat",
+      "url": "https://rateyourmusic.com/genre/freakbeat/",
+      "description": "Outgrowth of the Mod movement which combines elements of British Rhythm & Blues and Beat with studio effects common in Psychedelia such as fuzztones, flanging and chorus; often seen as a British relative of the American Garage Psych scene.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Freakbeat",
+      "url": "https://rateyourmusic.com/genre/freakbeat/",
+      "description": "Outgrowth of the Mod movement which combines elements of British Rhythm & Blues and Beat with studio effects common in Psychedelia such as fuzztones, flanging and chorus; often seen as a British relative of the American Garage Psych scene.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Garage Psych",
+      "url": "https://rateyourmusic.com/genre/garage-psych/",
+      "description": "Emerged from mid-1960s US Garage Rock; characterised by fuzz guitars, cheap organs, experimentation with psychedelic effects and surreal lyricism, and a retained emphasis on raw energy and the pop song format.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Garage Psych",
+      "url": "https://rateyourmusic.com/genre/garage-psych/",
+      "description": "Emerged from mid-1960s US Garage Rock; characterised by fuzz guitars, cheap organs, experimentation with psychedelic effects and surreal lyricism, and a retained emphasis on raw energy and the pop song format.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Heavy Psych",
+      "url": "https://rateyourmusic.com/genre/heavy-psych/",
+      "description": "Developed in the late 1960s with influence from Blues Rock, such as heavy dependence on riffs and willingness to improvise, adding crushing levels of heaviness with thick fuzzy guitars to create a doomy and morose atmosphere.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Heavy Psych",
+      "url": "https://rateyourmusic.com/genre/heavy-psych/",
+      "description": "Developed in the late 1960s with influence from Blues Rock, such as heavy dependence on riffs and willingness to improvise, adding crushing levels of heaviness with thick fuzzy guitars to create a doomy and morose atmosphere.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Raga Rock",
+      "url": "https://rateyourmusic.com/genre/raga-rock/",
+      "description": "Influenced by South Asian Music, featuring a droning compositional quality and commonly incorporating instruments like sitar, tambura, and tablas.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Raga Rock",
+      "url": "https://rateyourmusic.com/genre/raga-rock/",
+      "description": "Influenced by South Asian Music, featuring a droning compositional quality and commonly incorporating instruments like sitar, tambura, and tablas.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Space Rock",
+      "url": "https://rateyourmusic.com/genre/space-rock/",
+      "description": "Heavy use of synthesizers and guitar effects to create dense atmospheric soundscapes intended to evoke images of outer space and science fiction scenarios.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Space Rock",
+      "url": "https://rateyourmusic.com/genre/space-rock/",
+      "description": "Heavy use of synthesizers and guitar effects to create dense atmospheric soundscapes intended to evoke images of outer space and science fiction scenarios.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Xian Psych",
+      "url": "https://rateyourmusic.com/genre/xian-psych/",
+      "description": "Portrays Christian and biblical themes through a surreal, transcendent atmosphere, occasionally drawing influence from Christian Liturgical Music.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Xian Psych",
+      "url": "https://rateyourmusic.com/genre/xian-psych/",
+      "description": "Portrays Christian and biblical themes through a surreal, transcendent atmosphere, occasionally drawing influence from Christian Liturgical Music.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Zamrock",
+      "url": "https://rateyourmusic.com/genre/zamrock/",
+      "description": "Developed in the Copperbelt region of Zambia in the 1970s, characterized by its blend of local sounds with influence from Funk, Hard Rock, and Blues Rock.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    },
+    {
+      "name": "Zamrock",
+      "url": "https://rateyourmusic.com/genre/zamrock/",
+      "description": "Developed in the Copperbelt region of Zambia in the 1970s, characterized by its blend of local sounds with influence from Funk, Hard Rock, and Blues Rock.",
+      "level": "sub-2",
+      "parent": "Psychedelic Rock"
+    }
+  ]
+}

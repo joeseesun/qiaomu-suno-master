@@ -1,0 +1,17 @@
+{
+  "name": "San Francisco Sound",
+  "description": "Influential Psychedelic Rock scene that developed out of Folk Rock in the mid 1960s; often emphasized atypical chord progressions and instrumental improvisation in the form of roving basslines and “cross-talking” guitars.",
+  "url": "https://rateyourmusic.com/genre/san-francisco-sound/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Haight-Ashbury Scene",
+      "url": "https://rateyourmusic.com/genre/haight-ashbury-scene/",
+      "description": "Influential Psychedelic Rock scene which emerged by summer 1966 in the Haight-Ashbury district of San Francisco and peaked in terms of notoriety by summer 1967, coinciding with a massive influx of visitors, media interest, and ensuing commercialisation.",
+      "level": "sub-2",
+      "parent": "San Francisco Sound"
+    }
+  ]
+}

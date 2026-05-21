@@ -1,0 +1,38 @@
+{
+  "name": "Garage House",
+  "description": "Disco-influenced style of House that developed in the 1980s, incorporating elements of Gospel, Soul, and Dub, before evolving into a more upbeat style that prominently features crisp syncopated hi-hats and synth stabs.",
+  "url": "https://rateyourmusic.com/genre/garage-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Gospel House",
+      "url": "https://rateyourmusic.com/genre/gospel-house/",
+      "description": "Incorporates heavy Gospel elements and singing borrowed from classic and contemporary gospel, usually in the form of choir vocals and call-and-response chants.",
+      "level": "sub-4",
+      "parent": "Garage House"
+    },
+    {
+      "name": "Gospel House",
+      "url": "https://rateyourmusic.com/genre/gospel-house/",
+      "description": "Incorporates heavy Gospel elements and singing borrowed from classic and contemporary gospel, usually in the form of choir vocals and call-and-response chants.",
+      "level": "sub-4",
+      "parent": "Garage House"
+    },
+    {
+      "name": "Jersey Sound",
+      "url": "https://rateyourmusic.com/genre/jersey-sound/",
+      "description": "Soulful, melodic, Gospel-infused House music developed in Newark, NJ in the late 1980s and early 1990s with an emphasis on songcraft.",
+      "level": "sub-4",
+      "parent": "Garage House"
+    },
+    {
+      "name": "Jersey Sound",
+      "url": "https://rateyourmusic.com/genre/jersey-sound/",
+      "description": "Soulful, melodic, Gospel-infused House music developed in Newark, NJ in the late 1980s and early 1990s with an emphasis on songcraft.",
+      "level": "sub-4",
+      "parent": "Garage House"
+    }
+  ]
+}

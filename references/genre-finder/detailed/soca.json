@@ -1,0 +1,45 @@
+{
+  "name": "Soca",
+  "description": "Upbeat, poppy and danceable style rooted in Calypso and Indo-Caribbean Music; developed in the late 1960s and early 1970s in Trinidad and Tobago.",
+  "url": "https://rateyourmusic.com/genre/soca/",
+  "parent": "Caribbean Music",
+  "level": "sub-2",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Bashment Soca",
+      "url": "https://rateyourmusic.com/genre/bashment-soca/",
+      "description": "Highly energetic, Dancehall-influenced form of Soca developed in Barbados featuring dancefloor-oriented lyrics delivered in an aggressive chanting style.",
+      "level": "sub-3",
+      "parent": "Soca"
+    },
+    {
+      "name": "Chutney Soca",
+      "url": "https://rateyourmusic.com/genre/chutney-soca/",
+      "description": "Mixture of Soca rhythms with Chutney's Indo-Caribbean traits and instrumentation.",
+      "level": "sub-3",
+      "parent": "Soca"
+    },
+    {
+      "name": "Dennery Segment",
+      "url": "https://rateyourmusic.com/genre/dennery-segment/",
+      "description": "Developed in Saint Lucia in the early 2010s; heavily influenced by Angolan Kuduro, as well as incorporating elements of Zouk and Lucian drums alongside suggestive lyrics usually sung in Kwéyòl (Saint Lucian Creole).",
+      "level": "sub-3",
+      "parent": "Soca"
+    },
+    {
+      "name": "Power Soca",
+      "url": "https://rateyourmusic.com/genre/power-soca/",
+      "description": "Often at a tempo of 160 BPM and incorporating hard, frantic rhythms, highly synthesized production, and call-and-response vocals.",
+      "level": "sub-3",
+      "parent": "Soca"
+    },
+    {
+      "name": "Rapso",
+      "url": "https://rateyourmusic.com/genre/rapso/",
+      "description": "Fusion of Soca and Hip Hop unique to Trinidad and Tobago.",
+      "level": "sub-3",
+      "parent": "Soca"
+    }
+  ]
+}

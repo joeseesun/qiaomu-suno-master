@@ -1,0 +1,17 @@
+{
+  "name": "Swing",
+  "description": "Distinctive rhythm and large backing rhythm section over which solos are performed.",
+  "url": "https://rateyourmusic.com/genre/swing/",
+  "parent": "Jazz",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Swing Revival",
+      "url": "https://rateyourmusic.com/genre/swing-revival/",
+      "description": "Born out of 1990s alternative music; sometimes incorporating elements from newer genres such as Rockabilly, Ska, and Punk Rock.",
+      "level": "sub-2",
+      "parent": "Swing"
+    }
+  ]
+}

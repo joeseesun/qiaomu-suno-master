@@ -1,0 +1,99 @@
+{
+  "name": "Country",
+  "description": "American genre derived from Southern and Appalachian forms of American Folk Music and later Rock and Pop influences, with a focus on the life and culture of rural America.",
+  "url": "https://rateyourmusic.com/genre/country/",
+  "sub_genres_count": 13,
+  "sub_genres": [
+    {
+      "name": "Alt-Country",
+      "url": "https://rateyourmusic.com/genre/alt-country/",
+      "description": "Arose in the 1980s and 1990s, performed by artists with roots in Alternative Rock and Indie Rock who were disconnected from the mainstream Country industry.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Bluegrass",
+      "url": "https://rateyourmusic.com/genre/bluegrass/",
+      "description": "Born in the Appalachian region of the United States during the late 1930s, characterized by fingerpicked banjo along with other traditional instruments.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Contemporary Country",
+      "url": "https://rateyourmusic.com/genre/contemporary-country/",
+      "description": "Incorporates both heavily Pop-influenced styles, and the more pop-averse movement of Neo-Traditionalist Country.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Country & Irish",
+      "url": "https://rateyourmusic.com/genre/country-and-irish/",
+      "description": "Developed in Ireland; combines North American Country with Irish Folk Music influences, often in the form of traditional Irish songs that have been adapted into country numbers.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Country Boogie",
+      "url": "https://rateyourmusic.com/genre/country-boogie/",
+      "description": "Uptempo style built around the Boogie Woogie rhythm, with strong beats and prominent electric guitar leads, made popular in the 1940s.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Country Folk",
+      "url": "https://rateyourmusic.com/genre/country-folk/",
+      "description": "Emphasises Traditional Country instrumentation as well as influences from contemporary Singer-Songwriter traditions, such as a gentler disposition and prominent lyrical storytelling focus.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Country Pop",
+      "url": "https://rateyourmusic.com/genre/country-pop/",
+      "description": "Combination of Country with Pop to appeal to a larger audience.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Honky Tonk",
+      "url": "https://rateyourmusic.com/genre/honky-tonk/",
+      "description": "Upbeat style that retains much of the common instrumentation of Traditional Country, as well as featuring prominent guitars (especially the steel guitar), strong backbeats and lyrics commonly about the working-class life.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Nashville Sound",
+      "url": "https://rateyourmusic.com/genre/nashville-sound/",
+      "description": "Production style characterized by smooth vocals over a relaxed ensemble of guitars and rhythm section, and variously incorporating elements from other styles of Country and Pop.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Progressive Country",
+      "url": "https://rateyourmusic.com/genre/progressive-country/",
+      "description": "Blend of traditionalist Country styles with elements of Rock, Contemporary Folk, and other countercultural genres; characterized by realistic, self-reflective lyrics and non-traditional songwriting and production elements.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Traditional Country",
+      "url": "https://rateyourmusic.com/genre/traditional-country/",
+      "description": "Closely aligned with American Folk Music and Blues roots, from country's inception in Appalachia and the American South until the popularity of Honky Tonk and Country Pop in the 1950s.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Western",
+      "url": "https://rateyourmusic.com/genre/western-2/",
+      "description": "Reflects and portrays the lifestyles of cowboys and other settlers of the Western United States through both Traditional Folk Music and popular song.",
+      "level": "sub",
+      "parent": "Country"
+    },
+    {
+      "name": "Western Swing",
+      "url": "https://rateyourmusic.com/genre/western-swing/",
+      "description": "Blend of Traditional Country string instrumentation with the driving rhythms of Jazz and regional dance traditions, often prominently featuring fiddle and steel guitar.",
+      "level": "sub",
+      "parent": "Country"
+    }
+  ]
+}

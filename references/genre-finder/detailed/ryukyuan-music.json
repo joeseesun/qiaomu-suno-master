@@ -1,0 +1,24 @@
+{
+  "name": "Ryukyuan Music",
+  "description": "Music of the Ryukyuan people of the Ryukyu Islands in the southwest of Japan.",
+  "url": "https://rateyourmusic.com/genre/ryukyuan-music/",
+  "parent": "East Asian Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Amami shimauta",
+      "url": "https://rateyourmusic.com/genre/amami-shimauta/",
+      "description": "Tradition from the Amami Islands, located in southern Japan.",
+      "level": "sub-4",
+      "parent": "Ryukyuan Music"
+    },
+    {
+      "name": "Okinawan Music",
+      "url": "https://rateyourmusic.com/genre/okinawan-music/",
+      "description": "Music of the Okinawa Islands in Japan.",
+      "level": "sub-4",
+      "parent": "Ryukyuan Music"
+    }
+  ]
+}

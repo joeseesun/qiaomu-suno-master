@@ -1,0 +1,17 @@
+{
+  "name": "Modal Jazz",
+  "description": "Utilizes musical modes as harmonic framework over traditionally used chord progressions.",
+  "url": "https://rateyourmusic.com/genre/modal-jazz/",
+  "parent": "Jazz",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Jazz Mugham",
+      "url": "https://rateyourmusic.com/genre/jazz-mugham/",
+      "description": "Combines Jazz with elements of Azerbaijani Mugham, featuring jazz-inspired instrumental compositions, improvisations, wind and vocal elements, as well as modal scales and ornamentation techniques for emotional depth.",
+      "level": "sub-2",
+      "parent": "Modal Jazz"
+    }
+  ]
+}

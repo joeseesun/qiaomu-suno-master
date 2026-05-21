@@ -1,0 +1,24 @@
+{
+  "name": "Dungeon Synth",
+  "description": "Focuses on evoking epic and atmospheric soundscapes primarily associated with fantasy and medieval settings through the usage of synthesizers, keyboards, lo-fi production, and drum machines.",
+  "url": "https://rateyourmusic.com/genre/dungeon-synth/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Comfy Synth",
+      "url": "https://rateyourmusic.com/genre/comfy-synth/",
+      "description": "Calm, peaceful and soothing sounds, as well as nostalgic, sentimental, or childish atmospheres and aesthetics; often incorporates wholesome themes while utilizing lo-fi or hazy recordings and influences from New Age.",
+      "level": "sub-2",
+      "parent": "Dungeon Synth"
+    },
+    {
+      "name": "Winter Synth",
+      "url": "https://rateyourmusic.com/genre/winter-synth/",
+      "description": "Cold, minimalistic, and repetitive soundscapes, commonly invoking imagery of winter.",
+      "level": "sub-2",
+      "parent": "Dungeon Synth"
+    }
+  ]
+}

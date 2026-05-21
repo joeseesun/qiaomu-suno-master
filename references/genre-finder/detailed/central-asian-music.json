@@ -1,0 +1,150 @@
+{
+  "name": "Central Asian Music",
+  "description": "Music of the former Soviet Central Asian republics, Mongolia, Western China and related neighbouring peoples.",
+  "url": "https://rateyourmusic.com/genre/central-asian-music/",
+  "parent": "Asian Music",
+  "level": "sub-2",
+  "children_count": 20,
+  "children": [
+    {
+      "name": "Altai Music",
+      "url": "https://rateyourmusic.com/genre/altai-music/",
+      "description": "Music of the Altai people, an ethnic group who live in central Russia near the border of Mongolia and Kazakhstan.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Balochi Music",
+      "url": "https://rateyourmusic.com/genre/balochi-music/",
+      "description": "Music of the Baloch people.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Bashkir Folk Music",
+      "url": "https://rateyourmusic.com/genre/bashkir-folk-music/",
+      "description": "Traditional folk of the Bashkir people, a Turkic ethnic group inhabiting the Republic of Bashkortostan (Bashkiria), a federal subject of the Russian Federation, and its neighboring areas on both sides of the Ural mountains.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Burushaski Folk Music",
+      "url": "https://rateyourmusic.com/genre/burushaski-folk-music/",
+      "description": "Traditional Folk Music of the Burusho people of northern Pakistan.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Central Asian Throat Singing",
+      "url": "https://rateyourmusic.com/genre/central-asian-throat-singing/",
+      "description": "Shared polyphonic vocal tradition of Mongolia and southern Siberia characterised by complex manipulation of harmonics.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Hazara Folk Music",
+      "url": "https://rateyourmusic.com/genre/hazara-folk-music/",
+      "description": "Folk music of the Hazara people, mainly native to central Afghanistan.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Karakalpak Traditional Music",
+      "url": "https://rateyourmusic.com/genre/karakalpak-traditional-music/",
+      "description": "Traditions of the Karakalpak people, located in northwestern Uzbekistan.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Kazakh Music",
+      "url": "https://rateyourmusic.com/genre/kazakh-music/",
+      "description": "Music of the Kazakhs.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Khakas Traditional Music",
+      "url": "https://rateyourmusic.com/genre/khakas-traditional-music/",
+      "description": "Traditions of the Khakas Republic (part of the Russian Federation), a form of Turkic music related to the musics of neighboring Tuva, Altai and Mongolia.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Kyrgyz Traditional Music",
+      "url": "https://rateyourmusic.com/genre/kyrgyz-traditional-music/",
+      "description": "Traditions of Kyrgyzstan, a mountainous nation in Central Asia.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Mongolian Music",
+      "url": "https://rateyourmusic.com/genre/mongolian-music/",
+      "description": "Music of the Mongols.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Pamiri Music",
+      "url": "https://rateyourmusic.com/genre/pamiri-music/",
+      "description": "Music of the Pamiri people native to the Badakhshan region in the Pamir Mountains.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Pashto Folk Music",
+      "url": "https://rateyourmusic.com/genre/pashto-folk-music/",
+      "description": "Traditional Folk Music of the Pashtun people of southern Afghanistan and north-western Pakistan.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Shashmaqam",
+      "url": "https://rateyourmusic.com/genre/shashmaqam/",
+      "description": "Modal suite that brings together lyrical and instrumental songs, poetry, and dance shared by Tajik Music and Uzbek Music.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Sufiana kalam",
+      "url": "https://rateyourmusic.com/genre/sufiana-kalam/",
+      "description": "Classical music from Kashmir, the northernmost part of the Indian subcontinent.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Tajik Music",
+      "url": "https://rateyourmusic.com/genre/tajik-music/",
+      "description": "Music of the Tajik people.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Tibetan Music",
+      "url": "https://rateyourmusic.com/genre/tibetan-music/",
+      "description": "Traditional and modern music of the Tibetan peoples, mainly produced in Tibet and also practiced in Bhutan, Nepal, and northern India, and influential on the traditions of Burma.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Turkmen Music",
+      "url": "https://rateyourmusic.com/genre/turkmen-music/",
+      "description": "Music of the Turkmen people.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Uyghur Music",
+      "url": "https://rateyourmusic.com/genre/uyghur-music/",
+      "description": "Music of the Uyghur people native to Xinjiang in western China.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    },
+    {
+      "name": "Uzbek Music",
+      "url": "https://rateyourmusic.com/genre/uzbek-music/",
+      "description": "Music of the Uzbek people.",
+      "level": "sub-3",
+      "parent": "Central Asian Music"
+    }
+  ]
+}

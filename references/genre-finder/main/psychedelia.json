@@ -1,0 +1,71 @@
+{
+  "name": "Psychedelia",
+  "description": "Umbrella of styles intended to replicate or enhance the altered state of consciousness brought on by the use of psychedelic drugs, originating in the 1960s.",
+  "url": "https://rateyourmusic.com/genre/psychedelia/",
+  "sub_genres_count": 9,
+  "sub_genres": [
+    {
+      "name": "Neo-Psychedelia",
+      "url": "https://rateyourmusic.com/genre/neo-psychedelia/",
+      "description": "Developments in Psychedelia since the early 1980s, building on the drug-inspired styles developed in the 1960s.",
+      "level": "sub",
+      "parent": "Psychedelia"
+    },
+    {
+      "name": "Psychedelic Folk",
+      "url": "https://rateyourmusic.com/genre/psychedelic-folk/",
+      "description": "Acoustic forms that capture an atmosphere that is at turns dream-like, 'spaced-out', whimsical, haunting, mystical, and melancholic.",
+      "level": "sub",
+      "parent": "Psychedelia"
+    },
+    {
+      "name": "Psychedelic Pop",
+      "url": "https://rateyourmusic.com/genre/psychedelic-pop/",
+      "description": "Combines unconventional instrumentation with studio effects to create a psychedelic atmosphere within melodic Pop music.",
+      "level": "sub",
+      "parent": "Psychedelia"
+    },
+    {
+      "name": "Psychedelic Rock",
+      "url": "https://rateyourmusic.com/genre/psychedelic-rock/",
+      "description": "Rock which emerged in the mid-1960s that often attempts to emulate or enhance the effects of psychedelic drugs.",
+      "level": "sub",
+      "parent": "Psychedelia"
+    },
+    {
+      "name": "Psychedelic Soul",
+      "url": "https://rateyourmusic.com/genre/psychedelic-soul/",
+      "description": "Soul which incorporates the effects and instrumentation of Psychedelic Rock.",
+      "level": "sub",
+      "parent": "Psychedelia"
+    },
+    {
+      "name": "Psychsploitation",
+      "url": "https://rateyourmusic.com/genre/psychsploitation/",
+      "description": "Short-lived genre seeking to capitalise on the popularity of Psychedelia in the 1960s, featuring quickly and cheaply recorded material played by session musicians and put out by budget labels.",
+      "level": "sub",
+      "parent": "Psychedelia"
+    },
+    {
+      "name": "Stoner Metal",
+      "url": "https://rateyourmusic.com/genre/stoner-metal/",
+      "description": "Combines elements of Doom Metal with elements of Psychedelic Rock and Blues Rock to create a melodic yet heavy sound.",
+      "level": "sub",
+      "parent": "Psychedelia"
+    },
+    {
+      "name": "Stoner Rock",
+      "url": "https://rateyourmusic.com/genre/stoner-rock/",
+      "description": "Psychedelic timbres, raw production, and stylistic influence from Doom Metal and Heavy Psych.",
+      "level": "sub",
+      "parent": "Psychedelia"
+    },
+    {
+      "name": "Tropicália",
+      "url": "https://rateyourmusic.com/genre/tropicalia/",
+      "description": "Blends Brazilian popular styles with the influence of Anglo-American Psychedelia; emerged as part of Brazil's late-1960s counterculture.",
+      "level": "sub",
+      "parent": "Psychedelia"
+    }
+  ]
+}

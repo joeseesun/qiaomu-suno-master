@@ -1,0 +1,31 @@
+{
+  "name": "Amapiano",
+  "description": "House from South Africa deriving from previous popular genres including Gqom, Kwaito, and Deep House.",
+  "url": "https://rateyourmusic.com/genre/amapiano/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Afropiano",
+      "url": "https://rateyourmusic.com/genre/afropiano/",
+      "description": "Blends the easy-going, poppy, and melodic Afrobeats sound and rhythms with major Amapiano elements, like lush, jazzy, and laid-back atmospheres often featuring light piano chords.",
+      "level": "sub-4",
+      "parent": "Amapiano"
+    },
+    {
+      "name": "Afropiano",
+      "url": "https://rateyourmusic.com/genre/afropiano/",
+      "description": "Blends the easy-going, poppy, and melodic Afrobeats sound and rhythms with major Amapiano elements, like lush, jazzy, and laid-back atmospheres often featuring light piano chords.",
+      "level": "sub-4",
+      "parent": "Amapiano"
+    },
+    {
+      "name": "Afropiano",
+      "url": "https://rateyourmusic.com/genre/afropiano/",
+      "description": "Blends the easy-going, poppy, and melodic Afrobeats sound and rhythms with major Amapiano elements, like lush, jazzy, and laid-back atmospheres often featuring light piano chords.",
+      "level": "sub-4",
+      "parent": "Amapiano"
+    }
+  ]
+}

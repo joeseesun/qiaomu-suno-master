@@ -1,0 +1,17 @@
+{
+  "name": "Rockabilly",
+  "description": "Blends the sound of Country with that of Rhythm & Blues, often accompanied by driving guitars, frantic vocals, and slap-back echo in the bass.",
+  "url": "https://rateyourmusic.com/genre/rockabilly/",
+  "parent": "Rock & Roll",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Psychobilly",
+      "url": "https://rateyourmusic.com/genre/psychobilly/",
+      "description": "Cross-pollination of Punk Rock and Rockabilly.",
+      "level": "sub-3",
+      "parent": "Rockabilly"
+    }
+  ]
+}

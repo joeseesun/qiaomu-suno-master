@@ -1,0 +1,31 @@
+{
+  "name": "Pacific Reggae",
+  "description": "Developed in Pacific island communities, incorporating elements from local Oceanian Music styles.",
+  "url": "https://rateyourmusic.com/genre/pacific-reggae/",
+  "parent": "Reggae",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Jawaiian",
+      "url": "https://rateyourmusic.com/genre/jawaiian/",
+      "description": "Hawaiian branch of Reggae, typically blends local traditional melodies, harmonies, incorporating specialty instruments such as ukulele and steel guitar.",
+      "level": "sub-3",
+      "parent": "Pacific Reggae"
+    },
+    {
+      "name": "Jawaiian",
+      "url": "https://rateyourmusic.com/genre/jawaiian/",
+      "description": "Hawaiian branch of Reggae, typically blends local traditional melodies, harmonies, incorporating specialty instruments such as ukulele and steel guitar.",
+      "level": "sub-5",
+      "parent": "Pacific Reggae"
+    },
+    {
+      "name": "Jawaiian",
+      "url": "https://rateyourmusic.com/genre/jawaiian/",
+      "description": "Hawaiian branch of Reggae, typically blends local traditional melodies, harmonies, incorporating specialty instruments such as ukulele and steel guitar.",
+      "level": "sub-3",
+      "parent": "Pacific Reggae"
+    }
+  ]
+}

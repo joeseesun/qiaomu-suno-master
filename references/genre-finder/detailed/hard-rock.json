@@ -1,0 +1,38 @@
+{
+  "name": "Hard Rock",
+  "description": "Originated in the mid-to-late 1960s from Psychedelic Rock and Blues Rock with a heavy sound characterized by distorted guitars and power chords.",
+  "url": "https://rateyourmusic.com/genre/hard-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Glam Metal",
+      "url": "https://rateyourmusic.com/genre/glam-metal/",
+      "description": "Very catchy hooks and guitar riffs, sing-along choruses, and lyrics often glamorizing the \"sex, drugs and rock & roll\" lifestyle.",
+      "level": "sub-2",
+      "parent": "Hard Rock"
+    },
+    {
+      "name": "Heavy Psych",
+      "url": "https://rateyourmusic.com/genre/heavy-psych/",
+      "description": "Developed in the late 1960s with influence from Blues Rock, such as heavy dependence on riffs and willingness to improvise, adding crushing levels of heaviness with thick fuzzy guitars to create a doomy and morose atmosphere.",
+      "level": "sub-2",
+      "parent": "Hard Rock"
+    },
+    {
+      "name": "Occult Rock",
+      "url": "https://rateyourmusic.com/genre/occult-rock/",
+      "description": "Dark and psychedelic atmosphere with lyrical references to esoteric subjects such as occultism, Satanism, fantasy, and horror; closely associated sonically and culturally with Heavy Metal and its offshoots.",
+      "level": "sub-2",
+      "parent": "Hard Rock"
+    },
+    {
+      "name": "Stoner Rock",
+      "url": "https://rateyourmusic.com/genre/stoner-rock/",
+      "description": "Psychedelic timbres, raw production, and stylistic influence from Doom Metal and Heavy Psych.",
+      "level": "sub-2",
+      "parent": "Hard Rock"
+    }
+  ]
+}

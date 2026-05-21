@@ -1,0 +1,80 @@
+{
+  "name": "Javanese Music",
+  "description": "Music of the Javanese people.",
+  "url": "https://rateyourmusic.com/genre/javanese-music/",
+  "parent": "Indonesian Music",
+  "level": "sub-4",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Bantengan",
+      "url": "https://rateyourmusic.com/genre/bantengan/",
+      "description": "Traditional costumed animal dance with possession ritual features from eastern Java, accompanied by percussive music using the large jidor drum.",
+      "level": "sub-5",
+      "parent": "Javanese Music"
+    },
+    {
+      "name": "Bantengan",
+      "url": "https://rateyourmusic.com/genre/bantengan/",
+      "description": "Traditional costumed animal dance with possession ritual features from eastern Java, accompanied by percussive music using the large jidor drum.",
+      "level": "sub-3",
+      "parent": "Javanese Music"
+    },
+    {
+      "name": "Campursari",
+      "url": "https://rateyourmusic.com/genre/campursari/",
+      "description": "Javanese form of popular music originating as a mixture of local Gamelan with Western elements.",
+      "level": "sub-5",
+      "parent": "Javanese Music"
+    },
+    {
+      "name": "Campursari",
+      "url": "https://rateyourmusic.com/genre/campursari/",
+      "description": "Javanese form of popular music originating as a mixture of local Gamelan with Western elements.",
+      "level": "sub-3",
+      "parent": "Javanese Music"
+    },
+    {
+      "name": "Javanese Gamelan",
+      "url": "https://rateyourmusic.com/genre/javanese-gamelan/",
+      "description": "Broad classification grouping Gamelan genres native to Javanese culture.",
+      "level": "sub-5",
+      "parent": "Javanese Music"
+    },
+    {
+      "name": "Javanese Gamelan",
+      "url": "https://rateyourmusic.com/genre/javanese-gamelan/",
+      "description": "Broad classification grouping Gamelan genres native to Javanese culture.",
+      "level": "sub-3",
+      "parent": "Javanese Music"
+    },
+    {
+      "name": "Kuda kepang",
+      "url": "https://rateyourmusic.com/genre/kuda-kepang/",
+      "description": "Accompanies a traditional Javanese dance of the same name, featuring a stripped-back version of a Gamelan ensemble that removes softer instruments.",
+      "level": "sub-5",
+      "parent": "Javanese Music"
+    },
+    {
+      "name": "Kuda kepang",
+      "url": "https://rateyourmusic.com/genre/kuda-kepang/",
+      "description": "Accompanies a traditional Javanese dance of the same name, featuring a stripped-back version of a Gamelan ensemble that removes softer instruments.",
+      "level": "sub-3",
+      "parent": "Javanese Music"
+    },
+    {
+      "name": "Langgam Jawa",
+      "url": "https://rateyourmusic.com/genre/langgam-jawa/",
+      "description": "Solonese development of Keroncong using a Javanese Gamelan scale known as pélog.",
+      "level": "sub-5",
+      "parent": "Javanese Music"
+    },
+    {
+      "name": "Langgam Jawa",
+      "url": "https://rateyourmusic.com/genre/langgam-jawa/",
+      "description": "Solonese development of Keroncong using a Javanese Gamelan scale known as pélog.",
+      "level": "sub-3",
+      "parent": "Javanese Music"
+    }
+  ]
+}

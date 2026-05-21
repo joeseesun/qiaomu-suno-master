@@ -1,0 +1,150 @@
+{
+  "name": "Grindcore",
+  "description": "Brief and intense song structures featuring a plethora of blast beats, down-tuned and tremolo-picked guitars, and abrasive, usually raw production.",
+  "url": "https://rateyourmusic.com/genre/grindcore/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 20,
+  "children": [
+    {
+      "name": "Cybergrind",
+      "url": "https://rateyourmusic.com/genre/cybergrind/",
+      "description": "Standard conventions of Grindcore taken to an even more discordant and rapid-fire extreme, with added Electronic dimensions of computer-generated noises and drum machines.",
+      "level": "sub-2",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Cybergrind",
+      "url": "https://rateyourmusic.com/genre/cybergrind/",
+      "description": "Standard conventions of Grindcore taken to an even more discordant and rapid-fire extreme, with added Electronic dimensions of computer-generated noises and drum machines.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Cybergrind",
+      "url": "https://rateyourmusic.com/genre/cybergrind/",
+      "description": "Standard conventions of Grindcore taken to an even more discordant and rapid-fire extreme, with added Electronic dimensions of computer-generated noises and drum machines.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Cybergrind",
+      "url": "https://rateyourmusic.com/genre/cybergrind/",
+      "description": "Standard conventions of Grindcore taken to an even more discordant and rapid-fire extreme, with added Electronic dimensions of computer-generated noises and drum machines.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Deathgrind",
+      "url": "https://rateyourmusic.com/genre/deathgrind/",
+      "description": "Combines the intensity and high-pitched screams of Grindcore with the technicality and low guttural vocals of Death Metal.",
+      "level": "sub-2",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Deathgrind",
+      "url": "https://rateyourmusic.com/genre/deathgrind/",
+      "description": "Combines the intensity and high-pitched screams of Grindcore with the technicality and low guttural vocals of Death Metal.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Deathgrind",
+      "url": "https://rateyourmusic.com/genre/deathgrind/",
+      "description": "Combines the intensity and high-pitched screams of Grindcore with the technicality and low guttural vocals of Death Metal.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Deathgrind",
+      "url": "https://rateyourmusic.com/genre/deathgrind/",
+      "description": "Combines the intensity and high-pitched screams of Grindcore with the technicality and low guttural vocals of Death Metal.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Goregrind",
+      "url": "https://rateyourmusic.com/genre/goregrind/",
+      "description": "Death Metal-influenced riffs with rhythms ranging from very fast to slower mid-tempos correlated with pitch-shifted vocals, sloppy playing and production, and gore-themed aesthetics.",
+      "level": "sub-2",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Goregrind",
+      "url": "https://rateyourmusic.com/genre/goregrind/",
+      "description": "Death Metal-influenced riffs with rhythms ranging from very fast to slower mid-tempos correlated with pitch-shifted vocals, sloppy playing and production, and gore-themed aesthetics.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Goregrind",
+      "url": "https://rateyourmusic.com/genre/goregrind/",
+      "description": "Death Metal-influenced riffs with rhythms ranging from very fast to slower mid-tempos correlated with pitch-shifted vocals, sloppy playing and production, and gore-themed aesthetics.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Goregrind",
+      "url": "https://rateyourmusic.com/genre/goregrind/",
+      "description": "Death Metal-influenced riffs with rhythms ranging from very fast to slower mid-tempos correlated with pitch-shifted vocals, sloppy playing and production, and gore-themed aesthetics.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Mincecore",
+      "url": "https://rateyourmusic.com/genre/mincecore/",
+      "description": "Raw and simplistic with heavy reliance on Punk structures while including political and socially aware themes.",
+      "level": "sub-2",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Mincecore",
+      "url": "https://rateyourmusic.com/genre/mincecore/",
+      "description": "Raw and simplistic with heavy reliance on Punk structures while including political and socially aware themes.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Mincecore",
+      "url": "https://rateyourmusic.com/genre/mincecore/",
+      "description": "Raw and simplistic with heavy reliance on Punk structures while including political and socially aware themes.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Mincecore",
+      "url": "https://rateyourmusic.com/genre/mincecore/",
+      "description": "Raw and simplistic with heavy reliance on Punk structures while including political and socially aware themes.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Noisegrind",
+      "url": "https://rateyourmusic.com/genre/noisegrind/",
+      "description": "Noise-driven, defined by its rawness, feedback usage, and very brief song structures.",
+      "level": "sub-2",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Noisegrind",
+      "url": "https://rateyourmusic.com/genre/noisegrind/",
+      "description": "Noise-driven, defined by its rawness, feedback usage, and very brief song structures.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Noisegrind",
+      "url": "https://rateyourmusic.com/genre/noisegrind/",
+      "description": "Noise-driven, defined by its rawness, feedback usage, and very brief song structures.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    },
+    {
+      "name": "Noisegrind",
+      "url": "https://rateyourmusic.com/genre/noisegrind/",
+      "description": "Noise-driven, defined by its rawness, feedback usage, and very brief song structures.",
+      "level": "sub-3",
+      "parent": "Grindcore"
+    }
+  ]
+}

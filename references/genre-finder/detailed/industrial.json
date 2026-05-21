@@ -1,0 +1,24 @@
+{
+  "name": "Industrial",
+  "description": "Emerged out of Punk and avant-garde art movements in the mid-1970s, often characterized by a bleak, mechanical atmosphere, the use of metallic percussion as well as other unconventional instruments, and extensive use of sampling influenced by Musique concrète.",
+  "url": "https://rateyourmusic.com/genre/industrial/",
+  "parent": "Experimental",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Power Electronics",
+      "url": "https://rateyourmusic.com/genre/power-electronics/",
+      "description": "Waves of feedback, screeching analog synthesizers, and harsh, screamed vocals.",
+      "level": "sub-2",
+      "parent": "Industrial"
+    },
+    {
+      "name": "Power Electronics",
+      "url": "https://rateyourmusic.com/genre/power-electronics/",
+      "description": "Waves of feedback, screeching analog synthesizers, and harsh, screamed vocals.",
+      "level": "sub-2",
+      "parent": "Industrial"
+    }
+  ]
+}

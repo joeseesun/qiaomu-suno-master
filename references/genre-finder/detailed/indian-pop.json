@@ -1,0 +1,24 @@
+{
+  "name": "Indian Pop",
+  "description": "Commonly based out of India, Pakistan and Bangladesh and almost always sung in Hindi, Urdu or Bengali, implements South Asian Music in context of American and European Pop and Rock music.",
+  "url": "https://rateyourmusic.com/genre/indian-pop/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Bhojpuri Pop",
+      "url": "https://rateyourmusic.com/genre/bhojpuri-pop/",
+      "description": "Modernized pop-folk variant of Bhojpuri Folk Music.",
+      "level": "sub-2",
+      "parent": "Indian Pop"
+    },
+    {
+      "name": "Bhojpuri Pop",
+      "url": "https://rateyourmusic.com/genre/bhojpuri-pop/",
+      "description": "Modernized pop-folk variant of Bhojpuri Folk Music.",
+      "level": "sub-4",
+      "parent": "Indian Pop"
+    }
+  ]
+}

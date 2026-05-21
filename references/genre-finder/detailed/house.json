@@ -1,0 +1,682 @@
+{
+  "name": "House",
+  "description": "Generally features a four-on-the-floor beat within 110-140 BPM, a groove built on swing and syncopation, synthesized basslines, repetitive melodic elements, and an upbeat mood.",
+  "url": "https://rateyourmusic.com/genre/house/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 96,
+  "children": [
+    {
+      "name": "Acid House",
+      "url": "https://rateyourmusic.com/genre/acid-house/",
+      "description": "Emerged in the mid-1980s, characterised by repetitive basslines created with the distinctive modulated \"squelching\" sound of the Roland TB-303 synthesiser.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Acid House",
+      "url": "https://rateyourmusic.com/genre/acid-house/",
+      "description": "Emerged in the mid-1980s, characterised by repetitive basslines created with the distinctive modulated \"squelching\" sound of the Roland TB-303 synthesiser.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Afro House",
+      "url": "https://rateyourmusic.com/genre/afro-house/",
+      "description": "Emerged by fusing Deep House with Southern African Music, characterized by hypnotizing drum patterns of shakers and congas, often sampled African vocals or soulful original features, and spiritual, organic, melodic atmosphere.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Afro House",
+      "url": "https://rateyourmusic.com/genre/afro-house/",
+      "description": "Emerged by fusing Deep House with Southern African Music, characterized by hypnotizing drum patterns of shakers and congas, often sampled African vocals or soulful original features, and spiritual, organic, melodic atmosphere.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Amapiano",
+      "url": "https://rateyourmusic.com/genre/amapiano/",
+      "description": "House from South Africa deriving from previous popular genres including Gqom, Kwaito, and Deep House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Amapiano",
+      "url": "https://rateyourmusic.com/genre/amapiano/",
+      "description": "House from South Africa deriving from previous popular genres including Gqom, Kwaito, and Deep House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Ambient House",
+      "url": "https://rateyourmusic.com/genre/ambient-house/",
+      "description": "Primarily British genre developed in the 1990s with beats, synthesizers, and vocals in styles similar to House, treated with effects that are often described as \"dream-like\" or \"chilled out\".",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Ambient House",
+      "url": "https://rateyourmusic.com/genre/ambient-house/",
+      "description": "Primarily British genre developed in the 1990s with beats, synthesizers, and vocals in styles similar to House, treated with effects that are often described as \"dream-like\" or \"chilled out\".",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Ballroom",
+      "url": "https://rateyourmusic.com/genre/ballroom/",
+      "description": "Emerging from the predominantly Black and LGBT Harlem ballroom culture, it is characterized by hard-hitting rhythms, generally improvised chanting by MCs known as commentators, and a distinctive crash sample.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Ballroom",
+      "url": "https://rateyourmusic.com/genre/ballroom/",
+      "description": "Emerging from the predominantly Black and LGBT Harlem ballroom culture, it is characterized by hard-hitting rhythms, generally improvised chanting by MCs known as commentators, and a distinctive crash sample.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Baltimore Club",
+      "url": "https://rateyourmusic.com/genre/baltimore-club/",
+      "description": "Drew on the \"booty bass\" syncopation of Miami Bass, combined with Breakbeat rhythms around 130 BPM and chopped up vocal samples as found in Ghetto House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Baltimore Club",
+      "url": "https://rateyourmusic.com/genre/baltimore-club/",
+      "description": "Drew on the \"booty bass\" syncopation of Miami Bass, combined with Breakbeat rhythms around 130 BPM and chopped up vocal samples as found in Ghetto House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Bass House",
+      "url": "https://rateyourmusic.com/genre/bass-house/",
+      "description": "Busy, punchy percussion, prominent basslines and dirty, distorted synths resembling other bass music genres, with influences including Brostep, Fidget House, Bassline, Speed Garage, and Tech House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Bass House",
+      "url": "https://rateyourmusic.com/genre/bass-house/",
+      "description": "Busy, punchy percussion, prominent basslines and dirty, distorted synths resembling other bass music genres, with influences including Brostep, Fidget House, Bassline, Speed Garage, and Tech House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Bassline",
+      "url": "https://rateyourmusic.com/genre/bassline/",
+      "description": "Strong emphasis on intricate basslines as well as four-on-the-floor beat patterns.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Bassline",
+      "url": "https://rateyourmusic.com/genre/bassline/",
+      "description": "Strong emphasis on intricate basslines as well as four-on-the-floor beat patterns.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Big Room House",
+      "url": "https://rateyourmusic.com/genre/big-room-house/",
+      "description": "Energetic, festival-oriented style characterized by heavy reverb, intense build-ups, strong kicks, minimalistic drop melodies, and sparse, raw breakdowns.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Big Room House",
+      "url": "https://rateyourmusic.com/genre/big-room-house/",
+      "description": "Energetic, festival-oriented style characterized by heavy reverb, intense build-ups, strong kicks, minimalistic drop melodies, and sparse, raw breakdowns.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Brazilian Bass",
+      "url": "https://rateyourmusic.com/genre/brazilian-bass/",
+      "description": "Originated in the 2010s in Brazil, taking influences from Deep House and Tech House, characterized by deep, punchy basslines making use of detuning and filtering effects.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Brazilian Bass",
+      "url": "https://rateyourmusic.com/genre/brazilian-bass/",
+      "description": "Originated in the 2010s in Brazil, taking influences from Deep House and Tech House, characterized by deep, punchy basslines making use of detuning and filtering effects.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Bubbling House",
+      "url": "https://rateyourmusic.com/genre/bubbling-house/",
+      "description": "Developed in the Netherlands in the 2000s, combining the older style of Bubbling with more modern House, especially Dutch House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Bubbling House",
+      "url": "https://rateyourmusic.com/genre/bubbling-house/",
+      "description": "Developed in the Netherlands in the 2000s, combining the older style of Bubbling with more modern House, especially Dutch House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Changa tuki",
+      "url": "https://rateyourmusic.com/genre/changa-tuki/",
+      "description": "Emerged in Caracas; highly influenced by 1990s Techno and Tribal House, featuring fast tempos, strident synthesizers, hard-thumping percussion lines, and plenty of breakbeats.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Changa tuki",
+      "url": "https://rateyourmusic.com/genre/changa-tuki/",
+      "description": "Emerged in Caracas; highly influenced by 1990s Techno and Tribal House, featuring fast tempos, strident synthesizers, hard-thumping percussion lines, and plenty of breakbeats.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Chicago Hard House",
+      "url": "https://rateyourmusic.com/genre/chicago-hard-house/",
+      "description": "Originated from Chicago around the mid-1990s as a development of Ghetto House, emphasizing hard-hitting, off-beat drum patterns, fast tempos, and lack of melodies.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Chicago Hard House",
+      "url": "https://rateyourmusic.com/genre/chicago-hard-house/",
+      "description": "Originated from Chicago around the mid-1990s as a development of Ghetto House, emphasizing hard-hitting, off-beat drum patterns, fast tempos, and lack of melodies.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Chicago House",
+      "url": "https://rateyourmusic.com/genre/chicago-house/",
+      "description": "Umbrella term for a broad variety of House that originated from Chicago in the (mostly mid-to-late) 1980s and early 90s.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Chicago House",
+      "url": "https://rateyourmusic.com/genre/chicago-house/",
+      "description": "Umbrella term for a broad variety of House that originated from Chicago in the (mostly mid-to-late) 1980s and early 90s.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Deep House",
+      "url": "https://rateyourmusic.com/genre/deep-house/",
+      "description": "Emerged in the United States during the mid-1980s, featuring a relaxed tempo and influences from Jazz, Funk, and Soul.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Deep House",
+      "url": "https://rateyourmusic.com/genre/deep-house/",
+      "description": "Emerged in the United States during the mid-1980s, featuring a relaxed tempo and influences from Jazz, Funk, and Soul.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Diva House",
+      "url": "https://rateyourmusic.com/genre/diva-house/",
+      "description": "Dominant, anthemic female vocals, common use of piano stabs, and energetic, driving four-on-the-floor rhythms.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Diva House",
+      "url": "https://rateyourmusic.com/genre/diva-house/",
+      "description": "Dominant, anthemic female vocals, common use of piano stabs, and energetic, driving four-on-the-floor rhythms.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Electro House",
+      "url": "https://rateyourmusic.com/genre/electro-house/",
+      "description": "Warm analog basslines, punchy percussion, crisp high-pitched synthesizer leads, and clipped vocal samples.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Electro House",
+      "url": "https://rateyourmusic.com/genre/electro-house/",
+      "description": "Warm analog basslines, punchy percussion, crisp high-pitched synthesizer leads, and clipped vocal samples.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Eletrofunk",
+      "url": "https://rateyourmusic.com/genre/eletrofunk/",
+      "description": "Blends Funk brasileiro vocals with production from popular late 2000s and early 2010s House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Eletrofunk",
+      "url": "https://rateyourmusic.com/genre/eletrofunk/",
+      "description": "Blends Funk brasileiro vocals with production from popular late 2000s and early 2010s House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Euro House",
+      "url": "https://rateyourmusic.com/genre/euro-house/",
+      "description": "Vocal-focused style emerging in the late 1980s in Europe, developing in parallel with Eurodance.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Euro House",
+      "url": "https://rateyourmusic.com/genre/euro-house/",
+      "description": "Vocal-focused style emerging in the late 1980s in Europe, developing in parallel with Eurodance.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Festival Progressive House",
+      "url": "https://rateyourmusic.com/genre/festival-progressive-house/",
+      "description": "Uplifting, melodic, energetic but clean drops, featuring modern supersaws and pianos, taking influences from Progressive House, Uplifting Trance, but applying them to a form structurally closer to Big Room House and Electro House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Festival Progressive House",
+      "url": "https://rateyourmusic.com/genre/festival-progressive-house/",
+      "description": "Uplifting, melodic, energetic but clean drops, featuring modern supersaws and pianos, taking influences from Progressive House, Uplifting Trance, but applying them to a form structurally closer to Big Room House and Electro House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "French House",
+      "url": "https://rateyourmusic.com/genre/french-house/",
+      "description": "Originated in France in the mid-1990s, characterized by the use of filtered (low-pass, phaser, etc.) samples of Funk and Disco.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "French House",
+      "url": "https://rateyourmusic.com/genre/french-house/",
+      "description": "Originated in France in the mid-1990s, characterized by the use of filtered (low-pass, phaser, etc.) samples of Funk and Disco.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Funky House",
+      "url": "https://rateyourmusic.com/genre/funky-house/",
+      "description": "Funky, warm, catchy basslines on top of looped Funk or Disco samples, resulting in an upbeat, bouncy, and pacy groove.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Funky House",
+      "url": "https://rateyourmusic.com/genre/funky-house/",
+      "description": "Funky, warm, catchy basslines on top of looped Funk or Disco samples, resulting in an upbeat, bouncy, and pacy groove.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Future Funk",
+      "url": "https://rateyourmusic.com/genre/future-funk/",
+      "description": "Sample-based form of House which formed out of Vaporwave in the early 2010s.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Future Funk",
+      "url": "https://rateyourmusic.com/genre/future-funk/",
+      "description": "Sample-based form of House which formed out of Vaporwave in the early 2010s.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Future House",
+      "url": "https://rateyourmusic.com/genre/future-house/",
+      "description": "Features distinctive metallic-sounding drops and frequency-modulated basslines at around 120-130 BPM.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Future House",
+      "url": "https://rateyourmusic.com/genre/future-house/",
+      "description": "Features distinctive metallic-sounding drops and frequency-modulated basslines at around 120-130 BPM.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "G-House",
+      "url": "https://rateyourmusic.com/genre/g-house/",
+      "description": "Deep, dark form of House music that primarily incorporates rap samples or original rapping on top of minimal, bassy beats.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "G-House",
+      "url": "https://rateyourmusic.com/genre/g-house/",
+      "description": "Deep, dark form of House music that primarily incorporates rap samples or original rapping on top of minimal, bassy beats.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Garage House",
+      "url": "https://rateyourmusic.com/genre/garage-house/",
+      "description": "Disco-influenced style of House that developed in the 1980s, incorporating elements of Gospel, Soul, and Dub, before evolving into a more upbeat style that prominently features crisp syncopated hi-hats and synth stabs.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Garage House",
+      "url": "https://rateyourmusic.com/genre/garage-house/",
+      "description": "Disco-influenced style of House that developed in the 1980s, incorporating elements of Gospel, Soul, and Dub, before evolving into a more upbeat style that prominently features crisp syncopated hi-hats and synth stabs.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Ghetto House",
+      "url": "https://rateyourmusic.com/genre/ghetto-house/",
+      "description": "Rough sound based around minimal drum machine-driven tracks and heavy usage of vocal samples.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Ghetto House",
+      "url": "https://rateyourmusic.com/genre/ghetto-house/",
+      "description": "Rough sound based around minimal drum machine-driven tracks and heavy usage of vocal samples.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Gqom",
+      "url": "https://rateyourmusic.com/genre/gqom/",
+      "description": "Evolved from South African House, specifically Kwaito; often described as a more minimal and raw version.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Gqom",
+      "url": "https://rateyourmusic.com/genre/gqom/",
+      "description": "Evolved from South African House, specifically Kwaito; often described as a more minimal and raw version.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Hip House",
+      "url": "https://rateyourmusic.com/genre/hip-house/",
+      "description": "Incorporates production elements of early Hip Hop and usually rapping into 1980s House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Hip House",
+      "url": "https://rateyourmusic.com/genre/hip-house/",
+      "description": "Incorporates production elements of early Hip Hop and usually rapping into 1980s House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Italo House",
+      "url": "https://rateyourmusic.com/genre/italo-house/",
+      "description": "Originated in Italy during the late 1980s, making use of anthemic pianos, diva vocals, and Dance-Pop song structures.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Italo House",
+      "url": "https://rateyourmusic.com/genre/italo-house/",
+      "description": "Originated in Italy during the late 1980s, making use of anthemic pianos, diva vocals, and Dance-Pop song structures.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Jackin' House",
+      "url": "https://rateyourmusic.com/genre/jackin-house/",
+      "description": "Punchy, 'shuffly' percussion, strong grooves, funky basslines, and chopped-up samples.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Jackin' House",
+      "url": "https://rateyourmusic.com/genre/jackin-house/",
+      "description": "Punchy, 'shuffly' percussion, strong grooves, funky basslines, and chopped-up samples.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Kwaito",
+      "url": "https://rateyourmusic.com/genre/kwaito/",
+      "description": "Emerged from South Africa in the early 1990s, taking influence from Disco and Hip Hop.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Kwaito",
+      "url": "https://rateyourmusic.com/genre/kwaito/",
+      "description": "Emerged from South Africa in the early 1990s, taking influence from Disco and Hip Hop.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Latin House",
+      "url": "https://rateyourmusic.com/genre/latin-house/",
+      "description": "Incorporates elements of Latin music (various Hispanic American Music and Brazilian Music genres), including their melodies, vocals, and instruments, as well as additional Latin percussion.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Latin House",
+      "url": "https://rateyourmusic.com/genre/latin-house/",
+      "description": "Incorporates elements of Latin music (various Hispanic American Music and Brazilian Music genres), including their melodies, vocals, and instruments, as well as additional Latin percussion.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Melodic House",
+      "url": "https://rateyourmusic.com/genre/melodic-house/",
+      "description": "Arpeggiated synth lines, focus on a chilled and laid-back atmosphere, and influence from genres such as Progressive House and Deep House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Melodic House",
+      "url": "https://rateyourmusic.com/genre/melodic-house/",
+      "description": "Arpeggiated synth lines, focus on a chilled and laid-back atmosphere, and influence from genres such as Progressive House and Deep House.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Microhouse",
+      "url": "https://rateyourmusic.com/genre/microhouse/",
+      "description": "Stripped-down, minimal form of House, originating in the late 90s, which takes influence from Minimal Techno, Glitch and IDM.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Microhouse",
+      "url": "https://rateyourmusic.com/genre/microhouse/",
+      "description": "Stripped-down, minimal form of House, originating in the late 90s, which takes influence from Minimal Techno, Glitch and IDM.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Organic House",
+      "url": "https://rateyourmusic.com/genre/organic-house/",
+      "description": "Subtle drums and grooves, slow tempos, and acoustic, traditional instrumentation, resulting in an organic, warm sound and spiritual atmosphere.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Organic House",
+      "url": "https://rateyourmusic.com/genre/organic-house/",
+      "description": "Subtle drums and grooves, slow tempos, and acoustic, traditional instrumentation, resulting in an organic, warm sound and spiritual atmosphere.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Outsider House",
+      "url": "https://rateyourmusic.com/genre/outsider-house/",
+      "description": "Mostly derived from Deep House; intentional use of rough, lo-fi production, often utilizing a mix of analog/analog-like and digital instrumentation.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Outsider House",
+      "url": "https://rateyourmusic.com/genre/outsider-house/",
+      "description": "Mostly derived from Deep House; intentional use of rough, lo-fi production, often utilizing a mix of analog/analog-like and digital instrumentation.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Phonk House",
+      "url": "https://rateyourmusic.com/genre/phonk-house/",
+      "description": "Merges Drift Phonk's nocturnal atmospheres, cowbell melodies, vocal samples, and energetic production, with House rhythms and tempos, characterized by a banging and upbeat sound.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Phonk House",
+      "url": "https://rateyourmusic.com/genre/phonk-house/",
+      "description": "Merges Drift Phonk's nocturnal atmospheres, cowbell melodies, vocal samples, and energetic production, with House rhythms and tempos, characterized by a banging and upbeat sound.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Progressive House",
+      "url": "https://rateyourmusic.com/genre/progressive-house/",
+      "description": "Trance-influenced strain of House that grew to prominence in the early 1990s, using polished production and gradual progressions.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Progressive House",
+      "url": "https://rateyourmusic.com/genre/progressive-house/",
+      "description": "Trance-influenced strain of House that grew to prominence in the early 1990s, using polished production and gradual progressions.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Romanian Popcorn",
+      "url": "https://rateyourmusic.com/genre/romanian-popcorn/",
+      "description": "Emerged in the second half of the 2000s in Romania, often featuring brass melodies and \"staccato\" pluck grooves.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Romanian Popcorn",
+      "url": "https://rateyourmusic.com/genre/romanian-popcorn/",
+      "description": "Emerged in the second half of the 2000s in Romania, often featuring brass melodies and \"staccato\" pluck grooves.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Speed Garage",
+      "url": "https://rateyourmusic.com/genre/speed-garage/",
+      "description": "Primarily British style that paved the way for UK Garage, combining cut-up vocal samples and sped up four-on-the-floor Garage House rhythms with Jungle-esque basslines.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Speed Garage",
+      "url": "https://rateyourmusic.com/genre/speed-garage/",
+      "description": "Primarily British style that paved the way for UK Garage, combining cut-up vocal samples and sped up four-on-the-floor Garage House rhythms with Jungle-esque basslines.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Stutter House",
+      "url": "https://rateyourmusic.com/genre/stutter-house/",
+      "description": "Emerged in the 2020s taking influences from Melodic House, Trance, and Future Garage; features distinctive chopping of vocal samples and pads.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Stutter House",
+      "url": "https://rateyourmusic.com/genre/stutter-house/",
+      "description": "Emerged in the 2020s taking influences from Melodic House, Trance, and Future Garage; features distinctive chopping of vocal samples and pads.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Tech House",
+      "url": "https://rateyourmusic.com/genre/tech-house/",
+      "description": "Emerged in the mid-1990s taking influences from Techno, broadly characterized by minimalistic and repetitive melodies, focus on the bassline, and constant groove recognizable by prominent off-beat hi-hats.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Tech House",
+      "url": "https://rateyourmusic.com/genre/tech-house/",
+      "description": "Emerged in the mid-1990s taking influences from Techno, broadly characterized by minimalistic and repetitive melodies, focus on the bassline, and constant groove recognizable by prominent off-beat hi-hats.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Tribal House",
+      "url": "https://rateyourmusic.com/genre/tribal-house/",
+      "description": "Prominent, syncopated rhythms of tribal drums such as toms and bongos on top of a House beat, usually resulting in a percussive, energetic sound, while ranging in mood.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Tribal House",
+      "url": "https://rateyourmusic.com/genre/tribal-house/",
+      "description": "Prominent, syncopated rhythms of tribal drums such as toms and bongos on top of a House beat, usually resulting in a percussive, energetic sound, while ranging in mood.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Tropical House",
+      "url": "https://rateyourmusic.com/genre/tropical-house/",
+      "description": "Offshoot of Deep House featuring slow tempos around 100-115 BPM, light percussion and acoustic instrumentation, setting out to create a relaxed, summery, beach-like atmosphere.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Tropical House",
+      "url": "https://rateyourmusic.com/genre/tropical-house/",
+      "description": "Offshoot of Deep House featuring slow tempos around 100-115 BPM, light percussion and acoustic instrumentation, setting out to create a relaxed, summery, beach-like atmosphere.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "UK Hard House",
+      "url": "https://rateyourmusic.com/genre/uk-hard-house/",
+      "description": "Defined by offbeat bass patterns, compressed 909-style drums, buildup-drop structures, hoover sounds, and tempos between 120 and 155 BPM.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "UK Hard House",
+      "url": "https://rateyourmusic.com/genre/uk-hard-house/",
+      "description": "Defined by offbeat bass patterns, compressed 909-style drums, buildup-drop structures, hoover sounds, and tempos between 120 and 155 BPM.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "UK Jackin'",
+      "url": "https://rateyourmusic.com/genre/uk-jackin/",
+      "description": "Successor to British Bassline, characterized by strong basslines, dark atmospheres, and dominant grooves.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "UK Jackin'",
+      "url": "https://rateyourmusic.com/genre/uk-jackin/",
+      "description": "Successor to British Bassline, characterized by strong basslines, dark atmospheres, and dominant grooves.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Vinahouse",
+      "url": "https://rateyourmusic.com/genre/vinahouse/",
+      "description": "Fast-paced House popular in Vietnam, remixing Vietnamese melodies.",
+      "level": "sub-3",
+      "parent": "House"
+    },
+    {
+      "name": "Vinahouse",
+      "url": "https://rateyourmusic.com/genre/vinahouse/",
+      "description": "Fast-paced House popular in Vietnam, remixing Vietnamese melodies.",
+      "level": "sub-3",
+      "parent": "House"
+    }
+  ]
+}

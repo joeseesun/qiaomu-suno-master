@@ -1,0 +1,325 @@
+{
+  "name": "Western Classical Music",
+  "description": "Broad range of art music associated with the aristocracy that originated in Europe around 500 AD.",
+  "url": "https://rateyourmusic.com/genre/western-classical-music/",
+  "parent": "Classical Music",
+  "level": "sub",
+  "children_count": 45,
+  "children": [
+    {
+      "name": "Art Song",
+      "url": "https://rateyourmusic.com/genre/art-song/",
+      "description": "Vocal music with text often set to Poetry, typically for single vocalist with instrumental accompaniment, distinguished by its design for concert recital and high artistic demands requiring classically trained musicians.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Bagatelle",
+      "url": "https://rateyourmusic.com/genre/bagatelle/",
+      "description": "Brief composition with an unpretentious, playful sound.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Ballet",
+      "url": "https://rateyourmusic.com/genre/ballet/",
+      "description": "Western art music, often Orchestral Music, written to accompany classical dance productions of the same name.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Baroque Music",
+      "url": "https://rateyourmusic.com/genre/baroque-music/",
+      "description": "Constant rhythmic flow, or a steady motion throughout, generally focusing on a single melodic idea and including some form of counterpoint.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Baroque Suite",
+      "url": "https://rateyourmusic.com/genre/baroque-suite/",
+      "description": "Collection of varied dance pieces, usually in the same key, structured on the music of European courtly dances.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Brazilian Classical Music",
+      "url": "https://rateyourmusic.com/genre/brazilian-classical-music/",
+      "description": "Originated in the late 19th century, taking the European music that had been brought to the country by colonists and brought in parts of Brazilian Music.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Byzantine Music",
+      "url": "https://rateyourmusic.com/genre/byzantine-music/",
+      "description": "Music from Byzantine era.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Cantata",
+      "url": "https://rateyourmusic.com/genre/cantata/",
+      "description": "Vocal style for solo singers with instrumental & Choral accompaniment comparable to Oratorio, though often smaller in scale, more songlike, and with less focus on dramatic narrative.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Canzona",
+      "url": "https://rateyourmusic.com/genre/canzona/",
+      "description": "Song-like structures and a contrapuntal texture technique known as imitation.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Capriccio",
+      "url": "https://rateyourmusic.com/genre/capriccio/",
+      "description": "Typically short and loosely structured, characterized by spontaneity, humor, and technicality.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Chamber Music",
+      "url": "https://rateyourmusic.com/genre/chamber-music/",
+      "description": "Western Classical Music performed by a small ensemble, usually only a few performers.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Character Piece",
+      "url": "https://rateyourmusic.com/genre/character-piece/",
+      "description": "Broad instrumental genre, usually for solo piano, written to evoke an extramusical concept or mood.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Choral",
+      "url": "https://rateyourmusic.com/genre/choral/",
+      "description": "Choir-sung classical works covering periods from medieval music (an early form being Gregorian Chant) up to present day.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Cinematic Classical",
+      "url": "https://rateyourmusic.com/genre/cinematic-classical/",
+      "description": "Orchestral compositions generally associated with soundtracks to modern high-budget films, games, and other non-live media.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Classic Ragtime",
+      "url": "https://rateyourmusic.com/genre/classic-ragtime/",
+      "description": "Draws on the complexity and formal structures of Western Classical Music, cycling through multiple strains (themes); emerged from Missouri's Sedalia school.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Classical Period",
+      "url": "https://rateyourmusic.com/genre/classical-period/",
+      "description": "Refers to the phase in Western Classical Music history occurring from roughly 1750 to 1820, characterized by its emphasis on clarity, simplicity, and balance.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Concerto",
+      "url": "https://rateyourmusic.com/genre/concerto/",
+      "description": "Multi-movement classical works for one or more soloists and an ensemble.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Divertissement",
+      "url": "https://rateyourmusic.com/genre/divertissement/",
+      "description": "Straightforward tuneful music historically written to serve as light entertainment for events or as interstitial movements within larger theatrical works.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "English Pastoral School",
+      "url": "https://rateyourmusic.com/genre/english-pastoral-school/",
+      "description": "Early 20th-century English classical composers turning to English folk and pastoral influences.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Fantasia",
+      "url": "https://rateyourmusic.com/genre/fantasia/",
+      "description": "Free-form, improvisational, and with contrasting sectional writing, sometimes based on preexisting melodies and generally meant to evoke a sense of imaginative exploration.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Fugue",
+      "url": "https://rateyourmusic.com/genre/fugue/",
+      "description": "Contrapuntal composition and technique for a fixed numbers of musical voices; following the imitations of one main theme.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Impromptu",
+      "url": "https://rateyourmusic.com/genre/impromptu/",
+      "description": "Composition written to sound like a spur-of-the-moment improvisation.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Latin American Classical Music",
+      "url": "https://rateyourmusic.com/genre/latin-american-classical-music/",
+      "description": "Western Classical Music with influences from Hispanic American Music.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Light Music",
+      "url": "https://rateyourmusic.com/genre/light-music/",
+      "description": "Instrumental, typically through-composed style performed by an orchestra or small ensemble, with simpler arrangements and an emphasis on strong melodies.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Madrigal",
+      "url": "https://rateyourmusic.com/genre/madrigal/",
+      "description": "Secular polyphonic music based around poetry and generally performed by unaccompanied vocal ensembles of two to eight persons.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Medieval Classical Music",
+      "url": "https://rateyourmusic.com/genre/medieval-classical-music/",
+      "description": "Composed during the Medieval period lasted approximately from the 5th to the late 15th centuries.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Modern Classical",
+      "url": "https://rateyourmusic.com/genre/modern-classical/",
+      "description": "Multitude of different compositional approaches beginning in the 20th century that deviate significantly from the previously-held tenets.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Motet",
+      "url": "https://rateyourmusic.com/genre/motet/",
+      "description": "Extremely diverse form of vocal music, usually written as a style of Polyphonic Chant for A cappella soloists or choir.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Neoclassicism",
+      "url": "https://rateyourmusic.com/genre/neoclassicism/",
+      "description": "Return to the more formal and less expansive structures and forms, beginning shortly after World War I as a reaction to what some composers perceived as excesses of Romanticism.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Opera",
+      "url": "https://rateyourmusic.com/genre/opera/",
+      "description": "European tradition which combines drama and distinctive vocal style in the context of Western Classical Music, usually performed as a theatrical work on stage.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Oratorio",
+      "url": "https://rateyourmusic.com/genre/oratorio/",
+      "description": "Composition for vocal soloists, choir, and orchestra, often making use of a comprehensive textbook of contemplative nature.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Orchestral Music",
+      "url": "https://rateyourmusic.com/genre/orchestral-music/",
+      "description": "Western Classical Music performed by an orchestra.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Overture",
+      "url": "https://rateyourmusic.com/genre/overture/",
+      "description": "Typically single-movement form akin to the Tone Poem written as the prelude to a larger work or in association with a programmatic concept.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Passion",
+      "url": "https://rateyourmusic.com/genre/passion/",
+      "description": "Musical re-enactment of the suffering and crucifixion of Christ, typically based on one of the four canonical Gospels.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Prelude",
+      "url": "https://rateyourmusic.com/genre/prelude/",
+      "description": "Brief work with an improvisatory feeling, usually for keyboard, that serves either as a standalone piece or an introduction to a complimentary work of music.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Renaissance Music",
+      "url": "https://rateyourmusic.com/genre/renaissance-music/",
+      "description": "Encompasses Western Classical Music from the 15th to 16th centuries.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Ricercar",
+      "url": "https://rateyourmusic.com/genre/ricercar/",
+      "description": "Early instrumental genre, usually for solo lute or keyboard, written either as a brief introductory work or imitative contrapuntal piece.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Roman School",
+      "url": "https://rateyourmusic.com/genre/roman-school/",
+      "description": "Composers of primarily Christian Liturgical Music active in Rome in the 16th and 17th centuries, developing a musically conservative compositional style seen as appropriate for church performance.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Romanticism",
+      "url": "https://rateyourmusic.com/genre/romanticism/",
+      "description": "Expressive and emotional qualities, especially in terms of melody.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Serenade",
+      "url": "https://rateyourmusic.com/genre/serenade/",
+      "description": "Light, tuneful, and relatively straightforward music historically associated with outdoor entertainment for evening gatherings.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Sonata",
+      "url": "https://rateyourmusic.com/genre/sonata/",
+      "description": "Broad instrumental genre for one to three soloists that has changed significantly throughout its history, now typically a suite of four or fewer contrasting movements, at least one of which is written in sonata form.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Spanish Classical Music",
+      "url": "https://rateyourmusic.com/genre/spanish-classical-music/",
+      "description": "Incorporation of Spanish Music within the context of Western Classical Music, particularly characterized by the use of the classical guitar.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Theme and Variation",
+      "url": "https://rateyourmusic.com/genre/theme-and-variation/",
+      "description": "Main theme followed by a number of variations on the theme.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Toccata",
+      "url": "https://rateyourmusic.com/genre/toccata/",
+      "description": "Virtuoso piece, usually for solo keyboard or plucked string instrument, characterized by its free rhythm, rapid fingerwork, and contrasting sectional writing.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    },
+    {
+      "name": "Étude",
+      "url": "https://rateyourmusic.com/genre/etude/",
+      "description": "Composition written to both showcase & sharpen a particular playing or compositional technique, often requiring great skill from its performers.",
+      "level": "sub-2",
+      "parent": "Western Classical Music"
+    }
+  ]
+}

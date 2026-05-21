@@ -1,0 +1,52 @@
+{
+  "name": "Yoruba Music",
+  "description": "Music of the Yoruba people of southwestern Nigeria and Benin, comprising a variety of ancient and modern traditions crucial to West African Music.",
+  "url": "https://rateyourmusic.com/genre/yoruba-music/",
+  "parent": "West African Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Apala",
+      "url": "https://rateyourmusic.com/genre/apala/",
+      "description": "Yoruba Music developed by Muslims during the late 1930s and early 1940s in the Ijebu region of Yorubaland, the current Ogun state.",
+      "level": "sub-4",
+      "parent": "Yoruba Music"
+    },
+    {
+      "name": "Fuji",
+      "url": "https://rateyourmusic.com/genre/fuji/",
+      "description": "Combines the ajisaari/wéré tradition of improvisational music performed during Ramadan with other Islamic styles like Apala and sakara.",
+      "level": "sub-4",
+      "parent": "Yoruba Music"
+    },
+    {
+      "name": "Jùjú",
+      "url": "https://rateyourmusic.com/genre/juju/",
+      "description": "Yoruba Music that emerged during the 1920s in urban settings across Nigeria, especially in Lagos.",
+      "level": "sub-4",
+      "parent": "Yoruba Music"
+    },
+    {
+      "name": "Santería Music",
+      "url": "https://rateyourmusic.com/genre/santeria-music/",
+      "description": "Afro-Cuban genre played in religious rituals, combining traditions from both the Cuban and the Yorùbá people.",
+      "level": "sub-4",
+      "parent": "Yoruba Music"
+    },
+    {
+      "name": "Waka",
+      "url": "https://rateyourmusic.com/genre/waka/",
+      "description": "Islamic Yoruba Music originally rooted in Hausa traditions and adopted by the Yoruba in the early 19th century.",
+      "level": "sub-4",
+      "parent": "Yoruba Music"
+    },
+    {
+      "name": "Yoruba Folk Opera",
+      "url": "https://rateyourmusic.com/genre/yoruba-folk-opera/",
+      "description": "Musical play involving traditional and popular music.",
+      "level": "sub-4",
+      "parent": "Yoruba Music"
+    }
+  ]
+}

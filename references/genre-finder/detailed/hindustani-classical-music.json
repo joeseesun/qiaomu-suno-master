@@ -1,0 +1,122 @@
+{
+  "name": "Hindustani Classical Music",
+  "description": "North Indian traditional music (including parts of Pakistan, Afghanistan, Nepal, Bangladesh, and Bhutan) with roots reaching back to the 12th century CE.",
+  "url": "https://rateyourmusic.com/genre/hindustani-classical-music/",
+  "parent": "South Asian Classical Music",
+  "level": "sub-2",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Dhrupad",
+      "url": "https://rateyourmusic.com/genre/dhrupad/",
+      "description": "Ancient style of classical Hindustani vocal and instrumental music.",
+      "level": "sub-3",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Dhrupad",
+      "url": "https://rateyourmusic.com/genre/dhrupad/",
+      "description": "Ancient style of classical Hindustani vocal and instrumental music.",
+      "level": "sub-5",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Kafi",
+      "url": "https://rateyourmusic.com/genre/kafi/",
+      "description": "Sufi vocal style popular in Pakistan, differentiated from Qawwali by its small ensemble size and simple arrangements.",
+      "level": "sub-3",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Kafi",
+      "url": "https://rateyourmusic.com/genre/kafi/",
+      "description": "Sufi vocal style popular in Pakistan, differentiated from Qawwali by its small ensemble size and simple arrangements.",
+      "level": "sub-5",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Khayal",
+      "url": "https://rateyourmusic.com/genre/khayal/",
+      "description": "Predominant vocal style, often with a significant amount of improvisation.",
+      "level": "sub-3",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Khayal",
+      "url": "https://rateyourmusic.com/genre/khayal/",
+      "description": "Predominant vocal style, often with a significant amount of improvisation.",
+      "level": "sub-5",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Klasik",
+      "url": "https://rateyourmusic.com/genre/klasik/",
+      "description": "Encompassing the various styles of Afghan Classical Music, which diverged from the North Indian styles.",
+      "level": "sub-3",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Klasik",
+      "url": "https://rateyourmusic.com/genre/klasik/",
+      "description": "Encompassing the various styles of Afghan Classical Music, which diverged from the North Indian styles.",
+      "level": "sub-5",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Qawwali",
+      "url": "https://rateyourmusic.com/genre/qawwali/",
+      "description": "Sufi Music in India and Pakistan using the raga and tala templates of Hindustani Classical Music.",
+      "level": "sub-3",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Qawwali",
+      "url": "https://rateyourmusic.com/genre/qawwali/",
+      "description": "Sufi Music in India and Pakistan using the raga and tala templates of Hindustani Classical Music.",
+      "level": "sub-5",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Shabad kirtan",
+      "url": "https://rateyourmusic.com/genre/shabad-kirtan/",
+      "description": "Religious Sikh Hymns backed by specially selected ragas and taal.",
+      "level": "sub-3",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Shabad kirtan",
+      "url": "https://rateyourmusic.com/genre/shabad-kirtan/",
+      "description": "Religious Sikh Hymns backed by specially selected ragas and taal.",
+      "level": "sub-5",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Tarana",
+      "url": "https://rateyourmusic.com/genre/tarana/",
+      "description": "Vocal composition with Persian or Arabic syllables and phonemes.",
+      "level": "sub-3",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Tarana",
+      "url": "https://rateyourmusic.com/genre/tarana/",
+      "description": "Vocal composition with Persian or Arabic syllables and phonemes.",
+      "level": "sub-5",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Thumri",
+      "url": "https://rateyourmusic.com/genre/thumri/",
+      "description": "Hindustani classical style based on North Indian folk literature.",
+      "level": "sub-3",
+      "parent": "Hindustani Classical Music"
+    },
+    {
+      "name": "Thumri",
+      "url": "https://rateyourmusic.com/genre/thumri/",
+      "description": "Hindustani classical style based on North Indian folk literature.",
+      "level": "sub-5",
+      "parent": "Hindustani Classical Music"
+    }
+  ]
+}

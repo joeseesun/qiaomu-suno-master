@@ -1,0 +1,31 @@
+{
+  "name": "Pop Rap",
+  "description": "Fuses Hip Hop's rapping and production traits with Pop elements such as melodious vocals and light, catchy tunes.",
+  "url": "https://rateyourmusic.com/genre/pop-rap/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Bop",
+      "url": "https://rateyourmusic.com/genre/bop/",
+      "description": "Grew out of the Chicago Drill scene in the early 2010s, characterized by autotuned vocals and upbeat synth melodies.",
+      "level": "sub-2",
+      "parent": "Pop Rap"
+    },
+    {
+      "name": "Frat Rap",
+      "url": "https://rateyourmusic.com/genre/frat-rap/",
+      "description": "Light-hearted and laid-back with lyrical focuses on subjects such as partying and college life.",
+      "level": "sub-2",
+      "parent": "Pop Rap"
+    },
+    {
+      "name": "Futuristic Swag",
+      "url": "https://rateyourmusic.com/genre/futuristic-swag/",
+      "description": "Playful, Snap-influenced and party-oriented.",
+      "level": "sub-2",
+      "parent": "Pop Rap"
+    }
+  ]
+}

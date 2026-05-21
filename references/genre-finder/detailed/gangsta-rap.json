@@ -1,0 +1,38 @@
+{
+  "name": "Gangsta Rap",
+  "description": "Lyrics from a gangster's perspective.",
+  "url": "https://rateyourmusic.com/genre/gangsta-rap/",
+  "parent": "Hardcore Hip Hop",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Coke Rap",
+      "url": "https://rateyourmusic.com/genre/coke-rap/",
+      "description": "Lyrics with heavy reference to street-level drug dealing, specifically cocaine.",
+      "level": "sub-3",
+      "parent": "Gangsta Rap"
+    },
+    {
+      "name": "Mafioso Rap",
+      "url": "https://rateyourmusic.com/genre/mafioso-rap/",
+      "description": "Themed around organized crime, particularly the Mafia, often featuring cinematic production and lavish aesthetics.",
+      "level": "sub-3",
+      "parent": "Gangsta Rap"
+    },
+    {
+      "name": "Road Rap",
+      "url": "https://rateyourmusic.com/genre/road-rap/",
+      "description": "Emerged in the mid 2000s from Brixton and Peckham featuring abrasive tones, prominent Grime influence, and lyrics depicting circumstances of street gang violence in the UK.",
+      "level": "sub-3",
+      "parent": "Gangsta Rap"
+    },
+    {
+      "name": "Scam Rap",
+      "url": "https://rateyourmusic.com/genre/scam-rap/",
+      "description": "Lyrics that focus on various forms of fraudulent activities.",
+      "level": "sub-3",
+      "parent": "Gangsta Rap"
+    }
+  ]
+}

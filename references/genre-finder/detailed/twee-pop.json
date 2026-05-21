@@ -1,0 +1,38 @@
+{
+  "name": "Twee Pop",
+  "description": "Distinct Post-Punk background and often jangling guitars, defined by a cute aesthetic and lyrics combined with an indie/DIY attitude and a simplicity often indebted to Punk Rock.",
+  "url": "https://rateyourmusic.com/genre/twee-pop/",
+  "parent": "Indie Pop",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Cuddlecore",
+      "url": "https://rateyourmusic.com/genre/cuddlecore/",
+      "description": "Rawer and more Punk informed, downplaying jangly guitars in favor of heavier yet still light-hearted tones; often features influence from the contemporary Riot Grrrl movement.",
+      "level": "sub-3",
+      "parent": "Twee Pop"
+    },
+    {
+      "name": "Cuddlecore",
+      "url": "https://rateyourmusic.com/genre/cuddlecore/",
+      "description": "Rawer and more Punk informed, downplaying jangly guitars in favor of heavier yet still light-hearted tones; often features influence from the contemporary Riot Grrrl movement.",
+      "level": "sub-3",
+      "parent": "Twee Pop"
+    },
+    {
+      "name": "Cuddlecore",
+      "url": "https://rateyourmusic.com/genre/cuddlecore/",
+      "description": "Rawer and more Punk informed, downplaying jangly guitars in favor of heavier yet still light-hearted tones; often features influence from the contemporary Riot Grrrl movement.",
+      "level": "sub-4",
+      "parent": "Twee Pop"
+    },
+    {
+      "name": "Cuddlecore",
+      "url": "https://rateyourmusic.com/genre/cuddlecore/",
+      "description": "Rawer and more Punk informed, downplaying jangly guitars in favor of heavier yet still light-hearted tones; often features influence from the contemporary Riot Grrrl movement.",
+      "level": "sub-3",
+      "parent": "Twee Pop"
+    }
+  ]
+}

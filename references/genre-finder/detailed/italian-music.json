@@ -1,0 +1,66 @@
+{
+  "name": "Italian Music",
+  "description": "Music of the Italian people.",
+  "url": "https://rateyourmusic.com/genre/italian-music/",
+  "parent": "European Music",
+  "level": "sub-2",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Canto beneventano",
+      "url": "https://rateyourmusic.com/genre/canto-beneventano/",
+      "description": "Extinct plainchant tradition of Southern Italy characterized by lengthy melodies, extensive use of repetition, and a steady, undulating progression.",
+      "level": "sub-3",
+      "parent": "Italian Music"
+    },
+    {
+      "name": "Canzone d'autore",
+      "url": "https://rateyourmusic.com/genre/canzone-dautore/",
+      "description": "Music of the Italian Singer-Songwriters that emerged in the 1960s and early 1970s, initially influenced by French Chanson with the addition of uniquely Italian sensibilities.",
+      "level": "sub-3",
+      "parent": "Italian Music"
+    },
+    {
+      "name": "Italian Folk Music",
+      "url": "https://rateyourmusic.com/genre/italian-folk-music/",
+      "description": "Folk traditions of Italy.",
+      "level": "sub-3",
+      "parent": "Italian Music"
+    },
+    {
+      "name": "Lauda",
+      "url": "https://rateyourmusic.com/genre/lauda/",
+      "description": "Vernacular, devotional sung poetry, composed in Italy in the late Medieval and Renaissance periods.",
+      "level": "sub-3",
+      "parent": "Italian Music"
+    },
+    {
+      "name": "Old Roman Chant",
+      "url": "https://rateyourmusic.com/genre/old-roman-chant/",
+      "description": "Plainchant tradition of Medieval Rome that was closely related to Gregorian Chant, though often more musically ornate.",
+      "level": "sub-3",
+      "parent": "Italian Music"
+    },
+    {
+      "name": "Opera buffa",
+      "url": "https://rateyourmusic.com/genre/opera-buffa/",
+      "description": "Lighthearted and amusing counterpart to Opera seria; developed in Naples in the first half of the 18th century.",
+      "level": "sub-3",
+      "parent": "Italian Music"
+    },
+    {
+      "name": "Opera semiseria",
+      "url": "https://rateyourmusic.com/genre/opera-semiseria/",
+      "description": "Popular in the early and middle 19th century, containing appeals to emotion of Opera seria as well as some comedy elements present in Opera buffa.",
+      "level": "sub-3",
+      "parent": "Italian Music"
+    },
+    {
+      "name": "Opera seria",
+      "url": "https://rateyourmusic.com/genre/opera-seria/",
+      "description": "Italian Opera popular among European nobility and royalty throughout most of the 18th century, typified by its exaggerated dramatic flair and interspersed with dry recitative.",
+      "level": "sub-3",
+      "parent": "Italian Music"
+    }
+  ]
+}

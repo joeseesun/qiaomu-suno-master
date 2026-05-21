@@ -1,0 +1,31 @@
+{
+  "name": "Somali Music",
+  "description": "Music developed by the Somali people.",
+  "url": "https://rateyourmusic.com/genre/somali-music/",
+  "parent": "Northeastern African Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Belwo",
+      "url": "https://rateyourmusic.com/genre/belwo/",
+      "description": "Somali poems with themes of love and romance and brief, syncopated tunes.",
+      "level": "sub-4",
+      "parent": "Somali Music"
+    },
+    {
+      "name": "Dhaanto",
+      "url": "https://rateyourmusic.com/genre/dhaanto/",
+      "description": "Song and dance that originally featured no instruments, but later transformed into a style featuring prominent rhythms and slow grooves.",
+      "level": "sub-4",
+      "parent": "Somali Music"
+    },
+    {
+      "name": "Qaraami",
+      "url": "https://rateyourmusic.com/genre/qaraami/",
+      "description": "Dates back to the 1940s and carries regional features such as the use of a pentatonic scale and having the oud as the primary instrument.",
+      "level": "sub-4",
+      "parent": "Somali Music"
+    }
+  ]
+}

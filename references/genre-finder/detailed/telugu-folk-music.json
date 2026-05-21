@@ -1,0 +1,31 @@
+{
+  "name": "Telugu Folk Music",
+  "description": "Traditional Folk Music of the Telugu people, one of the largest ethnolinguistic groups of India, mainly living in the states of Andhra Pradesh and Telangana.",
+  "url": "https://rateyourmusic.com/genre/telugu-folk-music/",
+  "parent": "South Asian Folk Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Burrakatha",
+      "url": "https://rateyourmusic.com/genre/burrakatha/",
+      "description": "Traditional form of narrative music, featuring a tambura player paired with two drummers who interrupt the main storyteller to provide additional remarks.",
+      "level": "sub-4",
+      "parent": "Telugu Folk Music"
+    },
+    {
+      "name": "Burrakatha",
+      "url": "https://rateyourmusic.com/genre/burrakatha/",
+      "description": "Traditional form of narrative music, featuring a tambura player paired with two drummers who interrupt the main storyteller to provide additional remarks.",
+      "level": "sub-5",
+      "parent": "Telugu Folk Music"
+    },
+    {
+      "name": "Burrakatha",
+      "url": "https://rateyourmusic.com/genre/burrakatha/",
+      "description": "Traditional form of narrative music, featuring a tambura player paired with two drummers who interrupt the main storyteller to provide additional remarks.",
+      "level": "sub-4",
+      "parent": "Telugu Folk Music"
+    }
+  ]
+}

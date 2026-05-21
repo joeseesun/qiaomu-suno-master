@@ -1,0 +1,31 @@
+{
+  "name": "Tecnobrega",
+  "description": "Fast and electronic-based style that evolved from Brega calypso, particularly associated with peripheral areas of the city of Belém.",
+  "url": "https://rateyourmusic.com/genre/tecnobrega/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Tecnofunk",
+      "url": "https://rateyourmusic.com/genre/tecnofunk/",
+      "description": "Raw and vulgar Tecnobrega and Funk brasileiro fusion developed in the late 2010s by DJs in Belém do Pará.",
+      "level": "sub-2",
+      "parent": "Tecnobrega"
+    },
+    {
+      "name": "Tecnofunk",
+      "url": "https://rateyourmusic.com/genre/tecnofunk/",
+      "description": "Raw and vulgar Tecnobrega and Funk brasileiro fusion developed in the late 2010s by DJs in Belém do Pará.",
+      "level": "sub-5",
+      "parent": "Tecnobrega"
+    },
+    {
+      "name": "Tecnofunk",
+      "url": "https://rateyourmusic.com/genre/tecnofunk/",
+      "description": "Raw and vulgar Tecnobrega and Funk brasileiro fusion developed in the late 2010s by DJs in Belém do Pará.",
+      "level": "sub-5",
+      "parent": "Tecnobrega"
+    }
+  ]
+}

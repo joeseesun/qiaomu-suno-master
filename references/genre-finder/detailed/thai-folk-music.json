@@ -1,0 +1,38 @@
+{
+  "name": "Thai Folk Music",
+  "description": "Traditional Folk Music of the Thai people.",
+  "url": "https://rateyourmusic.com/genre/thai-folk-music/",
+  "parent": "Southeast Asian Folk Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Fon leb",
+      "url": "https://rateyourmusic.com/genre/fon-leb/",
+      "description": "Traditional performance music originating in northern Thailand consist of an ensemble with Piphat instruments and a pair of female choreographers.",
+      "level": "sub-4",
+      "parent": "Thai Folk Music"
+    },
+    {
+      "name": "Fon leb",
+      "url": "https://rateyourmusic.com/genre/fon-leb/",
+      "description": "Traditional performance music originating in northern Thailand consist of an ensemble with Piphat instruments and a pair of female choreographers.",
+      "level": "sub-5",
+      "parent": "Thai Folk Music"
+    },
+    {
+      "name": "Fon leb",
+      "url": "https://rateyourmusic.com/genre/fon-leb/",
+      "description": "Traditional performance music originating in northern Thailand consist of an ensemble with Piphat instruments and a pair of female choreographers.",
+      "level": "sub-5",
+      "parent": "Thai Folk Music"
+    },
+    {
+      "name": "Fon leb",
+      "url": "https://rateyourmusic.com/genre/fon-leb/",
+      "description": "Traditional performance music originating in northern Thailand consist of an ensemble with Piphat instruments and a pair of female choreographers.",
+      "level": "sub-4",
+      "parent": "Thai Folk Music"
+    }
+  ]
+}

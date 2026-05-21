@@ -1,0 +1,17 @@
+{
+  "name": "Soukous",
+  "description": "Danceable, guitar-based style from the Congo area.",
+  "url": "https://rateyourmusic.com/genre/soukous/",
+  "parent": "Central African Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Kwassa kwassa",
+      "url": "https://rateyourmusic.com/genre/kwassa-kwassa/",
+      "description": "Faster form of Soukous that was pioneered in the late 1980s and early 1990s, named after a popular dance.",
+      "level": "sub-4",
+      "parent": "Soukous"
+    }
+  ]
+}

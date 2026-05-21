@@ -1,0 +1,52 @@
+{
+  "name": "Oceanian Music",
+  "description": "Rooted in the traditions of the geographic region of Oceania.",
+  "url": "https://rateyourmusic.com/genre/oceanian-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Australian Folk Music",
+      "url": "https://rateyourmusic.com/genre/australian-folk-music/",
+      "description": "Folk traditions of the European colonists and convicts in Australia.",
+      "level": "sub-2",
+      "parent": "Oceanian Music"
+    },
+    {
+      "name": "Indigenous Australian Traditional Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-australian-traditional-music/",
+      "description": "Traditional Folk Music of Aboriginal Australians and Torres Strait Islanders, collectively known as Indigenous Australians.",
+      "level": "sub-2",
+      "parent": "Oceanian Music"
+    },
+    {
+      "name": "Melanesian Music",
+      "url": "https://rateyourmusic.com/genre/melanesian-music/",
+      "description": "Music of the Oceanian region of Melanesia.",
+      "level": "sub-2",
+      "parent": "Oceanian Music"
+    },
+    {
+      "name": "Micronesian Music",
+      "url": "https://rateyourmusic.com/genre/micronesian-music/",
+      "description": "Music of the Micronesian peoples.",
+      "level": "sub-2",
+      "parent": "Oceanian Music"
+    },
+    {
+      "name": "Pacific Reggae",
+      "url": "https://rateyourmusic.com/genre/pacific-reggae/",
+      "description": "Developed in Pacific island communities, incorporating elements from local Oceanian Music styles.",
+      "level": "sub-2",
+      "parent": "Oceanian Music"
+    },
+    {
+      "name": "Polynesian Music",
+      "url": "https://rateyourmusic.com/genre/polynesian-music/",
+      "description": "Music of Polynesia.",
+      "level": "sub-2",
+      "parent": "Oceanian Music"
+    }
+  ]
+}

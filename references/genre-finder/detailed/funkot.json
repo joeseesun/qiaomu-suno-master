@@ -1,0 +1,24 @@
+{
+  "name": "Funkot",
+  "description": "Fast-paced Indonesian form of Electronic Dance Music that combines Eurodance and Trance synths with the syncopated rhythm from Dangdut koplo.",
+  "url": "https://rateyourmusic.com/genre/funkot/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Breakbeat Kota",
+      "url": "https://rateyourmusic.com/genre/breakbeat-kota/",
+      "description": "Indonesian style that slows down the syncopated rhythms of Funkot to moderate tempos around 130 BPM.",
+      "level": "sub-3",
+      "parent": "Funkot"
+    },
+    {
+      "name": "Breakbeat Kota",
+      "url": "https://rateyourmusic.com/genre/breakbeat-kota/",
+      "description": "Indonesian style that slows down the syncopated rhythms of Funkot to moderate tempos around 130 BPM.",
+      "level": "sub-3",
+      "parent": "Funkot"
+    }
+  ]
+}

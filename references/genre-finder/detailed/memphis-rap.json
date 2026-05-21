@@ -1,0 +1,24 @@
+{
+  "name": "Memphis Rap",
+  "description": "Minimalistic half-time drum machine programming with droning bass, often paired with aggressive rapping and a double time flow.",
+  "url": "https://rateyourmusic.com/genre/memphis-rap/",
+  "parent": "Hardcore Hip Hop",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Dungeon Rap",
+      "url": "https://rateyourmusic.com/genre/dungeon-rap/",
+      "description": "Combines the dark production of Memphis Rap with the fantasy aesthetics and sound design of Dungeon Synth.",
+      "level": "sub-3",
+      "parent": "Memphis Rap"
+    },
+    {
+      "name": "Phonk",
+      "url": "https://rateyourmusic.com/genre/phonk-1/",
+      "description": "Modernized, eclectic take on classic Memphis Rap production, featuring various influences from other Hip Hop genres, especially drum programming inspired by other Southern Hip Hop as well as frequent jazzy, funky elements somewhat akin to West Coast Hip Hop and from Electronic music.",
+      "level": "sub-3",
+      "parent": "Memphis Rap"
+    }
+  ]
+}

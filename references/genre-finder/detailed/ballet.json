@@ -1,0 +1,31 @@
+{
+  "name": "Ballet",
+  "description": "Western art music, often Orchestral Music, written to accompany classical dance productions of the same name.",
+  "url": "https://rateyourmusic.com/genre/ballet/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Ballet de cour",
+      "url": "https://rateyourmusic.com/genre/ballet-de-cour/",
+      "description": "Earliest form developed by the French royal court and characterized by its artistic diversity, regimented structure, grand spectacle, and overt political elements.",
+      "level": "sub-3",
+      "parent": "Ballet"
+    },
+    {
+      "name": "Comédie-ballet",
+      "url": "https://rateyourmusic.com/genre/comedie-ballet/",
+      "description": "French form of musical drama from the 17th century that combines operatic singing, classical dance, and theater.",
+      "level": "sub-3",
+      "parent": "Ballet"
+    },
+    {
+      "name": "Opéra-ballet",
+      "url": "https://rateyourmusic.com/genre/opera-ballet/",
+      "description": "Principally French style of musical drama that combines operatic singing with classical dance, usually with small Orchestral Music accompaniment.",
+      "level": "sub-3",
+      "parent": "Ballet"
+    }
+  ]
+}

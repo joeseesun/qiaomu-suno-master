@@ -1,0 +1,66 @@
+{
+  "name": "Romanticism",
+  "description": "Expressive and emotional qualities, especially in terms of melody.",
+  "url": "https://rateyourmusic.com/genre/romanticism/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Grand opéra",
+      "url": "https://rateyourmusic.com/genre/grand-opera/",
+      "description": "French style characterized by its enlarged scope and sense of grandeur, with bigger orchestras and casts, and ornate sceneries and costumes.",
+      "level": "sub-3",
+      "parent": "Romanticism"
+    },
+    {
+      "name": "Grand opéra",
+      "url": "https://rateyourmusic.com/genre/grand-opera/",
+      "description": "French style characterized by its enlarged scope and sense of grandeur, with bigger orchestras and casts, and ornate sceneries and costumes.",
+      "level": "sub-2",
+      "parent": "Romanticism"
+    },
+    {
+      "name": "New German School",
+      "url": "https://rateyourmusic.com/genre/new-german-school/",
+      "description": "Mid-19th-century Romantic movement experimenting in harmonics and form and engaged in social issues.",
+      "level": "sub-3",
+      "parent": "Romanticism"
+    },
+    {
+      "name": "New German School",
+      "url": "https://rateyourmusic.com/genre/new-german-school/",
+      "description": "Mid-19th-century Romantic movement experimenting in harmonics and form and engaged in social issues.",
+      "level": "sub-2",
+      "parent": "Romanticism"
+    },
+    {
+      "name": "Romantische Oper",
+      "url": "https://rateyourmusic.com/genre/romantische-oper/",
+      "description": "Early 19th century Germanic style of Opera influenced by German Folk Music and legends with a focus on fantasy, emotivity, heroic figures, and nationalism.",
+      "level": "sub-3",
+      "parent": "Romanticism"
+    },
+    {
+      "name": "Romantische Oper",
+      "url": "https://rateyourmusic.com/genre/romantische-oper/",
+      "description": "Early 19th century Germanic style of Opera influenced by German Folk Music and legends with a focus on fantasy, emotivity, heroic figures, and nationalism.",
+      "level": "sub-2",
+      "parent": "Romanticism"
+    },
+    {
+      "name": "Saint Petersburg School",
+      "url": "https://rateyourmusic.com/genre/saint-petersburg-school/",
+      "description": "Interrelated circles of 19th century Russian Western Classical Music composers focused on developing a distinctly Russian national style.",
+      "level": "sub-3",
+      "parent": "Romanticism"
+    },
+    {
+      "name": "Saint Petersburg School",
+      "url": "https://rateyourmusic.com/genre/saint-petersburg-school/",
+      "description": "Interrelated circles of 19th century Russian Western Classical Music composers focused on developing a distinctly Russian national style.",
+      "level": "sub-2",
+      "parent": "Romanticism"
+    }
+  ]
+}

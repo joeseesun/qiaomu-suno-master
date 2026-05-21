@@ -1,0 +1,262 @@
+{
+  "name": "Hardcore Punk",
+  "description": "Emerged in the late 1970s, often featuring extensive use of yelling or screaming, a stripped-down production style, and very short songs.",
+  "url": "https://rateyourmusic.com/genre/hardcore-punk/",
+  "parent": "Hardcore [Punk]",
+  "level": "sub-2",
+  "children_count": 36,
+  "children": [
+    {
+      "name": "Burning Spirits",
+      "url": "https://rateyourmusic.com/genre/burning-spirits/",
+      "description": "Emphasis on delivering a very energetic and triumphant sound with flashy and soaring Metal solos, \"melodramatic\" or \"uplifting\" chord progressions, and singalong, over the top, harsh vocals.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Burning Spirits",
+      "url": "https://rateyourmusic.com/genre/burning-spirits/",
+      "description": "Emphasis on delivering a very energetic and triumphant sound with flashy and soaring Metal solos, \"melodramatic\" or \"uplifting\" chord progressions, and singalong, over the top, harsh vocals.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Burning Spirits",
+      "url": "https://rateyourmusic.com/genre/burning-spirits/",
+      "description": "Emphasis on delivering a very energetic and triumphant sound with flashy and soaring Metal solos, \"melodramatic\" or \"uplifting\" chord progressions, and singalong, over the top, harsh vocals.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Burning Spirits",
+      "url": "https://rateyourmusic.com/genre/burning-spirits/",
+      "description": "Emphasis on delivering a very energetic and triumphant sound with flashy and soaring Metal solos, \"melodramatic\" or \"uplifting\" chord progressions, and singalong, over the top, harsh vocals.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Crossover Thrash",
+      "url": "https://rateyourmusic.com/genre/crossover-thrash/",
+      "description": "Mixes the metallic instrumentation of Thrash Metal with the ethos and approach of Hardcore Punk.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Crossover Thrash",
+      "url": "https://rateyourmusic.com/genre/crossover-thrash/",
+      "description": "Mixes the metallic instrumentation of Thrash Metal with the ethos and approach of Hardcore Punk.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Crossover Thrash",
+      "url": "https://rateyourmusic.com/genre/crossover-thrash/",
+      "description": "Mixes the metallic instrumentation of Thrash Metal with the ethos and approach of Hardcore Punk.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Crossover Thrash",
+      "url": "https://rateyourmusic.com/genre/crossover-thrash/",
+      "description": "Mixes the metallic instrumentation of Thrash Metal with the ethos and approach of Hardcore Punk.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Crust Punk",
+      "url": "https://rateyourmusic.com/genre/crust-punk/",
+      "description": "Metallic outgrowth of Anarcho-Punk featuring a down-tuned, high-gain guitar sound, frequent D-Beat drum patterns, guttural vocals, and politically-charged lyrics often featuring apocalyptic imagery.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Crust Punk",
+      "url": "https://rateyourmusic.com/genre/crust-punk/",
+      "description": "Metallic outgrowth of Anarcho-Punk featuring a down-tuned, high-gain guitar sound, frequent D-Beat drum patterns, guttural vocals, and politically-charged lyrics often featuring apocalyptic imagery.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Crust Punk",
+      "url": "https://rateyourmusic.com/genre/crust-punk/",
+      "description": "Metallic outgrowth of Anarcho-Punk featuring a down-tuned, high-gain guitar sound, frequent D-Beat drum patterns, guttural vocals, and politically-charged lyrics often featuring apocalyptic imagery.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Crust Punk",
+      "url": "https://rateyourmusic.com/genre/crust-punk/",
+      "description": "Metallic outgrowth of Anarcho-Punk featuring a down-tuned, high-gain guitar sound, frequent D-Beat drum patterns, guttural vocals, and politically-charged lyrics often featuring apocalyptic imagery.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "D-Beat",
+      "url": "https://rateyourmusic.com/genre/d-beat/",
+      "description": "Emerged in the early 1980s, features Metal influences, shouted vocals, and a distinct drum style known as the D-beat.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "D-Beat",
+      "url": "https://rateyourmusic.com/genre/d-beat/",
+      "description": "Emerged in the early 1980s, features Metal influences, shouted vocals, and a distinct drum style known as the D-beat.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "D-Beat",
+      "url": "https://rateyourmusic.com/genre/d-beat/",
+      "description": "Emerged in the early 1980s, features Metal influences, shouted vocals, and a distinct drum style known as the D-beat.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "D-Beat",
+      "url": "https://rateyourmusic.com/genre/d-beat/",
+      "description": "Emerged in the early 1980s, features Metal influences, shouted vocals, and a distinct drum style known as the D-beat.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Melodic Hardcore",
+      "url": "https://rateyourmusic.com/genre/melodic-hardcore/",
+      "description": "Emerged in the USA in the early to mid-1980s, placing emphasis on melodic vocals and technical guitar riffs rather than raw aggression.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Melodic Hardcore",
+      "url": "https://rateyourmusic.com/genre/melodic-hardcore/",
+      "description": "Emerged in the USA in the early to mid-1980s, placing emphasis on melodic vocals and technical guitar riffs rather than raw aggression.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Melodic Hardcore",
+      "url": "https://rateyourmusic.com/genre/melodic-hardcore/",
+      "description": "Emerged in the USA in the early to mid-1980s, placing emphasis on melodic vocals and technical guitar riffs rather than raw aggression.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Melodic Hardcore",
+      "url": "https://rateyourmusic.com/genre/melodic-hardcore/",
+      "description": "Emerged in the USA in the early to mid-1980s, placing emphasis on melodic vocals and technical guitar riffs rather than raw aggression.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Mincecore",
+      "url": "https://rateyourmusic.com/genre/mincecore/",
+      "description": "Raw and simplistic with heavy reliance on Punk structures while including political and socially aware themes.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Mincecore",
+      "url": "https://rateyourmusic.com/genre/mincecore/",
+      "description": "Raw and simplistic with heavy reliance on Punk structures while including political and socially aware themes.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Mincecore",
+      "url": "https://rateyourmusic.com/genre/mincecore/",
+      "description": "Raw and simplistic with heavy reliance on Punk structures while including political and socially aware themes.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Mincecore",
+      "url": "https://rateyourmusic.com/genre/mincecore/",
+      "description": "Raw and simplistic with heavy reliance on Punk structures while including political and socially aware themes.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Skacore",
+      "url": "https://rateyourmusic.com/genre/skacore/",
+      "description": "Fuses skank rhythms and frantic blasts of horns with hardcore intensity.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Skacore",
+      "url": "https://rateyourmusic.com/genre/skacore/",
+      "description": "Fuses skank rhythms and frantic blasts of horns with hardcore intensity.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Skacore",
+      "url": "https://rateyourmusic.com/genre/skacore/",
+      "description": "Fuses skank rhythms and frantic blasts of horns with hardcore intensity.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Skacore",
+      "url": "https://rateyourmusic.com/genre/skacore/",
+      "description": "Fuses skank rhythms and frantic blasts of horns with hardcore intensity.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Street Punk",
+      "url": "https://rateyourmusic.com/genre/street-punk/",
+      "description": "Driven by Oi! style group vocals, catchy melodies, and aggressive songwriting akin to Punk Rock of the 1970s fused with Hardcore Punk of the 1980s.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Street Punk",
+      "url": "https://rateyourmusic.com/genre/street-punk/",
+      "description": "Driven by Oi! style group vocals, catchy melodies, and aggressive songwriting akin to Punk Rock of the 1970s fused with Hardcore Punk of the 1980s.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Street Punk",
+      "url": "https://rateyourmusic.com/genre/street-punk/",
+      "description": "Driven by Oi! style group vocals, catchy melodies, and aggressive songwriting akin to Punk Rock of the 1970s fused with Hardcore Punk of the 1980s.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Street Punk",
+      "url": "https://rateyourmusic.com/genre/street-punk/",
+      "description": "Driven by Oi! style group vocals, catchy melodies, and aggressive songwriting akin to Punk Rock of the 1970s fused with Hardcore Punk of the 1980s.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Thrashcore",
+      "url": "https://rateyourmusic.com/genre/thrashcore/",
+      "description": "Fast tempos, brief song structures, and the occasional use of blast beats.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Thrashcore",
+      "url": "https://rateyourmusic.com/genre/thrashcore/",
+      "description": "Fast tempos, brief song structures, and the occasional use of blast beats.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Thrashcore",
+      "url": "https://rateyourmusic.com/genre/thrashcore/",
+      "description": "Fast tempos, brief song structures, and the occasional use of blast beats.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    },
+    {
+      "name": "Thrashcore",
+      "url": "https://rateyourmusic.com/genre/thrashcore/",
+      "description": "Fast tempos, brief song structures, and the occasional use of blast beats.",
+      "level": "sub-3",
+      "parent": "Hardcore Punk"
+    }
+  ]
+}

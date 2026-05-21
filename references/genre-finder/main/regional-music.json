@@ -1,0 +1,162 @@
+{
+  "name": "Regional Music",
+  "description": "Music of regional cultural traditions, that is or was predominantly played and produced in these regions.",
+  "url": "https://rateyourmusic.com/genre/regional-music/",
+  "sub_genres_count": 22,
+  "sub_genres": [
+    {
+      "name": "African Music",
+      "url": "https://rateyourmusic.com/genre/african-music/",
+      "description": "All forms with roots in Africa.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Ancient Music",
+      "url": "https://rateyourmusic.com/genre/ancient-music/",
+      "description": "Umbrella term encompassing all the genres coming after the Prehistoric Music and before the Medieval music eras from ancient civilizations, roughly before 500 CE, following the Western Classical Music point of view with the date of the Roman Empire fall (476 CE).",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Arabic Music",
+      "url": "https://rateyourmusic.com/genre/arabic-music/",
+      "description": "Originating with and primarily performed by the Arab people.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Asian Music",
+      "url": "https://rateyourmusic.com/genre/asian-music/",
+      "description": "Rooted in the traditions of Asian peoples.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Austronesian Music",
+      "url": "https://rateyourmusic.com/genre/austronesian-music/",
+      "description": "Music developed by Austronesian ethnic groups.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Caribbean Music",
+      "url": "https://rateyourmusic.com/genre/caribbean-music/",
+      "description": "Meta-genre covering all forms with roots in the Caribbean region.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Central American Music",
+      "url": "https://rateyourmusic.com/genre/central-american-music/",
+      "description": "Music from the Central American region (including Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama).",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Christian Liturgical Music",
+      "url": "https://rateyourmusic.com/genre/christian-liturgical-music/",
+      "description": "Traditionally accompanies church services, as well as extra-liturgical functions such as processionals and sermons.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "European Music",
+      "url": "https://rateyourmusic.com/genre/european-music/",
+      "description": "Regional styles with roots in the European continent and surrounding islands.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Hispanic Music",
+      "url": "https://rateyourmusic.com/genre/hispanic-music/",
+      "description": "Music of Hispanic America and Spain, and the genres shared between them.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Indigenous American Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-american-music/",
+      "description": "Diverse styles and genres developed by the indigenous peoples of the Americas.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Islamic Religious Music & Recitation",
+      "url": "https://rateyourmusic.com/genre/islamic-religious-music-and-recitation/",
+      "description": "Music and melodic recitation involved in the Islamic faith, such as the reading of the Qur'an with its melodic component (qira'ah), the adhan call to prayer, and the elements often used in the practice of dhikr (particularly in Sufism).",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Jewish Music",
+      "url": "https://rateyourmusic.com/genre/jewish-music/",
+      "description": "Different Jewish forms coming from different regions of the world, influenced by local cultures.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Maqāmic Music",
+      "url": "https://rateyourmusic.com/genre/maqamic-music/",
+      "description": "Originating in the Middle East and founded upon maqāmāt scales, encompassing an extensive and diverse cultural and musical legacy that spans from Morocco to Southeast Asia.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Northern American Music",
+      "url": "https://rateyourmusic.com/genre/northern-american-music/",
+      "description": "Regional styles with roots in Northern America (America north of Mexico, including Canada, United States, Greenland, Saint-Pierre and Miquelon, and Bermuda), typically drawing from European Folk Music and Classical Music as well as West African Music and Indigenous American Music influences.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Oceanian Music",
+      "url": "https://rateyourmusic.com/genre/oceanian-music/",
+      "description": "Rooted in the traditions of the geographic region of Oceania.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Polyphonic Chant",
+      "url": "https://rateyourmusic.com/genre/polyphonic-chant/",
+      "description": "Chanting that combines two or more melodic lines that are harmonically cohesive but differ in rhythm and utilize non-parallel motion.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Prehistoric Music",
+      "url": "https://rateyourmusic.com/genre/prehistoric-music/",
+      "description": "Styles from the first cultural periods of the human species (Homo sapiens, as well as certain Homo neanderthalensis). From its birth in the Paleolithic and Neolithic eras to the Ancient Music era beginning around 2000–3000 BC.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "South American Music",
+      "url": "https://rateyourmusic.com/genre/south-american-music/",
+      "description": "Rooted in the traditions of South America.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Sufi Music",
+      "url": "https://rateyourmusic.com/genre/sufi-music/",
+      "description": "Covering the various musical traditions of Sufis.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Traditional Folk Music",
+      "url": "https://rateyourmusic.com/genre/traditional-folk-music/",
+      "description": "Informed by a long history of tradition in a specific culture or region, mostly associated with the peasantry and non-aristocratic public.",
+      "level": "sub",
+      "parent": "Regional Music"
+    },
+    {
+      "name": "Turkic-Mongolic Music",
+      "url": "https://rateyourmusic.com/genre/turkic-mongolic-music/",
+      "description": "Group of related traditions which originated among nomadic people of the Central Asian steppes (speakers of Altaic, i.e. Turkic, Mongolic, and Tungusic languages).",
+      "level": "sub",
+      "parent": "Regional Music"
+    }
+  ]
+}

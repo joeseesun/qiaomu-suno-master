@@ -1,0 +1,52 @@
+{
+  "name": "Spanish Classical Music",
+  "description": "Incorporation of Spanish Music within the context of Western Classical Music, particularly characterized by the use of the classical guitar.",
+  "url": "https://rateyourmusic.com/genre/spanish-classical-music/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Canto mozárabe",
+      "url": "https://rateyourmusic.com/genre/canto-mozarabe/",
+      "description": "Iberian form of plainchant that flourished roughly 550-1085 AD.",
+      "level": "sub-3",
+      "parent": "Spanish Classical Music"
+    },
+    {
+      "name": "Canto mozárabe",
+      "url": "https://rateyourmusic.com/genre/canto-mozarabe/",
+      "description": "Iberian form of plainchant that flourished roughly 550-1085 AD.",
+      "level": "sub-5",
+      "parent": "Spanish Classical Music"
+    },
+    {
+      "name": "Canto mozárabe",
+      "url": "https://rateyourmusic.com/genre/canto-mozarabe/",
+      "description": "Iberian form of plainchant that flourished roughly 550-1085 AD.",
+      "level": "sub-4",
+      "parent": "Spanish Classical Music"
+    },
+    {
+      "name": "Zarzuela",
+      "url": "https://rateyourmusic.com/genre/zarzuela/",
+      "description": "Spanish dramatic genre where spoken scenes are mixed with passages sung in operatic or popular styles.",
+      "level": "sub-3",
+      "parent": "Spanish Classical Music"
+    },
+    {
+      "name": "Zarzuela",
+      "url": "https://rateyourmusic.com/genre/zarzuela/",
+      "description": "Spanish dramatic genre where spoken scenes are mixed with passages sung in operatic or popular styles.",
+      "level": "sub-5",
+      "parent": "Spanish Classical Music"
+    },
+    {
+      "name": "Zarzuela",
+      "url": "https://rateyourmusic.com/genre/zarzuela/",
+      "description": "Spanish dramatic genre where spoken scenes are mixed with passages sung in operatic or popular styles.",
+      "level": "sub-4",
+      "parent": "Spanish Classical Music"
+    }
+  ]
+}

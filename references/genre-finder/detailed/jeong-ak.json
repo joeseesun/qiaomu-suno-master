@@ -1,0 +1,31 @@
+{
+  "name": "Jeong-ak",
+  "description": "Also known as proper music; dates back to the Later Silla period of 668–935.",
+  "url": "https://rateyourmusic.com/genre/jeong-ak/",
+  "parent": "Korean Classical Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Gagok",
+      "url": "https://rateyourmusic.com/genre/gagok/",
+      "description": "Vocal songs derived from Korean Classical Music backed by a small orchestra of Jeong-ak (\"aristocratic or proper music\").",
+      "level": "sub-4",
+      "parent": "Jeong-ak"
+    },
+    {
+      "name": "Gagok",
+      "url": "https://rateyourmusic.com/genre/gagok/",
+      "description": "Vocal songs derived from Korean Classical Music backed by a small orchestra of Jeong-ak (\"aristocratic or proper music\").",
+      "level": "sub-6",
+      "parent": "Jeong-ak"
+    },
+    {
+      "name": "Gagok",
+      "url": "https://rateyourmusic.com/genre/gagok/",
+      "description": "Vocal songs derived from Korean Classical Music backed by a small orchestra of Jeong-ak (\"aristocratic or proper music\").",
+      "level": "sub-6",
+      "parent": "Jeong-ak"
+    }
+  ]
+}

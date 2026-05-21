@@ -1,0 +1,80 @@
+{
+  "name": "Electro House",
+  "description": "Warm analog basslines, punchy percussion, crisp high-pitched synthesizer leads, and clipped vocal samples.",
+  "url": "https://rateyourmusic.com/genre/electro-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 10,
+  "children": [
+    {
+      "name": "Complextro",
+      "url": "https://rateyourmusic.com/genre/complextro/",
+      "description": "Features densely-layered sound design, fast-paced cut-up sections, aggressive stabs, and common crossover with Brostep and Fidget House.",
+      "level": "sub-4",
+      "parent": "Electro House"
+    },
+    {
+      "name": "Complextro",
+      "url": "https://rateyourmusic.com/genre/complextro/",
+      "description": "Features densely-layered sound design, fast-paced cut-up sections, aggressive stabs, and common crossover with Brostep and Fidget House.",
+      "level": "sub-4",
+      "parent": "Electro House"
+    },
+    {
+      "name": "Dutch House",
+      "url": "https://rateyourmusic.com/genre/dutch-house/",
+      "description": "High-pitched wonky synth melodies and heavy influence from Fidget House which developed in the Netherlands around 2007-08.",
+      "level": "sub-4",
+      "parent": "Electro House"
+    },
+    {
+      "name": "Dutch House",
+      "url": "https://rateyourmusic.com/genre/dutch-house/",
+      "description": "High-pitched wonky synth melodies and heavy influence from Fidget House which developed in the Netherlands around 2007-08.",
+      "level": "sub-4",
+      "parent": "Electro House"
+    },
+    {
+      "name": "Fidget House",
+      "url": "https://rateyourmusic.com/genre/fidget-house/",
+      "description": "Makes heavy use of Breakbeat Hardcore-esque synth stabs, pitch bending of basslines, and cut-up vocal samples, as well as glitchy, or \"choppy\", 4/4 rhythms.",
+      "level": "sub-4",
+      "parent": "Electro House"
+    },
+    {
+      "name": "Fidget House",
+      "url": "https://rateyourmusic.com/genre/fidget-house/",
+      "description": "Makes heavy use of Breakbeat Hardcore-esque synth stabs, pitch bending of basslines, and cut-up vocal samples, as well as glitchy, or \"choppy\", 4/4 rhythms.",
+      "level": "sub-4",
+      "parent": "Electro House"
+    },
+    {
+      "name": "French Electro",
+      "url": "https://rateyourmusic.com/genre/french-electro/",
+      "description": "Mixes Electro House with major elements of genres such as Electroclash, Nu-Disco, Synth Funk, and even Electro-Industrial, resulting in a harsh, punchy, and funky midtempo sound.",
+      "level": "sub-4",
+      "parent": "Electro House"
+    },
+    {
+      "name": "French Electro",
+      "url": "https://rateyourmusic.com/genre/french-electro/",
+      "description": "Mixes Electro House with major elements of genres such as Electroclash, Nu-Disco, Synth Funk, and even Electro-Industrial, resulting in a harsh, punchy, and funky midtempo sound.",
+      "level": "sub-4",
+      "parent": "Electro House"
+    },
+    {
+      "name": "Melbourne Bounce",
+      "url": "https://rateyourmusic.com/genre/melbourne-bounce/",
+      "description": "Offbeat basslines giving it a \"bouncy\" groove, and minimalistic, side-chained melodies often making use of Dutch House-influenced synths, horns or vocal chops, resulting in a flippant, party-oriented atmosphere.",
+      "level": "sub-4",
+      "parent": "Electro House"
+    },
+    {
+      "name": "Melbourne Bounce",
+      "url": "https://rateyourmusic.com/genre/melbourne-bounce/",
+      "description": "Offbeat basslines giving it a \"bouncy\" groove, and minimalistic, side-chained melodies often making use of Dutch House-influenced synths, horns or vocal chops, resulting in a flippant, party-oriented atmosphere.",
+      "level": "sub-4",
+      "parent": "Electro House"
+    }
+  ]
+}

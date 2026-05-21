@@ -1,0 +1,129 @@
+{
+  "name": "Northeastern Brazilian Music",
+  "description": "Regional styles that combines elements of indigenous, African and European traditions, historically with a focus on life of the northeastern people, such as drought, migration, the struggle for survival, love and nostalgia, and often danced in intense and accelerated movements.",
+  "url": "https://rateyourmusic.com/genre/northeastern-brazilian-music/",
+  "parent": "Brazilian Music",
+  "level": "sub-3",
+  "children_count": 17,
+  "children": [
+    {
+      "name": "Aboio",
+      "url": "https://rateyourmusic.com/genre/aboio/",
+      "description": "Cattle-herding songs originating in rural Northeastern Brazil.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Afoxé",
+      "url": "https://rateyourmusic.com/genre/afoxe/",
+      "description": "Afro-Brazilian genre originating in the states of Pernambuco and Bahia, characterized by the ijexá rhythm invented by the Yoruba people.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Arrocha",
+      "url": "https://rateyourmusic.com/genre/arrocha/",
+      "description": "Influenced by Brega's romantic style, with further influence from Axé and Forró, giving it a more sensual and euphoric feel.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Axé",
+      "url": "https://rateyourmusic.com/genre/axe/",
+      "description": "Developed from a fusion of Frevo, Maracatu, Forró, Reggae and Calypso with roots in the Salvador de Bahia carnival.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Baião",
+      "url": "https://rateyourmusic.com/genre/baiao/",
+      "description": "Commonly performed with accordions and violas caipiras, and often accompanied by agogô and triangle.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Banda de pífano",
+      "url": "https://rateyourmusic.com/genre/banda-de-pifano/",
+      "description": "Lively music played by bands consisting of two fifes and percussion.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Brega funk",
+      "url": "https://rateyourmusic.com/genre/brega-funk/",
+      "description": "Rooted in Tecnobrega, features glossy syncopated MIDI pianos and synths, distinct pitched metallic snares and vocal chops over a wonky kick rhythm.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Cantoria",
+      "url": "https://rateyourmusic.com/genre/cantoria/",
+      "description": "Sung poetry of itinerant cantadores from Northeastern Brazil.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Coco",
+      "url": "https://rateyourmusic.com/genre/coco/",
+      "description": "Performers usually gather in a circle which rounds the dancers, clapping and spinning according to the rhythm; influenced by cultures originating from Africa, conceived in Northeastern Brazil.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Forró",
+      "url": "https://rateyourmusic.com/genre/forro/",
+      "description": "Developed from Baião and the dance rhythms quadrilha and xaxado, along with influences of European Folk Music like chula and schottische (Xote).",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Frevo",
+      "url": "https://rateyourmusic.com/genre/frevo/",
+      "description": "Played in a very fast, binary tempo; originated in 1910 on the streets of the northeastern Brazilian city of Recife.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Manguebeat",
+      "url": "https://rateyourmusic.com/genre/manguebeat/",
+      "description": "Counterculture fusion of traditional Northeastern Brazilian Music genres with modern Rock and Hip Hop.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Maracatu",
+      "url": "https://rateyourmusic.com/genre/maracatu/",
+      "description": "Afro-Brazilian genre which accompanies the cultural manifestation of the same name, hailing from the northeastern state of Pernambuco.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Samba de roda",
+      "url": "https://rateyourmusic.com/genre/samba-de-roda/",
+      "description": "Mixed Portuguese culture with African slave traditions, as well as sharing roots and similarities with Batuque and Jongo.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Udigrudi",
+      "url": "https://rateyourmusic.com/genre/udigrudi/",
+      "description": "Movement that emerged in the Brazilian city of Recife during the 1970s that combines psychedelic elements with music of Northeastern Brazil.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Unakesa",
+      "url": "https://rateyourmusic.com/genre/unakesa/",
+      "description": "Lay song and dance of the Fulni-ô people.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    },
+    {
+      "name": "Xaxado",
+      "url": "https://rateyourmusic.com/genre/xaxado/",
+      "description": "Features a strong rhythmic beat, sliding tap dances, and stories of backland bandits.",
+      "level": "sub-4",
+      "parent": "Northeastern Brazilian Music"
+    }
+  ]
+}

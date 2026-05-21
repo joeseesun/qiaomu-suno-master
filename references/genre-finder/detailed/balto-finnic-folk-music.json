@@ -1,0 +1,115 @@
+{
+  "name": "Balto-Finnic Folk Music",
+  "description": "Traditional Folk Music of Balto-Finnic peoples.",
+  "url": "https://rateyourmusic.com/genre/balto-finnic-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 15,
+  "children": [
+    {
+      "name": "Estonian Folk Music",
+      "url": "https://rateyourmusic.com/genre/estonian-folk-music/",
+      "description": "Traditional Folk Music of the Estonian people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Estonian Folk Music",
+      "url": "https://rateyourmusic.com/genre/estonian-folk-music/",
+      "description": "Traditional Folk Music of the Estonian people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Estonian Folk Music",
+      "url": "https://rateyourmusic.com/genre/estonian-folk-music/",
+      "description": "Traditional Folk Music of the Estonian people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Finnish Folk Music",
+      "url": "https://rateyourmusic.com/genre/finnish-folk-music/",
+      "description": "Traditional Folk Music of the Finnish people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Finnish Folk Music",
+      "url": "https://rateyourmusic.com/genre/finnish-folk-music/",
+      "description": "Traditional Folk Music of the Finnish people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Finnish Folk Music",
+      "url": "https://rateyourmusic.com/genre/finnish-folk-music/",
+      "description": "Traditional Folk Music of the Finnish people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Karelian Folk Music",
+      "url": "https://rateyourmusic.com/genre/karelian-folk-music/",
+      "description": "Traditional Folk Music of the Karelian people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Karelian Folk Music",
+      "url": "https://rateyourmusic.com/genre/karelian-folk-music/",
+      "description": "Traditional Folk Music of the Karelian people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Karelian Folk Music",
+      "url": "https://rateyourmusic.com/genre/karelian-folk-music/",
+      "description": "Traditional Folk Music of the Karelian people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Livonian Folk Music",
+      "url": "https://rateyourmusic.com/genre/livonian-folk-music/",
+      "description": "Traditional Folk Music of the Livonian people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Livonian Folk Music",
+      "url": "https://rateyourmusic.com/genre/livonian-folk-music/",
+      "description": "Traditional Folk Music of the Livonian people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Livonian Folk Music",
+      "url": "https://rateyourmusic.com/genre/livonian-folk-music/",
+      "description": "Traditional Folk Music of the Livonian people.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Rune Singing",
+      "url": "https://rateyourmusic.com/genre/rune-singing/",
+      "description": "Traditional vocal music of Baltic-Finnic peoples characterized by singing poems, performed solo or in groups.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Rune Singing",
+      "url": "https://rateyourmusic.com/genre/rune-singing/",
+      "description": "Traditional vocal music of Baltic-Finnic peoples characterized by singing poems, performed solo or in groups.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    },
+    {
+      "name": "Rune Singing",
+      "url": "https://rateyourmusic.com/genre/rune-singing/",
+      "description": "Traditional vocal music of Baltic-Finnic peoples characterized by singing poems, performed solo or in groups.",
+      "level": "sub-4",
+      "parent": "Balto-Finnic Folk Music"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Micronesian Music",
+  "description": "Music of the Micronesian peoples.",
+  "url": "https://rateyourmusic.com/genre/micronesian-music/",
+  "parent": "Oceanian Music",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Kantan Chamorrita",
+      "url": "https://rateyourmusic.com/genre/kantan-chamorrita/",
+      "description": "Improvised verse singing performed in the Chamorro language, traditional of the Marianas islands.",
+      "level": "sub-3",
+      "parent": "Micronesian Music"
+    }
+  ]
+}

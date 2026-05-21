@@ -1,0 +1,24 @@
+{
+  "name": "Deep House",
+  "description": "Emerged in the United States during the mid-1980s, featuring a relaxed tempo and influences from Jazz, Funk, and Soul.",
+  "url": "https://rateyourmusic.com/genre/deep-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Lo-Fi House",
+      "url": "https://rateyourmusic.com/genre/lo-fi-house/",
+      "description": "Primarily distinguished from earlier styles of outsider house by its stricter reliance on deep house elements, cranky, nocturnal, and nostalgic atmospheres, and a distinct dreamy, lo-fi aesthetic.",
+      "level": "sub-4",
+      "parent": "Deep House"
+    },
+    {
+      "name": "Lo-Fi House",
+      "url": "https://rateyourmusic.com/genre/lo-fi-house/",
+      "description": "Primarily distinguished from earlier styles of outsider house by its stricter reliance on deep house elements, cranky, nocturnal, and nostalgic atmospheres, and a distinct dreamy, lo-fi aesthetic.",
+      "level": "sub-4",
+      "parent": "Deep House"
+    }
+  ]
+}

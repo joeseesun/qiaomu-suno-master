@@ -1,0 +1,31 @@
+{
+  "name": "Synthwave",
+  "description": "Rooted in 1980s synth music, characterized by large, throbbing \"retro\" synths and visual elements, often features upbeat percussion and/or epic, cinematic atmospheres.",
+  "url": "https://rateyourmusic.com/genre/synthwave/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Chillsynth",
+      "url": "https://rateyourmusic.com/genre/chillsynth/",
+      "description": "Mixes Synthwave with major Chillwave elements, characterized by a dreamy and relaxed sound.",
+      "level": "sub-2",
+      "parent": "Synthwave"
+    },
+    {
+      "name": "Darksynth",
+      "url": "https://rateyourmusic.com/genre/darksynth/",
+      "description": "Incorporates atmospheric Horror Synth and faster tempos into a much heavier and darker sound.",
+      "level": "sub-2",
+      "parent": "Synthwave"
+    },
+    {
+      "name": "Sovietwave",
+      "url": "https://rateyourmusic.com/genre/sovietwave/",
+      "description": "Scene of Synthwave that emerged in the early 2010s, taking its inspiration from Soviet Electronic electronic music and Soviet pop.",
+      "level": "sub-2",
+      "parent": "Synthwave"
+    }
+  ]
+}

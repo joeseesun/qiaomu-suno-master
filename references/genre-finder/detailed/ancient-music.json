@@ -1,0 +1,59 @@
+{
+  "name": "Ancient Music",
+  "description": "Umbrella term encompassing all the genres coming after the Prehistoric Music and before the Medieval music eras from ancient civilizations, roughly before 500 CE, following the Western Classical Music point of view with the date of the Roman Empire fall (476 CE).",
+  "url": "https://rateyourmusic.com/genre/ancient-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 7,
+  "children": [
+    {
+      "name": "Ancient Chinese Music",
+      "url": "https://rateyourmusic.com/genre/ancient-chinese-music/",
+      "description": "Covers a very large era of creation from approximately 2100 BCE to 200 CE.",
+      "level": "sub-2",
+      "parent": "Ancient Music"
+    },
+    {
+      "name": "Ancient Egyptian Music",
+      "url": "https://rateyourmusic.com/genre/ancient-egyptian-music/",
+      "description": "Music of ancient Egyptian civilization.",
+      "level": "sub-2",
+      "parent": "Ancient Music"
+    },
+    {
+      "name": "Ancient Greek Music",
+      "url": "https://rateyourmusic.com/genre/ancient-greek-music/",
+      "description": "Music of ancient Greek civilization.",
+      "level": "sub-2",
+      "parent": "Ancient Music"
+    },
+    {
+      "name": "Ancient Levitical Music",
+      "url": "https://rateyourmusic.com/genre/ancient-levitical-music/",
+      "description": "Reconstruction of Jerusalem temple music.",
+      "level": "sub-2",
+      "parent": "Ancient Music"
+    },
+    {
+      "name": "Ancient Roman Music",
+      "url": "https://rateyourmusic.com/genre/ancient-roman-music/",
+      "description": "Music of ancient Roman civilization.",
+      "level": "sub-2",
+      "parent": "Ancient Music"
+    },
+    {
+      "name": "Hyang-ak",
+      "url": "https://rateyourmusic.com/genre/hyang-ak/",
+      "description": "One of the most common and oldest surviving forms of Korean court music.",
+      "level": "sub-2",
+      "parent": "Ancient Music"
+    },
+    {
+      "name": "Mesopotamian Music",
+      "url": "https://rateyourmusic.com/genre/mesopotamian-music/",
+      "description": "Music of Mesopotamia, a historical region situated in West Asia within the Tigris–Euphrates river system, comprises the heritage of Sumerians and Akkadians.",
+      "level": "sub-2",
+      "parent": "Ancient Music"
+    }
+  ]
+}

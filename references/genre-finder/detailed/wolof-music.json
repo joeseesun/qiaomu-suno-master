@@ -1,0 +1,24 @@
+{
+  "name": "Wolof Music",
+  "description": "Music of the Wolof people of Senegal and The Gambia comprising a wide variety of West African Music traditions influenced by nearby cultures.",
+  "url": "https://rateyourmusic.com/genre/wolof-music/",
+  "parent": "West African Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Mbalax",
+      "url": "https://rateyourmusic.com/genre/mbalax/",
+      "description": "Rooted in njuup, a Serer ritual tradition incorporating influences from Cuban, Congolese, and American popular music.",
+      "level": "sub-4",
+      "parent": "Wolof Music"
+    },
+    {
+      "name": "Tassu",
+      "url": "https://rateyourmusic.com/genre/tassu/",
+      "description": "Rhythmic poetry that has been a part of Senegalese culture since ancient times.",
+      "level": "sub-4",
+      "parent": "Wolof Music"
+    }
+  ]
+}

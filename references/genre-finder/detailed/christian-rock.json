@@ -1,0 +1,17 @@
+{
+  "name": "Christian Rock",
+  "description": "Incorporates Christian lyrics, with topics such as faith, metaphysics, or biblical characters.",
+  "url": "https://rateyourmusic.com/genre/christian-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Xian Psych",
+      "url": "https://rateyourmusic.com/genre/xian-psych/",
+      "description": "Portrays Christian and biblical themes through a surreal, transcendent atmosphere, occasionally drawing influence from Christian Liturgical Music.",
+      "level": "sub-2",
+      "parent": "Christian Rock"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Marabi",
+  "description": "South African Jazz with origins in the 1920s and rooted in traditional South African music.",
+  "url": "https://rateyourmusic.com/genre/marabi/",
+  "parent": "Jazz",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Kwela",
+      "url": "https://rateyourmusic.com/genre/kwela/",
+      "description": "Influenced by Zulu music, characterized by its happy melodies, played by pennywhistle flutes and accompanied by a banjo or a guitar.",
+      "level": "sub-2",
+      "parent": "Marabi"
+    },
+    {
+      "name": "Kwela",
+      "url": "https://rateyourmusic.com/genre/kwela/",
+      "description": "Influenced by Zulu music, characterized by its happy melodies, played by pennywhistle flutes and accompanied by a banjo or a guitar.",
+      "level": "sub-4",
+      "parent": "Marabi"
+    },
+    {
+      "name": "Mbaqanga",
+      "url": "https://rateyourmusic.com/genre/mbaqanga/",
+      "description": "Emerged from the traditional Marabi Jazz and Swing as well as Kwela popular South African genres.",
+      "level": "sub-2",
+      "parent": "Marabi"
+    },
+    {
+      "name": "Mbaqanga",
+      "url": "https://rateyourmusic.com/genre/mbaqanga/",
+      "description": "Emerged from the traditional Marabi Jazz and Swing as well as Kwela popular South African genres.",
+      "level": "sub-4",
+      "parent": "Marabi"
+    }
+  ]
+}

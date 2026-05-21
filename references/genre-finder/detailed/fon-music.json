@@ -1,0 +1,31 @@
+{
+  "name": "Fon Music",
+  "description": "The traditions of the Fon people, originating in central and southeastern Benin as well as the southwestern region of Nigeria.",
+  "url": "https://rateyourmusic.com/genre/fon-music/",
+  "parent": "West African Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Tchink System",
+      "url": "https://rateyourmusic.com/genre/tchink-system/",
+      "description": "Urban version of Tchinkoumé featuring traditional tchinkoumé rhythms, derived from zinli, and including contemporary instrumentation from the influence of R&B, Pop and Rock.",
+      "level": "sub-4",
+      "parent": "Fon Music"
+    },
+    {
+      "name": "Tchinkoumé",
+      "url": "https://rateyourmusic.com/genre/tchinkoume/",
+      "description": "Tradition from the central region of Benin around Savalou, played with water percussion.",
+      "level": "sub-4",
+      "parent": "Fon Music"
+    },
+    {
+      "name": "Zinli",
+      "url": "https://rateyourmusic.com/genre/zinli/",
+      "description": "Traditional rhythmic chanting and percussion adapted to multiple West African contexts in the 20th century.",
+      "level": "sub-4",
+      "parent": "Fon Music"
+    }
+  ]
+}

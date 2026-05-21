@@ -1,0 +1,24 @@
+{
+  "name": "Progressive Country",
+  "description": "Blend of traditionalist Country styles with elements of Rock, Contemporary Folk, and other countercultural genres; characterized by realistic, self-reflective lyrics and non-traditional songwriting and production elements.",
+  "url": "https://rateyourmusic.com/genre/progressive-country/",
+  "parent": "Country",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Outlaw Country",
+      "url": "https://rateyourmusic.com/genre/outlaw-country/",
+      "description": "Rock-influenced reaction to mainstream Country Pop trends, featuring rebellious personas, darker lyrics, and Western-inspired outlaw imagery.",
+      "level": "sub-2",
+      "parent": "Progressive Country"
+    },
+    {
+      "name": "Outlaw Country",
+      "url": "https://rateyourmusic.com/genre/outlaw-country/",
+      "description": "Rock-influenced reaction to mainstream Country Pop trends, featuring rebellious personas, darker lyrics, and Western-inspired outlaw imagery.",
+      "level": "sub-4",
+      "parent": "Progressive Country"
+    }
+  ]
+}

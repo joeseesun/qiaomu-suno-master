@@ -1,0 +1,31 @@
+{
+  "name": "Kru Music",
+  "description": "Music of the Kru peoples indigenous to Liberia and Ivory Coast.",
+  "url": "https://rateyourmusic.com/genre/kru-music/",
+  "parent": "West African Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Alloukou",
+      "url": "https://rateyourmusic.com/genre/alloukou/",
+      "description": "Created by the Bété people of Côte d'Ivoire, featuring a distinctive rhythm that uses polyrhythms and triplets.",
+      "level": "sub-4",
+      "parent": "Kru Music"
+    },
+    {
+      "name": "Palm Wine Music",
+      "url": "https://rateyourmusic.com/genre/palm-wine-music/",
+      "description": "Fusion of the African Folk Music of the region with imported Caribbean Calypso.",
+      "level": "sub-4",
+      "parent": "Kru Music"
+    },
+    {
+      "name": "Ziglibithy",
+      "url": "https://rateyourmusic.com/genre/ziglibithy/",
+      "description": "Ivorian mid-1970s dance music created after the country's independence, influenced by post-colonial trends in African Music.",
+      "level": "sub-4",
+      "parent": "Kru Music"
+    }
+  ]
+}

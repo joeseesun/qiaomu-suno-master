@@ -1,0 +1,1004 @@
+{
+  "name": "Electronic Dance Music",
+  "description": "Broad category for subgenres mainly derived from Disco, featuring Electronic sounds, synthesizers, drum machines and varying BPM ranges.",
+  "url": "https://rateyourmusic.com/genre/electronic-dance-music/",
+  "parent": "Dance",
+  "level": "sub",
+  "children_count": 142,
+  "children": [
+    {
+      "name": "Artcore",
+      "url": "https://rateyourmusic.com/genre/artcore/",
+      "description": "Combines an eclectic mix of Electronic Dance Music genres with the instrumentation and melodic stylings of genres like Cinematic Classical for a maximalist and emotional sound.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Artcore",
+      "url": "https://rateyourmusic.com/genre/artcore/",
+      "description": "Combines an eclectic mix of Electronic Dance Music genres with the instrumentation and melodic stylings of genres like Cinematic Classical for a maximalist and emotional sound.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Balani Show",
+      "url": "https://rateyourmusic.com/genre/balani-show/",
+      "description": "Emerged in the late 1990s in Mali; peaks at around 170BPM and prominently features looping, cut-up balafon samples.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Balani Show",
+      "url": "https://rateyourmusic.com/genre/balani-show/",
+      "description": "Emerged in the late 1990s in Mali; peaks at around 170BPM and prominently features looping, cut-up balafon samples.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Balearic Beat",
+      "url": "https://rateyourmusic.com/genre/balearic-beat/",
+      "description": "Variety of relaxed, laid-back music that originates from the Balearic Islands off the coast of Spain, and particularly the club scene in Ibiza.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Balearic Beat",
+      "url": "https://rateyourmusic.com/genre/balearic-beat/",
+      "description": "Variety of relaxed, laid-back music that originates from the Balearic Islands off the coast of Spain, and particularly the club scene in Ibiza.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Breakbeat",
+      "url": "https://rateyourmusic.com/genre/breakbeat/",
+      "description": "Syncopated drum patterns (breakbeats), generally driving the groove at 110-160 BPM, emerging in the late 1980s from sampling drum breaks, before forming an umbrella genre separate from Drum and Bass, Downtempo, and Hip Hop.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Breakbeat",
+      "url": "https://rateyourmusic.com/genre/breakbeat/",
+      "description": "Syncopated drum patterns (breakbeats), generally driving the groove at 110-160 BPM, emerging in the late 1980s from sampling drum breaks, before forming an umbrella genre separate from Drum and Bass, Downtempo, and Hip Hop.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Broken Beat",
+      "url": "https://rateyourmusic.com/genre/broken-beat/",
+      "description": "Choppy, syncopated grooves and loose influence from 1970s Jazz-Funk, with eclectic roots spanning Drum and Bass, Deep House, Acid Jazz, and Afrobeat.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Broken Beat",
+      "url": "https://rateyourmusic.com/genre/broken-beat/",
+      "description": "Choppy, syncopated grooves and loose influence from 1970s Jazz-Funk, with eclectic roots spanning Drum and Bass, Deep House, Acid Jazz, and Afrobeat.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Bubblegum Bass",
+      "url": "https://rateyourmusic.com/genre/bubblegum-bass/",
+      "description": "Originated in the early 2010s, exaggerating the cutest and most feminine parts of 2000s Pop and combining them with bouncy, plastic synths over rhythms and sounds derived from a variety of contemporary club styles.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Bubblegum Bass",
+      "url": "https://rateyourmusic.com/genre/bubblegum-bass/",
+      "description": "Originated in the early 2010s, exaggerating the cutest and most feminine parts of 2000s Pop and combining them with bouncy, plastic synths over rhythms and sounds derived from a variety of contemporary club styles.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Bubbling",
+      "url": "https://rateyourmusic.com/genre/bubbling/",
+      "description": "Originating in the Netherlands in the late 1980s, fusing sped-up Dancehall with Dutch Antillean music and contemporary Dutch rave.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Bubbling",
+      "url": "https://rateyourmusic.com/genre/bubbling/",
+      "description": "Originating in the Netherlands in the late 1980s, fusing sped-up Dancehall with Dutch Antillean music and contemporary Dutch rave.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Budots",
+      "url": "https://rateyourmusic.com/genre/budots/",
+      "description": "Originated from the southern Philippines; notable for its distinct high-pitched synth hooks.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Budots",
+      "url": "https://rateyourmusic.com/genre/budots/",
+      "description": "Originated from the southern Philippines; notable for its distinct high-pitched synth hooks.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Bérite Club",
+      "url": "https://rateyourmusic.com/genre/berite-club/",
+      "description": "Originated in the underground club scene of Paris in the mid-to-late 2010s, drawing on a variety of international club styles for its combination of prominent and erratic drum programming with freezing and looping chopped-up samples.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Bérite Club",
+      "url": "https://rateyourmusic.com/genre/berite-club/",
+      "description": "Originated in the underground club scene of Paris in the mid-to-late 2010s, drawing on a variety of international club styles for its combination of prominent and erratic drum programming with freezing and looping chopped-up samples.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Coupé-décalé",
+      "url": "https://rateyourmusic.com/genre/coupe-decale/",
+      "description": "Bass-heavy and minimal style of Ivorian popular dance music, drawing heavily from Zouglou and Congolese rhythms.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Coupé-décalé",
+      "url": "https://rateyourmusic.com/genre/coupe-decale/",
+      "description": "Bass-heavy and minimal style of Ivorian popular dance music, drawing heavily from Zouglou and Congolese rhythms.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Cruise",
+      "url": "https://rateyourmusic.com/genre/cruise/",
+      "description": "Fast-paced Nigerian dance music, utilising chopped, often humorous, samples.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Cruise",
+      "url": "https://rateyourmusic.com/genre/cruise/",
+      "description": "Fast-paced Nigerian dance music, utilising chopped, often humorous, samples.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Dariacore",
+      "url": "https://rateyourmusic.com/genre/dariacore/",
+      "description": "SoundCloud-based scene developed in the early 2020s, combining prominent vocal samples and distorted, dense production with influences from a wide range of Electronic Dance Music genres, often incorporating musical and visual references to popular media and internet culture.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Dariacore",
+      "url": "https://rateyourmusic.com/genre/dariacore/",
+      "description": "SoundCloud-based scene developed in the early 2020s, combining prominent vocal samples and distorted, dense production with influences from a wide range of Electronic Dance Music genres, often incorporating musical and visual references to popular media and internet culture.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Deconstructed Club",
+      "url": "https://rateyourmusic.com/genre/deconstructed-club/",
+      "description": "Emerged in the 2010s as the hybridization of diverse Electronic Dance Music genres with an abrasive Post-Industrial sound.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Deconstructed Club",
+      "url": "https://rateyourmusic.com/genre/deconstructed-club/",
+      "description": "Emerged in the 2010s as the hybridization of diverse Electronic Dance Music genres with an abrasive Post-Industrial sound.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Dek Bass",
+      "url": "https://rateyourmusic.com/genre/dek-bass/",
+      "description": "Prominent heavy, sustained bass tones, percussion derived from South Asian Music, and often high-pitched sound effects or samples; commonly played at extreme volumes in DJ/sound system competitions.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Dek Bass",
+      "url": "https://rateyourmusic.com/genre/dek-bass/",
+      "description": "Prominent heavy, sustained bass tones, percussion derived from South Asian Music, and often high-pitched sound effects or samples; commonly played at extreme volumes in DJ/sound system competitions.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Digital Cumbia",
+      "url": "https://rateyourmusic.com/genre/digital-cumbia/",
+      "description": "Mixes an Electronic sound into traditional Cumbia through influences from House, Dancehall, Hyphy, and Dubstep.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Digital Cumbia",
+      "url": "https://rateyourmusic.com/genre/digital-cumbia/",
+      "description": "Mixes an Electronic sound into traditional Cumbia through influences from House, Dancehall, Hyphy, and Dubstep.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/drum-and-bass/",
+      "description": "Fast, syncopated breakbeat patterns (often sampled or programmed) with prominent basslines, commonly within the 160-180 BPM range.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/drum-and-bass/",
+      "description": "Fast, syncopated breakbeat patterns (often sampled or programmed) with prominent basslines, commonly within the 160-180 BPM range.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Dubstep",
+      "url": "https://rateyourmusic.com/genre/dubstep/",
+      "description": "Half-time syncopated and sparse beats set around 140 BPM with heavy sub-basses; emerged in South London in the early 2000s.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Dubstep",
+      "url": "https://rateyourmusic.com/genre/dubstep/",
+      "description": "Half-time syncopated and sparse beats set around 140 BPM with heavy sub-basses; emerged in South London in the early 2000s.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "EBM",
+      "url": "https://rateyourmusic.com/genre/ebm/",
+      "description": "Melodic and dancefloor-friendly take on Post-Industrial music that developed in the early 1980s.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "EBM",
+      "url": "https://rateyourmusic.com/genre/ebm/",
+      "description": "Melodic and dancefloor-friendly take on Post-Industrial music that developed in the early 1980s.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "East Coast Club",
+      "url": "https://rateyourmusic.com/genre/east-coast-club/",
+      "description": "Group of club styles from the US East Coast that combines Miami Bass rhythms with influence from Breakbeat and Ghetto House.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "East Coast Club",
+      "url": "https://rateyourmusic.com/genre/east-coast-club/",
+      "description": "Group of club styles from the US East Coast that combines Miami Bass rhythms with influence from Breakbeat and Ghetto House.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Electro",
+      "url": "https://rateyourmusic.com/genre/electro/",
+      "description": "Syncopated rhythms programmed on the Roland TR-808 drum machine, often resembling Funk breaks, along with simple funky basslines.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Electro",
+      "url": "https://rateyourmusic.com/genre/electro/",
+      "description": "Syncopated rhythms programmed on the Roland TR-808 drum machine, often resembling Funk breaks, along with simple funky basslines.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Electro Swing",
+      "url": "https://rateyourmusic.com/genre/electro-swing/",
+      "description": "Upbeat, energetic style that splices Swing with Electronic Dance Music, looking to recapture the atmosphere of late 1920s to mid-1940s Jazz within a more updated club-friendly medium.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Electro Swing",
+      "url": "https://rateyourmusic.com/genre/electro-swing/",
+      "description": "Upbeat, energetic style that splices Swing with Electronic Dance Music, looking to recapture the atmosphere of late 1920s to mid-1940s Jazz within a more updated club-friendly medium.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Electro latino",
+      "url": "https://rateyourmusic.com/genre/electro-latino/",
+      "description": "Mixes elements of Merengue and Reggaetón with polished production from mainstream House subgenres; often shares traits with Latin Pop, having anthemic melodies and verse-chorus structures.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Electro latino",
+      "url": "https://rateyourmusic.com/genre/electro-latino/",
+      "description": "Mixes elements of Merengue and Reggaetón with polished production from mainstream House subgenres; often shares traits with Latin Pop, having anthemic melodies and verse-chorus structures.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Electro-Disco",
+      "url": "https://rateyourmusic.com/genre/electro-disco/",
+      "description": "Disco instrumentation is largely - if not entirely - replaced by synthesizers and augmented with futuristic elements such as the vocoder.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Electro-Disco",
+      "url": "https://rateyourmusic.com/genre/electro-disco/",
+      "description": "Disco instrumentation is largely - if not entirely - replaced by synthesizers and augmented with futuristic elements such as the vocoder.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Electroclash",
+      "url": "https://rateyourmusic.com/genre/electroclash/",
+      "description": "Draws from 1980s styles such as Electro, New Wave, and Electro-Disco combined with Techno, resulting in minimal, throbbing beats and basslines, buzzing synthesizer parts, vocoders and often monotone, half-spoken, half-sung vocals.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Electroclash",
+      "url": "https://rateyourmusic.com/genre/electroclash/",
+      "description": "Draws from 1980s styles such as Electro, New Wave, and Electro-Disco combined with Techno, resulting in minimal, throbbing beats and basslines, buzzing synthesizer parts, vocoders and often monotone, half-spoken, half-sung vocals.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Eurobeat",
+      "url": "https://rateyourmusic.com/genre/eurobeat/",
+      "description": "Fast-paced with roots in Hi-NRG and Italo-Disco; became mainly popular in Japan in the 1990s.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Eurobeat",
+      "url": "https://rateyourmusic.com/genre/eurobeat/",
+      "description": "Fast-paced with roots in Hi-NRG and Italo-Disco; became mainly popular in Japan in the 1990s.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Eurodance",
+      "url": "https://rateyourmusic.com/genre/eurodance/",
+      "description": "Takes elements of Euro-Disco, House, Techno, and Hi-NRG while featuring on-beat kick, hi-hat and snare sounds at around 110 to 150 bpm.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Eurodance",
+      "url": "https://rateyourmusic.com/genre/eurodance/",
+      "description": "Takes elements of Euro-Disco, House, Techno, and Hi-NRG while featuring on-beat kick, hi-hat and snare sounds at around 110 to 150 bpm.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Flex Dance Music",
+      "url": "https://rateyourmusic.com/genre/flex-dance-music/",
+      "description": "Largely instrumental; infused with Electronic Dance Music elements.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Flex Dance Music",
+      "url": "https://rateyourmusic.com/genre/flex-dance-music/",
+      "description": "Largely instrumental; infused with Electronic Dance Music elements.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Footwork",
+      "url": "https://rateyourmusic.com/genre/footwork/",
+      "description": "Extensive use of drum fills, tom drums, handclaps, and snares within fast-paced, highly syncopated beats not bound to a 4/4 kick rhythm.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Footwork",
+      "url": "https://rateyourmusic.com/genre/footwork/",
+      "description": "Extensive use of drum fills, tom drums, handclaps, and snares within fast-paced, highly syncopated beats not bound to a 4/4 kick rhythm.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Freestyle",
+      "url": "https://rateyourmusic.com/genre/freestyle/",
+      "description": "Electro-influenced; developed in Latino communities in New York and Miami in the 1980s, especially dominated by Latin Freestyle and its Latin influences.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Freestyle",
+      "url": "https://rateyourmusic.com/genre/freestyle/",
+      "description": "Electro-influenced; developed in Latino communities in New York and Miami in the 1980s, especially dominated by Latin Freestyle and its Latin influences.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Funk mandelão",
+      "url": "https://rateyourmusic.com/genre/funk-mandelao/",
+      "description": "Simple lyricism, raw and minimalistic production, and distinct drops with bursting bass.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Funk mandelão",
+      "url": "https://rateyourmusic.com/genre/funk-mandelao/",
+      "description": "Simple lyricism, raw and minimalistic production, and distinct drops with bursting bass.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Funkot",
+      "url": "https://rateyourmusic.com/genre/funkot/",
+      "description": "Fast-paced Indonesian form of Electronic Dance Music that combines Eurodance and Trance synths with the syncopated rhythm from Dangdut koplo.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Funkot",
+      "url": "https://rateyourmusic.com/genre/funkot/",
+      "description": "Fast-paced Indonesian form of Electronic Dance Music that combines Eurodance and Trance synths with the syncopated rhythm from Dangdut koplo.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Future Bass",
+      "url": "https://rateyourmusic.com/genre/future-bass/",
+      "description": "Woozy, detuned synthesizers, 7th chords, harsh basslines, syncopated percussion with fast-paced hi-hats and a melodic, carefree atmosphere.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Future Bass",
+      "url": "https://rateyourmusic.com/genre/future-bass/",
+      "description": "Woozy, detuned synthesizers, 7th chords, harsh basslines, syncopated percussion with fast-paced hi-hats and a melodic, carefree atmosphere.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Future Rave",
+      "url": "https://rateyourmusic.com/genre/future-rave/",
+      "description": "Emerged in the late 2010s by combining the mainstage EDM approach with influences from then-popular forms of Techno and old-school Trance/rave-inspired grooves and atmospheres.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Future Rave",
+      "url": "https://rateyourmusic.com/genre/future-rave/",
+      "description": "Emerged in the late 2010s by combining the mainstage EDM approach with influences from then-popular forms of Techno and old-school Trance/rave-inspired grooves and atmospheres.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Ghettotech",
+      "url": "https://rateyourmusic.com/genre/ghettotech/",
+      "description": "Fuses the syncopation and synthesized sounds of Electro and Detroit Techno with the cut-up samples of Ghetto House and fast rhythms of Miami Bass.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Ghettotech",
+      "url": "https://rateyourmusic.com/genre/ghettotech/",
+      "description": "Fuses the syncopation and synthesized sounds of Electro and Detroit Techno with the cut-up samples of Ghetto House and fast rhythms of Miami Bass.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Glitch Hop [EDM]",
+      "url": "https://rateyourmusic.com/genre/glitch-hop-edm/",
+      "description": "Tempos around 100-110 BPM, swung, bouncy drum patterns, and a focus on upbeat, danceable drops and buildups.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Glitch Hop [EDM]",
+      "url": "https://rateyourmusic.com/genre/glitch-hop-edm/",
+      "description": "Tempos around 100-110 BPM, swung, bouncy drum patterns, and a focus on upbeat, danceable drops and buildups.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Grime",
+      "url": "https://rateyourmusic.com/genre/grime/",
+      "description": "UK Garage-derived production style characterized by dark, fast-paced, often aggressive beats that commonly features fast-paced MCing.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Grime",
+      "url": "https://rateyourmusic.com/genre/grime/",
+      "description": "UK Garage-derived production style characterized by dark, fast-paced, often aggressive beats that commonly features fast-paced MCing.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hard Dance",
+      "url": "https://rateyourmusic.com/genre/hard-dance/",
+      "description": "Umbrella term for EDM mainly developed out of Hard Trance and UK Hard House; usually characterized by fast tempos, hard kick drums and a \"bouncy\" syncopated groove.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hard Dance",
+      "url": "https://rateyourmusic.com/genre/hard-dance/",
+      "description": "Umbrella term for EDM mainly developed out of Hard Trance and UK Hard House; usually characterized by fast tempos, hard kick drums and a \"bouncy\" syncopated groove.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hard Drum",
+      "url": "https://rateyourmusic.com/genre/hard-drum/",
+      "description": "Highly percussive, syncopated rhythms, influences from global contemporary genres, and lack of melodic elements, with a tempo lingering around 130 BPM.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hard Drum",
+      "url": "https://rateyourmusic.com/genre/hard-drum/",
+      "description": "Highly percussive, syncopated rhythms, influences from global contemporary genres, and lack of melodic elements, with a tempo lingering around 130 BPM.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hardcore [EDM]",
+      "url": "https://rateyourmusic.com/genre/hardcore-edm/",
+      "description": "Umbrella term for a wide variety of fast-paced and energetic Electronic Dance Music styles that have been developed since the early 1990s.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hardcore [EDM]",
+      "url": "https://rateyourmusic.com/genre/hardcore-edm/",
+      "description": "Umbrella term for a wide variety of fast-paced and energetic Electronic Dance Music styles that have been developed since the early 1990s.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hardvapour",
+      "url": "https://rateyourmusic.com/genre/hardvapour/",
+      "description": "Influenced by Hardcore [EDM] and Techno and made in response to the Vaporwave movement.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hardvapour",
+      "url": "https://rateyourmusic.com/genre/hardvapour/",
+      "description": "Influenced by Hardcore [EDM] and Techno and made in response to the Vaporwave movement.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hardwave",
+      "url": "https://rateyourmusic.com/genre/hardwave/",
+      "description": "Harder, festival-oriented offshoot of Wave, combining its \"reese\" basses and icy synths with Trap [EDM] drum patterns, build-up-drop structures, and fuller sound influenced by Trance and Hardstyle.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hardwave",
+      "url": "https://rateyourmusic.com/genre/hardwave/",
+      "description": "Harder, festival-oriented offshoot of Wave, combining its \"reese\" basses and icy synths with Trap [EDM] drum patterns, build-up-drop structures, and fuller sound influenced by Trance and Hardstyle.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "House",
+      "url": "https://rateyourmusic.com/genre/house/",
+      "description": "Generally features a four-on-the-floor beat within 110-140 BPM, a groove built on swing and syncopation, synthesized basslines, repetitive melodic elements, and an upbeat mood.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "House",
+      "url": "https://rateyourmusic.com/genre/house/",
+      "description": "Generally features a four-on-the-floor beat within 110-140 BPM, a groove built on swing and syncopation, synthesized basslines, repetitive melodic elements, and an upbeat mood.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hyper Techno",
+      "url": "https://rateyourmusic.com/genre/hyper-techno/",
+      "description": "Exaggerated fast form of Belgian Techno for the Japanese market, focusing mainly on synth sounds and samples typical of 1990s dance music.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hyper Techno",
+      "url": "https://rateyourmusic.com/genre/hyper-techno/",
+      "description": "Exaggerated fast form of Belgian Techno for the Japanese market, focusing mainly on synth sounds and samples typical of 1990s dance music.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hypertechno",
+      "url": "https://rateyourmusic.com/genre/hypertechno/",
+      "description": "Emerged in the 2020s by mixing fast tempos, prominent basslines, and hard-hitting drums derived from popular Techno with simplistic, catchy melodies and vocals, often influenced by 2000s Hard Dance, Eurodance and Electropop.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Hypertechno",
+      "url": "https://rateyourmusic.com/genre/hypertechno/",
+      "description": "Emerged in the 2020s by mixing fast tempos, prominent basslines, and hard-hitting drums derived from popular Techno with simplistic, catchy melodies and vocals, often influenced by 2000s Hard Dance, Eurodance and Electropop.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Jungle Terror",
+      "url": "https://rateyourmusic.com/genre/jungle-terror/",
+      "description": "Emerging mostly from Dutch House and Big Room House, incorporates Tribal House-influenced percussion, hard kicks, and animal sounds resulting in a wild, jungle-resembling atmosphere in a festival EDM-oriented context.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Jungle Terror",
+      "url": "https://rateyourmusic.com/genre/jungle-terror/",
+      "description": "Emerging mostly from Dutch House and Big Room House, incorporates Tribal House-influenced percussion, hard kicks, and animal sounds resulting in a wild, jungle-resembling atmosphere in a festival EDM-oriented context.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Krushclub",
+      "url": "https://rateyourmusic.com/genre/krushclub/",
+      "description": "Bitcrushed synths and occasionally bitcrushed vocals, energetic Jersey Club-derived beats, and elements of Sigilkore's dark production style.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Krushclub",
+      "url": "https://rateyourmusic.com/genre/krushclub/",
+      "description": "Bitcrushed synths and occasionally bitcrushed vocals, energetic Jersey Club-derived beats, and elements of Sigilkore's dark production style.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Kuduro",
+      "url": "https://rateyourmusic.com/genre/kuduro/",
+      "description": "Angolan music combining traditional Kilapanga and Semba with Techno and House.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Kuduro",
+      "url": "https://rateyourmusic.com/genre/kuduro/",
+      "description": "Angolan music combining traditional Kilapanga and Semba with Techno and House.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Makina",
+      "url": "https://rateyourmusic.com/genre/makina/",
+      "description": "Spanish Techno developed in the early 1990s; strongly influenced by New Beat and EBM, but aiming for a lighter sound.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Makina",
+      "url": "https://rateyourmusic.com/genre/makina/",
+      "description": "Spanish Techno developed in the early 1990s; strongly influenced by New Beat and EBM, but aiming for a lighter sound.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Manyao",
+      "url": "https://rateyourmusic.com/genre/manyao/",
+      "description": "Asian Electronic Dance Music that mixes vocals and melodies from Mandopop with fairly hard, melodic EDM.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Manyao",
+      "url": "https://rateyourmusic.com/genre/manyao/",
+      "description": "Asian Electronic Dance Music that mixes vocals and melodies from Mandopop with fairly hard, melodic EDM.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Melodic Bass",
+      "url": "https://rateyourmusic.com/genre/melodic-bass/",
+      "description": "Outgrowth of Melodic Dubstep with euphoric sound design taking influences from Future Bass, guitar melodies and pop-driven structures",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Melodic Bass",
+      "url": "https://rateyourmusic.com/genre/melodic-bass/",
+      "description": "Outgrowth of Melodic Dubstep with euphoric sound design taking influences from Future Bass, guitar melodies and pop-driven structures",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Midtempo Bass",
+      "url": "https://rateyourmusic.com/genre/midtempo-bass/",
+      "description": "Harsh synth leads and a usual tempo of around 90-110 BPM.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Midtempo Bass",
+      "url": "https://rateyourmusic.com/genre/midtempo-bass/",
+      "description": "Harsh synth leads and a usual tempo of around 90-110 BPM.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Moombahcore",
+      "url": "https://rateyourmusic.com/genre/moombahcore/",
+      "description": "High-pitched synth leads, gritty percussion, a kick-snare pattern, aggressive bass drops, and around 110 BPM while often paralleling Complextro or Brostep.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Moombahcore",
+      "url": "https://rateyourmusic.com/genre/moombahcore/",
+      "description": "High-pitched synth leads, gritty percussion, a kick-snare pattern, aggressive bass drops, and around 110 BPM while often paralleling Complextro or Brostep.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Moombahton",
+      "url": "https://rateyourmusic.com/genre/moombahton/",
+      "description": "Offshoot of Dutch House characterized by tempos in the 100-110 BPM range, Reggaetón-influenced rhythms, bass-heavy kicks and high-pitched synths.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Moombahton",
+      "url": "https://rateyourmusic.com/genre/moombahton/",
+      "description": "Offshoot of Dutch House characterized by tempos in the 100-110 BPM range, Reggaetón-influenced rhythms, bass-heavy kicks and high-pitched synths.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Nerdcore Techno",
+      "url": "https://rateyourmusic.com/genre/nerdcore-techno/",
+      "description": "Stylistically diverse form of underground Japanese Electronic Dance Music utilizing energetic beats built around samples from pop and/or nerd culture.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Nerdcore Techno",
+      "url": "https://rateyourmusic.com/genre/nerdcore-techno/",
+      "description": "Stylistically diverse form of underground Japanese Electronic Dance Music utilizing energetic beats built around samples from pop and/or nerd culture.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Nu-Disco",
+      "url": "https://rateyourmusic.com/genre/nu-disco/",
+      "description": "21st-century trend mixing modern, polished Electronic production with the aesthetics, structures, and lively, organic beats of 1970s and 1980s Disco.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Nu-Disco",
+      "url": "https://rateyourmusic.com/genre/nu-disco/",
+      "description": "21st-century trend mixing modern, polished Electronic production with the aesthetics, structures, and lively, organic beats of 1970s and 1980s Disco.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Ori deck",
+      "url": "https://rateyourmusic.com/genre/ori-deck/",
+      "description": "Incorporates elements of Moombahton and Dubstep to create a style characterized by sluggish, kick-heavy dembow rhythms.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Ori deck",
+      "url": "https://rateyourmusic.com/genre/ori-deck/",
+      "description": "Incorporates elements of Moombahton and Dubstep to create a style characterized by sluggish, kick-heavy dembow rhythms.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Post-Dubstep",
+      "url": "https://rateyourmusic.com/genre/post-dubstep/",
+      "description": "Minimalistic, atmospheric sound design and eclectic drum patterns, derived from but not fitting Dubstep.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Post-Dubstep",
+      "url": "https://rateyourmusic.com/genre/post-dubstep/",
+      "description": "Minimalistic, atmospheric sound design and eclectic drum patterns, derived from but not fitting Dubstep.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Shangaan Electro",
+      "url": "https://rateyourmusic.com/genre/shangaan-electro/",
+      "description": "South African genre with very fast BPM (around 180) featuring MIDI keyboard sounds and marimba.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Shangaan Electro",
+      "url": "https://rateyourmusic.com/genre/shangaan-electro/",
+      "description": "South African genre with very fast BPM (around 180) featuring MIDI keyboard sounds and marimba.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Singeli",
+      "url": "https://rateyourmusic.com/genre/singeli/",
+      "description": "Developed in Tanzania in the mid-2000s; fuses incredibly rapid beats, usually between 180-300BPM, with MCing and musical influences from older Tanzanian genres.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Singeli",
+      "url": "https://rateyourmusic.com/genre/singeli/",
+      "description": "Developed in Tanzania in the mid-2000s; fuses incredibly rapid beats, usually between 180-300BPM, with MCing and musical influences from older Tanzanian genres.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Skweee",
+      "url": "https://rateyourmusic.com/genre/skweee/",
+      "description": "Mid-2000s offshoot of the Nordic Electro scene which uses simple, analogue or Chiptune-inspired synthesizer leads and basslines to create stripped-down, midtempo grooves drawing on Synth Funk and Hip Hop.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Skweee",
+      "url": "https://rateyourmusic.com/genre/skweee/",
+      "description": "Mid-2000s offshoot of the Nordic Electro scene which uses simple, analogue or Chiptune-inspired synthesizer leads and basslines to create stripped-down, midtempo grooves drawing on Synth Funk and Hip Hop.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Slimepunk",
+      "url": "https://rateyourmusic.com/genre/slimepunk/",
+      "description": "Loud synth leads with a distorted, gritty, and \"slimy\" sound design, usually laid on top of production inspired by or taken directly from genres such as Halftime, Trap [EDM], Brostep, and other forms of 2010s EDM.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Slimepunk",
+      "url": "https://rateyourmusic.com/genre/slimepunk/",
+      "description": "Loud synth leads with a distorted, gritty, and \"slimy\" sound design, usually laid on top of production inspired by or taken directly from genres such as Halftime, Trap [EDM], Brostep, and other forms of 2010s EDM.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Techno",
+      "url": "https://rateyourmusic.com/genre/techno/",
+      "description": "Highly beat-driven, repetitive, and mechanical, typically featuring minimal chord variation and melodies, focuses on rhythms and timbral variety; generally produced for club environments.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Techno",
+      "url": "https://rateyourmusic.com/genre/techno/",
+      "description": "Highly beat-driven, repetitive, and mechanical, typically featuring minimal chord variation and melodies, focuses on rhythms and timbral variety; generally produced for club environments.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Techno Bass",
+      "url": "https://rateyourmusic.com/genre/techno-bass/",
+      "description": "Minimal, stripped-down with an emphasis on low-frequency bass partitions.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Techno Bass",
+      "url": "https://rateyourmusic.com/genre/techno-bass/",
+      "description": "Minimal, stripped-down with an emphasis on low-frequency bass partitions.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Tecnorumba",
+      "url": "https://rateyourmusic.com/genre/tecnorumba/",
+      "description": "Blend of the themes and singing style of Rumba flamenca with the most commercial forms of House, Techno, and Makina.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Tecnorumba",
+      "url": "https://rateyourmusic.com/genre/tecnorumba/",
+      "description": "Blend of the themes and singing style of Rumba flamenca with the most commercial forms of House, Techno, and Makina.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Trance",
+      "url": "https://rateyourmusic.com/genre/trance/",
+      "description": "Evolving, tension-building structures with rapid, minor arpeggios on top of a hypnotic, four-on-the-floor drum patterns at fast tempo around 130-150 BPM.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Trance",
+      "url": "https://rateyourmusic.com/genre/trance/",
+      "description": "Evolving, tension-building structures with rapid, minor arpeggios on top of a hypnotic, four-on-the-floor drum patterns at fast tempo around 130-150 BPM.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Trap [EDM]",
+      "url": "https://rateyourmusic.com/genre/trap-edm/",
+      "description": "Trap-influenced syncopated percussion with 808 samples and fast-paced hi-hats.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Trap [EDM]",
+      "url": "https://rateyourmusic.com/genre/trap-edm/",
+      "description": "Trap-influenced syncopated percussion with 808 samples and fast-paced hi-hats.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Tribal Guarachero",
+      "url": "https://rateyourmusic.com/genre/tribal-guarachero/",
+      "description": "Features percussion from Cumbia and Mexican Folk Music with upbeat Electro House-derived production and fast, triplet-oriented rhythmic patterns.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Tribal Guarachero",
+      "url": "https://rateyourmusic.com/genre/tribal-guarachero/",
+      "description": "Features percussion from Cumbia and Mexican Folk Music with upbeat Electro House-derived production and fast, triplet-oriented rhythmic patterns.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "UK Bass",
+      "url": "https://rateyourmusic.com/genre/uk-bass/",
+      "description": "Prominent bass/sub-basses, a deep, dark, airy, and mechanical sound derived from Dubstep, and eclectic production influenced by UK Funky, Juke/Footwork, Techno, and Breakbeat.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "UK Bass",
+      "url": "https://rateyourmusic.com/genre/uk-bass/",
+      "description": "Prominent bass/sub-basses, a deep, dark, airy, and mechanical sound derived from Dubstep, and eclectic production influenced by UK Funky, Juke/Footwork, Techno, and Breakbeat.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "UK Funky",
+      "url": "https://rateyourmusic.com/genre/uk-funky/",
+      "description": "Influenced by UK Garage-related styles and the regional styles of British immigrants, including Soca and West African-inspired Tribal House.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "UK Funky",
+      "url": "https://rateyourmusic.com/genre/uk-funky/",
+      "description": "Influenced by UK Garage-related styles and the regional styles of British immigrants, including Soca and West African-inspired Tribal House.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "UK Garage",
+      "url": "https://rateyourmusic.com/genre/uk-garage/",
+      "description": "Shuffling rhythms and influences from sources including Contemporary R&B and Hip Hop, as well as many forms of Electronic.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "UK Garage",
+      "url": "https://rateyourmusic.com/genre/uk-garage/",
+      "description": "Shuffling rhythms and influences from sources including Contemporary R&B and Hip Hop, as well as many forms of Electronic.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Wonky",
+      "url": "https://rateyourmusic.com/genre/wonky/",
+      "description": "Off-kilter fusion of Dubstep and Hip Hop which first developed in the mid-to-late 2000s.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    },
+    {
+      "name": "Wonky",
+      "url": "https://rateyourmusic.com/genre/wonky/",
+      "description": "Off-kilter fusion of Dubstep and Hip Hop which first developed in the mid-to-late 2000s.",
+      "level": "sub-2",
+      "parent": "Electronic Dance Music"
+    }
+  ]
+}

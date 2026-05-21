@@ -1,0 +1,24 @@
+{
+  "name": "Jam Band",
+  "description": "Arose in late 1960s America, usually performed in a live setting and combines diverse styles under the Rock umbrella, often influenced by genres such as Funk, Jazz, Country and Blues.",
+  "url": "https://rateyourmusic.com/genre/jam-band/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Jamgrass",
+      "url": "https://rateyourmusic.com/genre/jamgrass/",
+      "description": "Emphasizes instrumental jamming and extended performances with many outside influences.",
+      "level": "sub-2",
+      "parent": "Jam Band"
+    },
+    {
+      "name": "Livetronica",
+      "url": "https://rateyourmusic.com/genre/livetronica/",
+      "description": "Incorporates Electronic instrumentation into live Rock jamming, drawing on a wide variety of Electronic Dance Music and Downtempo styles.",
+      "level": "sub-2",
+      "parent": "Jam Band"
+    }
+  ]
+}

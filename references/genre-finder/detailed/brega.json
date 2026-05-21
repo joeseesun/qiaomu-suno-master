@@ -1,0 +1,38 @@
+{
+  "name": "Brega",
+  "description": "Overstated, dramatic music with a romantic singing style.",
+  "url": "https://rateyourmusic.com/genre/brega/",
+  "parent": "Brazilian Music",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Arrocha",
+      "url": "https://rateyourmusic.com/genre/arrocha/",
+      "description": "Influenced by Brega's romantic style, with further influence from Axé and Forró, giving it a more sensual and euphoric feel.",
+      "level": "sub-4",
+      "parent": "Brega"
+    },
+    {
+      "name": "Brega calypso",
+      "url": "https://rateyourmusic.com/genre/brega-calypso/",
+      "description": "Romantic vocals and lyrics, bubbly and sensual melodies and rhythms, horn sections and lush Caribbean-like guitar riffs over fast tempos.",
+      "level": "sub-4",
+      "parent": "Brega"
+    },
+    {
+      "name": "Brega funk",
+      "url": "https://rateyourmusic.com/genre/brega-funk/",
+      "description": "Rooted in Tecnobrega, features glossy syncopated MIDI pianos and synths, distinct pitched metallic snares and vocal chops over a wonky kick rhythm.",
+      "level": "sub-4",
+      "parent": "Brega"
+    },
+    {
+      "name": "Tecnobrega",
+      "url": "https://rateyourmusic.com/genre/tecnobrega/",
+      "description": "Fast and electronic-based style that evolved from Brega calypso, particularly associated with peripheral areas of the city of Belém.",
+      "level": "sub-4",
+      "parent": "Brega"
+    }
+  ]
+}

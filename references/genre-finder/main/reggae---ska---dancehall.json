@@ -1,0 +1,36 @@
+{
+  "name": "Reggae / Ska / Dancehall",
+  "description": "Umbrella for related forms of Jamaican Music which have grown beyond their regional roots to become global phenomena.",
+  "url": "https://rateyourmusic.com/genre/reggae-ska-dancehall/",
+  "sub_genres_count": 4,
+  "sub_genres": [
+    {
+      "name": "Dancehall",
+      "url": "https://rateyourmusic.com/genre/dancehall/",
+      "description": "Developed from Reggae in the late 1970s, when Roots Reggae became more stripped-down, with an increased emphasis on pure rhythm.",
+      "level": "sub",
+      "parent": "Reggae / Ska / Dancehall"
+    },
+    {
+      "name": "Reggae",
+      "url": "https://rateyourmusic.com/genre/reggae/",
+      "description": "Developed in the 1960s; shuffling \"bubble\" and offbeat rhythms played on an organ, and staccato guitar and piano chords known as \"skank.\"",
+      "level": "sub",
+      "parent": "Reggae / Ska / Dancehall"
+    },
+    {
+      "name": "Rocksteady",
+      "url": "https://rateyourmusic.com/genre/rocksteady/",
+      "description": "Jamaican popular music that blossomed briefly between 1966 and 1968 as an evolution of Ska, being slower, more relaxed, and soulful.",
+      "level": "sub",
+      "parent": "Reggae / Ska / Dancehall"
+    },
+    {
+      "name": "Ska",
+      "url": "https://rateyourmusic.com/genre/ska/",
+      "description": "Originated in Jamaica in the late 1950s, characterized by a signature off-beat rhythm (referred to as the ‘skank’ rhythm), chop-style guitar work, busy bass lines and a use of horn sections.",
+      "level": "sub",
+      "parent": "Reggae / Ska / Dancehall"
+    }
+  ]
+}

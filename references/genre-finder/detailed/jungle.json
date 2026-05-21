@@ -1,0 +1,24 @@
+{
+  "name": "Jungle",
+  "description": "Developed in the early 1990s from Breakbeat Hardcore, featuring rapid, chaotic-sounding breakbeats and strong basslines; known as the forerunner of most Drum and Bass styles.",
+  "url": "https://rateyourmusic.com/genre/jungle/",
+  "parent": "Drum and Bass",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Ragga Jungle",
+      "url": "https://rateyourmusic.com/genre/ragga-jungle/",
+      "description": "Developed in the early 1990s in London, combining Jungle breakbeats with heavy influence from Ragga.",
+      "level": "sub-4",
+      "parent": "Jungle"
+    },
+    {
+      "name": "Ragga Jungle",
+      "url": "https://rateyourmusic.com/genre/ragga-jungle/",
+      "description": "Developed in the early 1990s in London, combining Jungle breakbeats with heavy influence from Ragga.",
+      "level": "sub-4",
+      "parent": "Jungle"
+    }
+  ]
+}

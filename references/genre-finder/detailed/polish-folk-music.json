@@ -1,0 +1,234 @@
+{
+  "name": "Polish Folk Music",
+  "description": "Traditional Folk Music of the Poles.",
+  "url": "https://rateyourmusic.com/genre/polish-folk-music/",
+  "parent": "Slavic Folk Music",
+  "level": "sub-4",
+  "children_count": 32,
+  "children": [
+    {
+      "name": "Folklor miejski",
+      "url": "https://rateyourmusic.com/genre/folklor-miejski/",
+      "description": "Urban folk street band traditions of Polish cities.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Folklor miejski",
+      "url": "https://rateyourmusic.com/genre/folklor-miejski/",
+      "description": "Urban folk street band traditions of Polish cities.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Folklor miejski",
+      "url": "https://rateyourmusic.com/genre/folklor-miejski/",
+      "description": "Urban folk street band traditions of Polish cities.",
+      "level": "sub-4",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Folklor miejski",
+      "url": "https://rateyourmusic.com/genre/folklor-miejski/",
+      "description": "Urban folk street band traditions of Polish cities.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kashubian Folk Music",
+      "url": "https://rateyourmusic.com/genre/kashubian-folk-music/",
+      "description": "Traditional Folk Music of the Kashubian people of northwestern Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kashubian Folk Music",
+      "url": "https://rateyourmusic.com/genre/kashubian-folk-music/",
+      "description": "Traditional Folk Music of the Kashubian people of northwestern Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kashubian Folk Music",
+      "url": "https://rateyourmusic.com/genre/kashubian-folk-music/",
+      "description": "Traditional Folk Music of the Kashubian people of northwestern Poland.",
+      "level": "sub-4",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kashubian Folk Music",
+      "url": "https://rateyourmusic.com/genre/kashubian-folk-music/",
+      "description": "Traditional Folk Music of the Kashubian people of northwestern Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Krakowiak",
+      "url": "https://rateyourmusic.com/genre/krakowiak/",
+      "description": "Fast, syncopated, duple-time national dance of Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Krakowiak",
+      "url": "https://rateyourmusic.com/genre/krakowiak/",
+      "description": "Fast, syncopated, duple-time national dance of Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Krakowiak",
+      "url": "https://rateyourmusic.com/genre/krakowiak/",
+      "description": "Fast, syncopated, duple-time national dance of Poland.",
+      "level": "sub-4",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Krakowiak",
+      "url": "https://rateyourmusic.com/genre/krakowiak/",
+      "description": "Fast, syncopated, duple-time national dance of Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kujawiak",
+      "url": "https://rateyourmusic.com/genre/kujawiak/",
+      "description": "Calm, triple-time national dance of Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kujawiak",
+      "url": "https://rateyourmusic.com/genre/kujawiak/",
+      "description": "Calm, triple-time national dance of Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kujawiak",
+      "url": "https://rateyourmusic.com/genre/kujawiak/",
+      "description": "Calm, triple-time national dance of Poland.",
+      "level": "sub-4",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kujawiak",
+      "url": "https://rateyourmusic.com/genre/kujawiak/",
+      "description": "Calm, triple-time national dance of Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kujon",
+      "url": "https://rateyourmusic.com/genre/kujon/",
+      "description": "Melancholic triple-time folk dance from Łowicz and Łęczyca regions, related to Kujawiak and Oberek.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kujon",
+      "url": "https://rateyourmusic.com/genre/kujon/",
+      "description": "Melancholic triple-time folk dance from Łowicz and Łęczyca regions, related to Kujawiak and Oberek.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kujon",
+      "url": "https://rateyourmusic.com/genre/kujon/",
+      "description": "Melancholic triple-time folk dance from Łowicz and Łęczyca regions, related to Kujawiak and Oberek.",
+      "level": "sub-4",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kujon",
+      "url": "https://rateyourmusic.com/genre/kujon/",
+      "description": "Melancholic triple-time folk dance from Łowicz and Łęczyca regions, related to Kujawiak and Oberek.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kurpian Folk Music",
+      "url": "https://rateyourmusic.com/genre/kurpian-folk-music/",
+      "description": "Traditional Folk Music of the Kurpian people of eastern Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kurpian Folk Music",
+      "url": "https://rateyourmusic.com/genre/kurpian-folk-music/",
+      "description": "Traditional Folk Music of the Kurpian people of eastern Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kurpian Folk Music",
+      "url": "https://rateyourmusic.com/genre/kurpian-folk-music/",
+      "description": "Traditional Folk Music of the Kurpian people of eastern Poland.",
+      "level": "sub-4",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Kurpian Folk Music",
+      "url": "https://rateyourmusic.com/genre/kurpian-folk-music/",
+      "description": "Traditional Folk Music of the Kurpian people of eastern Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Oberek",
+      "url": "https://rateyourmusic.com/genre/oberek/",
+      "description": "Fastest triple-time national dance of Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Oberek",
+      "url": "https://rateyourmusic.com/genre/oberek/",
+      "description": "Fastest triple-time national dance of Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Oberek",
+      "url": "https://rateyourmusic.com/genre/oberek/",
+      "description": "Fastest triple-time national dance of Poland.",
+      "level": "sub-4",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Oberek",
+      "url": "https://rateyourmusic.com/genre/oberek/",
+      "description": "Fastest triple-time national dance of Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Polish Goral Music",
+      "url": "https://rateyourmusic.com/genre/polish-goral-music/",
+      "description": "Music of indigenous highlanders native to the Western Beskids and the Podhale regions in Southern Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Polish Goral Music",
+      "url": "https://rateyourmusic.com/genre/polish-goral-music/",
+      "description": "Music of indigenous highlanders native to the Western Beskids and the Podhale regions in Southern Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Polish Goral Music",
+      "url": "https://rateyourmusic.com/genre/polish-goral-music/",
+      "description": "Music of indigenous highlanders native to the Western Beskids and the Podhale regions in Southern Poland.",
+      "level": "sub-4",
+      "parent": "Polish Folk Music"
+    },
+    {
+      "name": "Polish Goral Music",
+      "url": "https://rateyourmusic.com/genre/polish-goral-music/",
+      "description": "Music of indigenous highlanders native to the Western Beskids and the Podhale regions in Southern Poland.",
+      "level": "sub-5",
+      "parent": "Polish Folk Music"
+    }
+  ]
+}

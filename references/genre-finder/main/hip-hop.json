@@ -1,0 +1,393 @@
+{
+  "name": "Hip Hop",
+  "description": "Emerged primarily on the United States East Coast in African-American communities in the late 1970s; emphasizes rhythmic beat patterns and a type of spoken vocal delivery known as rapping.",
+  "url": "https://rateyourmusic.com/genre/hip-hop/",
+  "sub_genres_count": 55,
+  "sub_genres": [
+    {
+      "name": "Abstract Hip Hop",
+      "url": "https://rateyourmusic.com/genre/abstract-hip-hop/",
+      "description": "Uses much more abstract lyricism than what is considered conventional within the genre, typically through use of metaphors, symbolism, and cryptic meanings.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Afro Trap",
+      "url": "https://rateyourmusic.com/genre/afro-trap/",
+      "description": "Centered mostly in France, features production influenced by modern styles developed in West and Central Africa with Trap-styled vocal flows.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Afroswing",
+      "url": "https://rateyourmusic.com/genre/afroswing/",
+      "description": "Emerged in the United Kingdom during the mid-2010s, incorporating influences from Dancehall, Afrobeats, Contemporary R&B, and a variety of West African Music.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Arabesque Rap",
+      "url": "https://rateyourmusic.com/genre/arabesque-rap/",
+      "description": "Emerged from Turkey in the late 2000s, based almost exclusively around Arabesk samples and featuring aggressive rap vocals.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Bongo Flava",
+      "url": "https://rateyourmusic.com/genre/bongo-flava/",
+      "description": "Tanzanian genre originating in the mid-1990s in the Dar es Salaam area, combining the influence of Rhythm & Blues, Afrobeat, and Dancehall with native Tanzanian styles like Taarab and Muziki wa dansi.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Boom Bap",
+      "url": "https://rateyourmusic.com/genre/boom-bap/",
+      "description": "Production style identified by an acoustic-sounding drum pattern of a kick drum on the downbeat followed by a cracking snare on the upbeat.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Bounce",
+      "url": "https://rateyourmusic.com/genre/bounce/",
+      "description": "Developed in New Orleans in the early 1990s, initially defined by a slow to midtempo beat with a double-time hi-hat on top.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Chipmunk Soul",
+      "url": "https://rateyourmusic.com/genre/chipmunk-soul/",
+      "description": "Sped-up vocal samples and slick, soulful production.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Chopped and Screwed",
+      "url": "https://rateyourmusic.com/genre/chopped-and-screwed/",
+      "description": "Remixing technique that consists of skipping effects (\"chopping\") and dropping the tempo (\"screwing\").",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Christian Hip Hop",
+      "url": "https://rateyourmusic.com/genre/christian-hip-hop/",
+      "description": "Employs lyrics with a pro-Christianity message to profess the performer's faith, often to attract attention from new potential converts.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Cloud Rap",
+      "url": "https://rateyourmusic.com/genre/cloud-rap/",
+      "description": "Emerged in the early 2010s, known for its relaxed, dream-like, and reverb-heavy production style, taking influence from Chillwave, and producers' obscure sample choices.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Comedy Rap",
+      "url": "https://rateyourmusic.com/genre/comedy-rap/",
+      "description": "Primarily intended to be humorous, through the use of comedic lyrics, production, delivery, or other musical aspects.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Conscious Hip Hop",
+      "url": "https://rateyourmusic.com/genre/conscious-hip-hop/",
+      "description": "Artists whose lyrics deal with social issues.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Country Rap",
+      "url": "https://rateyourmusic.com/genre/country-rap/",
+      "description": "Combines the flow, production-emphasis, and demeanor of Hip Hop with the lyrical content and general approach of Country.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Crunk",
+      "url": "https://rateyourmusic.com/genre/crunk/",
+      "description": "Originating from the southern United States and reliant on drum machines and synthesizer stabs to create an energetic, often dance-oriented sound.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Crunkcore",
+      "url": "https://rateyourmusic.com/genre/crunkcore/",
+      "description": "Combines rapping, screaming and autotune with synthesizers and Hip Hop beats often influenced by Crunk.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Detroit Sound",
+      "url": "https://rateyourmusic.com/genre/detroit-sound/",
+      "description": "Upbeat 808 percussion; simple, funky mallet instruments, keys, strings, and synth bass; and street-centric, often punched-in rapping.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Digicore",
+      "url": "https://rateyourmusic.com/genre/digicore/",
+      "description": "Developed in the late 2010s and characterized by frantic, bombastic, and glamourous production, usually derived from Trap, that serves to accompany highly melodious, auto-tuned, and hi-pitched vocal performances, often done with breathy voice singing and sing-rapping.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Dirty South",
+      "url": "https://rateyourmusic.com/genre/dirty-south/",
+      "description": "Originated in the Southern US during the mid-1990s, defined by a bouncy rhythm, fast-tempo snares, 808s, heavy bass, and often rapped in a rhythmic delivery consisting of explicit lyrics.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Disco Rap",
+      "url": "https://rateyourmusic.com/genre/disco-rap/",
+      "description": "Most prevalent from 1979 to 1982, featuring MCs rapping over popular Disco breaks.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Drill",
+      "url": "https://rateyourmusic.com/genre/drill/",
+      "description": "Originated in Chicago in the early 2010s; broadly characterized by complex, energetic rhythms coupled with gang-oriented, street-conscious, and violent lyrics.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Drumless",
+      "url": "https://rateyourmusic.com/genre/drumless/",
+      "description": "Stripped-down production style pioneered in the early 2010s and identified by a lack of drums or minimal, subtle percussion left untouched from the original sample or filtered out.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Emo Rap",
+      "url": "https://rateyourmusic.com/genre/emo-rap/",
+      "description": "Moody, melancholic production combining atmospheric Cloud Rap, and Trap's typical drum programming, with sampling from Alternative Rock, Midwest Emo, Emo-Pop, and Pop Punk.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Experimental Hip Hop",
+      "url": "https://rateyourmusic.com/genre/experimental-hip-hop/",
+      "description": "Incorporates experimental and eccentric elements considered unconventional or unorthodox compared to more traditional hip hop.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "G-Funk",
+      "url": "https://rateyourmusic.com/genre/g-funk/",
+      "description": "Relaxed and organic sound featuring live instrumentation, use of P-Funk samples, and high-pitched synth lines.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Genge",
+      "url": "https://rateyourmusic.com/genre/genge/",
+      "description": "Combines elements of Dancehall with various traditions of Kenya.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Hardcore Hip Hop",
+      "url": "https://rateyourmusic.com/genre/hardcore-hip-hop/",
+      "description": "Confrontation and aggression, whether in the lyricism, vocal delivery, hard beats, heavy production, or any combination thereof.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Hipco",
+      "url": "https://rateyourmusic.com/genre/hipco/",
+      "description": "Developed in Liberia, often featuring conscious and political lyrics and influences from local dance styles.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Hiplife",
+      "url": "https://rateyourmusic.com/genre/hiplife/",
+      "description": "Fusion of Ghanaian Highlife with Hip Hop.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Houston Sound",
+      "url": "https://rateyourmusic.com/genre/houston-sound/",
+      "description": "Features slow to medium tempos, heavy bass, prominent organs and horns, and live instruments such as keyboards, bass guitar and wah-wah pedal.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Hyphy",
+      "url": "https://rateyourmusic.com/genre/hyphy/",
+      "description": "Party-focused style with upbeat tempos, heavy bass and prominent synths, all underpinned by a distinctive West Coast-style rhythm, claps on beats 2 and 4, and a strong kick drum on beats 1, 2, and either 3 or 4.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Instrumental Hip Hop",
+      "url": "https://rateyourmusic.com/genre/instrumental-hip-hop/",
+      "description": "Can take the form of instrumental versions of songs that normally feature rapping, or hip hop originally released and always intended to be instrumental.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Jazz Rap",
+      "url": "https://rateyourmusic.com/genre/jazz-rap/",
+      "description": "Incorporates elements of Jazz through the use of samples or live instrumentation.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Jerk",
+      "url": "https://rateyourmusic.com/genre/jerk/",
+      "description": "Sparse, snare-heavy drum patterns loosely inspired by Jerk Rap, which take major elements from other prominent 2010s and 2020s underground hip hop genres like Plugg.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Jersey Club Rap",
+      "url": "https://rateyourmusic.com/genre/jersey-club-rap/",
+      "description": "Incorporates Jersey Club's distinct kick-heavy rhythms, which are modified to better suit rapping, featuring less sampling and more atmospheric production than earlier Jersey club.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Jigg",
+      "url": "https://rateyourmusic.com/genre/jigg/",
+      "description": "Club-oriented genre characterized by heavy 808-driven beats, imposing synthesized brasses and an uptempo rhythm.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Jook",
+      "url": "https://rateyourmusic.com/genre/jook/",
+      "description": "Fast-paced; draws influence from Bounce, Miami Bass, Jersey Club and Dancehall.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Latin Rap",
+      "url": "https://rateyourmusic.com/genre/latin-rap/",
+      "description": "Primarily done in Spanish; incorporates Hispanic American Music elements into its sound.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Lo-Fi Hip Hop",
+      "url": "https://rateyourmusic.com/genre/lo-fi-hip-hop/",
+      "description": "Relaxed, laid-back form of Hip Hop, typically instrumental and influenced by Jazz Rap and Downtempo.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Lowend",
+      "url": "https://rateyourmusic.com/genre/lowend/",
+      "description": "Rhythms driven by steady eighth-note digital handclaps, rattling bass, fast tempos, upbeat sound, and laid-back flows.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Miami Bass",
+      "url": "https://rateyourmusic.com/genre/miami-bass/",
+      "description": "Sustained Roland TR-808 kick drums and faster tempos, along with a distinct Electro influence.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Mobb Music",
+      "url": "https://rateyourmusic.com/genre/mobb-music/",
+      "description": "San Francisco Bay Area production style building on slowed down Funk (often utilizing live elements).",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Motswako",
+      "url": "https://rateyourmusic.com/genre/motswako/",
+      "description": "Mainly rapped in a mixture of Setswana and English, incorporating additional languages and local South African and Botswanan influences, particularly Kwaito.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Nerdcore Hip Hop",
+      "url": "https://rateyourmusic.com/genre/nerdcore-hip-hop/",
+      "description": "Themes touch on such nerd mainstays as science, computers, and science fiction.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Nervous Music",
+      "url": "https://rateyourmusic.com/genre/nervous-music/",
+      "description": "Dark, sinister and menacing sound, heavy sub-basses, simple melodies and slow, sparse and slamming drums.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Philly Club Rap",
+      "url": "https://rateyourmusic.com/genre/philly-club-rap/",
+      "description": "Mixes the fast and energetic production of Philly Club with similarly frantic and fast rapping.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Political Hip Hop",
+      "url": "https://rateyourmusic.com/genre/political-hip-hop/",
+      "description": "Features explicitly political lyrics and themes.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Pop Rap",
+      "url": "https://rateyourmusic.com/genre/pop-rap/",
+      "description": "Fuses Hip Hop's rapping and production traits with Pop elements such as melodious vocals and light, catchy tunes.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Ratchet",
+      "url": "https://rateyourmusic.com/genre/ratchet/",
+      "description": "Club-oriented style defined by a repeated synth melody and a sparse drum pattern often accompanied by a \"hey\" chant.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Sigilkore",
+      "url": "https://rateyourmusic.com/genre/sigilkore/",
+      "description": "Dark and hyperactive production, featuring rapping laced with layers of effects.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Snap",
+      "url": "https://rateyourmusic.com/genre/snap/",
+      "description": "Sparse production, pounding 808 bass, occasional use of third-beat finger snaps, and simple melodies reminiscent of ringtones.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Stoner Rap",
+      "url": "https://rateyourmusic.com/genre/stoner-rap/",
+      "description": "Heavily features lyrics about cannabis and stoner culture, usually with a laid-back flow and relaxing production.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Trap",
+      "url": "https://rateyourmusic.com/genre/trap/",
+      "description": "Originated in Atlanta in the early 2000s; distinctive fast hi-hat sound and heavy bass at moderate tempos.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Trap shaabi",
+      "url": "https://rateyourmusic.com/genre/trap-shaabi/",
+      "description": "Combining Trap percussion and rhythms with Egyptian Shaabi and especially Mahraganat.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    },
+    {
+      "name": "Turntablism",
+      "url": "https://rateyourmusic.com/genre/turntablism/",
+      "description": "Manipulating and re-appropriating vinyl records using a turntable and DJ mixer in a Hip Hop context, often featuring constant scratching and beat juggling between two or more recordings into original, distinctive tracks.",
+      "level": "sub",
+      "parent": "Hip Hop"
+    }
+  ]
+}

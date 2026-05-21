@@ -1,0 +1,24 @@
+{
+  "name": "Atmospheric Black Metal",
+  "description": "Repetitive riffs and melodies, slower tempos, synthesized ambient textures, and guitar effects creating atmospheric soundscapes.",
+  "url": "https://rateyourmusic.com/genre/atmospheric-black-metal/",
+  "parent": "Black Metal",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Blackgaze",
+      "url": "https://rateyourmusic.com/genre/blackgaze/",
+      "description": "Fuses tremolo-picked riffing, intense drumming and harsh vocal techniques with mellow, dreamy textures, major-key melodies and extended build-ups.",
+      "level": "sub-3",
+      "parent": "Atmospheric Black Metal"
+    },
+    {
+      "name": "Blackgaze",
+      "url": "https://rateyourmusic.com/genre/blackgaze/",
+      "description": "Fuses tremolo-picked riffing, intense drumming and harsh vocal techniques with mellow, dreamy textures, major-key melodies and extended build-ups.",
+      "level": "sub-4",
+      "parent": "Atmospheric Black Metal"
+    }
+  ]
+}

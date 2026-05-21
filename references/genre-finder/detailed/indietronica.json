@@ -1,0 +1,31 @@
+{
+  "name": "Indietronica",
+  "description": "Leftfield or DIY approach characterised by simpler Pop-informed melodies, often incorporating vocals or live instrumentation alongside Electronic production.",
+  "url": "https://rateyourmusic.com/genre/indietronica/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Chillwave",
+      "url": "https://rateyourmusic.com/genre/chillwave/",
+      "description": "Emulates vintage aesthetics and popular musical styles of the 1980s/1990s altered by modern recording technology to create a hazy dreamlike atmosphere.",
+      "level": "sub-2",
+      "parent": "Indietronica"
+    },
+    {
+      "name": "Glitch Pop",
+      "url": "https://rateyourmusic.com/genre/glitch-pop/",
+      "description": "Incorporates elements of more experimental Electronic styles like IDM and Glitch.",
+      "level": "sub-2",
+      "parent": "Indietronica"
+    },
+    {
+      "name": "Picopop",
+      "url": "https://rateyourmusic.com/genre/picopop/",
+      "description": "Originated in the early 2000s as an offshoot of the Japanese Shibuya-kei movement when artists introduced more prominent \"bleepy\" electronic elements and faster tempos.",
+      "level": "sub-2",
+      "parent": "Indietronica"
+    }
+  ]
+}

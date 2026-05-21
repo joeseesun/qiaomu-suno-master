@@ -1,0 +1,31 @@
+{
+  "name": "Visual kei",
+  "description": "Fashion-oriented styles that take influence from Gothic Rock, Glam Rock, and Heavy Metal.",
+  "url": "https://rateyourmusic.com/genre/visual-kei/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Kote kei",
+      "url": "https://rateyourmusic.com/genre/kote-kei/",
+      "description": "Beginning in the mid-1990s, featuring goth-inspired, androgynous and over-the-top outfits meant to evoke a sense of otherworldliness, often paired with aggressive instrumentation, decadent and shocking lyrics, as well as harsh and unusual vocals.",
+      "level": "sub-2",
+      "parent": "Visual kei"
+    },
+    {
+      "name": "Nagoya kei",
+      "url": "https://rateyourmusic.com/genre/nagoya-kei/",
+      "description": "Nagoya-based scene lasting though the 1990s and early 2000s; characterized by a simpler and gloomier visual presentation along with a darker, heavy sound inspired by Post-Punk, Gothic Rock and Heavy Metal.",
+      "level": "sub-2",
+      "parent": "Visual kei"
+    },
+    {
+      "name": "Soft Visual",
+      "url": "https://rateyourmusic.com/genre/soft-visual/",
+      "description": "Starting in the 1990s, featuring more toned-down \"classy\" and \"casual\"-style outfits with a natural style of makeup, along with more pop-oriented songwriting, contrasting the darkness of contemporary styles of Visual kei.",
+      "level": "sub-2",
+      "parent": "Visual kei"
+    }
+  ]
+}

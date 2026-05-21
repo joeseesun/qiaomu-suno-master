@@ -1,0 +1,94 @@
+{
+  "name": "Korean Classical Music",
+  "description": "Classical Music of Korea.",
+  "url": "https://rateyourmusic.com/genre/korean-classical-music/",
+  "parent": "East Asian Classical Music",
+  "level": "sub-2",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Aak",
+      "url": "https://rateyourmusic.com/genre/aak/",
+      "description": "Korean Classical Music that dates back to the early 12th century.",
+      "level": "sub-3",
+      "parent": "Korean Classical Music"
+    },
+    {
+      "name": "Aak",
+      "url": "https://rateyourmusic.com/genre/aak/",
+      "description": "Korean Classical Music that dates back to the early 12th century.",
+      "level": "sub-5",
+      "parent": "Korean Classical Music"
+    },
+    {
+      "name": "Aak",
+      "url": "https://rateyourmusic.com/genre/aak/",
+      "description": "Korean Classical Music that dates back to the early 12th century.",
+      "level": "sub-5",
+      "parent": "Korean Classical Music"
+    },
+    {
+      "name": "Dang-ak",
+      "url": "https://rateyourmusic.com/genre/dang-ak/",
+      "description": "Korean Classical Music that dates back to the Later Silla period of 668–935.",
+      "level": "sub-3",
+      "parent": "Korean Classical Music"
+    },
+    {
+      "name": "Dang-ak",
+      "url": "https://rateyourmusic.com/genre/dang-ak/",
+      "description": "Korean Classical Music that dates back to the Later Silla period of 668–935.",
+      "level": "sub-5",
+      "parent": "Korean Classical Music"
+    },
+    {
+      "name": "Dang-ak",
+      "url": "https://rateyourmusic.com/genre/dang-ak/",
+      "description": "Korean Classical Music that dates back to the Later Silla period of 668–935.",
+      "level": "sub-5",
+      "parent": "Korean Classical Music"
+    },
+    {
+      "name": "Hyang-ak",
+      "url": "https://rateyourmusic.com/genre/hyang-ak/",
+      "description": "One of the most common and oldest surviving forms of Korean court music.",
+      "level": "sub-3",
+      "parent": "Korean Classical Music"
+    },
+    {
+      "name": "Hyang-ak",
+      "url": "https://rateyourmusic.com/genre/hyang-ak/",
+      "description": "One of the most common and oldest surviving forms of Korean court music.",
+      "level": "sub-5",
+      "parent": "Korean Classical Music"
+    },
+    {
+      "name": "Hyang-ak",
+      "url": "https://rateyourmusic.com/genre/hyang-ak/",
+      "description": "One of the most common and oldest surviving forms of Korean court music.",
+      "level": "sub-5",
+      "parent": "Korean Classical Music"
+    },
+    {
+      "name": "Jeong-ak",
+      "url": "https://rateyourmusic.com/genre/jeong-ak/",
+      "description": "Also known as proper music; dates back to the Later Silla period of 668–935.",
+      "level": "sub-3",
+      "parent": "Korean Classical Music"
+    },
+    {
+      "name": "Jeong-ak",
+      "url": "https://rateyourmusic.com/genre/jeong-ak/",
+      "description": "Also known as proper music; dates back to the Later Silla period of 668–935.",
+      "level": "sub-5",
+      "parent": "Korean Classical Music"
+    },
+    {
+      "name": "Jeong-ak",
+      "url": "https://rateyourmusic.com/genre/jeong-ak/",
+      "description": "Also known as proper music; dates back to the Later Silla period of 668–935.",
+      "level": "sub-5",
+      "parent": "Korean Classical Music"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Vaudeville",
+  "description": "Performed in American musical theaters typically as part of a lowbrow, often comedic variety performance.",
+  "url": "https://rateyourmusic.com/genre/vaudeville/",
+  "parent": "Musical Theatre and Entertainment",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Vaudeville Blues",
+      "url": "https://rateyourmusic.com/genre/vaudeville-blues/",
+      "description": "Vaudeville incorporating heavy Blues elements.",
+      "level": "sub-2",
+      "parent": "Vaudeville"
+    },
+    {
+      "name": "Vaudeville Blues",
+      "url": "https://rateyourmusic.com/genre/vaudeville-blues/",
+      "description": "Vaudeville incorporating heavy Blues elements.",
+      "level": "sub-3",
+      "parent": "Vaudeville"
+    }
+  ]
+}

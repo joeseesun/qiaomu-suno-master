@@ -1,0 +1,178 @@
+{
+  "name": "Scottish Folk Music",
+  "description": "Traditional Folk Music of the Scottish people.",
+  "url": "https://rateyourmusic.com/genre/scottish-folk-music/",
+  "parent": "Celtic Folk Music",
+  "level": "sub-4",
+  "children_count": 24,
+  "children": [
+    {
+      "name": "Pipe Band",
+      "url": "https://rateyourmusic.com/genre/pipe-band/",
+      "description": "Tradition originating in the Scottish military; standard instruments consist of 6-25 sets of Great Highland bagpipes, 3-10 military snare drums, 1-6 Scottish tenor drums, and one bass drum.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Pipe Band",
+      "url": "https://rateyourmusic.com/genre/pipe-band/",
+      "description": "Tradition originating in the Scottish military; standard instruments consist of 6-25 sets of Great Highland bagpipes, 3-10 military snare drums, 1-6 Scottish tenor drums, and one bass drum.",
+      "level": "sub-4",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Pipe Band",
+      "url": "https://rateyourmusic.com/genre/pipe-band/",
+      "description": "Tradition originating in the Scottish military; standard instruments consist of 6-25 sets of Great Highland bagpipes, 3-10 military snare drums, 1-6 Scottish tenor drums, and one bass drum.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Pipe Band",
+      "url": "https://rateyourmusic.com/genre/pipe-band/",
+      "description": "Tradition originating in the Scottish military; standard instruments consist of 6-25 sets of Great Highland bagpipes, 3-10 military snare drums, 1-6 Scottish tenor drums, and one bass drum.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Pìobaireachd",
+      "url": "https://rateyourmusic.com/genre/piobaireachd/",
+      "description": "Art tradition which originated in the Scottish Highlands, usually associated with the Great Highland bagpipes.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Pìobaireachd",
+      "url": "https://rateyourmusic.com/genre/piobaireachd/",
+      "description": "Art tradition which originated in the Scottish Highlands, usually associated with the Great Highland bagpipes.",
+      "level": "sub-4",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Pìobaireachd",
+      "url": "https://rateyourmusic.com/genre/piobaireachd/",
+      "description": "Art tradition which originated in the Scottish Highlands, usually associated with the Great Highland bagpipes.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Pìobaireachd",
+      "url": "https://rateyourmusic.com/genre/piobaireachd/",
+      "description": "Art tradition which originated in the Scottish Highlands, usually associated with the Great Highland bagpipes.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Scots Song",
+      "url": "https://rateyourmusic.com/genre/scots-song/",
+      "description": "Traditional folk songs usually sung in Lowland Scots, often but not always unaccompanied.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Scots Song",
+      "url": "https://rateyourmusic.com/genre/scots-song/",
+      "description": "Traditional folk songs usually sung in Lowland Scots, often but not always unaccompanied.",
+      "level": "sub-4",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Scots Song",
+      "url": "https://rateyourmusic.com/genre/scots-song/",
+      "description": "Traditional folk songs usually sung in Lowland Scots, often but not always unaccompanied.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Scots Song",
+      "url": "https://rateyourmusic.com/genre/scots-song/",
+      "description": "Traditional folk songs usually sung in Lowland Scots, often but not always unaccompanied.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Scottish Country Dance Music",
+      "url": "https://rateyourmusic.com/genre/scottish-country-dance-music/",
+      "description": "Strict-tempo style played by Scottish country dance bands, led by an accordion or a fiddle and featuring piano, drums and sometimes double bass.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Scottish Country Dance Music",
+      "url": "https://rateyourmusic.com/genre/scottish-country-dance-music/",
+      "description": "Strict-tempo style played by Scottish country dance bands, led by an accordion or a fiddle and featuring piano, drums and sometimes double bass.",
+      "level": "sub-4",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Scottish Country Dance Music",
+      "url": "https://rateyourmusic.com/genre/scottish-country-dance-music/",
+      "description": "Strict-tempo style played by Scottish country dance bands, led by an accordion or a fiddle and featuring piano, drums and sometimes double bass.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Scottish Country Dance Music",
+      "url": "https://rateyourmusic.com/genre/scottish-country-dance-music/",
+      "description": "Strict-tempo style played by Scottish country dance bands, led by an accordion or a fiddle and featuring piano, drums and sometimes double bass.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Shetland & Orkney Folk Music",
+      "url": "https://rateyourmusic.com/genre/shetland-and-orkney-folk-music/",
+      "description": "Folk of the Shetland and Orkney Islands.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Shetland & Orkney Folk Music",
+      "url": "https://rateyourmusic.com/genre/shetland-and-orkney-folk-music/",
+      "description": "Folk of the Shetland and Orkney Islands.",
+      "level": "sub-4",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Shetland & Orkney Folk Music",
+      "url": "https://rateyourmusic.com/genre/shetland-and-orkney-folk-music/",
+      "description": "Folk of the Shetland and Orkney Islands.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Shetland & Orkney Folk Music",
+      "url": "https://rateyourmusic.com/genre/shetland-and-orkney-folk-music/",
+      "description": "Folk of the Shetland and Orkney Islands.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Òrain Ghàidhlig",
+      "url": "https://rateyourmusic.com/genre/orain-ghaidhlig/",
+      "description": "Songs sung in Scottish Gaelic, often but not always unaccompanied.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Òrain Ghàidhlig",
+      "url": "https://rateyourmusic.com/genre/orain-ghaidhlig/",
+      "description": "Songs sung in Scottish Gaelic, often but not always unaccompanied.",
+      "level": "sub-4",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Òrain Ghàidhlig",
+      "url": "https://rateyourmusic.com/genre/orain-ghaidhlig/",
+      "description": "Songs sung in Scottish Gaelic, often but not always unaccompanied.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    },
+    {
+      "name": "Òrain Ghàidhlig",
+      "url": "https://rateyourmusic.com/genre/orain-ghaidhlig/",
+      "description": "Songs sung in Scottish Gaelic, often but not always unaccompanied.",
+      "level": "sub-5",
+      "parent": "Scottish Folk Music"
+    }
+  ]
+}

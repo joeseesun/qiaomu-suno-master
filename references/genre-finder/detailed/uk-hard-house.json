@@ -1,0 +1,66 @@
+{
+  "name": "UK Hard House",
+  "description": "Defined by offbeat bass patterns, compressed 909-style drums, buildup-drop structures, hoover sounds, and tempos between 120 and 155 BPM.",
+  "url": "https://rateyourmusic.com/genre/uk-hard-house/",
+  "parent": "Hard Dance",
+  "level": "sub-3",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Scouse House",
+      "url": "https://rateyourmusic.com/genre/scouse-house/",
+      "description": "Features an upbeat and energetic sound often described as being \"bouncy\", influenced somewhat by Happy Hardcore.",
+      "level": "sub-4",
+      "parent": "UK Hard House"
+    },
+    {
+      "name": "Scouse House",
+      "url": "https://rateyourmusic.com/genre/scouse-house/",
+      "description": "Features an upbeat and energetic sound often described as being \"bouncy\", influenced somewhat by Happy Hardcore.",
+      "level": "sub-4",
+      "parent": "UK Hard House"
+    },
+    {
+      "name": "Scouse House",
+      "url": "https://rateyourmusic.com/genre/scouse-house/",
+      "description": "Features an upbeat and energetic sound often described as being \"bouncy\", influenced somewhat by Happy Hardcore.",
+      "level": "sub-4",
+      "parent": "UK Hard House"
+    },
+    {
+      "name": "Scouse House",
+      "url": "https://rateyourmusic.com/genre/scouse-house/",
+      "description": "Features an upbeat and energetic sound often described as being \"bouncy\", influenced somewhat by Happy Hardcore.",
+      "level": "sub-4",
+      "parent": "UK Hard House"
+    },
+    {
+      "name": "Speed House",
+      "url": "https://rateyourmusic.com/genre/speed-house/",
+      "description": "Mixes busy, dirty sound design and intense drums derived from Bass House with fast tempos from 140-160 BPM, pumping basslines, and other UK Hard House influences.",
+      "level": "sub-4",
+      "parent": "UK Hard House"
+    },
+    {
+      "name": "Speed House",
+      "url": "https://rateyourmusic.com/genre/speed-house/",
+      "description": "Mixes busy, dirty sound design and intense drums derived from Bass House with fast tempos from 140-160 BPM, pumping basslines, and other UK Hard House influences.",
+      "level": "sub-4",
+      "parent": "UK Hard House"
+    },
+    {
+      "name": "Speed House",
+      "url": "https://rateyourmusic.com/genre/speed-house/",
+      "description": "Mixes busy, dirty sound design and intense drums derived from Bass House with fast tempos from 140-160 BPM, pumping basslines, and other UK Hard House influences.",
+      "level": "sub-4",
+      "parent": "UK Hard House"
+    },
+    {
+      "name": "Speed House",
+      "url": "https://rateyourmusic.com/genre/speed-house/",
+      "description": "Mixes busy, dirty sound design and intense drums derived from Bass House with fast tempos from 140-160 BPM, pumping basslines, and other UK Hard House influences.",
+      "level": "sub-4",
+      "parent": "UK Hard House"
+    }
+  ]
+}

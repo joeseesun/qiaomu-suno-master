@@ -1,0 +1,24 @@
+{
+  "name": "Avtorskaya pesnya",
+  "description": "Originating in the Soviet Union taking cues from forms of Russian Romance and Russian poetry with the main focus on lyrics.",
+  "url": "https://rateyourmusic.com/genre/avtorskaya-pesnya/",
+  "parent": "Russian Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Bard Rock",
+      "url": "https://rateyourmusic.com/genre/bard-rock/",
+      "description": "Mixes Rock music and styles with Avtorskaya pesnya.",
+      "level": "sub-4",
+      "parent": "Avtorskaya pesnya"
+    },
+    {
+      "name": "Bard Rock",
+      "url": "https://rateyourmusic.com/genre/bard-rock/",
+      "description": "Mixes Rock music and styles with Avtorskaya pesnya.",
+      "level": "sub-2",
+      "parent": "Avtorskaya pesnya"
+    }
+  ]
+}

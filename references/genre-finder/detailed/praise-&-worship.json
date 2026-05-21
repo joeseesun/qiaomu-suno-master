@@ -1,0 +1,17 @@
+{
+  "name": "Praise & Worship",
+  "description": "Christian music with lyrics focused on the greatness of God.",
+  "url": "https://rateyourmusic.com/genre/praise-and-worship/",
+  "parent": "CCM",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Praise Break",
+      "url": "https://rateyourmusic.com/genre/praise-break/",
+      "description": "High-energy, improvisational \"break\" for worshiping God in Black churches.",
+      "level": "sub-3",
+      "parent": "Praise & Worship"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "name": "South Asian Folk Music",
+  "description": "Meta-genre which covers all the Traditional Folk Music forms from South Asia.",
+  "url": "https://rateyourmusic.com/genre/south-asian-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 54,
+  "children": [
+    {
+      "name": "Assamese Folk Music",
+      "url": "https://rateyourmusic.com/genre/assamese-folk-music/",
+      "description": "Traditional Folk Music of the Assamese people, a people group mostly from the Northeastern Indian state of Assam.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Assamese Folk Music",
+      "url": "https://rateyourmusic.com/genre/assamese-folk-music/",
+      "description": "Traditional Folk Music of the Assamese people, a people group mostly from the Northeastern Indian state of Assam.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Assamese Folk Music",
+      "url": "https://rateyourmusic.com/genre/assamese-folk-music/",
+      "description": "Traditional Folk Music of the Assamese people, a people group mostly from the Northeastern Indian state of Assam.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Bengali Folk Music",
+      "url": "https://rateyourmusic.com/genre/bengali-folk-music/",
+      "description": "Traditions of the Bengali people found mainly in the Indian state of West Bengal and the country of Bangladesh.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Bengali Folk Music",
+      "url": "https://rateyourmusic.com/genre/bengali-folk-music/",
+      "description": "Traditions of the Bengali people found mainly in the Indian state of West Bengal and the country of Bangladesh.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Bengali Folk Music",
+      "url": "https://rateyourmusic.com/genre/bengali-folk-music/",
+      "description": "Traditions of the Bengali people found mainly in the Indian state of West Bengal and the country of Bangladesh.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Bhojpuri Folk Music",
+      "url": "https://rateyourmusic.com/genre/bhojpuri-folk-music/",
+      "description": "Traditions of the Bhojpuri people of India, originally from the states of Bihar and Uttar Pradesh.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Bhojpuri Folk Music",
+      "url": "https://rateyourmusic.com/genre/bhojpuri-folk-music/",
+      "description": "Traditions of the Bhojpuri people of India, originally from the states of Bihar and Uttar Pradesh.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Bhojpuri Folk Music",
+      "url": "https://rateyourmusic.com/genre/bhojpuri-folk-music/",
+      "description": "Traditions of the Bhojpuri people of India, originally from the states of Bihar and Uttar Pradesh.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Boduberu",
+      "url": "https://rateyourmusic.com/genre/boduberu/",
+      "description": "Traditional, percussion-based form of music popular in the Maldives, usually following a crescendo structure.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Boduberu",
+      "url": "https://rateyourmusic.com/genre/boduberu/",
+      "description": "Traditional, percussion-based form of music popular in the Maldives, usually following a crescendo structure.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Boduberu",
+      "url": "https://rateyourmusic.com/genre/boduberu/",
+      "description": "Traditional, percussion-based form of music popular in the Maldives, usually following a crescendo structure.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Burushaski Folk Music",
+      "url": "https://rateyourmusic.com/genre/burushaski-folk-music/",
+      "description": "Traditional Folk Music of the Burusho people of northern Pakistan.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Burushaski Folk Music",
+      "url": "https://rateyourmusic.com/genre/burushaski-folk-music/",
+      "description": "Traditional Folk Music of the Burusho people of northern Pakistan.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Burushaski Folk Music",
+      "url": "https://rateyourmusic.com/genre/burushaski-folk-music/",
+      "description": "Traditional Folk Music of the Burusho people of northern Pakistan.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Gujarati Folk Music",
+      "url": "https://rateyourmusic.com/genre/gujarati-folk-music/",
+      "description": "Traditional Folk Music of the Gujarati people, who primarily live in the western Indian state of Gujarat.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Gujarati Folk Music",
+      "url": "https://rateyourmusic.com/genre/gujarati-folk-music/",
+      "description": "Traditional Folk Music of the Gujarati people, who primarily live in the western Indian state of Gujarat.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Gujarati Folk Music",
+      "url": "https://rateyourmusic.com/genre/gujarati-folk-music/",
+      "description": "Traditional Folk Music of the Gujarati people, who primarily live in the western Indian state of Gujarat.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Kannada Folk Music",
+      "url": "https://rateyourmusic.com/genre/kannada-folk-music/",
+      "description": "Traditional Folk Music of the Kannada people, a large ethnolinguistic group who mainly inhabit the state of Karnataka in southwestern India.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Kannada Folk Music",
+      "url": "https://rateyourmusic.com/genre/kannada-folk-music/",
+      "description": "Traditional Folk Music of the Kannada people, a large ethnolinguistic group who mainly inhabit the state of Karnataka in southwestern India.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Kannada Folk Music",
+      "url": "https://rateyourmusic.com/genre/kannada-folk-music/",
+      "description": "Traditional Folk Music of the Kannada people, a large ethnolinguistic group who mainly inhabit the state of Karnataka in southwestern India.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Kirtan",
+      "url": "https://rateyourmusic.com/genre/kirtan/",
+      "description": "Call-and-response chanting that involves the singing of devotional mantras and hymns in a bhakti devotional style, occasionally accompanied with traditional folk instrumentation.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Kirtan",
+      "url": "https://rateyourmusic.com/genre/kirtan/",
+      "description": "Call-and-response chanting that involves the singing of devotional mantras and hymns in a bhakti devotional style, occasionally accompanied with traditional folk instrumentation.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Kirtan",
+      "url": "https://rateyourmusic.com/genre/kirtan/",
+      "description": "Call-and-response chanting that involves the singing of devotional mantras and hymns in a bhakti devotional style, occasionally accompanied with traditional folk instrumentation.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Malayali Folk Music",
+      "url": "https://rateyourmusic.com/genre/malayali-folk-music/",
+      "description": "Traditional Folk Music of Kerala, India primarily sung in the Malayalam language and known for its drumming and percussion.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Malayali Folk Music",
+      "url": "https://rateyourmusic.com/genre/malayali-folk-music/",
+      "description": "Traditional Folk Music of Kerala, India primarily sung in the Malayalam language and known for its drumming and percussion.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Malayali Folk Music",
+      "url": "https://rateyourmusic.com/genre/malayali-folk-music/",
+      "description": "Traditional Folk Music of Kerala, India primarily sung in the Malayalam language and known for its drumming and percussion.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Marathi Folk Music",
+      "url": "https://rateyourmusic.com/genre/marathi-folk-music/",
+      "description": "Traditional Folk Music of the Marathi people, a large ethnic group who mainly inhabit the state of Maharashtra in western India.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Marathi Folk Music",
+      "url": "https://rateyourmusic.com/genre/marathi-folk-music/",
+      "description": "Traditional Folk Music of the Marathi people, a large ethnic group who mainly inhabit the state of Maharashtra in western India.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Marathi Folk Music",
+      "url": "https://rateyourmusic.com/genre/marathi-folk-music/",
+      "description": "Traditional Folk Music of the Marathi people, a large ethnic group who mainly inhabit the state of Maharashtra in western India.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Newa Folk Music",
+      "url": "https://rateyourmusic.com/genre/newa-folk-music/",
+      "description": "Traditions of the Newa people, who live in Nepal, performed with mostly percussive instruments and some wind instruments.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Newa Folk Music",
+      "url": "https://rateyourmusic.com/genre/newa-folk-music/",
+      "description": "Traditions of the Newa people, who live in Nepal, performed with mostly percussive instruments and some wind instruments.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Newa Folk Music",
+      "url": "https://rateyourmusic.com/genre/newa-folk-music/",
+      "description": "Traditions of the Newa people, who live in Nepal, performed with mostly percussive instruments and some wind instruments.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Odia Folk Music",
+      "url": "https://rateyourmusic.com/genre/odia-folk-music/",
+      "description": "Traditional Folk Music of the Odia, a large ethnic group who mainly inhabit the state of Odisha in eastern India.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Odia Folk Music",
+      "url": "https://rateyourmusic.com/genre/odia-folk-music/",
+      "description": "Traditional Folk Music of the Odia, a large ethnic group who mainly inhabit the state of Odisha in eastern India.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Odia Folk Music",
+      "url": "https://rateyourmusic.com/genre/odia-folk-music/",
+      "description": "Traditional Folk Music of the Odia, a large ethnic group who mainly inhabit the state of Odisha in eastern India.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Pashto Folk Music",
+      "url": "https://rateyourmusic.com/genre/pashto-folk-music/",
+      "description": "Traditional Folk Music of the Pashtun people of southern Afghanistan and north-western Pakistan.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Pashto Folk Music",
+      "url": "https://rateyourmusic.com/genre/pashto-folk-music/",
+      "description": "Traditional Folk Music of the Pashtun people of southern Afghanistan and north-western Pakistan.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Pashto Folk Music",
+      "url": "https://rateyourmusic.com/genre/pashto-folk-music/",
+      "description": "Traditional Folk Music of the Pashtun people of southern Afghanistan and north-western Pakistan.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Punjabi Folk Music",
+      "url": "https://rateyourmusic.com/genre/punjabi-folk-music/",
+      "description": "Traditional Folk Music of the Punjabi people, mostly from the Punjab regions of India and Pakistan, covering diverse styles often played with traditional instruments.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Punjabi Folk Music",
+      "url": "https://rateyourmusic.com/genre/punjabi-folk-music/",
+      "description": "Traditional Folk Music of the Punjabi people, mostly from the Punjab regions of India and Pakistan, covering diverse styles often played with traditional instruments.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Punjabi Folk Music",
+      "url": "https://rateyourmusic.com/genre/punjabi-folk-music/",
+      "description": "Traditional Folk Music of the Punjabi people, mostly from the Punjab regions of India and Pakistan, covering diverse styles often played with traditional instruments.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Rajasthani Folk Music",
+      "url": "https://rateyourmusic.com/genre/rajasthani-folk-music/",
+      "description": "Traditions of the Rajasthani people of Western India - who now mostly live in the eponymous Rajasthan state - originated across the various castes that inhabit the region.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Rajasthani Folk Music",
+      "url": "https://rateyourmusic.com/genre/rajasthani-folk-music/",
+      "description": "Traditions of the Rajasthani people of Western India - who now mostly live in the eponymous Rajasthan state - originated across the various castes that inhabit the region.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Rajasthani Folk Music",
+      "url": "https://rateyourmusic.com/genre/rajasthani-folk-music/",
+      "description": "Traditions of the Rajasthani people of Western India - who now mostly live in the eponymous Rajasthan state - originated across the various castes that inhabit the region.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Sinhalese Folk Music",
+      "url": "https://rateyourmusic.com/genre/sinhalese-folk-music/",
+      "description": "Folk of the Sinhalese people, the majority ethnic group of Sri Lanka.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Sinhalese Folk Music",
+      "url": "https://rateyourmusic.com/genre/sinhalese-folk-music/",
+      "description": "Folk of the Sinhalese people, the majority ethnic group of Sri Lanka.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Sinhalese Folk Music",
+      "url": "https://rateyourmusic.com/genre/sinhalese-folk-music/",
+      "description": "Folk of the Sinhalese people, the majority ethnic group of Sri Lanka.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Tamil Folk Music",
+      "url": "https://rateyourmusic.com/genre/tamil-folk-music/",
+      "description": "Traditional Folk Music of the Tamil people.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Tamil Folk Music",
+      "url": "https://rateyourmusic.com/genre/tamil-folk-music/",
+      "description": "Traditional Folk Music of the Tamil people.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Tamil Folk Music",
+      "url": "https://rateyourmusic.com/genre/tamil-folk-music/",
+      "description": "Traditional Folk Music of the Tamil people.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Telugu Folk Music",
+      "url": "https://rateyourmusic.com/genre/telugu-folk-music/",
+      "description": "Traditional Folk Music of the Telugu people, one of the largest ethnolinguistic groups of India, mainly living in the states of Andhra Pradesh and Telangana.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Telugu Folk Music",
+      "url": "https://rateyourmusic.com/genre/telugu-folk-music/",
+      "description": "Traditional Folk Music of the Telugu people, one of the largest ethnolinguistic groups of India, mainly living in the states of Andhra Pradesh and Telangana.",
+      "level": "sub-4",
+      "parent": "South Asian Folk Music"
+    },
+    {
+      "name": "Telugu Folk Music",
+      "url": "https://rateyourmusic.com/genre/telugu-folk-music/",
+      "description": "Traditional Folk Music of the Telugu people, one of the largest ethnolinguistic groups of India, mainly living in the states of Andhra Pradesh and Telangana.",
+      "level": "sub-3",
+      "parent": "South Asian Folk Music"
+    }
+  ]
+}

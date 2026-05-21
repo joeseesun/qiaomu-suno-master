@@ -1,0 +1,66 @@
+{
+  "name": "Breakbeat Hardcore",
+  "description": "Originated from the combination of sampled breakbeats and energetic rhythms with the \"rave\" influences set by early-1990s Techno and Acid House, including upbeat \"stab\" riffing and sample-based production.",
+  "url": "https://rateyourmusic.com/genre/breakbeat-hardcore/",
+  "parent": "Breakbeat",
+  "level": "sub-3",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Darkside",
+      "url": "https://rateyourmusic.com/genre/darkside/",
+      "description": "Dark atmosphere and fast rhythms; served as a forerunner of Drum and Bass.",
+      "level": "sub-4",
+      "parent": "Breakbeat Hardcore"
+    },
+    {
+      "name": "Darkside",
+      "url": "https://rateyourmusic.com/genre/darkside/",
+      "description": "Dark atmosphere and fast rhythms; served as a forerunner of Drum and Bass.",
+      "level": "sub-4",
+      "parent": "Breakbeat Hardcore"
+    },
+    {
+      "name": "Darkside",
+      "url": "https://rateyourmusic.com/genre/darkside/",
+      "description": "Dark atmosphere and fast rhythms; served as a forerunner of Drum and Bass.",
+      "level": "sub-4",
+      "parent": "Breakbeat Hardcore"
+    },
+    {
+      "name": "Darkside",
+      "url": "https://rateyourmusic.com/genre/darkside/",
+      "description": "Dark atmosphere and fast rhythms; served as a forerunner of Drum and Bass.",
+      "level": "sub-4",
+      "parent": "Breakbeat Hardcore"
+    },
+    {
+      "name": "Hardcore Breaks",
+      "url": "https://rateyourmusic.com/genre/hardcore-breaks/",
+      "description": "Revival of Breakbeat Hardcore which emerged in the 2000s, bringing in modern influences and production techniques.",
+      "level": "sub-4",
+      "parent": "Breakbeat Hardcore"
+    },
+    {
+      "name": "Hardcore Breaks",
+      "url": "https://rateyourmusic.com/genre/hardcore-breaks/",
+      "description": "Revival of Breakbeat Hardcore which emerged in the 2000s, bringing in modern influences and production techniques.",
+      "level": "sub-4",
+      "parent": "Breakbeat Hardcore"
+    },
+    {
+      "name": "Hardcore Breaks",
+      "url": "https://rateyourmusic.com/genre/hardcore-breaks/",
+      "description": "Revival of Breakbeat Hardcore which emerged in the 2000s, bringing in modern influences and production techniques.",
+      "level": "sub-4",
+      "parent": "Breakbeat Hardcore"
+    },
+    {
+      "name": "Hardcore Breaks",
+      "url": "https://rateyourmusic.com/genre/hardcore-breaks/",
+      "description": "Revival of Breakbeat Hardcore which emerged in the 2000s, bringing in modern influences and production techniques.",
+      "level": "sub-4",
+      "parent": "Breakbeat Hardcore"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Wave",
+  "description": "Melancholic, atmospheric, melodic beats, defined by its Trap and Cloud Rap influence, ethereal and cold production style, and abundant use of sub bass.",
+  "url": "https://rateyourmusic.com/genre/wave/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Hardwave",
+      "url": "https://rateyourmusic.com/genre/hardwave/",
+      "description": "Harder, festival-oriented offshoot of Wave, combining its \"reese\" basses and icy synths with Trap [EDM] drum patterns, build-up-drop structures, and fuller sound influenced by Trance and Hardstyle.",
+      "level": "sub-2",
+      "parent": "Wave"
+    },
+    {
+      "name": "Neo-Grime",
+      "url": "https://rateyourmusic.com/genre/neo-grime/",
+      "description": "Mixes Wave with Grime and other forms of UK Electronic music.",
+      "level": "sub-2",
+      "parent": "Wave"
+    }
+  ]
+}

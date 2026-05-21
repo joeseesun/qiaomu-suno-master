@@ -1,0 +1,24 @@
+{
+  "name": "Rumba cubana",
+  "description": "Folkloric manifestation of Afro-Cuban music that encompasses dance, voice, and drums.",
+  "url": "https://rateyourmusic.com/genre/rumba-cubana/",
+  "parent": "Cuban Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Guaguancó",
+      "url": "https://rateyourmusic.com/genre/guaguanco/",
+      "description": "Emerged after the abolition of slavery in Cuba in 1886; usually features a lead singer, accompanied by three large drums, known as tumbadoras or congas, and a call-and-response chorus.",
+      "level": "sub-4",
+      "parent": "Rumba cubana"
+    },
+    {
+      "name": "Guaguancó",
+      "url": "https://rateyourmusic.com/genre/guaguanco/",
+      "description": "Emerged after the abolition of slavery in Cuba in 1886; usually features a lead singer, accompanied by three large drums, known as tumbadoras or congas, and a call-and-response chorus.",
+      "level": "sub-5",
+      "parent": "Rumba cubana"
+    }
+  ]
+}

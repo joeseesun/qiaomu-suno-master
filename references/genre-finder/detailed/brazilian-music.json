@@ -1,0 +1,108 @@
+{
+  "name": "Brazilian Music",
+  "description": "All forms of music with roots in Brazil.",
+  "url": "https://rateyourmusic.com/genre/brazilian-music/",
+  "parent": "South American Music",
+  "level": "sub-2",
+  "children_count": 14,
+  "children": [
+    {
+      "name": "Brazilian Classical Music",
+      "url": "https://rateyourmusic.com/genre/brazilian-classical-music/",
+      "description": "Originated in the late 19th century, taking the European music that had been brought to the country by colonists and brought in parts of Brazilian Music.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Brazilian Folk Music",
+      "url": "https://rateyourmusic.com/genre/brazilian-folk-music/",
+      "description": "Comprises the various traditions of folk music found in Brazil, often resulting from the interplay of Indigenous, African and European music.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Brega",
+      "url": "https://rateyourmusic.com/genre/brega/",
+      "description": "Overstated, dramatic music with a romantic singing style.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Dobrado",
+      "url": "https://rateyourmusic.com/genre/dobrado/",
+      "description": "Brazilian musical genre, played by military bands with wooden, brass and also percussive instruments.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Funk brasileiro",
+      "url": "https://rateyourmusic.com/genre/funk-brasileiro/",
+      "description": "Hip Hop-influenced dance style originating from the favelas of Rio de Janeiro and known primarily as \"funk\" in Brazil.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "MPB",
+      "url": "https://rateyourmusic.com/genre/mpb/",
+      "description": "Short for música popular brasileira; formed in the mid-1960s as a modernized version of Bossa nova and Samba-canção.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Northeastern Brazilian Music",
+      "url": "https://rateyourmusic.com/genre/northeastern-brazilian-music/",
+      "description": "Regional styles that combines elements of indigenous, African and European traditions, historically with a focus on life of the northeastern people, such as drought, migration, the struggle for survival, love and nostalgia, and often danced in intense and accelerated movements.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Northern Brazilian Music",
+      "url": "https://rateyourmusic.com/genre/northern-brazilian-music/",
+      "description": "Regional styles rooted in Northern Brazil, often influenced by Caribbean rhythms and instrumentations, usually with focus on romance, celebrations, the relationship between the man and the Amazon rainforest, and danced in fast and sensual movements.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Rock rural",
+      "url": "https://rateyourmusic.com/genre/rock-rural/",
+      "description": "Brazilian Folk Rock that emerged in the 1970s, incorporating elements of Sertanejo, Country Rock, and MPB.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Samba",
+      "url": "https://rateyourmusic.com/genre/samba/",
+      "description": "Originated in the 19th century from a blend of various rhythmic styles of African Music, forming a new sound, structure, and a dance of the same name.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Sertanejo",
+      "url": "https://rateyourmusic.com/genre/sertanejo/",
+      "description": "Acoustic guitar-based and originated from the rural parts of Brazilian Center-South region.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Southeastern Brazilian Music",
+      "url": "https://rateyourmusic.com/genre/southeastern-brazilian-music/",
+      "description": "Regional styles of diverse cultural expressions rooted in Southeastern Brazil that combine elements of African Music and European Music.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Southern Brazilian Music",
+      "url": "https://rateyourmusic.com/genre/southern-brazilian-music/",
+      "description": "Traditional music originating from Southern Brazil.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    },
+    {
+      "name": "Xote",
+      "url": "https://rateyourmusic.com/genre/xote/",
+      "description": "Slow and danceable Brazilian rhythm.",
+      "level": "sub-3",
+      "parent": "Brazilian Music"
+    }
+  ]
+}

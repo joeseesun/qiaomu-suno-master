@@ -1,0 +1,24 @@
+{
+  "name": "Akan Music",
+  "description": "Music of the Akan people of Ghana and Côte d'Ivoire, including a variety of traditional and neo-traditional styles which are based on some of the oldest traditions in West Africa.",
+  "url": "https://rateyourmusic.com/genre/akan-music/",
+  "parent": "West African Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Kete",
+      "url": "https://rateyourmusic.com/genre/kete/",
+      "description": "Traditional percussive style played at special occasions in the courts of high ranking Asante chieftains.",
+      "level": "sub-4",
+      "parent": "Akan Music"
+    },
+    {
+      "name": "Zoblazo",
+      "url": "https://rateyourmusic.com/genre/zoblazo/",
+      "description": "Ivorian dance music combining traditional instruments and synthesizers that emerged in the late 1980s.",
+      "level": "sub-4",
+      "parent": "Akan Music"
+    }
+  ]
+}

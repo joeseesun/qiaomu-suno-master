@@ -1,0 +1,17 @@
+{
+  "name": "Instrumental Hip Hop",
+  "description": "Can take the form of instrumental versions of songs that normally feature rapping, or hip hop originally released and always intended to be instrumental.",
+  "url": "https://rateyourmusic.com/genre/instrumental-hip-hop/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Rare Phonk",
+      "url": "https://rateyourmusic.com/genre/rare-phonk/",
+      "description": "Primarily features eclectic sampling and lush, jazzy beats, usually set to Trap rhythms with prominent influences of Memphis Rap.",
+      "level": "sub-2",
+      "parent": "Instrumental Hip Hop"
+    }
+  ]
+}

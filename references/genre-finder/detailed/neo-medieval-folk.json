@@ -1,0 +1,31 @@
+{
+  "name": "Neo-Medieval Folk",
+  "description": "Emulates European Folk Music from the Middle Ages, originating in Germany in the 1980s.",
+  "url": "https://rateyourmusic.com/genre/neo-medieval-folk/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Bardcore",
+      "url": "https://rateyourmusic.com/genre/bardcore/",
+      "description": "Rearranges contemporary music with an array of acoustic instrumentation to evoke the aesthetic of medieval Europe.",
+      "level": "sub-4",
+      "parent": "Neo-Medieval Folk"
+    },
+    {
+      "name": "Bardcore",
+      "url": "https://rateyourmusic.com/genre/bardcore/",
+      "description": "Rearranges contemporary music with an array of acoustic instrumentation to evoke the aesthetic of medieval Europe.",
+      "level": "sub-4",
+      "parent": "Neo-Medieval Folk"
+    },
+    {
+      "name": "Bardcore",
+      "url": "https://rateyourmusic.com/genre/bardcore/",
+      "description": "Rearranges contemporary music with an array of acoustic instrumentation to evoke the aesthetic of medieval Europe.",
+      "level": "sub-4",
+      "parent": "Neo-Medieval Folk"
+    }
+  ]
+}

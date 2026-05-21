@@ -1,0 +1,150 @@
+{
+  "name": "Korean Folk Music",
+  "description": "Traditional Folk Music of the Korean people.",
+  "url": "https://rateyourmusic.com/genre/korean-folk-music/",
+  "parent": "East Asian Folk Music",
+  "level": "sub-3",
+  "children_count": 20,
+  "children": [
+    {
+      "name": "Muak",
+      "url": "https://rateyourmusic.com/genre/muak/",
+      "description": "Korean shamanistic music that accompanies the ritual of gut as performed in all regions of Korea.",
+      "level": "sub-4",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Muak",
+      "url": "https://rateyourmusic.com/genre/muak/",
+      "description": "Korean shamanistic music that accompanies the ritual of gut as performed in all regions of Korea.",
+      "level": "sub-5",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Muak",
+      "url": "https://rateyourmusic.com/genre/muak/",
+      "description": "Korean shamanistic music that accompanies the ritual of gut as performed in all regions of Korea.",
+      "level": "sub-5",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Muak",
+      "url": "https://rateyourmusic.com/genre/muak/",
+      "description": "Korean shamanistic music that accompanies the ritual of gut as performed in all regions of Korea.",
+      "level": "sub-4",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Pansori",
+      "url": "https://rateyourmusic.com/genre/pansori/",
+      "description": "Korean style of storytelling characterized by over-the-top, passionate singing from a solo vocalist accompanied by minimal drumming.",
+      "level": "sub-4",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Pansori",
+      "url": "https://rateyourmusic.com/genre/pansori/",
+      "description": "Korean style of storytelling characterized by over-the-top, passionate singing from a solo vocalist accompanied by minimal drumming.",
+      "level": "sub-5",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Pansori",
+      "url": "https://rateyourmusic.com/genre/pansori/",
+      "description": "Korean style of storytelling characterized by over-the-top, passionate singing from a solo vocalist accompanied by minimal drumming.",
+      "level": "sub-5",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Pansori",
+      "url": "https://rateyourmusic.com/genre/pansori/",
+      "description": "Korean style of storytelling characterized by over-the-top, passionate singing from a solo vocalist accompanied by minimal drumming.",
+      "level": "sub-4",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Pungmul",
+      "url": "https://rateyourmusic.com/genre/pungmul/",
+      "description": "Consists of drumming, dancing, and singing, and is a tradition deeply ingrained in South Korean culture.",
+      "level": "sub-4",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Pungmul",
+      "url": "https://rateyourmusic.com/genre/pungmul/",
+      "description": "Consists of drumming, dancing, and singing, and is a tradition deeply ingrained in South Korean culture.",
+      "level": "sub-5",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Pungmul",
+      "url": "https://rateyourmusic.com/genre/pungmul/",
+      "description": "Consists of drumming, dancing, and singing, and is a tradition deeply ingrained in South Korean culture.",
+      "level": "sub-5",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Pungmul",
+      "url": "https://rateyourmusic.com/genre/pungmul/",
+      "description": "Consists of drumming, dancing, and singing, and is a tradition deeply ingrained in South Korean culture.",
+      "level": "sub-4",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Sanjo",
+      "url": "https://rateyourmusic.com/genre/sanjo/",
+      "description": "Traditional instrumental Korean Folk Music that focuses on a wide variety of rhythmic changes with many different classical Korean instruments.",
+      "level": "sub-4",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Sanjo",
+      "url": "https://rateyourmusic.com/genre/sanjo/",
+      "description": "Traditional instrumental Korean Folk Music that focuses on a wide variety of rhythmic changes with many different classical Korean instruments.",
+      "level": "sub-5",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Sanjo",
+      "url": "https://rateyourmusic.com/genre/sanjo/",
+      "description": "Traditional instrumental Korean Folk Music that focuses on a wide variety of rhythmic changes with many different classical Korean instruments.",
+      "level": "sub-5",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Sanjo",
+      "url": "https://rateyourmusic.com/genre/sanjo/",
+      "description": "Traditional instrumental Korean Folk Music that focuses on a wide variety of rhythmic changes with many different classical Korean instruments.",
+      "level": "sub-4",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Sinawi",
+      "url": "https://rateyourmusic.com/genre/sinawi/",
+      "description": "Improvisational genre traditionally serving as an accompaniment to Korean shamanic rituals.",
+      "level": "sub-4",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Sinawi",
+      "url": "https://rateyourmusic.com/genre/sinawi/",
+      "description": "Improvisational genre traditionally serving as an accompaniment to Korean shamanic rituals.",
+      "level": "sub-5",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Sinawi",
+      "url": "https://rateyourmusic.com/genre/sinawi/",
+      "description": "Improvisational genre traditionally serving as an accompaniment to Korean shamanic rituals.",
+      "level": "sub-5",
+      "parent": "Korean Folk Music"
+    },
+    {
+      "name": "Sinawi",
+      "url": "https://rateyourmusic.com/genre/sinawi/",
+      "description": "Improvisational genre traditionally serving as an accompaniment to Korean shamanic rituals.",
+      "level": "sub-4",
+      "parent": "Korean Folk Music"
+    }
+  ]
+}

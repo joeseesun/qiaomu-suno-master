@@ -1,0 +1,17 @@
+{
+  "name": "Exotica",
+  "description": "Emerged in the early 1950s as the United States developed a fascination with Polynesia and the South Pacific, incorporates traditional instruments and rhythms from these cultures into a Western Pop context.",
+  "url": "https://rateyourmusic.com/genre/exotica/",
+  "parent": "Easy Listening",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Sitarsploitation",
+      "url": "https://rateyourmusic.com/genre/sitarsploitation/",
+      "description": "Variant of Exotica capitalising on the surge of Western interest in Indian music in the late 1960s; featured melodies played on the sitar (or instruments imitating it) atop Easy Listening accompaniment.",
+      "level": "sub-2",
+      "parent": "Exotica"
+    }
+  ]
+}

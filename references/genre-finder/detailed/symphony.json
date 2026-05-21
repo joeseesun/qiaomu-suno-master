@@ -1,0 +1,24 @@
+{
+  "name": "Symphony",
+  "description": "Large-scale Western Classical Music works for orchestra, typically with four movements: 1) allegro, almost always in sonata-allegro form 2) a slow movement 3) scherzo or minuet 4) finale, typically allegro or rondo.",
+  "url": "https://rateyourmusic.com/genre/symphony/",
+  "parent": "Orchestral Music",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Choral Symphony",
+      "url": "https://rateyourmusic.com/genre/choral-symphony/",
+      "description": "Combines symphonic Orchestral Music forces & structure with vocal parts for choir.",
+      "level": "sub-4",
+      "parent": "Symphony"
+    },
+    {
+      "name": "Sinfonia concertante",
+      "url": "https://rateyourmusic.com/genre/sinfonia-concertante/",
+      "description": "Fuses symphonic compositional structure and instrumentation with parts written for concertante soloists.",
+      "level": "sub-4",
+      "parent": "Symphony"
+    }
+  ]
+}

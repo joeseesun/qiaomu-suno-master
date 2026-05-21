@@ -1,0 +1,94 @@
+{
+  "name": "Psytrance",
+  "description": "Emphasizes a psychedelic feel and an energetic sound; based around influences from Goa Trance and Acid Trance.",
+  "url": "https://rateyourmusic.com/genre/psytrance/",
+  "parent": "Trance",
+  "level": "sub-3",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Dark Psytrance",
+      "url": "https://rateyourmusic.com/genre/dark-psytrance/",
+      "description": "Uses more complex sound design based on dark atmospheres and fast tempos.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    },
+    {
+      "name": "Dark Psytrance",
+      "url": "https://rateyourmusic.com/genre/dark-psytrance/",
+      "description": "Uses more complex sound design based on dark atmospheres and fast tempos.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    },
+    {
+      "name": "Forest Psytrance",
+      "url": "https://rateyourmusic.com/genre/forest-psytrance/",
+      "description": "Mimicks the ambience of a forest by using swarming and teeming effects as well as natural samples; features straightforward song structures.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    },
+    {
+      "name": "Forest Psytrance",
+      "url": "https://rateyourmusic.com/genre/forest-psytrance/",
+      "description": "Mimicks the ambience of a forest by using swarming and teeming effects as well as natural samples; features straightforward song structures.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    },
+    {
+      "name": "Full-On Psytrance",
+      "url": "https://rateyourmusic.com/genre/full-on-psytrance/",
+      "description": "Faster and more intense, usually set around 145-150 BPM and featuring harder rolling basslines, vocal samples and \"spacey\" effects.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    },
+    {
+      "name": "Full-On Psytrance",
+      "url": "https://rateyourmusic.com/genre/full-on-psytrance/",
+      "description": "Faster and more intense, usually set around 145-150 BPM and featuring harder rolling basslines, vocal samples and \"spacey\" effects.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    },
+    {
+      "name": "Goa Trance",
+      "url": "https://rateyourmusic.com/genre/goa-trance/",
+      "description": "Forerunner of Psytrance styles that emerged in the early 1990s, distinguished by old-school, organic sound with rapid, oriental-inspired melodies.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    },
+    {
+      "name": "Goa Trance",
+      "url": "https://rateyourmusic.com/genre/goa-trance/",
+      "description": "Forerunner of Psytrance styles that emerged in the early 1990s, distinguished by old-school, organic sound with rapid, oriental-inspired melodies.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    },
+    {
+      "name": "Progressive Psytrance",
+      "url": "https://rateyourmusic.com/genre/progressive-psytrance/",
+      "description": "Emerged in the early 2000s, featuring a slow tempo range and clean production.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    },
+    {
+      "name": "Progressive Psytrance",
+      "url": "https://rateyourmusic.com/genre/progressive-psytrance/",
+      "description": "Emerged in the early 2000s, featuring a slow tempo range and clean production.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    },
+    {
+      "name": "Suomisaundi",
+      "url": "https://rateyourmusic.com/genre/suomisaundi/",
+      "description": "Finnish-based deviation of Psytrance with an emphasis on free-form experimentation and humor.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    },
+    {
+      "name": "Suomisaundi",
+      "url": "https://rateyourmusic.com/genre/suomisaundi/",
+      "description": "Finnish-based deviation of Psytrance with an emphasis on free-form experimentation and humor.",
+      "level": "sub-4",
+      "parent": "Psytrance"
+    }
+  ]
+}

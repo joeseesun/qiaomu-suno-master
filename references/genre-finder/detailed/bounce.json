@@ -1,0 +1,17 @@
+{
+  "name": "Bounce",
+  "description": "Developed in New Orleans in the early 1990s, initially defined by a slow to midtempo beat with a double-time hi-hat on top.",
+  "url": "https://rateyourmusic.com/genre/bounce/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Sissy Bounce",
+      "url": "https://rateyourmusic.com/genre/sissy-bounce/",
+      "description": "Energetic style associated with New Orleans’ LGBT culture, featuring punchy drums, hyper-repetitive vocal chops, and sexually explicit chants.",
+      "level": "sub-2",
+      "parent": "Bounce"
+    }
+  ]
+}

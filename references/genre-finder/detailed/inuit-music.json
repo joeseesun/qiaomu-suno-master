@@ -1,0 +1,52 @@
+{
+  "name": "Inuit Music",
+  "description": "Traditions of the Inuit people, the aboriginal peoples inhabiting the Arctic regions of Canada, Alaska, and Greenland.",
+  "url": "https://rateyourmusic.com/genre/inuit-music/",
+  "parent": "Indigenous North American Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Inuit Vocal Games",
+      "url": "https://rateyourmusic.com/genre/inuit-vocal-games/",
+      "description": "Practiced by the Inuit of Canada, two vocalists face each other decimeters away and try to outlast each other with intense and unusual vocal techniques.",
+      "level": "sub-4",
+      "parent": "Inuit Music"
+    },
+    {
+      "name": "Inuit Vocal Games",
+      "url": "https://rateyourmusic.com/genre/inuit-vocal-games/",
+      "description": "Practiced by the Inuit of Canada, two vocalists face each other decimeters away and try to outlast each other with intense and unusual vocal techniques.",
+      "level": "sub-4",
+      "parent": "Inuit Music"
+    },
+    {
+      "name": "Tivaner inngernerlu",
+      "url": "https://rateyourmusic.com/genre/tivaner-inngernerlu/",
+      "description": "Pre-colonial Inuit Folk tradition centered around the qilaat (drum).",
+      "level": "sub-4",
+      "parent": "Inuit Music"
+    },
+    {
+      "name": "Tivaner inngernerlu",
+      "url": "https://rateyourmusic.com/genre/tivaner-inngernerlu/",
+      "description": "Pre-colonial Inuit Folk tradition centered around the qilaat (drum).",
+      "level": "sub-4",
+      "parent": "Inuit Music"
+    },
+    {
+      "name": "Uaajeerneq",
+      "url": "https://rateyourmusic.com/genre/uaajeerneq/",
+      "description": "Ancient Greenlandic-Inuit dramatic performance characterized by percussion and idiosyncratic expression.",
+      "level": "sub-4",
+      "parent": "Inuit Music"
+    },
+    {
+      "name": "Uaajeerneq",
+      "url": "https://rateyourmusic.com/genre/uaajeerneq/",
+      "description": "Ancient Greenlandic-Inuit dramatic performance characterized by percussion and idiosyncratic expression.",
+      "level": "sub-4",
+      "parent": "Inuit Music"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "name": "East African Music",
+  "description": "Traditions which originate from the eastern subregion of the African continent, encompassing a wide variety of cultures and styles.",
+  "url": "https://rateyourmusic.com/genre/east-african-music/",
+  "parent": "African Music",
+  "level": "sub-2",
+  "children_count": 24,
+  "children": [
+    {
+      "name": "Acholi Music",
+      "url": "https://rateyourmusic.com/genre/acholi-music/",
+      "description": "Music of the Acholi people, who inhabit a region known as “Acholiland,” spanning parts of northern Uganda and southern South Sudan.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Baganda Music",
+      "url": "https://rateyourmusic.com/genre/baganda-music/",
+      "description": "Music of the Baganda people, a Bantu ethnic group indigenous to Uganda.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Benga",
+      "url": "https://rateyourmusic.com/genre/benga/",
+      "description": "Kenyan popular music based around the Traditional Folk Music of the Luo people from the area.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Beni",
+      "url": "https://rateyourmusic.com/genre/beni/",
+      "description": "Festive Zanzibari Marching Band music that emerged in the late 19th century.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Bongo Flava",
+      "url": "https://rateyourmusic.com/genre/bongo-flava/",
+      "description": "Tanzanian genre originating in the mid-1990s in the Dar es Salaam area, combining the influence of Rhythm & Blues, Afrobeat, and Dancehall with native Tanzanian styles like Taarab and Muziki wa dansi.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Comorian Music",
+      "url": "https://rateyourmusic.com/genre/comorian-music/",
+      "description": "Music of the Comoros Islands and Mayotte off the eastern coast of Africa, combining influences from other East African Music and Malagasy Music.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Dinka Music",
+      "url": "https://rateyourmusic.com/genre/dinka-music/",
+      "description": "Music of the Dinka people, the most populous ethnic group of South Sudan.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Genge",
+      "url": "https://rateyourmusic.com/genre/genge/",
+      "description": "Combines elements of Dancehall with various traditions of Kenya.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Gogo Music",
+      "url": "https://rateyourmusic.com/genre/gogo-music/",
+      "description": "Music of the Gogo People (Wagogo), who inhabit Central Tanzania.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Inkiranya",
+      "url": "https://rateyourmusic.com/genre/inkiranya/",
+      "description": "Influential drumming style originating in Burundi carried out by a percussion ensemble.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Kapuka",
+      "url": "https://rateyourmusic.com/genre/kapuka/",
+      "description": "Includes elements from Hip Hop and Reggae, as well as Kenyan traditions.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Kidandali",
+      "url": "https://rateyourmusic.com/genre/kidandali/",
+      "description": "Popular form of Ugandan music, originally derived from Kadongo kamu and Soukous.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Kidumbak",
+      "url": "https://rateyourmusic.com/genre/kidumbak/",
+      "description": "Centered on two small kidumbak drums, fiddle, and singer; closely related to Taarab.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Marrabenta",
+      "url": "https://rateyourmusic.com/genre/marrabenta/",
+      "description": "Fast, guitar driven, urban dance music from Mozambique that originated in Maputo in the 1950s, taking cues from Mozambican folk and a variety of foreign sounds.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Mchiriku",
+      "url": "https://rateyourmusic.com/genre/mchiriku/",
+      "description": "Pairs amplified keyboards with hectic, intricate percussion and vocals drawn from earlier Tanzanian styles.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Muziki wa dansi",
+      "url": "https://rateyourmusic.com/genre/muziki-wa-dansi/",
+      "description": "Popular in Tanzania with strong connections to Soukous and often associated with Jazz, whose name means \"dance music\" in Swahili.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Ngoma",
+      "url": "https://rateyourmusic.com/genre/ngoma/",
+      "description": "Played in Swahili-speaking African countries; primarily focused on rhythm.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Omutibo",
+      "url": "https://rateyourmusic.com/genre/omutibo/",
+      "description": "Mid-20th century Kenyan popular music which centres around a fingerpicked acoustic guitar.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Shilluk Music",
+      "url": "https://rateyourmusic.com/genre/shilluk-music/",
+      "description": "All musical forms of the Shilluk people of the Upper Nile region of South Sudan.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Singeli",
+      "url": "https://rateyourmusic.com/genre/singeli/",
+      "description": "Developed in Tanzania in the mid-2000s; fuses incredibly rapid beats, usually between 180-300BPM, with MCing and musical influences from older Tanzanian genres.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Soga Music",
+      "url": "https://rateyourmusic.com/genre/soga-music/",
+      "description": "Music of the Soga people, a Bantu ethnic group residing in Eastern Uganda.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Taarab",
+      "url": "https://rateyourmusic.com/genre/taarab/",
+      "description": "Prominent violin, qanun (an Egyptian zither-like instrument), and sung Swahili poetry, often accompanied by African drums and other percussion.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Timbila",
+      "url": "https://rateyourmusic.com/genre/timbila/",
+      "description": "Tradition of the Chopi people of the Inhambane province of Mozambique, named for the mbila, the wooden xylophone-like instrument on which it is played.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    },
+    {
+      "name": "Twa Music",
+      "url": "https://rateyourmusic.com/genre/twa-music/",
+      "description": "Music of the Great Lakes Twa people.",
+      "level": "sub-3",
+      "parent": "East African Music"
+    }
+  ]
+}

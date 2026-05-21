@@ -1,0 +1,45 @@
+{
+  "name": "Dark Electro",
+  "description": "Emerged in the early 1990s in Europe, incorporating the abrasiveness of old school Industrial but with a greater focus on a horror-inspired atmosphere and harsh, distorted vocals.",
+  "url": "https://rateyourmusic.com/genre/dark-electro/",
+  "parent": "EBM",
+  "level": "sub-3",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Aggrotech",
+      "url": "https://rateyourmusic.com/genre/aggrotech/",
+      "description": "Merges aggressive-sounding synths and apocalyptic atmospheres with harsh 4/4 beats and fast tempos.",
+      "level": "sub-4",
+      "parent": "Dark Electro"
+    },
+    {
+      "name": "Aggrotech",
+      "url": "https://rateyourmusic.com/genre/aggrotech/",
+      "description": "Merges aggressive-sounding synths and apocalyptic atmospheres with harsh 4/4 beats and fast tempos.",
+      "level": "sub-3",
+      "parent": "Dark Electro"
+    },
+    {
+      "name": "Aggrotech",
+      "url": "https://rateyourmusic.com/genre/aggrotech/",
+      "description": "Merges aggressive-sounding synths and apocalyptic atmospheres with harsh 4/4 beats and fast tempos.",
+      "level": "sub-4",
+      "parent": "Dark Electro"
+    },
+    {
+      "name": "Aggrotech",
+      "url": "https://rateyourmusic.com/genre/aggrotech/",
+      "description": "Merges aggressive-sounding synths and apocalyptic atmospheres with harsh 4/4 beats and fast tempos.",
+      "level": "sub-4",
+      "parent": "Dark Electro"
+    },
+    {
+      "name": "Aggrotech",
+      "url": "https://rateyourmusic.com/genre/aggrotech/",
+      "description": "Merges aggressive-sounding synths and apocalyptic atmospheres with harsh 4/4 beats and fast tempos.",
+      "level": "sub-4",
+      "parent": "Dark Electro"
+    }
+  ]
+}

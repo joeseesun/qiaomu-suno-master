@@ -1,0 +1,73 @@
+{
+  "name": "Cumbia",
+  "description": "Danceable folk genre formed during the 19th century in Colombia and eastern Panama.",
+  "url": "https://rateyourmusic.com/genre/cumbia/",
+  "parent": "Hispanic American Music",
+  "level": "sub-3",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Cumbia argentina",
+      "url": "https://rateyourmusic.com/genre/cumbia-argentina/",
+      "description": "Almost always features synthesizer keyboards and electronic percussion with an upbeat rhythm.",
+      "level": "sub-4",
+      "parent": "Cumbia"
+    },
+    {
+      "name": "Cumbia chilena",
+      "url": "https://rateyourmusic.com/genre/cumbia-chilena/",
+      "description": "Incorporates Chilean Music into the traditional sound of Cumbia.",
+      "level": "sub-4",
+      "parent": "Cumbia"
+    },
+    {
+      "name": "Cumbia colombiana",
+      "url": "https://rateyourmusic.com/genre/cumbia-colombiana/",
+      "description": "Style that incorporates elements of Colombian traditional music, which includes and keeps influences from Spanish, African, and Indigenous cultures.",
+      "level": "sub-4",
+      "parent": "Cumbia"
+    },
+    {
+      "name": "Cumbia mexicana",
+      "url": "https://rateyourmusic.com/genre/cumbia-mexicana/",
+      "description": "Incorporation of Rock & Roll, Mexican popular music, and Cuban influences, often adopting electric instruments, brass ensembles, accordion, and Cuban timbales, while retaining a beat-driven sound and traditional Colombian features.",
+      "level": "sub-4",
+      "parent": "Cumbia"
+    },
+    {
+      "name": "Cumbia peruana",
+      "url": "https://rateyourmusic.com/genre/cumbia-peruana/",
+      "description": "Developed in Peru and diversified into various subgenres, each with its own regional influences.",
+      "level": "sub-4",
+      "parent": "Cumbia"
+    },
+    {
+      "name": "Cumbia pop",
+      "url": "https://rateyourmusic.com/genre/cumbia-pop/",
+      "description": "Developed in the Río de la Plata region in the mid-2010s, featuring Latin Pop influences and lyrics related to romance, youth, and fun.",
+      "level": "sub-4",
+      "parent": "Cumbia"
+    },
+    {
+      "name": "Cumbia salvadoreña",
+      "url": "https://rateyourmusic.com/genre/cumbia-salvadorena/",
+      "description": "Takes influence from local Salvadoran music and traditionally features a distinctive ensemble.",
+      "level": "sub-4",
+      "parent": "Cumbia"
+    },
+    {
+      "name": "Digital Cumbia",
+      "url": "https://rateyourmusic.com/genre/digital-cumbia/",
+      "description": "Mixes an Electronic sound into traditional Cumbia through influences from House, Dancehall, Hyphy, and Dubstep.",
+      "level": "sub-4",
+      "parent": "Cumbia"
+    },
+    {
+      "name": "Merecumbé",
+      "url": "https://rateyourmusic.com/genre/merecumbe/",
+      "description": "Colombian genre which combines Cumbia with Merengue.",
+      "level": "sub-4",
+      "parent": "Cumbia"
+    }
+  ]
+}

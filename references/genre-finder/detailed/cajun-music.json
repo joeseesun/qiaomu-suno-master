@@ -1,0 +1,17 @@
+{
+  "name": "Cajun Music",
+  "description": "Associated with the Cajun people of Louisiana where the genre was born, commonly regarded as an uptempo, accordion-driven style with a harsh, infectious beat.",
+  "url": "https://rateyourmusic.com/genre/cajun-music/",
+  "parent": "Louisiana Music",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Traditional Cajun Music",
+      "url": "https://rateyourmusic.com/genre/traditional-cajun-music/",
+      "description": "Earliest and most \"pure\" form of Cajun Music, employing basic rhythms and frequent fiddle double stops.",
+      "level": "sub-4",
+      "parent": "Cajun Music"
+    }
+  ]
+}

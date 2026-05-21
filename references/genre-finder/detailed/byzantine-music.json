@@ -1,0 +1,24 @@
+{
+  "name": "Byzantine Music",
+  "description": "Music from Byzantine era.",
+  "url": "https://rateyourmusic.com/genre/byzantine-music/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Byzantine Chant",
+      "url": "https://rateyourmusic.com/genre/byzantine-chant/",
+      "description": "Liturgical chant of Christian churches following the Orthodox rite.",
+      "level": "sub-3",
+      "parent": "Byzantine Music"
+    },
+    {
+      "name": "Byzantine Chant",
+      "url": "https://rateyourmusic.com/genre/byzantine-chant/",
+      "description": "Liturgical chant of Christian churches following the Orthodox rite.",
+      "level": "sub-4",
+      "parent": "Byzantine Music"
+    }
+  ]
+}

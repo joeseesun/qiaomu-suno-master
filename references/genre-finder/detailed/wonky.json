@@ -1,0 +1,24 @@
+{
+  "name": "Wonky",
+  "description": "Off-kilter fusion of Dubstep and Hip Hop which first developed in the mid-to-late 2000s.",
+  "url": "https://rateyourmusic.com/genre/wonky/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Aquacrunk",
+      "url": "https://rateyourmusic.com/genre/aquacrunk/",
+      "description": "Syncopated, half-time rhythms inspired by Dubstep and Grime, funky, sludgy, \"aquatic\"-sounding synths and sound design.",
+      "level": "sub-3",
+      "parent": "Wonky"
+    },
+    {
+      "name": "Aquacrunk",
+      "url": "https://rateyourmusic.com/genre/aquacrunk/",
+      "description": "Syncopated, half-time rhythms inspired by Dubstep and Grime, funky, sludgy, \"aquatic\"-sounding synths and sound design.",
+      "level": "sub-3",
+      "parent": "Wonky"
+    }
+  ]
+}

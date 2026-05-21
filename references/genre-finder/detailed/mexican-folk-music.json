@@ -1,0 +1,206 @@
+{
+  "name": "Mexican Folk Music",
+  "description": "Traditional Folk Music of the Mexican people.",
+  "url": "https://rateyourmusic.com/genre/mexican-folk-music/",
+  "parent": "Hispanic American Folk Music",
+  "level": "sub-3",
+  "children_count": 28,
+  "children": [
+    {
+      "name": "Canto cardenche",
+      "url": "https://rateyourmusic.com/genre/canto-cardenche/",
+      "description": "Overtly dramatic, and melancholic A cappella performed in the Comarca Lagunera region in northeast Mexico.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Canto cardenche",
+      "url": "https://rateyourmusic.com/genre/canto-cardenche/",
+      "description": "Overtly dramatic, and melancholic A cappella performed in the Comarca Lagunera region in northeast Mexico.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Canto cardenche",
+      "url": "https://rateyourmusic.com/genre/canto-cardenche/",
+      "description": "Overtly dramatic, and melancholic A cappella performed in the Comarca Lagunera region in northeast Mexico.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Canto cardenche",
+      "url": "https://rateyourmusic.com/genre/canto-cardenche/",
+      "description": "Overtly dramatic, and melancholic A cappella performed in the Comarca Lagunera region in northeast Mexico.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Pirekua",
+      "url": "https://rateyourmusic.com/genre/pirekua/",
+      "description": "Traditional style of the P’urhépecha people, typically slow and in 3/8 or 6/8 time.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Pirekua",
+      "url": "https://rateyourmusic.com/genre/pirekua/",
+      "description": "Traditional style of the P’urhépecha people, typically slow and in 3/8 or 6/8 time.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Pirekua",
+      "url": "https://rateyourmusic.com/genre/pirekua/",
+      "description": "Traditional style of the P’urhépecha people, typically slow and in 3/8 or 6/8 time.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Pirekua",
+      "url": "https://rateyourmusic.com/genre/pirekua/",
+      "description": "Traditional style of the P’urhépecha people, typically slow and in 3/8 or 6/8 time.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son calentano",
+      "url": "https://rateyourmusic.com/genre/son-calentano/",
+      "description": "Usually dominated by violin with accompaniment mainly provided by guitars and tamboras, occasionally dancers will stomp over a platform.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son calentano",
+      "url": "https://rateyourmusic.com/genre/son-calentano/",
+      "description": "Usually dominated by violin with accompaniment mainly provided by guitars and tamboras, occasionally dancers will stomp over a platform.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son calentano",
+      "url": "https://rateyourmusic.com/genre/son-calentano/",
+      "description": "Usually dominated by violin with accompaniment mainly provided by guitars and tamboras, occasionally dancers will stomp over a platform.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son calentano",
+      "url": "https://rateyourmusic.com/genre/son-calentano/",
+      "description": "Usually dominated by violin with accompaniment mainly provided by guitars and tamboras, occasionally dancers will stomp over a platform.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son huasteco",
+      "url": "https://rateyourmusic.com/genre/son-huasteco/",
+      "description": "Bold rhythmic structure, lively violin playing, and extensive use of falsetto.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son huasteco",
+      "url": "https://rateyourmusic.com/genre/son-huasteco/",
+      "description": "Bold rhythmic structure, lively violin playing, and extensive use of falsetto.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son huasteco",
+      "url": "https://rateyourmusic.com/genre/son-huasteco/",
+      "description": "Bold rhythmic structure, lively violin playing, and extensive use of falsetto.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son huasteco",
+      "url": "https://rateyourmusic.com/genre/son-huasteco/",
+      "description": "Bold rhythmic structure, lively violin playing, and extensive use of falsetto.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son istmeño",
+      "url": "https://rateyourmusic.com/genre/son-istmeno/",
+      "description": "Developed in the Isthmus of Tehuantepec, traditionally played by guitar, requinto, marimba, and bajoquinto, usually played in 3/4 time.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son istmeño",
+      "url": "https://rateyourmusic.com/genre/son-istmeno/",
+      "description": "Developed in the Isthmus of Tehuantepec, traditionally played by guitar, requinto, marimba, and bajoquinto, usually played in 3/4 time.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son istmeño",
+      "url": "https://rateyourmusic.com/genre/son-istmeno/",
+      "description": "Developed in the Isthmus of Tehuantepec, traditionally played by guitar, requinto, marimba, and bajoquinto, usually played in 3/4 time.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son istmeño",
+      "url": "https://rateyourmusic.com/genre/son-istmeno/",
+      "description": "Developed in the Isthmus of Tehuantepec, traditionally played by guitar, requinto, marimba, and bajoquinto, usually played in 3/4 time.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son jarocho",
+      "url": "https://rateyourmusic.com/genre/son-jarocho/",
+      "description": "Mexican Folk Music from the Gulf Coast Mexican state of Veracruz, with both Spanish and indigenous influences.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son jarocho",
+      "url": "https://rateyourmusic.com/genre/son-jarocho/",
+      "description": "Mexican Folk Music from the Gulf Coast Mexican state of Veracruz, with both Spanish and indigenous influences.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son jarocho",
+      "url": "https://rateyourmusic.com/genre/son-jarocho/",
+      "description": "Mexican Folk Music from the Gulf Coast Mexican state of Veracruz, with both Spanish and indigenous influences.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Son jarocho",
+      "url": "https://rateyourmusic.com/genre/son-jarocho/",
+      "description": "Mexican Folk Music from the Gulf Coast Mexican state of Veracruz, with both Spanish and indigenous influences.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Trova yucateca",
+      "url": "https://rateyourmusic.com/genre/trova-yucateca/",
+      "description": "Heavily influenced by Cuban Music, freely embracing Bolero, clave and Bambuco.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Trova yucateca",
+      "url": "https://rateyourmusic.com/genre/trova-yucateca/",
+      "description": "Heavily influenced by Cuban Music, freely embracing Bolero, clave and Bambuco.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Trova yucateca",
+      "url": "https://rateyourmusic.com/genre/trova-yucateca/",
+      "description": "Heavily influenced by Cuban Music, freely embracing Bolero, clave and Bambuco.",
+      "level": "sub-5",
+      "parent": "Mexican Folk Music"
+    },
+    {
+      "name": "Trova yucateca",
+      "url": "https://rateyourmusic.com/genre/trova-yucateca/",
+      "description": "Heavily influenced by Cuban Music, freely embracing Bolero, clave and Bambuco.",
+      "level": "sub-4",
+      "parent": "Mexican Folk Music"
+    }
+  ]
+}

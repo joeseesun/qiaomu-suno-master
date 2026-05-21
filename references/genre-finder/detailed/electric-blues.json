@@ -1,0 +1,38 @@
+{
+  "name": "Electric Blues",
+  "description": "Major development in sound and reach of Blues when it became possible to amplify the instruments of small combos.",
+  "url": "https://rateyourmusic.com/genre/electric-blues/",
+  "parent": "Blues",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "British Blues",
+      "url": "https://rateyourmusic.com/genre/british-blues/",
+      "description": "Heavily influenced by the burgeoning United States Blues scene, particularly Chicago Blues.",
+      "level": "sub-2",
+      "parent": "Electric Blues"
+    },
+    {
+      "name": "Chicago Blues",
+      "url": "https://rateyourmusic.com/genre/chicago-blues/",
+      "description": "Heavily inspired by old-time rural blues, transferring it into a small band setup, while maintaining the rough and gritty edges of its ancestry.",
+      "level": "sub-2",
+      "parent": "Electric Blues"
+    },
+    {
+      "name": "Electric Texas Blues",
+      "url": "https://rateyourmusic.com/genre/electric-texas-blues/",
+      "description": "Originating in (but not limited to) Texas; includes Jazz influences like Swing rhythms and sometimes the addition of a horn section.",
+      "level": "sub-2",
+      "parent": "Electric Blues"
+    },
+    {
+      "name": "Swamp Blues",
+      "url": "https://rateyourmusic.com/genre/swamp-blues/",
+      "description": "Originated in Baton Rouge, Louisiana in the 1950s, with a laid-back and relaxed sound that takes influence from Zydeco and Cajun Music.",
+      "level": "sub-2",
+      "parent": "Electric Blues"
+    }
+  ]
+}

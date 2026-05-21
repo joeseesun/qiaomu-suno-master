@@ -1,0 +1,178 @@
+{
+  "name": "Portuguese Folk Music",
+  "description": "Traditional Folk Music from Portugal.",
+  "url": "https://rateyourmusic.com/genre/portuguese-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 24,
+  "children": [
+    {
+      "name": "Cante alentejano",
+      "url": "https://rateyourmusic.com/genre/cante-alentejano/",
+      "description": "Traditional Portuguese Music based on vocal music from the Alentejo region.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Cante alentejano",
+      "url": "https://rateyourmusic.com/genre/cante-alentejano/",
+      "description": "Traditional Portuguese Music based on vocal music from the Alentejo region.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Cante alentejano",
+      "url": "https://rateyourmusic.com/genre/cante-alentejano/",
+      "description": "Traditional Portuguese Music based on vocal music from the Alentejo region.",
+      "level": "sub-5",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Cante alentejano",
+      "url": "https://rateyourmusic.com/genre/cante-alentejano/",
+      "description": "Traditional Portuguese Music based on vocal music from the Alentejo region.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Chamarrita açoriana",
+      "url": "https://rateyourmusic.com/genre/chamarrita-acoriana/",
+      "description": "Refers to a popular folkloric dance, of the Azores islands, as well as the accompanying music.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Chamarrita açoriana",
+      "url": "https://rateyourmusic.com/genre/chamarrita-acoriana/",
+      "description": "Refers to a popular folkloric dance, of the Azores islands, as well as the accompanying music.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Chamarrita açoriana",
+      "url": "https://rateyourmusic.com/genre/chamarrita-acoriana/",
+      "description": "Refers to a popular folkloric dance, of the Azores islands, as well as the accompanying music.",
+      "level": "sub-5",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Chamarrita açoriana",
+      "url": "https://rateyourmusic.com/genre/chamarrita-acoriana/",
+      "description": "Refers to a popular folkloric dance, of the Azores islands, as well as the accompanying music.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Desgarrada",
+      "url": "https://rateyourmusic.com/genre/desgarrada/",
+      "description": "Improvisational tradition from Northern Portugal where two vocalists address and respond to each other, usually in a joking manner.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Desgarrada",
+      "url": "https://rateyourmusic.com/genre/desgarrada/",
+      "description": "Improvisational tradition from Northern Portugal where two vocalists address and respond to each other, usually in a joking manner.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Desgarrada",
+      "url": "https://rateyourmusic.com/genre/desgarrada/",
+      "description": "Improvisational tradition from Northern Portugal where two vocalists address and respond to each other, usually in a joking manner.",
+      "level": "sub-5",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Desgarrada",
+      "url": "https://rateyourmusic.com/genre/desgarrada/",
+      "description": "Improvisational tradition from Northern Portugal where two vocalists address and respond to each other, usually in a joking manner.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Fado",
+      "url": "https://rateyourmusic.com/genre/fado/",
+      "description": "Tradition from Portugal originating in the first half of the 19th century, mainly consisting of melancholic songs accompanied by Portuguese guitars or classical guitars.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Fado",
+      "url": "https://rateyourmusic.com/genre/fado/",
+      "description": "Tradition from Portugal originating in the first half of the 19th century, mainly consisting of melancholic songs accompanied by Portuguese guitars or classical guitars.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Fado",
+      "url": "https://rateyourmusic.com/genre/fado/",
+      "description": "Tradition from Portugal originating in the first half of the 19th century, mainly consisting of melancholic songs accompanied by Portuguese guitars or classical guitars.",
+      "level": "sub-5",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Fado",
+      "url": "https://rateyourmusic.com/genre/fado/",
+      "description": "Tradition from Portugal originating in the first half of the 19th century, mainly consisting of melancholic songs accompanied by Portuguese guitars or classical guitars.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Trás-os-Montes Folk Music",
+      "url": "https://rateyourmusic.com/genre/tras-os-montes-folk-music/",
+      "description": "Traditional music of the Portuguese province of Trás-os-Montes.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Trás-os-Montes Folk Music",
+      "url": "https://rateyourmusic.com/genre/tras-os-montes-folk-music/",
+      "description": "Traditional music of the Portuguese province of Trás-os-Montes.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Trás-os-Montes Folk Music",
+      "url": "https://rateyourmusic.com/genre/tras-os-montes-folk-music/",
+      "description": "Traditional music of the Portuguese province of Trás-os-Montes.",
+      "level": "sub-5",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Trás-os-Montes Folk Music",
+      "url": "https://rateyourmusic.com/genre/tras-os-montes-folk-music/",
+      "description": "Traditional music of the Portuguese province of Trás-os-Montes.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Vira",
+      "url": "https://rateyourmusic.com/genre/vira/",
+      "description": "Musical-choreographic genre performed in Portuguese folklore, characteristic of the Minho region.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Vira",
+      "url": "https://rateyourmusic.com/genre/vira/",
+      "description": "Musical-choreographic genre performed in Portuguese folklore, characteristic of the Minho region.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Vira",
+      "url": "https://rateyourmusic.com/genre/vira/",
+      "description": "Musical-choreographic genre performed in Portuguese folklore, characteristic of the Minho region.",
+      "level": "sub-5",
+      "parent": "Portuguese Folk Music"
+    },
+    {
+      "name": "Vira",
+      "url": "https://rateyourmusic.com/genre/vira/",
+      "description": "Musical-choreographic genre performed in Portuguese folklore, characteristic of the Minho region.",
+      "level": "sub-4",
+      "parent": "Portuguese Folk Music"
+    }
+  ]
+}

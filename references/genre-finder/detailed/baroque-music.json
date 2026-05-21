@@ -1,0 +1,66 @@
+{
+  "name": "Baroque Music",
+  "description": "Constant rhythmic flow, or a steady motion throughout, generally focusing on a single melodic idea and including some form of counterpoint.",
+  "url": "https://rateyourmusic.com/genre/baroque-music/",
+  "parent": "Western Classical Music",
+  "level": "sub-2",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Ballet de cour",
+      "url": "https://rateyourmusic.com/genre/ballet-de-cour/",
+      "description": "Earliest form developed by the French royal court and characterized by its artistic diversity, regimented structure, grand spectacle, and overt political elements.",
+      "level": "sub-3",
+      "parent": "Baroque Music"
+    },
+    {
+      "name": "Ballet de cour",
+      "url": "https://rateyourmusic.com/genre/ballet-de-cour/",
+      "description": "Earliest form developed by the French royal court and characterized by its artistic diversity, regimented structure, grand spectacle, and overt political elements.",
+      "level": "sub-3",
+      "parent": "Baroque Music"
+    },
+    {
+      "name": "Comédie-ballet",
+      "url": "https://rateyourmusic.com/genre/comedie-ballet/",
+      "description": "French form of musical drama from the 17th century that combines operatic singing, classical dance, and theater.",
+      "level": "sub-3",
+      "parent": "Baroque Music"
+    },
+    {
+      "name": "Comédie-ballet",
+      "url": "https://rateyourmusic.com/genre/comedie-ballet/",
+      "description": "French form of musical drama from the 17th century that combines operatic singing, classical dance, and theater.",
+      "level": "sub-3",
+      "parent": "Baroque Music"
+    },
+    {
+      "name": "Opéra-ballet",
+      "url": "https://rateyourmusic.com/genre/opera-ballet/",
+      "description": "Principally French style of musical drama that combines operatic singing with classical dance, usually with small Orchestral Music accompaniment.",
+      "level": "sub-3",
+      "parent": "Baroque Music"
+    },
+    {
+      "name": "Opéra-ballet",
+      "url": "https://rateyourmusic.com/genre/opera-ballet/",
+      "description": "Principally French style of musical drama that combines operatic singing with classical dance, usually with small Orchestral Music accompaniment.",
+      "level": "sub-3",
+      "parent": "Baroque Music"
+    },
+    {
+      "name": "Zarzuela barroca",
+      "url": "https://rateyourmusic.com/genre/zarzuela-barroca/",
+      "description": "Earliest form that draws from a broad range of artistic sources, including theater, operatic singing, instrumental music, dance, popular music, poetry, and comedy.",
+      "level": "sub-3",
+      "parent": "Baroque Music"
+    },
+    {
+      "name": "Zarzuela barroca",
+      "url": "https://rateyourmusic.com/genre/zarzuela-barroca/",
+      "description": "Earliest form that draws from a broad range of artistic sources, including theater, operatic singing, instrumental music, dance, popular music, poetry, and comedy.",
+      "level": "sub-3",
+      "parent": "Baroque Music"
+    }
+  ]
+}

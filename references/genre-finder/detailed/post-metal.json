@@ -1,0 +1,52 @@
+{
+  "name": "Post-Metal",
+  "description": "Atmospheric and dense metallic riffs, unconventional songwriting, sonic experimentation, and adoption of eclectic influences.",
+  "url": "https://rateyourmusic.com/genre/post-metal/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Atmospheric Sludge Metal",
+      "url": "https://rateyourmusic.com/genre/atmospheric-sludge-metal/",
+      "description": "Combines slow, churning guitar riffs and thunderous percussion with dark, extensive otherworldly sonic landscapes.",
+      "level": "sub-2",
+      "parent": "Post-Metal"
+    },
+    {
+      "name": "Atmospheric Sludge Metal",
+      "url": "https://rateyourmusic.com/genre/atmospheric-sludge-metal/",
+      "description": "Combines slow, churning guitar riffs and thunderous percussion with dark, extensive otherworldly sonic landscapes.",
+      "level": "sub-3",
+      "parent": "Post-Metal"
+    },
+    {
+      "name": "Blackgaze",
+      "url": "https://rateyourmusic.com/genre/blackgaze/",
+      "description": "Fuses tremolo-picked riffing, intense drumming and harsh vocal techniques with mellow, dreamy textures, major-key melodies and extended build-ups.",
+      "level": "sub-2",
+      "parent": "Post-Metal"
+    },
+    {
+      "name": "Blackgaze",
+      "url": "https://rateyourmusic.com/genre/blackgaze/",
+      "description": "Fuses tremolo-picked riffing, intense drumming and harsh vocal techniques with mellow, dreamy textures, major-key melodies and extended build-ups.",
+      "level": "sub-3",
+      "parent": "Post-Metal"
+    },
+    {
+      "name": "Doomgaze",
+      "url": "https://rateyourmusic.com/genre/doomgaze/",
+      "description": "Gloomy and sombre atmosphere, amplified by the slow tempo and melancholy of Doom Metal, combined with the effects, washes of sound, and vocals found within Shoegaze.",
+      "level": "sub-2",
+      "parent": "Post-Metal"
+    },
+    {
+      "name": "Doomgaze",
+      "url": "https://rateyourmusic.com/genre/doomgaze/",
+      "description": "Gloomy and sombre atmosphere, amplified by the slow tempo and melancholy of Doom Metal, combined with the effects, washes of sound, and vocals found within Shoegaze.",
+      "level": "sub-3",
+      "parent": "Post-Metal"
+    }
+  ]
+}

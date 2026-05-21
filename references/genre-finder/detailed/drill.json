@@ -1,0 +1,52 @@
+{
+  "name": "Drill",
+  "description": "Originated in Chicago in the early 2010s; broadly characterized by complex, energetic rhythms coupled with gang-oriented, street-conscious, and violent lyrics.",
+  "url": "https://rateyourmusic.com/genre/drill/",
+  "parent": "Hip Hop",
+  "level": "sub",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Chicago Drill",
+      "url": "https://rateyourmusic.com/genre/chicago-drill/",
+      "description": "Bass-heavy, dense, and typically syncopated percussion, featuring ticking hi-hats and gunshot-like snare rolls, usually accompanied by menacing synth melodies and violent Gangsta Rap lyricism.",
+      "level": "sub-2",
+      "parent": "Drill"
+    },
+    {
+      "name": "Free Car Music",
+      "url": "https://rateyourmusic.com/genre/free-car-music/",
+      "description": "Chaotic and metallic percussion with clanging rides, rapid hi hat rolls, and tense kick buildups typically coupled with staggered, punched-in rapping.",
+      "level": "sub-2",
+      "parent": "Drill"
+    },
+    {
+      "name": "Jersey Drill",
+      "url": "https://rateyourmusic.com/genre/jersey-drill/",
+      "description": "Mixes Drill and Jersey Club production, characterized by an energetic sound and distinct syncopated rhythms.",
+      "level": "sub-2",
+      "parent": "Drill"
+    },
+    {
+      "name": "New York Drill",
+      "url": "https://rateyourmusic.com/genre/new-york-drill/",
+      "description": "Emerged in the late 2010s, characterized by energetic, bouncy tresillo rhythms, creating a warmer, more booming tone than UK Drill, which prominently inspired it.",
+      "level": "sub-2",
+      "parent": "Drill"
+    },
+    {
+      "name": "Philly Drill",
+      "url": "https://rateyourmusic.com/genre/philly-drill/",
+      "description": "Apocalyptic and haunting choirs, keys, and strings with gruesome narratives and slow, sparse drums.",
+      "level": "sub-2",
+      "parent": "Drill"
+    },
+    {
+      "name": "UK Drill",
+      "url": "https://rateyourmusic.com/genre/uk-drill/",
+      "description": "Deep bass and complex rhythm which denotes a Grime influence in the production.",
+      "level": "sub-2",
+      "parent": "Drill"
+    }
+  ]
+}

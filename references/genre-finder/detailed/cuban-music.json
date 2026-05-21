@@ -1,0 +1,332 @@
+{
+  "name": "Cuban Music",
+  "description": "Encompasses the wide variety of traditions from the island of Cuba.",
+  "url": "https://rateyourmusic.com/genre/cuban-music/",
+  "parent": "Caribbean Music",
+  "level": "sub-2",
+  "children_count": 46,
+  "children": [
+    {
+      "name": "Abakuá Music",
+      "url": "https://rateyourmusic.com/genre/abakua-music/",
+      "description": "Ritual music associated with the Abakuá religious fraternity of Cuba, descending from the Ékpè tradition of West Africa.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Abakuá Music",
+      "url": "https://rateyourmusic.com/genre/abakua-music/",
+      "description": "Ritual music associated with the Abakuá religious fraternity of Cuba, descending from the Ékpè tradition of West Africa.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Chachachá",
+      "url": "https://rateyourmusic.com/genre/chachacha/",
+      "description": "Ballroom dance music derived from Danzón.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Chachachá",
+      "url": "https://rateyourmusic.com/genre/chachacha/",
+      "description": "Ballroom dance music derived from Danzón.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Changüí",
+      "url": "https://rateyourmusic.com/genre/changui/",
+      "description": "One of the oldest popular Cuban styles, originating in the 19th century with slaves that worked in sugar refineries near Baracoa who combined elements of Spanish popular songs with Bantu traditions.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Changüí",
+      "url": "https://rateyourmusic.com/genre/changui/",
+      "description": "One of the oldest popular Cuban styles, originating in the 19th century with slaves that worked in sugar refineries near Baracoa who combined elements of Spanish popular songs with Bantu traditions.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Conga",
+      "url": "https://rateyourmusic.com/genre/conga/",
+      "description": "Evolved alongside Rumba cubana in the late 19th century, featuring large and heterogenous percussion sections performing simple and syncopated rhythms alongside a small wind section.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Conga",
+      "url": "https://rateyourmusic.com/genre/conga/",
+      "description": "Evolved alongside Rumba cubana in the late 19th century, featuring large and heterogenous percussion sections performing simple and syncopated rhythms alongside a small wind section.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Cuban Charanga",
+      "url": "https://rateyourmusic.com/genre/cuban-charanga/",
+      "description": "Played by traditional Cuban ensembles, influenced by Son cubano but performed on European instruments such as piano, bass, violins, and flutes.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Cuban Charanga",
+      "url": "https://rateyourmusic.com/genre/cuban-charanga/",
+      "description": "Played by traditional Cuban ensembles, influenced by Son cubano but performed on European instruments such as piano, bass, violins, and flutes.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Cubaton",
+      "url": "https://rateyourmusic.com/genre/cubaton/",
+      "description": "Rhythmically and vocally inspired by major elements of Cuban Music.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Cubaton",
+      "url": "https://rateyourmusic.com/genre/cubaton/",
+      "description": "Rhythmically and vocally inspired by major elements of Cuban Music.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Danzón",
+      "url": "https://rateyourmusic.com/genre/danzon/",
+      "description": "Development on Habanera in 2/4 time, featuring African influence through complex cross-rhythms, that would become the most popular style of dance music in Cuba during the late 19th century and early 20th century.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Danzón",
+      "url": "https://rateyourmusic.com/genre/danzon/",
+      "description": "Development on Habanera in 2/4 time, featuring African influence through complex cross-rhythms, that would become the most popular style of dance music in Cuba during the late 19th century and early 20th century.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Descarga",
+      "url": "https://rateyourmusic.com/genre/descarga/",
+      "description": "Cuban genre consisting of improvised jam sessions incorporating elements of Jazz and Afro-Cuban music.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Descarga",
+      "url": "https://rateyourmusic.com/genre/descarga/",
+      "description": "Cuban genre consisting of improvised jam sessions incorporating elements of Jazz and Afro-Cuban music.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Filin",
+      "url": "https://rateyourmusic.com/genre/filin/",
+      "description": "Emotional style that appeared in La Habana during the late 1940s, deeply influenced by the melodic and expressive style of Vocal Jazz.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Filin",
+      "url": "https://rateyourmusic.com/genre/filin/",
+      "description": "Emotional style that appeared in La Habana during the late 1940s, deeply influenced by the melodic and expressive style of Vocal Jazz.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Guajira",
+      "url": "https://rateyourmusic.com/genre/guajira/",
+      "description": "Originally developed in Cuba between the 18th and 19th Century as a narrative style influenced by Tonada chilena.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Guajira",
+      "url": "https://rateyourmusic.com/genre/guajira/",
+      "description": "Originally developed in Cuba between the 18th and 19th Century as a narrative style influenced by Tonada chilena.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Guaracha",
+      "url": "https://rateyourmusic.com/genre/guaracha/",
+      "description": "Humorous song with short notes and a fast tempo that commonly alternates a short fourth line verse with a repeated fourth line chorus.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Guaracha",
+      "url": "https://rateyourmusic.com/genre/guaracha/",
+      "description": "Humorous song with short notes and a fast tempo that commonly alternates a short fourth line verse with a repeated fourth line chorus.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Habanera",
+      "url": "https://rateyourmusic.com/genre/habanera/",
+      "description": "Based around the Habanera rhythm, where the most typical instruments used are guitars, lutes, and bandurrias.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Habanera",
+      "url": "https://rateyourmusic.com/genre/habanera/",
+      "description": "Based around the Habanera rhythm, where the most typical instruments used are guitars, lutes, and bandurrias.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Mambo",
+      "url": "https://rateyourmusic.com/genre/mambo/",
+      "description": "Dance-oriented evolution from Danzón during the late 1930s.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Mambo",
+      "url": "https://rateyourmusic.com/genre/mambo/",
+      "description": "Dance-oriented evolution from Danzón during the late 1930s.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Mozambique",
+      "url": "https://rateyourmusic.com/genre/mozambique/",
+      "description": "Cuban genre featuring energetic, African-influenced percussion.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Mozambique",
+      "url": "https://rateyourmusic.com/genre/mozambique/",
+      "description": "Cuban genre featuring energetic, African-influenced percussion.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Pachanga",
+      "url": "https://rateyourmusic.com/genre/pachanga/",
+      "description": "Combination of Merengue, Conga, Rumba cubana, and Cumbia; fast, festive, and playful.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Pachanga",
+      "url": "https://rateyourmusic.com/genre/pachanga/",
+      "description": "Combination of Merengue, Conga, Rumba cubana, and Cumbia; fast, festive, and playful.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Pilón",
+      "url": "https://rateyourmusic.com/genre/pilon/",
+      "description": "Featuring rhythms described as mimicking those created while pounding sugarcane with African baton-like tools.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Pilón",
+      "url": "https://rateyourmusic.com/genre/pilon/",
+      "description": "Featuring rhythms described as mimicking those created while pounding sugarcane with African baton-like tools.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Rumba cubana",
+      "url": "https://rateyourmusic.com/genre/rumba-cubana/",
+      "description": "Folkloric manifestation of Afro-Cuban music that encompasses dance, voice, and drums.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Rumba cubana",
+      "url": "https://rateyourmusic.com/genre/rumba-cubana/",
+      "description": "Folkloric manifestation of Afro-Cuban music that encompasses dance, voice, and drums.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Santería Music",
+      "url": "https://rateyourmusic.com/genre/santeria-music/",
+      "description": "Afro-Cuban genre played in religious rituals, combining traditions from both the Cuban and the Yorùbá people.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Santería Music",
+      "url": "https://rateyourmusic.com/genre/santeria-music/",
+      "description": "Afro-Cuban genre played in religious rituals, combining traditions from both the Cuban and the Yorùbá people.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Son cubano",
+      "url": "https://rateyourmusic.com/genre/son-cubano/",
+      "description": "Cuban style popular from the 1920s to the 1950s that combines the structure of Spanish song-oriented styles with African rhythms and percussion.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Son cubano",
+      "url": "https://rateyourmusic.com/genre/son-cubano/",
+      "description": "Cuban style popular from the 1920s to the 1950s that combines the structure of Spanish song-oriented styles with African rhythms and percussion.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Songo",
+      "url": "https://rateyourmusic.com/genre/songo/",
+      "description": "Cuban style originating in the late 1960s, combining elements from Rumba cubana and Son cubano with Jazz and Funk.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Songo",
+      "url": "https://rateyourmusic.com/genre/songo/",
+      "description": "Cuban style originating in the late 1960s, combining elements from Rumba cubana and Son cubano with Jazz and Funk.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Timba",
+      "url": "https://rateyourmusic.com/genre/timba/",
+      "description": "Combines Salsa with other genres such as Hip Hop, Disco, Funk, Jazz and Rock.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Timba",
+      "url": "https://rateyourmusic.com/genre/timba/",
+      "description": "Combines Salsa with other genres such as Hip Hop, Disco, Funk, Jazz and Rock.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Trova",
+      "url": "https://rateyourmusic.com/genre/trova/",
+      "description": "One of the most ancient expressions of Cuban Music, based around lone Singer-Songwriters who use nothing but a guitar as their preferred accompaniment and place emphasis on lyrics.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Trova",
+      "url": "https://rateyourmusic.com/genre/trova/",
+      "description": "One of the most ancient expressions of Cuban Music, based around lone Singer-Songwriters who use nothing but a guitar as their preferred accompaniment and place emphasis on lyrics.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Tumba francesa",
+      "url": "https://rateyourmusic.com/genre/tumba-francesa/",
+      "description": "Combination of traditional music from Benin with French ballroom dancing that originates in the Oriente province (formerly Santiago de Cuba Province) in Cuba.",
+      "level": "sub-3",
+      "parent": "Cuban Music"
+    },
+    {
+      "name": "Tumba francesa",
+      "url": "https://rateyourmusic.com/genre/tumba-francesa/",
+      "description": "Combination of traditional music from Benin with French ballroom dancing that originates in the Oriente province (formerly Santiago de Cuba Province) in Cuba.",
+      "level": "sub-4",
+      "parent": "Cuban Music"
+    }
+  ]
+}

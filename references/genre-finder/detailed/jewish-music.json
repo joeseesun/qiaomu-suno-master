@@ -1,0 +1,66 @@
+{
+  "name": "Jewish Music",
+  "description": "Different Jewish forms coming from different regions of the world, influenced by local cultures.",
+  "url": "https://rateyourmusic.com/genre/jewish-music/",
+  "parent": "Regional Music",
+  "level": "sub",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Ashkenazi Music",
+      "url": "https://rateyourmusic.com/genre/ashkenazi-music/",
+      "description": "Encompasses the various traditions and genres of the Ashkenazi Jews, an ethnoreligious group that was prominent and influential in Europe throughout most of the Middle Ages and the modern period.",
+      "level": "sub-2",
+      "parent": "Jewish Music"
+    },
+    {
+      "name": "Hasidic Music",
+      "url": "https://rateyourmusic.com/genre/hasidic-music/",
+      "description": "Covers the music of Hasidic Jews, primarily characterized by spiritual, intense, and devotional, singing and melodies.",
+      "level": "sub-2",
+      "parent": "Jewish Music"
+    },
+    {
+      "name": "Jewish Liturgical Music",
+      "url": "https://rateyourmusic.com/genre/jewish-liturgical-music/",
+      "description": "Employed for different purposes in the practices of Jewish religion, such as the Kriyat haTorah of biblical verses during synagogue services.",
+      "level": "sub-2",
+      "parent": "Jewish Music"
+    },
+    {
+      "name": "Muzika mizrahit",
+      "url": "https://rateyourmusic.com/genre/muzika-mizrahit/",
+      "description": "Middle Eastern-flavored Israeli popular music, usually performed by Mizrahi Jews, and combining aspects of the music of the North African, Middle Eastern, and Central Asian countries from which they descended.",
+      "level": "sub-2",
+      "parent": "Jewish Music"
+    },
+    {
+      "name": "Muzika yehudit mekorit",
+      "url": "https://rateyourmusic.com/genre/muzika-yehudit-mekorit/",
+      "description": "Rooted in traditional Jewish Music, especially Hasidic Music; incorporates modern influences, typically written on subjects of devotion and religion.",
+      "level": "sub-2",
+      "parent": "Jewish Music"
+    },
+    {
+      "name": "Oriental Jewish Music",
+      "url": "https://rateyourmusic.com/genre/oriental-jewish-music/",
+      "description": "Comprises the many traditions and styles of the various groups of Jews from the cultural East, loosely covering the Jewish groups of the Middle East, North Africa, and Central Asia.",
+      "level": "sub-2",
+      "parent": "Jewish Music"
+    },
+    {
+      "name": "Orthodox Pop",
+      "url": "https://rateyourmusic.com/genre/orthodox-pop/",
+      "description": "Combines Orthodox Jewish themes and prayer with Pop songwriting, usually sung in Hebrew.",
+      "level": "sub-2",
+      "parent": "Jewish Music"
+    },
+    {
+      "name": "Sephardic Music",
+      "url": "https://rateyourmusic.com/genre/sephardic-music/",
+      "description": "Encompasses the various musical traditions of Sephardi Jews.",
+      "level": "sub-2",
+      "parent": "Jewish Music"
+    }
+  ]
+}

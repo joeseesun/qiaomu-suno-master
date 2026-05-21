@@ -1,0 +1,17 @@
+{
+  "name": "English Underground",
+  "description": "Countercultural scene in the United Kingdom, centred around London clubs like UFO and Middle Earth, which peaked in 1966 and 1967.",
+  "url": "https://rateyourmusic.com/genre/english-underground/",
+  "parent": "Scenes & Movements",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Ladbroke Grove Scene",
+      "url": "https://rateyourmusic.com/genre/ladbroke-grove-scene/",
+      "description": "English Underground scene which blossomed in Ladbroke Grove, London, soon after the closure of the popular West End psychedelic club Middle Earth in 1968; faded by the mid-'70s, especially following the rise of Pub Rock and Punk.",
+      "level": "sub-2",
+      "parent": "English Underground"
+    }
+  ]
+}

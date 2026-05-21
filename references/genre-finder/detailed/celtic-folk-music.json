@@ -1,0 +1,157 @@
+{
+  "name": "Celtic Folk Music",
+  "description": "Derived from Celtic traditions of Ireland, Scotland, Wales, Cornwall, the Isle of Man, Brittany, Galicia, Cantabria, Asturias, and Trás-os-Montes (Portugal).",
+  "url": "https://rateyourmusic.com/genre/celtic-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 21,
+  "children": [
+    {
+      "name": "Breton Celtic Folk Music",
+      "url": "https://rateyourmusic.com/genre/breton-celtic-folk-music/",
+      "description": "Movement in the Brittany region of France which translated Celtic Folk Music from Ireland and Scotland into the Celtic Breton language.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Breton Celtic Folk Music",
+      "url": "https://rateyourmusic.com/genre/breton-celtic-folk-music/",
+      "description": "Movement in the Brittany region of France which translated Celtic Folk Music from Ireland and Scotland into the Celtic Breton language.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Breton Celtic Folk Music",
+      "url": "https://rateyourmusic.com/genre/breton-celtic-folk-music/",
+      "description": "Movement in the Brittany region of France which translated Celtic Folk Music from Ireland and Scotland into the Celtic Breton language.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Cape Breton Folk Music",
+      "url": "https://rateyourmusic.com/genre/cape-breton-folk-music/",
+      "description": "Celtic Folk Music that emerged in Cape Breton, an island at the eastern shore of Nova Scotia, through immigrants from Scotland and Ireland.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Cape Breton Folk Music",
+      "url": "https://rateyourmusic.com/genre/cape-breton-folk-music/",
+      "description": "Celtic Folk Music that emerged in Cape Breton, an island at the eastern shore of Nova Scotia, through immigrants from Scotland and Ireland.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Cape Breton Folk Music",
+      "url": "https://rateyourmusic.com/genre/cape-breton-folk-music/",
+      "description": "Celtic Folk Music that emerged in Cape Breton, an island at the eastern shore of Nova Scotia, through immigrants from Scotland and Ireland.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Cornish Folk Music",
+      "url": "https://rateyourmusic.com/genre/cornish-folk-music/",
+      "description": "Musical traditions developed by the Cornish people, mainly found in the county of Cornwall in South West England.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Cornish Folk Music",
+      "url": "https://rateyourmusic.com/genre/cornish-folk-music/",
+      "description": "Musical traditions developed by the Cornish people, mainly found in the county of Cornwall in South West England.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Cornish Folk Music",
+      "url": "https://rateyourmusic.com/genre/cornish-folk-music/",
+      "description": "Musical traditions developed by the Cornish people, mainly found in the county of Cornwall in South West England.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Irish Folk Music",
+      "url": "https://rateyourmusic.com/genre/irish-folk-music/",
+      "description": "Traditional Folk Music of Ireland.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Irish Folk Music",
+      "url": "https://rateyourmusic.com/genre/irish-folk-music/",
+      "description": "Traditional Folk Music of Ireland.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Irish Folk Music",
+      "url": "https://rateyourmusic.com/genre/irish-folk-music/",
+      "description": "Traditional Folk Music of Ireland.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Manx Folk Music",
+      "url": "https://rateyourmusic.com/genre/manx-folk-music/",
+      "description": "Folk of the Isle of Man.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Manx Folk Music",
+      "url": "https://rateyourmusic.com/genre/manx-folk-music/",
+      "description": "Folk of the Isle of Man.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Manx Folk Music",
+      "url": "https://rateyourmusic.com/genre/manx-folk-music/",
+      "description": "Folk of the Isle of Man.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Scottish Folk Music",
+      "url": "https://rateyourmusic.com/genre/scottish-folk-music/",
+      "description": "Traditional Folk Music of the Scottish people.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Scottish Folk Music",
+      "url": "https://rateyourmusic.com/genre/scottish-folk-music/",
+      "description": "Traditional Folk Music of the Scottish people.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Scottish Folk Music",
+      "url": "https://rateyourmusic.com/genre/scottish-folk-music/",
+      "description": "Traditional Folk Music of the Scottish people.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Welsh Folk Music",
+      "url": "https://rateyourmusic.com/genre/welsh-folk-music/",
+      "description": "Traditions of the Welsh people.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Welsh Folk Music",
+      "url": "https://rateyourmusic.com/genre/welsh-folk-music/",
+      "description": "Traditions of the Welsh people.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    },
+    {
+      "name": "Welsh Folk Music",
+      "url": "https://rateyourmusic.com/genre/welsh-folk-music/",
+      "description": "Traditions of the Welsh people.",
+      "level": "sub-4",
+      "parent": "Celtic Folk Music"
+    }
+  ]
+}

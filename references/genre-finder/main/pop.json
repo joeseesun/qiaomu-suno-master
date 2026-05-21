@@ -1,0 +1,540 @@
+{
+  "name": "Pop",
+  "description": "Umbrella of popular styles closely tied to mass production and mass marketing, focusing on catchiness and accessibility through melody, rhythm, lyrics, and hooks.",
+  "url": "https://rateyourmusic.com/genre/pop/",
+  "sub_genres_count": 76,
+  "sub_genres": [
+    {
+      "name": "Adult Contemporary",
+      "url": "https://rateyourmusic.com/genre/adult-contemporary/",
+      "description": "Slow to midtempo with a light and soothing tone, emerged as a successful radio format in the late 1970s and early 1980s.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Afrobeats",
+      "url": "https://rateyourmusic.com/genre/afrobeats/",
+      "description": "Originated in West Africa during the early 2010s and includes elements from Pop Rap, Contemporary R&B, and Dancehall.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Alt-Pop",
+      "url": "https://rateyourmusic.com/genre/alt-pop/",
+      "description": "Emerged in the late 2000s and early 2010s, combines chart Pop conventions with alternative/indie genre sensibilities sometimes on a more minimal and contemplative atmosphere, often extracted from Alternative R&B.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Arabic Pop",
+      "url": "https://rateyourmusic.com/genre/arabic-pop/",
+      "description": "Synthesis of Arabic Music with Western Pop melodies, almost always sung in Arabic and typically performed with Arabic instruments, alongside some Western instruments like the guitar.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Art Pop",
+      "url": "https://rateyourmusic.com/genre/art-pop/",
+      "description": "Inventive, idiosyncratic, or artistically ambitious, often experimenting with unconventional musical elements and conceptual approaches while retaining accessibility.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Balkan Pop-Folk",
+      "url": "https://rateyourmusic.com/genre/balkan-pop-folk/",
+      "description": "Balkan popular music which blends Pop, Folk, and ethnic music.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Baroque Pop",
+      "url": "https://rateyourmusic.com/genre/baroque-pop/",
+      "description": "Incorporates elements of Western Classical Music, commonly featuring harpsichord or strings as well as the rhythmic flow and counterpoint of Baroque Music.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Bitpop",
+      "url": "https://rateyourmusic.com/genre/bitpop/",
+      "description": "Fuses Bit Music with additional synths, beats, guitars and modern production values, emphasizing highly catchy melodies and relatively fast tempos.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Blue-Eyed Soul",
+      "url": "https://rateyourmusic.com/genre/blue-eyed-soul/",
+      "description": "Usually refers to a Pop or Pop Rock song that contains strong Gospel-like elements, primarily popularized by white American and British singers in the 1960s through the 1980s.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Boy Band",
+      "url": "https://rateyourmusic.com/genre/boy-band/",
+      "description": "Male vocal groups often put together by talent managers or record producers.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Brega calypso",
+      "url": "https://rateyourmusic.com/genre/brega-calypso/",
+      "description": "Romantic vocals and lyrics, bubbly and sensual melodies and rhythms, horn sections and lush Caribbean-like guitar riffs over fast tempos.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Brill Building",
+      "url": "https://rateyourmusic.com/genre/brill-building/",
+      "description": "Elaborate, polished, and typically melodramatic composition and arrangement associated with the songwriting teams at the Brill office building during the late 1950s and early 1960s.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Bubblegum",
+      "url": "https://rateyourmusic.com/genre/bubblegum/",
+      "description": "Upbeat, catchy, simple, and targeted at children and young teens; especially popular in the 1960s and 1970s.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Cambodian Pop",
+      "url": "https://rateyourmusic.com/genre/cambodian-pop/",
+      "description": "Popular music produced in Cambodia or by Khmer people.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Canción melódica",
+      "url": "https://rateyourmusic.com/genre/cancion-melodica/",
+      "description": "Sentimental vocal music sung in Spanish with a focus on the chorus, originally developed in the first half of the 20th century from a variety of traditional Hispanic genres.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "City Pop",
+      "url": "https://rateyourmusic.com/genre/city-pop/",
+      "description": "Wave of Japanese Pop intended to reflect urban life during the period of the country's booming economy in the 1970s and 1980s, featuring a contemporary Western sound and lush arrangements.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Classical Crossover",
+      "url": "https://rateyourmusic.com/genre/classical-crossover/",
+      "description": "Takes specific Western Classical Music conventions and applies them into a straightfoward Pop context for mainstream appeal.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Country Pop",
+      "url": "https://rateyourmusic.com/genre/country-pop/",
+      "description": "Combination of Country with Pop to appeal to a larger audience.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Dance-Pop",
+      "url": "https://rateyourmusic.com/genre/dance-pop/",
+      "description": "Simple, yet catchy melodies and throbbing beats inspired initially by Disco and later various House styles.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Dangdut",
+      "url": "https://rateyourmusic.com/genre/dangdut/",
+      "description": "Indonesian popular music distinguished by a rhythmic blend of Indian, Arabic, Western, Malay, Sundanese, and Javanese influences within Indonesian Music, characterized by a unique rhythmic pattern from kendang.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Dansbandsmusik",
+      "url": "https://rateyourmusic.com/genre/dansbandsmusik/",
+      "description": "Nordic Pop style originating from 1960s Pop Rock, incorporating Swing, Schlager, Nordic Old Time Dance Music and Country influences.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Dansktop",
+      "url": "https://rateyourmusic.com/genre/dansktop/",
+      "description": "Danish equivalent to Dansbandsmusik with Schlager and Country influences and Contemporary Folk and Pop elements.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Electro Hop",
+      "url": "https://rateyourmusic.com/genre/electro-hop/",
+      "description": "Emerged in the mid 2000s featuring upbeat rap verses and catchy hooks over four-on-the-floor Electropop and  Electro House-inspired production.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Electropop",
+      "url": "https://rateyourmusic.com/genre/electropop/",
+      "description": "Dense, layered, and compressed production, usually coupled with a distinct fuzzy and \"warm\" low-frequency synthesizer style.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Europop",
+      "url": "https://rateyourmusic.com/genre/europop/",
+      "description": "Emerged throughout mainland Europe in the early 1970s, referring to slick, highly commercial Pop songs that emphasize sugary melodies and light, bouncy instrumentation.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Flamenco Pop",
+      "url": "https://rateyourmusic.com/genre/flamenco-pop/",
+      "description": "Incorporates Flamenco sub-styles into a more commercial Pop form; particularly through the vocal style and rhythms.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Folk Pop",
+      "url": "https://rateyourmusic.com/genre/folk-pop/",
+      "description": "Blends Contemporary Folk with a Pop sensibility, most popular in the late 1960s and early 1970s and featuring influence from the contemporary Folk Rock style.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "French Pop",
+      "url": "https://rateyourmusic.com/genre/french-pop/",
+      "description": "Pop originating from France.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Girl Group",
+      "url": "https://rateyourmusic.com/genre/girl-group/",
+      "description": "Combines elements of Rhythm & Blues, Rock & Roll, and Traditional Pop; typically performed by trios or quartets of female vocalists.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Hmong Pop",
+      "url": "https://rateyourmusic.com/genre/hmong-pop/",
+      "description": "Popular music of the Hmong ethnicity, with roots in the Hmong Folk Music and influenced by Western and East Asian forms of Pop music.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Hyperpop",
+      "url": "https://rateyourmusic.com/genre/hyperpop/",
+      "description": "Developed and took inspiration from Bubblegum Bass and popular 2000s-2010s Electropop, characterized by eclectic, unconventional, mechanical-sounding and dense production; and by manipulated, usually auto-tuned vocals.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Indian Pop",
+      "url": "https://rateyourmusic.com/genre/indian-pop/",
+      "description": "Commonly based out of India, Pakistan and Bangladesh and almost always sung in Hindi, Urdu or Bengali, implements South Asian Music in context of American and European Pop and Rock music.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Indie Pop",
+      "url": "https://rateyourmusic.com/genre/indie-pop/",
+      "description": "Back-to-basics Rock approach combining a less mainstream and DIY ethos with melodic, lighthearted and straightforward songwriting.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Irish Showband",
+      "url": "https://rateyourmusic.com/genre/irish-showband/",
+      "description": "Phenomenon lasting from the mid-1950s until the early 1980s, often performed a mixture of currently popular music and skits.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Italo Pop",
+      "url": "https://rateyourmusic.com/genre/italo-pop/",
+      "description": "Romantic style developed in Italy in the late 1950s including various influences such as Chanson and Schlager.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "J-Pop",
+      "url": "https://rateyourmusic.com/genre/j-pop/",
+      "description": "Commercial Pop of Japan after the advent of the Heisei era (1989), characterized by modernized production, a more eclectic sound palette, and a more westernized vocal style.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Jazz Pop",
+      "url": "https://rateyourmusic.com/genre/jazz-pop/",
+      "description": "Pop that incorporates elements from Jazz.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "K-Pop",
+      "url": "https://rateyourmusic.com/genre/k-pop/",
+      "description": "Contemporary style from South Korea, based on multiple mainstream influences such as Contemporary R&B, Dance-Pop, and Hip Hop.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Kayōkyoku",
+      "url": "https://rateyourmusic.com/genre/kayokyoku/",
+      "description": "Japanese popular music prominent during the later period of the Shōwa era (early 1950s to late 1980s).",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Korean Ballad",
+      "url": "https://rateyourmusic.com/genre/korean-ballad/",
+      "description": "South Korean Pop from the 1980s to the early 90s taking influence from western Blues, Synthpop, Soul and Contemporary Folk.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Latin Pop",
+      "url": "https://rateyourmusic.com/genre/latin-pop/",
+      "description": "Incorporates elements and tropes from Hispanic and Latin American forms of music into a commercial Pop context.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Lokal musik",
+      "url": "https://rateyourmusic.com/genre/lokal-musik/",
+      "description": "Created by local, rural artists from Papua New Guinea that incorporate some elements of Papuan Folk Music into Pop.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Mulatós",
+      "url": "https://rateyourmusic.com/genre/mulatos/",
+      "description": "Upbeat, danceable Hungarian Pop that takes strong influence from Hungarian Folk Music and Romani Folk Music.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Nederpop",
+      "url": "https://rateyourmusic.com/genre/nederpop/",
+      "description": "Dutch language Pop which originally arose in the 1970s to describe the style of the 1950s and 1960s, but would also later be used for 1980s artists who incorporated elements of Ska and Reggae.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "New Music",
+      "url": "https://rateyourmusic.com/genre/new-music/",
+      "description": "Developed when Japanese Singer-Songwriters incorporated elements of Contemporary Folk and Pop Rock with Kayōkyoku songwriting.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "OPM",
+      "url": "https://rateyourmusic.com/genre/opm/",
+      "description": "Filipino ballads prominent in the 1970s to early 1980s, combining the sentimentality, lush arrangements and vocal techniques of Kundiman with the instrumentations and rhythms of Manila Sound and Soft Rock.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Orthodox Pop",
+      "url": "https://rateyourmusic.com/genre/orthodox-pop/",
+      "description": "Combines Orthodox Jewish themes and prayer with Pop songwriting, usually sung in Hebrew.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "P-Pop",
+      "url": "https://rateyourmusic.com/genre/p-pop/",
+      "description": "Commercialized style from the Philippines, which served as the successor of Manila Sound and OPM, featuring various contemporary Western influences and primarily sung in Tagalog and English.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Persian Pop",
+      "url": "https://rateyourmusic.com/genre/persian-pop/",
+      "description": "Hybrid of Iranian and Persian-language popular music with Western instruments such as the guitar, drum kit, and synthesizer.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Pop Batak",
+      "url": "https://rateyourmusic.com/genre/pop-batak/",
+      "description": "Combines Western genres of music and instrumentation with a typical Batak flair, like lyrics about Batak life and the use of some traditional Batak instruments.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Pop Ghazal",
+      "url": "https://rateyourmusic.com/genre/pop-ghazal/",
+      "description": "Employs traditional Ghazal's verse, meter, and poetic inclinations in a pop form.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Pop Minang",
+      "url": "https://rateyourmusic.com/genre/pop-minang/",
+      "description": "Combines Minangkabau traditions with Pop structures and instrumentation.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Pop Raï",
+      "url": "https://rateyourmusic.com/genre/pop-rai/",
+      "description": "Fuses melodic sensibilities into the traditional Raï structure, with increased utilization of synthesizers, guitars, and drum machines.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Pop Reggae",
+      "url": "https://rateyourmusic.com/genre/pop-reggae/",
+      "description": "Light, commercial form of Reggae designed to crossover and break through to a more mainstream Pop audience.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Pop Rock",
+      "url": "https://rateyourmusic.com/genre/pop-rock/",
+      "description": "Fuses conventional verse-chorus song structure and especially melodic songwriting with usage of guitars, drums, and propulsive rhythms.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Pop Soul",
+      "url": "https://rateyourmusic.com/genre/pop-soul/",
+      "description": "Fusion of Pop and Soul; originated in the 1960s as an attempt to give soul crossover success.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Pop Sunda",
+      "url": "https://rateyourmusic.com/genre/pop-sunda/",
+      "description": "Mixes Sundanese traditions with Pop structures and instrumentation.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Progressive Pop",
+      "url": "https://rateyourmusic.com/genre/progressive-pop/",
+      "description": "Milder counterpart to Progressive Rock, emerging in the late 1960s and introducing complex songwriting and arrangements into a Pop context.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Psychedelic Pop",
+      "url": "https://rateyourmusic.com/genre/psychedelic-pop/",
+      "description": "Combines unconventional instrumentation with studio effects to create a psychedelic atmosphere within melodic Pop music.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Rabiz",
+      "url": "https://rateyourmusic.com/genre/rabiz/",
+      "description": "Elements of Armenian folk in its instrumentation, oftentimes incorporating influences from Arabic and other West Asian forms on a background of synthesizer arrangements.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Rigsar",
+      "url": "https://rateyourmusic.com/genre/rigsar/",
+      "description": "Dominant form of popular music in Bhutan which broke traditions to move towards a more Western and Indian approach.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Rumba catalana",
+      "url": "https://rateyourmusic.com/genre/rumba-catalana/",
+      "description": "Cheerful Catalan genre that takes influences from Rumba cubana, Andalusian Rumba flamenca, and Pop.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Russian Chanson",
+      "url": "https://rateyourmusic.com/genre/russian-chanson/",
+      "description": "Divided into lyrical and criminal chanson, it is best described as narrative-driven popular music inspired by crime and prison.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Schlager",
+      "url": "https://rateyourmusic.com/genre/schlager/",
+      "description": "Light, sentimental, melodic pop music common mainly in northern and central Europe.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Sertanejo romântico",
+      "url": "https://rateyourmusic.com/genre/sertanejo-romantico/",
+      "description": "Electric instrumentation and romantic lyrics, made popular nationwide during the mid-to-late 1980s.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Sertanejo universitário",
+      "url": "https://rateyourmusic.com/genre/sertanejo-universitario/",
+      "description": "Modernized style combining rural themes and acoustic instrumentation with commercial production and Electronic instrumentation.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Sophisti-Pop",
+      "url": "https://rateyourmusic.com/genre/sophisti-pop/",
+      "description": "Incorporates influences from Jazz, classic R&B and Soul along with a slick, polished production style while retaining elements from its New Wave roots.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Soviet Estrada",
+      "url": "https://rateyourmusic.com/genre/soviet-estrada/",
+      "description": "Emerged in the USSR during the early 1930s, and encompassed the dominating popular music style composed by government-approved songwriters and the primary repertoire of professionally trained performers.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Sunshine Pop",
+      "url": "https://rateyourmusic.com/genre/sunshine-pop/",
+      "description": "Emerged in the mid-1960s, characterized by a cheerful or wistful sound, light, lush production, and prominent vocal harmonies.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Synthpop",
+      "url": "https://rateyourmusic.com/genre/synthpop/",
+      "description": "Led by melodic synthesizer sounds, often with reverberating drum machine patterns; commonly associated with the 1980s.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Teen Pop",
+      "url": "https://rateyourmusic.com/genre/teen-pop/",
+      "description": "Oriented to teen audiences and almost always sung by teens.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Toytown Pop",
+      "url": "https://rateyourmusic.com/genre/toytown-pop/",
+      "description": "Niche offshoot of British Psychedelic Pop most popular in the late 1960s and early 70s; typically featuring strong influence from Music Hall and Novelty, as well as the culture of Victorian and Edwardian Britain, and characterised by a whimsical, childlike atmosphere.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Traditional Pop",
+      "url": "https://rateyourmusic.com/genre/traditional-pop/",
+      "description": "Predominant form of Western commercial popular music in the pre-Rock & Roll era, particularly in the USA and starting with Tin Pan Alley; typically vocal-oriented with an orchestral arrangement.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Turkish Pop",
+      "url": "https://rateyourmusic.com/genre/turkish-pop/",
+      "description": "Started in the late 1950s, when Turkish artists started to write their own lyrics to Western popular tunes.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Vocal Trance",
+      "url": "https://rateyourmusic.com/genre/vocal-trance/",
+      "description": "Melodic, polished, Pop-like, and vocal-focused with around 120-145 BPM and frequent overlap with Progressive Trance, Uplifting Trance, and Euro Trance.",
+      "level": "sub",
+      "parent": "Pop"
+    },
+    {
+      "name": "Yé-yé",
+      "url": "https://rateyourmusic.com/genre/ye-ye/",
+      "description": "Upbeat, trendy Pop that emerged in Southern Europe in the early 1960s, focusing on image and risqué lyrics.",
+      "level": "sub",
+      "parent": "Pop"
+    }
+  ]
+}

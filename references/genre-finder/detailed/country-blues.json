@@ -1,0 +1,122 @@
+{
+  "name": "Country Blues",
+  "description": "Various styles of Blues originating in the rural US South, typically relying on expressive vocal delivery and featuring simple, usually acoustic instrumentation.",
+  "url": "https://rateyourmusic.com/genre/country-blues/",
+  "parent": "Blues",
+  "level": "sub",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Acoustic Texas Blues",
+      "url": "https://rateyourmusic.com/genre/acoustic-texas-blues/",
+      "description": "Laid-back swing rhythms and guitar ornamentation, including solos.",
+      "level": "sub-2",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Acoustic Texas Blues",
+      "url": "https://rateyourmusic.com/genre/acoustic-texas-blues/",
+      "description": "Laid-back swing rhythms and guitar ornamentation, including solos.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Acoustic Texas Blues",
+      "url": "https://rateyourmusic.com/genre/acoustic-texas-blues/",
+      "description": "Laid-back swing rhythms and guitar ornamentation, including solos.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Acoustic Texas Blues",
+      "url": "https://rateyourmusic.com/genre/acoustic-texas-blues/",
+      "description": "Laid-back swing rhythms and guitar ornamentation, including solos.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Delta Blues",
+      "url": "https://rateyourmusic.com/genre/delta-blues/",
+      "description": "One of the earliest forms of Blues, named for the Mississippi Delta region of the United States where it developed, with a highly rhythmic style and a typical 12-bar structure.",
+      "level": "sub-2",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Delta Blues",
+      "url": "https://rateyourmusic.com/genre/delta-blues/",
+      "description": "One of the earliest forms of Blues, named for the Mississippi Delta region of the United States where it developed, with a highly rhythmic style and a typical 12-bar structure.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Delta Blues",
+      "url": "https://rateyourmusic.com/genre/delta-blues/",
+      "description": "One of the earliest forms of Blues, named for the Mississippi Delta region of the United States where it developed, with a highly rhythmic style and a typical 12-bar structure.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Delta Blues",
+      "url": "https://rateyourmusic.com/genre/delta-blues/",
+      "description": "One of the earliest forms of Blues, named for the Mississippi Delta region of the United States where it developed, with a highly rhythmic style and a typical 12-bar structure.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Hill Country Blues",
+      "url": "https://rateyourmusic.com/genre/hill-country-blues/",
+      "description": "Emphasizes a steady hypnotic groove, sparse percussive and highly energetic guitar riffs, and often features meandering structures with unconventional and usually fewer chord changes compared to Delta Blues.",
+      "level": "sub-2",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Hill Country Blues",
+      "url": "https://rateyourmusic.com/genre/hill-country-blues/",
+      "description": "Emphasizes a steady hypnotic groove, sparse percussive and highly energetic guitar riffs, and often features meandering structures with unconventional and usually fewer chord changes compared to Delta Blues.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Hill Country Blues",
+      "url": "https://rateyourmusic.com/genre/hill-country-blues/",
+      "description": "Emphasizes a steady hypnotic groove, sparse percussive and highly energetic guitar riffs, and often features meandering structures with unconventional and usually fewer chord changes compared to Delta Blues.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Hill Country Blues",
+      "url": "https://rateyourmusic.com/genre/hill-country-blues/",
+      "description": "Emphasizes a steady hypnotic groove, sparse percussive and highly energetic guitar riffs, and often features meandering structures with unconventional and usually fewer chord changes compared to Delta Blues.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Piedmont Blues",
+      "url": "https://rateyourmusic.com/genre/piedmont-blues/",
+      "description": "Developed in the early 20th century in the southern Appalachian foothills and characterized by a syncopated but melodic Ragtime-based finger-picking acoustic guitar style.",
+      "level": "sub-2",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Piedmont Blues",
+      "url": "https://rateyourmusic.com/genre/piedmont-blues/",
+      "description": "Developed in the early 20th century in the southern Appalachian foothills and characterized by a syncopated but melodic Ragtime-based finger-picking acoustic guitar style.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Piedmont Blues",
+      "url": "https://rateyourmusic.com/genre/piedmont-blues/",
+      "description": "Developed in the early 20th century in the southern Appalachian foothills and characterized by a syncopated but melodic Ragtime-based finger-picking acoustic guitar style.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    },
+    {
+      "name": "Piedmont Blues",
+      "url": "https://rateyourmusic.com/genre/piedmont-blues/",
+      "description": "Developed in the early 20th century in the southern Appalachian foothills and characterized by a syncopated but melodic Ragtime-based finger-picking acoustic guitar style.",
+      "level": "sub-4",
+      "parent": "Country Blues"
+    }
+  ]
+}

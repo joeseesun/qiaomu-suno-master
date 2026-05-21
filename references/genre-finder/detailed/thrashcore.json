@@ -1,0 +1,38 @@
+{
+  "name": "Thrashcore",
+  "description": "Fast tempos, brief song structures, and the occasional use of blast beats.",
+  "url": "https://rateyourmusic.com/genre/thrashcore/",
+  "parent": "Hardcore Punk",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Powerviolence",
+      "url": "https://rateyourmusic.com/genre/powerviolence/",
+      "description": "Originated from the West Coast California Hardcore Punk scene in the late 1980s, utilizing strong elements of Noise Rock and abrupt tempo changes.",
+      "level": "sub-4",
+      "parent": "Thrashcore"
+    },
+    {
+      "name": "Powerviolence",
+      "url": "https://rateyourmusic.com/genre/powerviolence/",
+      "description": "Originated from the West Coast California Hardcore Punk scene in the late 1980s, utilizing strong elements of Noise Rock and abrupt tempo changes.",
+      "level": "sub-4",
+      "parent": "Thrashcore"
+    },
+    {
+      "name": "Powerviolence",
+      "url": "https://rateyourmusic.com/genre/powerviolence/",
+      "description": "Originated from the West Coast California Hardcore Punk scene in the late 1980s, utilizing strong elements of Noise Rock and abrupt tempo changes.",
+      "level": "sub-4",
+      "parent": "Thrashcore"
+    },
+    {
+      "name": "Powerviolence",
+      "url": "https://rateyourmusic.com/genre/powerviolence/",
+      "description": "Originated from the West Coast California Hardcore Punk scene in the late 1980s, utilizing strong elements of Noise Rock and abrupt tempo changes.",
+      "level": "sub-4",
+      "parent": "Thrashcore"
+    }
+  ]
+}

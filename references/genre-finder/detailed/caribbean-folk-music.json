@@ -1,0 +1,304 @@
+{
+  "name": "Caribbean Folk Music",
+  "description": "Meta-genre that covers the different forms of Traditional Folk Music from the Caribbean.",
+  "url": "https://rateyourmusic.com/genre/caribbean-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 42,
+  "children": [
+    {
+      "name": "Bele",
+      "url": "https://rateyourmusic.com/genre/bele/",
+      "description": "Drum-based folkdance with a strong Afro-influence, conducted by duos of dancers and accompanied by call-and-response singing, particularly popular in Martinique, Dominica and Trinidad and Tobago.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Bele",
+      "url": "https://rateyourmusic.com/genre/bele/",
+      "description": "Drum-based folkdance with a strong Afro-influence, conducted by duos of dancers and accompanied by call-and-response singing, particularly popular in Martinique, Dominica and Trinidad and Tobago.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Bele",
+      "url": "https://rateyourmusic.com/genre/bele/",
+      "description": "Drum-based folkdance with a strong Afro-influence, conducted by duos of dancers and accompanied by call-and-response singing, particularly popular in Martinique, Dominica and Trinidad and Tobago.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Benna",
+      "url": "https://rateyourmusic.com/genre/benna/",
+      "description": "Traditional music of Antigua & Barbuda, using call-and-response and bawdy lyrics.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Benna",
+      "url": "https://rateyourmusic.com/genre/benna/",
+      "description": "Traditional music of Antigua & Barbuda, using call-and-response and bawdy lyrics.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Benna",
+      "url": "https://rateyourmusic.com/genre/benna/",
+      "description": "Traditional music of Antigua & Barbuda, using call-and-response and bawdy lyrics.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Bomba",
+      "url": "https://rateyourmusic.com/genre/bomba/",
+      "description": "Percussive style from Puerto Rico, generally considered to be derived from West Africa.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Bomba",
+      "url": "https://rateyourmusic.com/genre/bomba/",
+      "description": "Percussive style from Puerto Rico, generally considered to be derived from West Africa.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Bomba",
+      "url": "https://rateyourmusic.com/genre/bomba/",
+      "description": "Percussive style from Puerto Rico, generally considered to be derived from West Africa.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Fungi",
+      "url": "https://rateyourmusic.com/genre/fungi/",
+      "description": "Traditional Folk Music native to the Virgin Islands, named after a local dish which features a \"mixed-up\" flavor that can be compared to the style that combines Western instruments with local ones.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Fungi",
+      "url": "https://rateyourmusic.com/genre/fungi/",
+      "description": "Traditional Folk Music native to the Virgin Islands, named after a local dish which features a \"mixed-up\" flavor that can be compared to the style that combines Western instruments with local ones.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Fungi",
+      "url": "https://rateyourmusic.com/genre/fungi/",
+      "description": "Traditional Folk Music native to the Virgin Islands, named after a local dish which features a \"mixed-up\" flavor that can be compared to the style that combines Western instruments with local ones.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Haitian Vodou Drumming",
+      "url": "https://rateyourmusic.com/genre/haitian-vodou-drumming/",
+      "description": "Form of rhythmic performance by Haitian Vodou practitioners, played at associated ceremonies.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Haitian Vodou Drumming",
+      "url": "https://rateyourmusic.com/genre/haitian-vodou-drumming/",
+      "description": "Form of rhythmic performance by Haitian Vodou practitioners, played at associated ceremonies.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Haitian Vodou Drumming",
+      "url": "https://rateyourmusic.com/genre/haitian-vodou-drumming/",
+      "description": "Form of rhythmic performance by Haitian Vodou practitioners, played at associated ceremonies.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Jibaro",
+      "url": "https://rateyourmusic.com/genre/jibaro/",
+      "description": "Traditions of the mountain-dwelling jibaro people that live primarily in Puerto Rico.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Jibaro",
+      "url": "https://rateyourmusic.com/genre/jibaro/",
+      "description": "Traditions of the mountain-dwelling jibaro people that live primarily in Puerto Rico.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Jibaro",
+      "url": "https://rateyourmusic.com/genre/jibaro/",
+      "description": "Traditions of the mountain-dwelling jibaro people that live primarily in Puerto Rico.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Kaiso",
+      "url": "https://rateyourmusic.com/genre/kaiso/",
+      "description": "Trinidadian folk considered to be the precursor of Calypso, led by \"griot\" storytellers who sing derogatory lyrics to the sound of drums and guitars in a call-and-response manner in order to rebel against slaveowners.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Kaiso",
+      "url": "https://rateyourmusic.com/genre/kaiso/",
+      "description": "Trinidadian folk considered to be the precursor of Calypso, led by \"griot\" storytellers who sing derogatory lyrics to the sound of drums and guitars in a call-and-response manner in order to rebel against slaveowners.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Kaiso",
+      "url": "https://rateyourmusic.com/genre/kaiso/",
+      "description": "Trinidadian folk considered to be the precursor of Calypso, led by \"griot\" storytellers who sing derogatory lyrics to the sound of drums and guitars in a call-and-response manner in order to rebel against slaveowners.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Kitchen Dance Music",
+      "url": "https://rateyourmusic.com/genre/kitchen-dance-music/",
+      "description": "Cayman Islands music played during kitchen dance parties, centered around fiddle and percussion (handmade or kitchen grater) playing.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Kitchen Dance Music",
+      "url": "https://rateyourmusic.com/genre/kitchen-dance-music/",
+      "description": "Cayman Islands music played during kitchen dance parties, centered around fiddle and percussion (handmade or kitchen grater) playing.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Kitchen Dance Music",
+      "url": "https://rateyourmusic.com/genre/kitchen-dance-music/",
+      "description": "Cayman Islands music played during kitchen dance parties, centered around fiddle and percussion (handmade or kitchen grater) playing.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Mento",
+      "url": "https://rateyourmusic.com/genre/mento/",
+      "description": "Jamaican folk originating in the late 19th century which brought together African and European elements, going on to influence the rhythm in Reggae.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Mento",
+      "url": "https://rateyourmusic.com/genre/mento/",
+      "description": "Jamaican folk originating in the late 19th century which brought together African and European elements, going on to influence the rhythm in Reggae.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Mento",
+      "url": "https://rateyourmusic.com/genre/mento/",
+      "description": "Jamaican folk originating in the late 19th century which brought together African and European elements, going on to influence the rhythm in Reggae.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Méringue",
+      "url": "https://rateyourmusic.com/genre/meringue/",
+      "description": "Haitian genre that dates back to the early 19th century; the roots of Compas.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Méringue",
+      "url": "https://rateyourmusic.com/genre/meringue/",
+      "description": "Haitian genre that dates back to the early 19th century; the roots of Compas.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Méringue",
+      "url": "https://rateyourmusic.com/genre/meringue/",
+      "description": "Haitian genre that dates back to the early 19th century; the roots of Compas.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Plena",
+      "url": "https://rateyourmusic.com/genre/plena/",
+      "description": "Folk genre from Puerto Rico played with hand drums called panderetas.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Plena",
+      "url": "https://rateyourmusic.com/genre/plena/",
+      "description": "Folk genre from Puerto Rico played with hand drums called panderetas.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Plena",
+      "url": "https://rateyourmusic.com/genre/plena/",
+      "description": "Folk genre from Puerto Rico played with hand drums called panderetas.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Ripsaw",
+      "url": "https://rateyourmusic.com/genre/ripsaw/",
+      "description": "Indigenous style of the Turks and Caicos Islands, featuring a handsaw as the primary instrument.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Ripsaw",
+      "url": "https://rateyourmusic.com/genre/ripsaw/",
+      "description": "Indigenous style of the Turks and Caicos Islands, featuring a handsaw as the primary instrument.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Ripsaw",
+      "url": "https://rateyourmusic.com/genre/ripsaw/",
+      "description": "Indigenous style of the Turks and Caicos Islands, featuring a handsaw as the primary instrument.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Tumba",
+      "url": "https://rateyourmusic.com/genre/tumba/",
+      "description": "African-style percussion alongside Latin influences and often explicit lyrics.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Tumba",
+      "url": "https://rateyourmusic.com/genre/tumba/",
+      "description": "African-style percussion alongside Latin influences and often explicit lyrics.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Tumba",
+      "url": "https://rateyourmusic.com/genre/tumba/",
+      "description": "African-style percussion alongside Latin influences and often explicit lyrics.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Virgin Islander Cariso",
+      "url": "https://rateyourmusic.com/genre/virgin-islander-cariso/",
+      "description": "Folk of the Virgin Islands, sung exclusively by women to the beat of one or two drums.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Virgin Islander Cariso",
+      "url": "https://rateyourmusic.com/genre/virgin-islander-cariso/",
+      "description": "Folk of the Virgin Islands, sung exclusively by women to the beat of one or two drums.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    },
+    {
+      "name": "Virgin Islander Cariso",
+      "url": "https://rateyourmusic.com/genre/virgin-islander-cariso/",
+      "description": "Folk of the Virgin Islands, sung exclusively by women to the beat of one or two drums.",
+      "level": "sub-3",
+      "parent": "Caribbean Folk Music"
+    }
+  ]
+}

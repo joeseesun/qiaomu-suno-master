@@ -1,0 +1,24 @@
+{
+  "name": "Djent",
+  "description": "Groovy polymeters, syncopated power chord chugs, palm-muted, distorted guitars, and significant focus on production and tone.",
+  "url": "https://rateyourmusic.com/genre/djent/",
+  "parent": "Metal",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Thall",
+      "url": "https://rateyourmusic.com/genre/thall/",
+      "description": "Utilizes rapid release bends and a precise playstyle while contrasting pitch-shifted high and low notes, with ambient sections for atmosphere and buildup.",
+      "level": "sub-2",
+      "parent": "Djent"
+    },
+    {
+      "name": "Thall",
+      "url": "https://rateyourmusic.com/genre/thall/",
+      "description": "Utilizes rapid release bends and a precise playstyle while contrasting pitch-shifted high and low notes, with ambient sections for atmosphere and buildup.",
+      "level": "sub-3",
+      "parent": "Djent"
+    }
+  ]
+}

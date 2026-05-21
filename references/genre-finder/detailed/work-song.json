@@ -1,0 +1,94 @@
+{
+  "name": "Work Song",
+  "description": "Sung by laborers and prisoners while working in factories and fields.",
+  "url": "https://rateyourmusic.com/genre/work-song/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Aboio",
+      "url": "https://rateyourmusic.com/genre/aboio/",
+      "description": "Cattle-herding songs originating in rural Northeastern Brazil.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    },
+    {
+      "name": "Aboio",
+      "url": "https://rateyourmusic.com/genre/aboio/",
+      "description": "Cattle-herding songs originating in rural Northeastern Brazil.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    },
+    {
+      "name": "Field Hollers",
+      "url": "https://rateyourmusic.com/genre/field-hollers/",
+      "description": "Created by African-American slaves working on cotton plantations, featuring expressive vocals to no strict rhythm.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    },
+    {
+      "name": "Field Hollers",
+      "url": "https://rateyourmusic.com/genre/field-hollers/",
+      "description": "Created by African-American slaves working on cotton plantations, featuring expressive vocals to no strict rhythm.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    },
+    {
+      "name": "Haozi",
+      "url": "https://rateyourmusic.com/genre/haozi/",
+      "description": "Chinese Work Song that originated from collective manual labor and usually follows a call-and-response structure, aiming to coordinate work.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    },
+    {
+      "name": "Haozi",
+      "url": "https://rateyourmusic.com/genre/haozi/",
+      "description": "Chinese Work Song that originated from collective manual labor and usually follows a call-and-response structure, aiming to coordinate work.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    },
+    {
+      "name": "Sea Shanty",
+      "url": "https://rateyourmusic.com/genre/sea-shanty/",
+      "description": "Songs originally sung by sailors to coordinate work on ships.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    },
+    {
+      "name": "Sea Shanty",
+      "url": "https://rateyourmusic.com/genre/sea-shanty/",
+      "description": "Songs originally sung by sailors to coordinate work on ships.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    },
+    {
+      "name": "Shan'ge",
+      "url": "https://rateyourmusic.com/genre/shange/",
+      "description": "Folk songs found in upland regions of China, typically sung while working.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    },
+    {
+      "name": "Shan'ge",
+      "url": "https://rateyourmusic.com/genre/shange/",
+      "description": "Folk songs found in upland regions of China, typically sung while working.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    },
+    {
+      "name": "Òrain luaidh",
+      "url": "https://rateyourmusic.com/genre/orain-luaidh/",
+      "description": "Rhythmic call-and-response style song form that traditionally accompanied the production of tweed cloth through beating the material by hand to soften it after it came off the loom.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    },
+    {
+      "name": "Òrain luaidh",
+      "url": "https://rateyourmusic.com/genre/orain-luaidh/",
+      "description": "Rhythmic call-and-response style song form that traditionally accompanied the production of tweed cloth through beating the material by hand to soften it after it came off the loom.",
+      "level": "sub-3",
+      "parent": "Work Song"
+    }
+  ]
+}

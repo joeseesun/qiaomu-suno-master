@@ -1,0 +1,38 @@
+{
+  "name": "Honky Tonk",
+  "description": "Upbeat style that retains much of the common instrumentation of Traditional Country, as well as featuring prominent guitars (especially the steel guitar), strong backbeats and lyrics commonly about the working-class life.",
+  "url": "https://rateyourmusic.com/genre/honky-tonk/",
+  "parent": "Country",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Bakersfield Sound",
+      "url": "https://rateyourmusic.com/genre/bakersfield-sound/",
+      "description": "Heavily based on electric instrumentation and a defined backbeat.",
+      "level": "sub-2",
+      "parent": "Honky Tonk"
+    },
+    {
+      "name": "Bakersfield Sound",
+      "url": "https://rateyourmusic.com/genre/bakersfield-sound/",
+      "description": "Heavily based on electric instrumentation and a defined backbeat.",
+      "level": "sub-4",
+      "parent": "Honky Tonk"
+    },
+    {
+      "name": "Truck Driving Country",
+      "url": "https://rateyourmusic.com/genre/truck-driving-country/",
+      "description": "Concerns the lifestyle of professional truck drivers, often drawing from Country Rock and Bakersfield Sound musically.",
+      "level": "sub-2",
+      "parent": "Honky Tonk"
+    },
+    {
+      "name": "Truck Driving Country",
+      "url": "https://rateyourmusic.com/genre/truck-driving-country/",
+      "description": "Concerns the lifestyle of professional truck drivers, often drawing from Country Rock and Bakersfield Sound musically.",
+      "level": "sub-4",
+      "parent": "Honky Tonk"
+    }
+  ]
+}

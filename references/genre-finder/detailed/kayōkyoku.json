@@ -1,0 +1,31 @@
+{
+  "name": "Kayōkyoku",
+  "description": "Japanese popular music prominent during the later period of the Shōwa era (early 1950s to late 1980s).",
+  "url": "https://rateyourmusic.com/genre/kayokyoku/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Idol kayō",
+      "url": "https://rateyourmusic.com/genre/idol-kayo/",
+      "description": "More Westernized and upbeat form of Kayōkyoku popular in the 1970s and 1980s which acted as a precursor to J-Pop.",
+      "level": "sub-2",
+      "parent": "Kayōkyoku"
+    },
+    {
+      "name": "Mood kayō",
+      "url": "https://rateyourmusic.com/genre/mood-kayo/",
+      "description": "Early form of Kayōkyoku dominant in the 1950s and 1960s, prominently influenced by American Jazz, Hispanic American Music, and Hawaiian Music.",
+      "level": "sub-2",
+      "parent": "Kayōkyoku"
+    },
+    {
+      "name": "Techno kayō",
+      "url": "https://rateyourmusic.com/genre/techno-kayo/",
+      "description": "Offshoot of 1980s Kayōkyoku and Idol kayō incorporating characteristics from Synthpop.",
+      "level": "sub-2",
+      "parent": "Kayōkyoku"
+    }
+  ]
+}

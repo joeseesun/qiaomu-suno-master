@@ -1,0 +1,17 @@
+{
+  "name": "Maddahi",
+  "description": "Singing for Shia Muslims to mourn in religious death anniversaries.",
+  "url": "https://rateyourmusic.com/genre/maddahi/",
+  "parent": "Islamic Religious Music & Recitation",
+  "level": "sub-2",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Shoor",
+      "url": "https://rateyourmusic.com/genre/shoor/",
+      "description": "Mourning eulogy characterized by an intense emotional fervor and rhythmic delivery.",
+      "level": "sub-3",
+      "parent": "Maddahi"
+    }
+  ]
+}

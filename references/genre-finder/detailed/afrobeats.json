@@ -1,0 +1,24 @@
+{
+  "name": "Afrobeats",
+  "description": "Originated in West Africa during the early 2010s and includes elements from Pop Rap, Contemporary R&B, and Dancehall.",
+  "url": "https://rateyourmusic.com/genre/afrobeats/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Afropiano",
+      "url": "https://rateyourmusic.com/genre/afropiano/",
+      "description": "Blends the easy-going, poppy, and melodic Afrobeats sound and rhythms with major Amapiano elements, like lush, jazzy, and laid-back atmospheres often featuring light piano chords.",
+      "level": "sub-2",
+      "parent": "Afrobeats"
+    },
+    {
+      "name": "Alté",
+      "url": "https://rateyourmusic.com/genre/alte/",
+      "description": "More subdued, atmospheric, minimalist, and eclectic production and vocal styles compared to earlier styles, as well as more socially conscious lyrics.",
+      "level": "sub-2",
+      "parent": "Afrobeats"
+    }
+  ]
+}

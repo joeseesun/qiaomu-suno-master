@@ -1,0 +1,143 @@
+{
+  "name": "Southern African Music",
+  "description": "Encompasses Southern African Folk Music and more modern genres, consisting in a specific style of a worldwide popular genre mixed with or rooted in a local traditional folk genre, through South Africa, Lesotho, Botswana, Eswatini, Namibia, southern Angola, and Matabeleland region in southern Zimbabwe.",
+  "url": "https://rateyourmusic.com/genre/southern-african-music/",
+  "parent": "African Music",
+  "level": "sub-2",
+  "children_count": 19,
+  "children": [
+    {
+      "name": "Amapiano",
+      "url": "https://rateyourmusic.com/genre/amapiano/",
+      "description": "House from South Africa deriving from previous popular genres including Gqom, Kwaito, and Deep House.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Bulawayo Jazz",
+      "url": "https://rateyourmusic.com/genre/bulawayo-jazz/",
+      "description": "Emerged from the city of Bulawayo, Zimbabwe in the early 1950s, led by the alto sax and accompanied by ensembles.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Cape Jazz",
+      "url": "https://rateyourmusic.com/genre/cape-jazz/",
+      "description": "Developed parallel to American Jazz in the early 20th century, named for its origin in Cape Town, South Africa.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Famo",
+      "url": "https://rateyourmusic.com/genre/famo/",
+      "description": "Popular and danceable style from Lesotho and the surrounding Sotho-speaking region of South Africa, often featuring the accordion as the lead instrument.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Gqom",
+      "url": "https://rateyourmusic.com/genre/gqom/",
+      "description": "Evolved from South African House, specifically Kwaito; often described as a more minimal and raw version.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Isicathamiya",
+      "url": "https://rateyourmusic.com/genre/isicathamiya/",
+      "description": "A cappella Zulu style, which takes a softer, more melodious approach, in contrast to the powerful, loud sound of the earlier Mbube style.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Jit",
+      "url": "https://rateyourmusic.com/genre/jit/",
+      "description": "Guitar-driven electric pop from Zimbabwe that draws influence from Central and East African rumba, South African jive and local music.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Kwaito",
+      "url": "https://rateyourmusic.com/genre/kwaito/",
+      "description": "Emerged from South Africa in the early 1990s, taking influence from Disco and Hip Hop.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Marabi",
+      "url": "https://rateyourmusic.com/genre/marabi/",
+      "description": "South African Jazz with origins in the 1920s and rooted in traditional South African music.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Maskandi",
+      "url": "https://rateyourmusic.com/genre/maskandi/",
+      "description": "Zulu style of music usually led by a fingerpicked acoustic guitar.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Mbube",
+      "url": "https://rateyourmusic.com/genre/mbube/",
+      "description": "A cappella Zulu genre, performed in a powerful and loud manner by an all-male choir.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Motswako",
+      "url": "https://rateyourmusic.com/genre/motswako/",
+      "description": "Mainly rapped in a mixture of Setswana and English, incorporating additional languages and local South African and Botswanan influences, particularly Kwaito.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Shangaan Electro",
+      "url": "https://rateyourmusic.com/genre/shangaan-electro/",
+      "description": "South African genre with very fast BPM (around 180) featuring MIDI keyboard sounds and marimba.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Shona Music",
+      "url": "https://rateyourmusic.com/genre/shona-music/",
+      "description": "Music of the Shona people, a Bantu ethnic group who form a majority population in Zimbabwe.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Southern African Folk Music",
+      "url": "https://rateyourmusic.com/genre/southern-african-folk-music/",
+      "description": "Traditional Folk Music of southern Africa.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Sungura",
+      "url": "https://rateyourmusic.com/genre/sungura/",
+      "description": "Zimbabwean style combining the guitar work of Soukous with the speed and texture of Benga and the strong bass of Township Jive.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Township Bubblegum",
+      "url": "https://rateyourmusic.com/genre/township-bubblegum/",
+      "description": "Synth-heavy Dance-Pop style popular in the South African townships in the 1980s and early 1990s.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Township Jive",
+      "url": "https://rateyourmusic.com/genre/township-jive/",
+      "description": "Originating in the townships of South Africa, similar to Mbaqanga but bringing in Western pop elements.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    },
+    {
+      "name": "Tsonga Disco",
+      "url": "https://rateyourmusic.com/genre/tsonga-disco/",
+      "description": "Drum machines, synthesizers, and male vocals backed by a female choir, singing in a call and response style.",
+      "level": "sub-3",
+      "parent": "Southern African Music"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Future Bass",
+  "description": "Woozy, detuned synthesizers, 7th chords, harsh basslines, syncopated percussion with fast-paced hi-hats and a melodic, carefree atmosphere.",
+  "url": "https://rateyourmusic.com/genre/future-bass/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Kawaii Future Bass",
+      "url": "https://rateyourmusic.com/genre/kawaii-future-bass/",
+      "description": "\"Cute\" style of Future Bass rooted in anime and video game culture; emerged in Japan in the mid-2010s.",
+      "level": "sub-3",
+      "parent": "Future Bass"
+    },
+    {
+      "name": "Kawaii Future Bass",
+      "url": "https://rateyourmusic.com/genre/kawaii-future-bass/",
+      "description": "\"Cute\" style of Future Bass rooted in anime and video game culture; emerged in Japan in the mid-2010s.",
+      "level": "sub-3",
+      "parent": "Future Bass"
+    }
+  ]
+}

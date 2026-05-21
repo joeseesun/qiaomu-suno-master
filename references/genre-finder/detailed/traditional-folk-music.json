@@ -1,0 +1,402 @@
+{
+  "name": "Traditional Folk Music",
+  "description": "Informed by a long history of tradition in a specific culture or region, mostly associated with the peasantry and non-aristocratic public.",
+  "url": "https://rateyourmusic.com/genre/traditional-folk-music/",
+  "parent": "Folk",
+  "level": "sub",
+  "children_count": 56,
+  "children": [
+    {
+      "name": "African Folk Music",
+      "url": "https://rateyourmusic.com/genre/african-folk-music/",
+      "description": "Indigenous music of Africa that is passed down orally from generation to generation, the authors of the songs are usually unknown.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "African Folk Music",
+      "url": "https://rateyourmusic.com/genre/african-folk-music/",
+      "description": "Indigenous music of Africa that is passed down orally from generation to generation, the authors of the songs are usually unknown.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "American Folk Music",
+      "url": "https://rateyourmusic.com/genre/american-folk-music/",
+      "description": "Traces back through the history of European and West African settlement and migration to North America, including parts of northern Mexico and Canada in addition to the United States.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "American Folk Music",
+      "url": "https://rateyourmusic.com/genre/american-folk-music/",
+      "description": "Traces back through the history of European and West African settlement and migration to North America, including parts of northern Mexico and Canada in addition to the United States.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Arabic Folk Music",
+      "url": "https://rateyourmusic.com/genre/arabic-folk-music/",
+      "description": "Traditional Folk Music of the Arabic people.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Arabic Folk Music",
+      "url": "https://rateyourmusic.com/genre/arabic-folk-music/",
+      "description": "Traditional Folk Music of the Arabic people.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Australian Folk Music",
+      "url": "https://rateyourmusic.com/genre/australian-folk-music/",
+      "description": "Folk traditions of the European colonists and convicts in Australia.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Australian Folk Music",
+      "url": "https://rateyourmusic.com/genre/australian-folk-music/",
+      "description": "Folk traditions of the European colonists and convicts in Australia.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Bayawan",
+      "url": "https://rateyourmusic.com/genre/bayawan/",
+      "description": "Distinct muqam tradition of the Dolan subgroup of the Uyghur people, often considered the wildest of the regional muqam variations.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Bayawan",
+      "url": "https://rateyourmusic.com/genre/bayawan/",
+      "description": "Distinct muqam tradition of the Dolan subgroup of the Uyghur people, often considered the wildest of the regional muqam variations.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Brazilian Folk Music",
+      "url": "https://rateyourmusic.com/genre/brazilian-folk-music/",
+      "description": "Comprises the various traditions of folk music found in Brazil, often resulting from the interplay of Indigenous, African and European music.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Brazilian Folk Music",
+      "url": "https://rateyourmusic.com/genre/brazilian-folk-music/",
+      "description": "Comprises the various traditions of folk music found in Brazil, often resulting from the interplay of Indigenous, African and European music.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Canadian Folk Music",
+      "url": "https://rateyourmusic.com/genre/canadian-folk-music/",
+      "description": "Traditional folk of the European settlers who arrived in Canada.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Canadian Folk Music",
+      "url": "https://rateyourmusic.com/genre/canadian-folk-music/",
+      "description": "Traditional folk of the European settlers who arrived in Canada.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Caribbean Folk Music",
+      "url": "https://rateyourmusic.com/genre/caribbean-folk-music/",
+      "description": "Meta-genre that covers the different forms of Traditional Folk Music from the Caribbean.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Caribbean Folk Music",
+      "url": "https://rateyourmusic.com/genre/caribbean-folk-music/",
+      "description": "Meta-genre that covers the different forms of Traditional Folk Music from the Caribbean.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Caucasian Folk Music",
+      "url": "https://rateyourmusic.com/genre/caucasian-folk-music/",
+      "description": "Folk of the Caucasus region, a mountainous area that connects Eastern Europe to Asia.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Caucasian Folk Music",
+      "url": "https://rateyourmusic.com/genre/caucasian-folk-music/",
+      "description": "Folk of the Caucasus region, a mountainous area that connects Eastern Europe to Asia.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Chukchi Folk Music",
+      "url": "https://rateyourmusic.com/genre/chukchi-folk-music/",
+      "description": "Traditional Folk Music of the Chukchi people.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Chukchi Folk Music",
+      "url": "https://rateyourmusic.com/genre/chukchi-folk-music/",
+      "description": "Traditional Folk Music of the Chukchi people.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "East Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/east-asian-folk-music/",
+      "description": "All the forms of Traditional Folk Music from East Asia, including Japanese Folk Music, Chinese Folk Music, and Korean Folk Music.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "East Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/east-asian-folk-music/",
+      "description": "All the forms of Traditional Folk Music from East Asia, including Japanese Folk Music, Chinese Folk Music, and Korean Folk Music.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "European Folk Music",
+      "url": "https://rateyourmusic.com/genre/european-folk-music/",
+      "description": "Encompasses numerous folk traditions found in Europe.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "European Folk Music",
+      "url": "https://rateyourmusic.com/genre/european-folk-music/",
+      "description": "Encompasses numerous folk traditions found in Europe.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Football Chant",
+      "url": "https://rateyourmusic.com/genre/football-chant/",
+      "description": "Sung by large crowds at association football (soccer) games to celebrate or insult teams.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Football Chant",
+      "url": "https://rateyourmusic.com/genre/football-chant/",
+      "description": "Sung by large crowds at association football (soccer) games to celebrate or insult teams.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Hazara Folk Music",
+      "url": "https://rateyourmusic.com/genre/hazara-folk-music/",
+      "description": "Folk music of the Hazara people, mainly native to central Afghanistan.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Hazara Folk Music",
+      "url": "https://rateyourmusic.com/genre/hazara-folk-music/",
+      "description": "Folk music of the Hazara people, mainly native to central Afghanistan.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Hispanic American Folk Music",
+      "url": "https://rateyourmusic.com/genre/hispanic-american-folk-music/",
+      "description": "Encompasses many varieties of folk traditions from Hispanic America.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Hispanic American Folk Music",
+      "url": "https://rateyourmusic.com/genre/hispanic-american-folk-music/",
+      "description": "Encompasses many varieties of folk traditions from Hispanic America.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Indigenous American Traditional Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-american-traditional-music/",
+      "description": "Meta-genre encompassing traditions attributed to the indigenous peoples of the Americas.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Indigenous American Traditional Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-american-traditional-music/",
+      "description": "Meta-genre encompassing traditions attributed to the indigenous peoples of the Americas.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Indigenous Australian Traditional Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-australian-traditional-music/",
+      "description": "Traditional Folk Music of Aboriginal Australians and Torres Strait Islanders, collectively known as Indigenous Australians.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Indigenous Australian Traditional Music",
+      "url": "https://rateyourmusic.com/genre/indigenous-australian-traditional-music/",
+      "description": "Traditional Folk Music of Aboriginal Australians and Torres Strait Islanders, collectively known as Indigenous Australians.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Industrial Folk Song",
+      "url": "https://rateyourmusic.com/genre/industrial-folk-song/",
+      "description": "Details the experiences and aspirations of industrial laborers and their working conditions; frequently rooted in labor causes and often used for protest and organizational purposes.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Industrial Folk Song",
+      "url": "https://rateyourmusic.com/genre/industrial-folk-song/",
+      "description": "Details the experiences and aspirations of industrial laborers and their working conditions; frequently rooted in labor causes and often used for protest and organizational purposes.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Ladino Folksong",
+      "url": "https://rateyourmusic.com/genre/ladino-folksong/",
+      "description": "Ladino-language Traditional Folk Music tunes that were written and preserved by Sephardic Jews.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Ladino Folksong",
+      "url": "https://rateyourmusic.com/genre/ladino-folksong/",
+      "description": "Ladino-language Traditional Folk Music tunes that were written and preserved by Sephardic Jews.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Ob-Ugric Folk Music",
+      "url": "https://rateyourmusic.com/genre/ob-ugric-folk-music/",
+      "description": "Traditional Folk Music of the Ob-Ugric people of West Siberia Plain.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Ob-Ugric Folk Music",
+      "url": "https://rateyourmusic.com/genre/ob-ugric-folk-music/",
+      "description": "Traditional Folk Music of the Ob-Ugric people of West Siberia Plain.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Payada",
+      "url": "https://rateyourmusic.com/genre/payada/",
+      "description": "Improvised poetry accompanied by a guitar that is tied to gaucho culture, usually performed in duo as a verse duel.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Payada",
+      "url": "https://rateyourmusic.com/genre/payada/",
+      "description": "Improvised poetry accompanied by a guitar that is tied to gaucho culture, usually performed in duo as a verse duel.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Romani Folk Music",
+      "url": "https://rateyourmusic.com/genre/romani-folk-music/",
+      "description": "Folk of the Romani people, an ethnic group with origins in Northern India, but who have since the Middle Ages settled around Europe, principally Romania, Bulgaria, and Spain, and many other places.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Romani Folk Music",
+      "url": "https://rateyourmusic.com/genre/romani-folk-music/",
+      "description": "Folk of the Romani people, an ethnic group with origins in Northern India, but who have since the Middle Ages settled around Europe, principally Romania, Bulgaria, and Spain, and many other places.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Samoyedic Folk Music",
+      "url": "https://rateyourmusic.com/genre/samoyedic-folk-music/",
+      "description": "Traditional Folk Music of the Samoyedic peoples.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Samoyedic Folk Music",
+      "url": "https://rateyourmusic.com/genre/samoyedic-folk-music/",
+      "description": "Traditional Folk Music of the Samoyedic peoples.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "South Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/south-asian-folk-music/",
+      "description": "Meta-genre which covers all the Traditional Folk Music forms from South Asia.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "South Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/south-asian-folk-music/",
+      "description": "Meta-genre which covers all the Traditional Folk Music forms from South Asia.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Southeast Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/southeast-asian-folk-music/",
+      "description": "Meta-genre covering all folk forms from Southeast Asia, like Gondang, Hmong, Iban, Karen, Keroncong, Khmer, Lao, Lun Bawang, Molam, and Orang Ulu.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Southeast Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/southeast-asian-folk-music/",
+      "description": "Meta-genre covering all folk forms from Southeast Asia, like Gondang, Hmong, Iban, Karen, Keroncong, Khmer, Lao, Lun Bawang, Molam, and Orang Ulu.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "West Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/west-asian-folk-music/",
+      "description": "Traditional Folk Music of West Asia, a region that covers much of what is commonly known in English as the Middle East (alternatively Southwestern Asia), includes the distinct but interconnected traditions of numerous ethnic groups.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "West Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/west-asian-folk-music/",
+      "description": "Traditional Folk Music of West Asia, a region that covers much of what is commonly known in English as the Middle East (alternatively Southwestern Asia), includes the distinct but interconnected traditions of numerous ethnic groups.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Work Song",
+      "url": "https://rateyourmusic.com/genre/work-song/",
+      "description": "Sung by laborers and prisoners while working in factories and fields.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Work Song",
+      "url": "https://rateyourmusic.com/genre/work-song/",
+      "description": "Sung by laborers and prisoners while working in factories and fields.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Yodeling",
+      "url": "https://rateyourmusic.com/genre/yodeling/",
+      "description": "Vocal technique that arose in many cultures around the world as a form of calling and communication.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    },
+    {
+      "name": "Yodeling",
+      "url": "https://rateyourmusic.com/genre/yodeling/",
+      "description": "Vocal technique that arose in many cultures around the world as a form of calling and communication.",
+      "level": "sub-2",
+      "parent": "Traditional Folk Music"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Wa Euro",
+  "description": "Traditional form of J-Pop that emerged in the second half of the 1980s from late Hi-NRG, '80s British Dance-Pop and Italo-Disco/Eurobeat.",
+  "url": "https://rateyourmusic.com/genre/wa-euro/",
+  "parent": "Dance",
+  "level": "sub",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "J-Euro",
+      "url": "https://rateyourmusic.com/genre/j-euro/",
+      "description": "Italian-oriented Japanese scene of Eurobeat, which emerged with Japanese-language covers of Italian songs in the early-to-mid-1990s.",
+      "level": "sub-2",
+      "parent": "Wa Euro"
+    },
+    {
+      "name": "J-Euro",
+      "url": "https://rateyourmusic.com/genre/j-euro/",
+      "description": "Italian-oriented Japanese scene of Eurobeat, which emerged with Japanese-language covers of Italian songs in the early-to-mid-1990s.",
+      "level": "sub-3",
+      "parent": "Wa Euro"
+    },
+    {
+      "name": "J-Euro",
+      "url": "https://rateyourmusic.com/genre/j-euro/",
+      "description": "Italian-oriented Japanese scene of Eurobeat, which emerged with Japanese-language covers of Italian songs in the early-to-mid-1990s.",
+      "level": "sub-3",
+      "parent": "Wa Euro"
+    }
+  ]
+}

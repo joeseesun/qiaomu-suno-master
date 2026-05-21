@@ -1,0 +1,73 @@
+{
+  "name": "Cumbia peruana",
+  "description": "Developed in Peru and diversified into various subgenres, each with its own regional influences.",
+  "url": "https://rateyourmusic.com/genre/cumbia-peruana/",
+  "parent": "Cumbia",
+  "level": "sub-4",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Chicha",
+      "url": "https://rateyourmusic.com/genre/chicha/",
+      "description": "Emerged during the Andean migration to the Peruvian coast between the 1960s and 1980s; largely influenced by Huayno and occasionally Psychedelic Rock",
+      "level": "sub-5",
+      "parent": "Cumbia peruana"
+    },
+    {
+      "name": "Chicha",
+      "url": "https://rateyourmusic.com/genre/chicha/",
+      "description": "Emerged during the Andean migration to the Peruvian coast between the 1960s and 1980s; largely influenced by Huayno and occasionally Psychedelic Rock",
+      "level": "sub-5",
+      "parent": "Cumbia peruana"
+    },
+    {
+      "name": "Chicha",
+      "url": "https://rateyourmusic.com/genre/chicha/",
+      "description": "Emerged during the Andean migration to the Peruvian coast between the 1960s and 1980s; largely influenced by Huayno and occasionally Psychedelic Rock",
+      "level": "sub-4",
+      "parent": "Cumbia peruana"
+    },
+    {
+      "name": "Cumbia amazónica",
+      "url": "https://rateyourmusic.com/genre/cumbia-amazonica/",
+      "description": "Mixes Cumbia peruana with selvatic dances, Afro-Latin rhythms, Surf Rock, and Psychedelic Rock between the 1960s and 1980s.",
+      "level": "sub-5",
+      "parent": "Cumbia peruana"
+    },
+    {
+      "name": "Cumbia amazónica",
+      "url": "https://rateyourmusic.com/genre/cumbia-amazonica/",
+      "description": "Mixes Cumbia peruana with selvatic dances, Afro-Latin rhythms, Surf Rock, and Psychedelic Rock between the 1960s and 1980s.",
+      "level": "sub-5",
+      "parent": "Cumbia peruana"
+    },
+    {
+      "name": "Cumbia amazónica",
+      "url": "https://rateyourmusic.com/genre/cumbia-amazonica/",
+      "description": "Mixes Cumbia peruana with selvatic dances, Afro-Latin rhythms, Surf Rock, and Psychedelic Rock between the 1960s and 1980s.",
+      "level": "sub-4",
+      "parent": "Cumbia peruana"
+    },
+    {
+      "name": "Cumbia norteña peruana",
+      "url": "https://rateyourmusic.com/genre/cumbia-nortena-peruana/",
+      "description": "Developed on the Peruvian coast, with influences from Cumbia colombiana and cumbia ecuatoriana and lyrics mostly about love and heartbreak.",
+      "level": "sub-5",
+      "parent": "Cumbia peruana"
+    },
+    {
+      "name": "Cumbia norteña peruana",
+      "url": "https://rateyourmusic.com/genre/cumbia-nortena-peruana/",
+      "description": "Developed on the Peruvian coast, with influences from Cumbia colombiana and cumbia ecuatoriana and lyrics mostly about love and heartbreak.",
+      "level": "sub-5",
+      "parent": "Cumbia peruana"
+    },
+    {
+      "name": "Cumbia norteña peruana",
+      "url": "https://rateyourmusic.com/genre/cumbia-nortena-peruana/",
+      "description": "Developed on the Peruvian coast, with influences from Cumbia colombiana and cumbia ecuatoriana and lyrics mostly about love and heartbreak.",
+      "level": "sub-4",
+      "parent": "Cumbia peruana"
+    }
+  ]
+}

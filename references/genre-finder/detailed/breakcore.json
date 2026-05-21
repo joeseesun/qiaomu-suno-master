@@ -1,0 +1,52 @@
+{
+  "name": "Breakcore",
+  "description": "Mixes Hardcore [EDM] with cut-up, complex, and frequently noisy breakbeats at very high tempos inspired by Jungle and Drum and Bass, often with heavy use of sampling.",
+  "url": "https://rateyourmusic.com/genre/breakcore/",
+  "parent": "Hardcore [EDM]",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Lolicore",
+      "url": "https://rateyourmusic.com/genre/lolicore/",
+      "description": "Heavily distorted or high-pitched Anime vocal samples and complex cut-up breakbeats with extreme tempos.",
+      "level": "sub-4",
+      "parent": "Breakcore"
+    },
+    {
+      "name": "Lolicore",
+      "url": "https://rateyourmusic.com/genre/lolicore/",
+      "description": "Heavily distorted or high-pitched Anime vocal samples and complex cut-up breakbeats with extreme tempos.",
+      "level": "sub-4",
+      "parent": "Breakcore"
+    },
+    {
+      "name": "Mashcore",
+      "url": "https://rateyourmusic.com/genre/mashcore/",
+      "description": "Sampling, particularly from Pop and Electronic Dance Music, as well as playful melodies, hard kicks, and the typical breakcore breakbeats.",
+      "level": "sub-4",
+      "parent": "Breakcore"
+    },
+    {
+      "name": "Mashcore",
+      "url": "https://rateyourmusic.com/genre/mashcore/",
+      "description": "Sampling, particularly from Pop and Electronic Dance Music, as well as playful melodies, hard kicks, and the typical breakcore breakbeats.",
+      "level": "sub-4",
+      "parent": "Breakcore"
+    },
+    {
+      "name": "Raggacore",
+      "url": "https://rateyourmusic.com/genre/raggacore/",
+      "description": "Prominently incorporates samples from Ragga and Dancehall, typically through shouted vocal lines and Reggae-influenced instrumentals.",
+      "level": "sub-4",
+      "parent": "Breakcore"
+    },
+    {
+      "name": "Raggacore",
+      "url": "https://rateyourmusic.com/genre/raggacore/",
+      "description": "Prominently incorporates samples from Ragga and Dancehall, typically through shouted vocal lines and Reggae-influenced instrumentals.",
+      "level": "sub-4",
+      "parent": "Breakcore"
+    }
+  ]
+}

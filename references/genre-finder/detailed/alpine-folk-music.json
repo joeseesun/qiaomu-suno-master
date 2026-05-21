@@ -1,0 +1,94 @@
+{
+  "name": "Alpine Folk Music",
+  "description": "Traditional Folk Music of the Alps, including parts of Germany, Austria, Slovenia, Switzerland, and Italy.",
+  "url": "https://rateyourmusic.com/genre/alpine-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Canto degli Alpini",
+      "url": "https://rateyourmusic.com/genre/canto-degli-alpini/",
+      "description": "Created and traditionally sung by choirs formed from the Italian army's Alpine mountain infantry corps, mainly dating back to WWI.",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    },
+    {
+      "name": "Canto degli Alpini",
+      "url": "https://rateyourmusic.com/genre/canto-degli-alpini/",
+      "description": "Created and traditionally sung by choirs formed from the Italian army's Alpine mountain infantry corps, mainly dating back to WWI.",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    },
+    {
+      "name": "Canto degli Alpini",
+      "url": "https://rateyourmusic.com/genre/canto-degli-alpini/",
+      "description": "Created and traditionally sung by choirs formed from the Italian army's Alpine mountain infantry corps, mainly dating back to WWI.",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    },
+    {
+      "name": "Ländler",
+      "url": "https://rateyourmusic.com/genre/landler/",
+      "description": "Swiss-German dance band music based on the accordion, combining traditional Alpine Folk Music with elements from Schlager and Jazz.",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    },
+    {
+      "name": "Ländler",
+      "url": "https://rateyourmusic.com/genre/landler/",
+      "description": "Swiss-German dance band music based on the accordion, combining traditional Alpine Folk Music with elements from Schlager and Jazz.",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    },
+    {
+      "name": "Ländler",
+      "url": "https://rateyourmusic.com/genre/landler/",
+      "description": "Swiss-German dance band music based on the accordion, combining traditional Alpine Folk Music with elements from Schlager and Jazz.",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    },
+    {
+      "name": "Narodno zabavna glasba",
+      "url": "https://rateyourmusic.com/genre/narodno-zabavna-glasba/",
+      "description": "Modernised form of Slovenian Folk Music from the Alpine region of Upper Carniola (Oberkrain).",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    },
+    {
+      "name": "Narodno zabavna glasba",
+      "url": "https://rateyourmusic.com/genre/narodno-zabavna-glasba/",
+      "description": "Modernised form of Slovenian Folk Music from the Alpine region of Upper Carniola (Oberkrain).",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    },
+    {
+      "name": "Narodno zabavna glasba",
+      "url": "https://rateyourmusic.com/genre/narodno-zabavna-glasba/",
+      "description": "Modernised form of Slovenian Folk Music from the Alpine region of Upper Carniola (Oberkrain).",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    },
+    {
+      "name": "Naturjodel",
+      "url": "https://rateyourmusic.com/genre/naturjodel/",
+      "description": "Originated in Toggenburg and Appenzell in Switzerland; deep vocal range, relaxed voice, free tempo, polyphony, elongated notes, improvisation, glissando, and use of syllabic sounds.",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    },
+    {
+      "name": "Naturjodel",
+      "url": "https://rateyourmusic.com/genre/naturjodel/",
+      "description": "Originated in Toggenburg and Appenzell in Switzerland; deep vocal range, relaxed voice, free tempo, polyphony, elongated notes, improvisation, glissando, and use of syllabic sounds.",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    },
+    {
+      "name": "Naturjodel",
+      "url": "https://rateyourmusic.com/genre/naturjodel/",
+      "description": "Originated in Toggenburg and Appenzell in Switzerland; deep vocal range, relaxed voice, free tempo, polyphony, elongated notes, improvisation, glissando, and use of syllabic sounds.",
+      "level": "sub-4",
+      "parent": "Alpine Folk Music"
+    }
+  ]
+}

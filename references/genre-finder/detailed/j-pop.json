@@ -1,0 +1,66 @@
+{
+  "name": "J-Pop",
+  "description": "Commercial Pop of Japan after the advent of the Heisei era (1989), characterized by modernized production, a more eclectic sound palette, and a more westernized vocal style.",
+  "url": "https://rateyourmusic.com/genre/j-pop/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 8,
+  "children": [
+    {
+      "name": "Akishibu-kei",
+      "url": "https://rateyourmusic.com/genre/akishibu-kei/",
+      "description": "Otaku inclined update of the style pioneered by the Shibuya-kei scene, mixed with J-Pop and often tied to Anime and Video Game Music.",
+      "level": "sub-2",
+      "parent": "J-Pop"
+    },
+    {
+      "name": "Akishibu-kei",
+      "url": "https://rateyourmusic.com/genre/akishibu-kei/",
+      "description": "Otaku inclined update of the style pioneered by the Shibuya-kei scene, mixed with J-Pop and often tied to Anime and Video Game Music.",
+      "level": "sub-2",
+      "parent": "J-Pop"
+    },
+    {
+      "name": "Denpa",
+      "url": "https://rateyourmusic.com/genre/denpa/",
+      "description": "Underground style aiming to be bizarre yet catchy, using off-key and high-pitched vocals, strange or nonsensical lyrics, repetitive chants, onomatopoeia, frantic and \"off-kilter\" production, and \"moe\" aesthetics.",
+      "level": "sub-2",
+      "parent": "J-Pop"
+    },
+    {
+      "name": "Denpa",
+      "url": "https://rateyourmusic.com/genre/denpa/",
+      "description": "Underground style aiming to be bizarre yet catchy, using off-key and high-pitched vocals, strange or nonsensical lyrics, repetitive chants, onomatopoeia, frantic and \"off-kilter\" production, and \"moe\" aesthetics.",
+      "level": "sub-2",
+      "parent": "J-Pop"
+    },
+    {
+      "name": "Wa Euro",
+      "url": "https://rateyourmusic.com/genre/wa-euro/",
+      "description": "Traditional form of J-Pop that emerged in the second half of the 1980s from late Hi-NRG, '80s British Dance-Pop and Italo-Disco/Eurobeat.",
+      "level": "sub-2",
+      "parent": "J-Pop"
+    },
+    {
+      "name": "Wa Euro",
+      "url": "https://rateyourmusic.com/genre/wa-euro/",
+      "description": "Traditional form of J-Pop that emerged in the second half of the 1980s from late Hi-NRG, '80s British Dance-Pop and Italo-Disco/Eurobeat.",
+      "level": "sub-2",
+      "parent": "J-Pop"
+    },
+    {
+      "name": "Yakousei",
+      "url": "https://rateyourmusic.com/genre/yakousei/",
+      "description": "Eclectic style of J-Pop developed in the late 2010s and influenced by the Vocaloid Scene; incorporates indie sensibilities, danceable rhythms and a focus on introspective lyricism.",
+      "level": "sub-2",
+      "parent": "J-Pop"
+    },
+    {
+      "name": "Yakousei",
+      "url": "https://rateyourmusic.com/genre/yakousei/",
+      "description": "Eclectic style of J-Pop developed in the late 2010s and influenced by the Vocaloid Scene; incorporates indie sensibilities, danceable rhythms and a focus on introspective lyricism.",
+      "level": "sub-2",
+      "parent": "J-Pop"
+    }
+  ]
+}

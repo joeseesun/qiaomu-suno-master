@@ -1,0 +1,92 @@
+{
+  "name": "Singer-Songwriter",
+  "description": "Heavily focused on lyrics and songwriting, with musical accompaniment tending to take lower precedence.",
+  "url": "https://rateyourmusic.com/genre/singer-songwriter/",
+  "sub_genres_count": 12,
+  "sub_genres": [
+    {
+      "name": "Avtorskaya pesnya",
+      "url": "https://rateyourmusic.com/genre/avtorskaya-pesnya/",
+      "description": "Originating in the Soviet Union taking cues from forms of Russian Romance and Russian poetry with the main focus on lyrics.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    },
+    {
+      "name": "Canzone d'autore",
+      "url": "https://rateyourmusic.com/genre/canzone-dautore/",
+      "description": "Music of the Italian Singer-Songwriters that emerged in the 1960s and early 1970s, initially influenced by French Chanson with the addition of uniquely Italian sensibilities.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    },
+    {
+      "name": "Chanson à texte",
+      "url": "https://rateyourmusic.com/genre/chanson-a-texte/",
+      "description": "French-language songs emphasising sophisticated and poetic lyricism.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    },
+    {
+      "name": "Euskal kantagintza berria",
+      "url": "https://rateyourmusic.com/genre/euskal-kantagintza-berria/",
+      "description": "Basque genre born during the 1960s inspired by Nova cançó and Chanson.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    },
+    {
+      "name": "Kleinkunst",
+      "url": "https://rateyourmusic.com/genre/kleinkunst/",
+      "description": "Dutch-language genre from the Netherlands and Flanders with influences from Cabaret, protest songs, Chanson, and folk.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    },
+    {
+      "name": "Liedermacher",
+      "url": "https://rateyourmusic.com/genre/liedermacher/",
+      "description": "German style having its origins in literature and theatre rather than American forms like Blues or Rock.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    },
+    {
+      "name": "Música de intervenção",
+      "url": "https://rateyourmusic.com/genre/musica-de-intervencao/",
+      "description": "Wave of Portuguese singer-songwriters in the 1960s and 1970s who agitated against the Estado Novo regime and the colonial war waged by Portugal against national liberation fronts.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    },
+    {
+      "name": "Nova cançó",
+      "url": "https://rateyourmusic.com/genre/nova-canco/",
+      "description": "Arose in Catalonia during the Franco dictatorship, sung in Catalan as a way to resist restrictions placed on regional languages in Spain and retain a regional identity.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    },
+    {
+      "name": "Nueva canción",
+      "url": "https://rateyourmusic.com/genre/nueva-cancion/",
+      "description": "Latin American (Nueva canción latinoamericana) and Spanish (Nueva canción española) movement during the 1960s and 1970s.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    },
+    {
+      "name": "Nòva cançon",
+      "url": "https://rateyourmusic.com/genre/nova-cancon/",
+      "description": "Arose in the Occitania region of southern France, sung in the Occitan language as a way to preserve their culture and resist forced usage of French.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    },
+    {
+      "name": "Poezja śpiewana",
+      "url": "https://rateyourmusic.com/genre/poezja-spiewana/",
+      "description": "Polish sung poetry; the poem is the centerpiece of a song, often with sparse instrumental accompaniment.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    },
+    {
+      "name": "Trova",
+      "url": "https://rateyourmusic.com/genre/trova/",
+      "description": "One of the most ancient expressions of Cuban Music, based around lone Singer-Songwriters who use nothing but a guitar as their preferred accompaniment and place emphasis on lyrics.",
+      "level": "sub",
+      "parent": "Singer-Songwriter"
+    }
+  ]
+}

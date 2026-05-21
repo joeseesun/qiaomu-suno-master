@@ -1,0 +1,38 @@
+{
+  "name": "North African Music",
+  "description": "Music of North Africa.",
+  "url": "https://rateyourmusic.com/genre/north-african-music/",
+  "parent": "African Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Amazigh Music",
+      "url": "https://rateyourmusic.com/genre/amazigh-music/",
+      "description": "Music of the Amazigh people, the indigenous people of Northwest Africa (with main hubs in Morocco and Algeria) and certain parts of West Africa.",
+      "level": "sub-3",
+      "parent": "North African Music"
+    },
+    {
+      "name": "Egyptian Music",
+      "url": "https://rateyourmusic.com/genre/egyptian-music/",
+      "description": "Music of the people of Egypt.",
+      "level": "sub-3",
+      "parent": "North African Music"
+    },
+    {
+      "name": "Maghrebi Music",
+      "url": "https://rateyourmusic.com/genre/maghrebi-music/",
+      "description": "Western region of the Arab world, encompassing the modern countries of Algeria, Libya, Morocco, Tunisia, and the disputed territory of Western Sahara.",
+      "level": "sub-3",
+      "parent": "North African Music"
+    },
+    {
+      "name": "Moorish Music",
+      "url": "https://rateyourmusic.com/genre/moorish-music/",
+      "description": "Music of the Moors, the largest ethnic group in Mauritania.",
+      "level": "sub-3",
+      "parent": "North African Music"
+    }
+  ]
+}

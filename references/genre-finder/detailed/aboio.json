@@ -1,0 +1,52 @@
+{
+  "name": "Aboio",
+  "description": "Cattle-herding songs originating in rural Northeastern Brazil.",
+  "url": "https://rateyourmusic.com/genre/aboio/",
+  "parent": "Brazilian Folk Music",
+  "level": "sub-3",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Aboio cantado",
+      "url": "https://rateyourmusic.com/genre/aboio-cantado/",
+      "description": "Aboio that features rhyming verses.",
+      "level": "sub-4",
+      "parent": "Aboio"
+    },
+    {
+      "name": "Aboio cantado",
+      "url": "https://rateyourmusic.com/genre/aboio-cantado/",
+      "description": "Aboio that features rhyming verses.",
+      "level": "sub-4",
+      "parent": "Aboio"
+    },
+    {
+      "name": "Aboio cantado",
+      "url": "https://rateyourmusic.com/genre/aboio-cantado/",
+      "description": "Aboio that features rhyming verses.",
+      "level": "sub-5",
+      "parent": "Aboio"
+    },
+    {
+      "name": "Aboio cantado",
+      "url": "https://rateyourmusic.com/genre/aboio-cantado/",
+      "description": "Aboio that features rhyming verses.",
+      "level": "sub-5",
+      "parent": "Aboio"
+    },
+    {
+      "name": "Aboio cantado",
+      "url": "https://rateyourmusic.com/genre/aboio-cantado/",
+      "description": "Aboio that features rhyming verses.",
+      "level": "sub-4",
+      "parent": "Aboio"
+    },
+    {
+      "name": "Aboio cantado",
+      "url": "https://rateyourmusic.com/genre/aboio-cantado/",
+      "description": "Aboio that features rhyming verses.",
+      "level": "sub-4",
+      "parent": "Aboio"
+    }
+  ]
+}

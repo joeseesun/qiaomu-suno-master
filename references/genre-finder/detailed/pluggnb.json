@@ -1,0 +1,17 @@
+{
+  "name": "PluggnB",
+  "description": "Emphasizes more melodic and layered synth leads, denser and faster drum programming, and a lesser reliance on the laid-back, minimalistic atmosphere of earlier Plugg styles.",
+  "url": "https://rateyourmusic.com/genre/pluggnb/",
+  "parent": "Plugg",
+  "level": "sub-3",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Asian Rock",
+      "url": "https://rateyourmusic.com/genre/asian-rock/",
+      "description": "Dense PluggnB percussion in combination with airy bells, synth plucks, and soaring synthetic guitar leads.",
+      "level": "sub-4",
+      "parent": "PluggnB"
+    }
+  ]
+}

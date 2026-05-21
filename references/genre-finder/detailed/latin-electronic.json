@@ -1,0 +1,94 @@
+{
+  "name": "Latin Electronic",
+  "description": "Combines Electronic with Latin American influences; started at the end of the 1990s.",
+  "url": "https://rateyourmusic.com/genre/latin-electronic/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 12,
+  "children": [
+    {
+      "name": "Changa tuki",
+      "url": "https://rateyourmusic.com/genre/changa-tuki/",
+      "description": "Emerged in Caracas; highly influenced by 1990s Techno and Tribal House, featuring fast tempos, strident synthesizers, hard-thumping percussion lines, and plenty of breakbeats.",
+      "level": "sub-2",
+      "parent": "Latin Electronic"
+    },
+    {
+      "name": "Changa tuki",
+      "url": "https://rateyourmusic.com/genre/changa-tuki/",
+      "description": "Emerged in Caracas; highly influenced by 1990s Techno and Tribal House, featuring fast tempos, strident synthesizers, hard-thumping percussion lines, and plenty of breakbeats.",
+      "level": "sub-4",
+      "parent": "Latin Electronic"
+    },
+    {
+      "name": "Digital Cumbia",
+      "url": "https://rateyourmusic.com/genre/digital-cumbia/",
+      "description": "Mixes an Electronic sound into traditional Cumbia through influences from House, Dancehall, Hyphy, and Dubstep.",
+      "level": "sub-2",
+      "parent": "Latin Electronic"
+    },
+    {
+      "name": "Digital Cumbia",
+      "url": "https://rateyourmusic.com/genre/digital-cumbia/",
+      "description": "Mixes an Electronic sound into traditional Cumbia through influences from House, Dancehall, Hyphy, and Dubstep.",
+      "level": "sub-4",
+      "parent": "Latin Electronic"
+    },
+    {
+      "name": "Electro latino",
+      "url": "https://rateyourmusic.com/genre/electro-latino/",
+      "description": "Mixes elements of Merengue and Reggaetón with polished production from mainstream House subgenres; often shares traits with Latin Pop, having anthemic melodies and verse-chorus structures.",
+      "level": "sub-2",
+      "parent": "Latin Electronic"
+    },
+    {
+      "name": "Electro latino",
+      "url": "https://rateyourmusic.com/genre/electro-latino/",
+      "description": "Mixes elements of Merengue and Reggaetón with polished production from mainstream House subgenres; often shares traits with Latin Pop, having anthemic melodies and verse-chorus structures.",
+      "level": "sub-4",
+      "parent": "Latin Electronic"
+    },
+    {
+      "name": "Electrotango",
+      "url": "https://rateyourmusic.com/genre/electrotango/",
+      "description": "Combines Tango rhythms and melodies with Electronic music.",
+      "level": "sub-2",
+      "parent": "Latin Electronic"
+    },
+    {
+      "name": "Electrotango",
+      "url": "https://rateyourmusic.com/genre/electrotango/",
+      "description": "Combines Tango rhythms and melodies with Electronic music.",
+      "level": "sub-4",
+      "parent": "Latin Electronic"
+    },
+    {
+      "name": "Nortec",
+      "url": "https://rateyourmusic.com/genre/nortec/",
+      "description": "Samples and synthesizes Mexican styles like Banda sinaloense and Norteño into a sound related to IDM and House.",
+      "level": "sub-2",
+      "parent": "Latin Electronic"
+    },
+    {
+      "name": "Nortec",
+      "url": "https://rateyourmusic.com/genre/nortec/",
+      "description": "Samples and synthesizes Mexican styles like Banda sinaloense and Norteño into a sound related to IDM and House.",
+      "level": "sub-4",
+      "parent": "Latin Electronic"
+    },
+    {
+      "name": "Tribal Guarachero",
+      "url": "https://rateyourmusic.com/genre/tribal-guarachero/",
+      "description": "Features percussion from Cumbia and Mexican Folk Music with upbeat Electro House-derived production and fast, triplet-oriented rhythmic patterns.",
+      "level": "sub-2",
+      "parent": "Latin Electronic"
+    },
+    {
+      "name": "Tribal Guarachero",
+      "url": "https://rateyourmusic.com/genre/tribal-guarachero/",
+      "description": "Features percussion from Cumbia and Mexican Folk Music with upbeat Electro House-derived production and fast, triplet-oriented rhythmic patterns.",
+      "level": "sub-4",
+      "parent": "Latin Electronic"
+    }
+  ]
+}

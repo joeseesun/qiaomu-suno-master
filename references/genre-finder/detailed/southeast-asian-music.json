@@ -1,0 +1,101 @@
+{
+  "name": "Southeast Asian Music",
+  "description": "Geographic meta-parent that covers different forms with origins in Burma, Cambodia, Thailand, Indonesia, Malaysia, Philippines, East Timor, Laos, Singapore, and Brunei.",
+  "url": "https://rateyourmusic.com/genre/southeast-asian-music/",
+  "parent": "Asian Music",
+  "level": "sub-2",
+  "children_count": 13,
+  "children": [
+    {
+      "name": "Bamar Music",
+      "url": "https://rateyourmusic.com/genre/bamar-music/",
+      "description": "Music of the Bamar people, the majority ethnic group of Myanmar.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Hill Tribe Music",
+      "url": "https://rateyourmusic.com/genre/hill-tribe-music/",
+      "description": "Music of the various ethnic groups residing in the hills of Mainland Southeast Asia and Southwest China, also known as the region of Zomia.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Indonesian Music",
+      "url": "https://rateyourmusic.com/genre/indonesian-music/",
+      "description": "Music of the Indonesian people, including those of the majority groups residing in Java, Sumatra, Kalimantan, Bali and other major native areas.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Khmer Music",
+      "url": "https://rateyourmusic.com/genre/khmer-music/",
+      "description": "Music of the Khmer people, the majority ethnic group of Cambodia.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Malay Music",
+      "url": "https://rateyourmusic.com/genre/malay-music/",
+      "description": "Music of the Malay people.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Molam",
+      "url": "https://rateyourmusic.com/genre/molam/",
+      "description": "Native to Laos and the Isan region, wherein a singer is accompanied traditionally by a bamboo mouth organ called the khaen, nowadays mostly by larger ensembles.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Philippine Music",
+      "url": "https://rateyourmusic.com/genre/philippine-music/",
+      "description": "Music of the Philippines.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Southeast Asian Classical Music",
+      "url": "https://rateyourmusic.com/genre/southeast-asian-classical-music/",
+      "description": "Formal music developed in Southeast Asian countries (Burma, Cambodia, Thailand, Indonesia, Malaysia, Philippines, East Timor, Brunei Darussalam) usually in form of gong-chime orchestras such as gamelan, kulintang and pi phat.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Southeast Asian Folk Music",
+      "url": "https://rateyourmusic.com/genre/southeast-asian-folk-music/",
+      "description": "Meta-genre covering all folk forms from Southeast Asia, like Gondang, Hmong, Iban, Karen, Keroncong, Khmer, Lao, Lun Bawang, Molam, and Orang Ulu.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Stereo",
+      "url": "https://rateyourmusic.com/genre/stereo/",
+      "description": "Burmese Pop Rock genre which emerged in the mid-1960s.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Thai Music",
+      "url": "https://rateyourmusic.com/genre/thai-music/",
+      "description": "Music of the Thai people.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Vietnamese Music",
+      "url": "https://rateyourmusic.com/genre/vietnamese-music/",
+      "description": "Music of the Vietnamese people.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    },
+    {
+      "name": "Xinyao",
+      "url": "https://rateyourmusic.com/genre/xinyao/",
+      "description": "Singaporean Mandarin-language style, generally featuring harmonised group vocals and backed mainly by acoustic guitar.",
+      "level": "sub-3",
+      "parent": "Southeast Asian Music"
+    }
+  ]
+}

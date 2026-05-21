@@ -1,0 +1,73 @@
+{
+  "name": "EBM",
+  "description": "Melodic and dancefloor-friendly take on Post-Industrial music that developed in the early 1980s.",
+  "url": "https://rateyourmusic.com/genre/ebm/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Dark Electro",
+      "url": "https://rateyourmusic.com/genre/dark-electro/",
+      "description": "Emerged in the early 1990s in Europe, incorporating the abrasiveness of old school Industrial but with a greater focus on a horror-inspired atmosphere and harsh, distorted vocals.",
+      "level": "sub-3",
+      "parent": "EBM"
+    },
+    {
+      "name": "Dark Electro",
+      "url": "https://rateyourmusic.com/genre/dark-electro/",
+      "description": "Emerged in the early 1990s in Europe, incorporating the abrasiveness of old school Industrial but with a greater focus on a horror-inspired atmosphere and harsh, distorted vocals.",
+      "level": "sub-3",
+      "parent": "EBM"
+    },
+    {
+      "name": "Dark Electro",
+      "url": "https://rateyourmusic.com/genre/dark-electro/",
+      "description": "Emerged in the early 1990s in Europe, incorporating the abrasiveness of old school Industrial but with a greater focus on a horror-inspired atmosphere and harsh, distorted vocals.",
+      "level": "sub-3",
+      "parent": "EBM"
+    },
+    {
+      "name": "Futurepop",
+      "url": "https://rateyourmusic.com/genre/futurepop/",
+      "description": "Derivative of EBM, retaining its apocalyptic worldview but incorporating heavy influence from the melodic style of Synthpop.",
+      "level": "sub-3",
+      "parent": "EBM"
+    },
+    {
+      "name": "Futurepop",
+      "url": "https://rateyourmusic.com/genre/futurepop/",
+      "description": "Derivative of EBM, retaining its apocalyptic worldview but incorporating heavy influence from the melodic style of Synthpop.",
+      "level": "sub-3",
+      "parent": "EBM"
+    },
+    {
+      "name": "Futurepop",
+      "url": "https://rateyourmusic.com/genre/futurepop/",
+      "description": "Derivative of EBM, retaining its apocalyptic worldview but incorporating heavy influence from the melodic style of Synthpop.",
+      "level": "sub-3",
+      "parent": "EBM"
+    },
+    {
+      "name": "New Beat",
+      "url": "https://rateyourmusic.com/genre/new-beat/",
+      "description": "Emerged in the mid-1980s in Belgium; characterized by dark basslines, hard-hitting grooves and a slow tempo.",
+      "level": "sub-3",
+      "parent": "EBM"
+    },
+    {
+      "name": "New Beat",
+      "url": "https://rateyourmusic.com/genre/new-beat/",
+      "description": "Emerged in the mid-1980s in Belgium; characterized by dark basslines, hard-hitting grooves and a slow tempo.",
+      "level": "sub-3",
+      "parent": "EBM"
+    },
+    {
+      "name": "New Beat",
+      "url": "https://rateyourmusic.com/genre/new-beat/",
+      "description": "Emerged in the mid-1980s in Belgium; characterized by dark basslines, hard-hitting grooves and a slow tempo.",
+      "level": "sub-3",
+      "parent": "EBM"
+    }
+  ]
+}

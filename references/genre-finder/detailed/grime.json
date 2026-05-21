@@ -1,0 +1,38 @@
+{
+  "name": "Grime",
+  "description": "UK Garage-derived production style characterized by dark, fast-paced, often aggressive beats that commonly features fast-paced MCing.",
+  "url": "https://rateyourmusic.com/genre/grime/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Neo-Grime",
+      "url": "https://rateyourmusic.com/genre/neo-grime/",
+      "description": "Mixes Wave with Grime and other forms of UK Electronic music.",
+      "level": "sub-3",
+      "parent": "Grime"
+    },
+    {
+      "name": "Neo-Grime",
+      "url": "https://rateyourmusic.com/genre/neo-grime/",
+      "description": "Mixes Wave with Grime and other forms of UK Electronic music.",
+      "level": "sub-3",
+      "parent": "Grime"
+    },
+    {
+      "name": "Weightless",
+      "url": "https://rateyourmusic.com/genre/weightless/",
+      "description": "Typically instrumental, leftfield Grime style characterized by sparse, \"weightless\" percussion and spectral, atmospheric production.",
+      "level": "sub-3",
+      "parent": "Grime"
+    },
+    {
+      "name": "Weightless",
+      "url": "https://rateyourmusic.com/genre/weightless/",
+      "description": "Typically instrumental, leftfield Grime style characterized by sparse, \"weightless\" percussion and spectral, atmospheric production.",
+      "level": "sub-3",
+      "parent": "Grime"
+    }
+  ]
+}

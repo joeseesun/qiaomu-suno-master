@@ -1,0 +1,38 @@
+{
+  "name": "Batak Music",
+  "description": "Music of the Batak people, an Austronesian people native to Sumatra.",
+  "url": "https://rateyourmusic.com/genre/batak-music/",
+  "parent": "Indonesian Music",
+  "level": "sub-4",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Gondang",
+      "url": "https://rateyourmusic.com/genre/gondang/",
+      "description": "Traditional ensemble in Bataknese traditional music of North Sumatra, taking its name from its leading instrument - a unique set of toned drums.",
+      "level": "sub-5",
+      "parent": "Batak Music"
+    },
+    {
+      "name": "Gondang",
+      "url": "https://rateyourmusic.com/genre/gondang/",
+      "description": "Traditional ensemble in Bataknese traditional music of North Sumatra, taking its name from its leading instrument - a unique set of toned drums.",
+      "level": "sub-3",
+      "parent": "Batak Music"
+    },
+    {
+      "name": "Pop Batak",
+      "url": "https://rateyourmusic.com/genre/pop-batak/",
+      "description": "Combines Western genres of music and instrumentation with a typical Batak flair, like lyrics about Batak life and the use of some traditional Batak instruments.",
+      "level": "sub-5",
+      "parent": "Batak Music"
+    },
+    {
+      "name": "Pop Batak",
+      "url": "https://rateyourmusic.com/genre/pop-batak/",
+      "description": "Combines Western genres of music and instrumentation with a typical Batak flair, like lyrics about Batak life and the use of some traditional Batak instruments.",
+      "level": "sub-3",
+      "parent": "Batak Music"
+    }
+  ]
+}

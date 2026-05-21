@@ -1,0 +1,73 @@
+{
+  "name": "Turkish Music",
+  "description": "Traditions developed by the Turkish people.",
+  "url": "https://rateyourmusic.com/genre/turkish-music/",
+  "parent": "West Asian Music",
+  "level": "sub-3",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Anatolian Rock",
+      "url": "https://rateyourmusic.com/genre/anatolian-rock/",
+      "description": "Incorporates elements of Turkish Folk Music, particularly traditional instruments such as the bağlama and saz alongside traditional scales and melodies.",
+      "level": "sub-4",
+      "parent": "Turkish Music"
+    },
+    {
+      "name": "Arabesk",
+      "url": "https://rateyourmusic.com/genre/arabesk/",
+      "description": "Arabic-style productions by Turkish musicians, who also draw influence from their native forms, including Turkish Folk Music, Balkan Music, and Byzantine Music.",
+      "level": "sub-4",
+      "parent": "Turkish Music"
+    },
+    {
+      "name": "Fantezi",
+      "url": "https://rateyourmusic.com/genre/fantezi/",
+      "description": "Incorporates influences from Turkish Classical Music and Turkish Folk Music within a more accessible, commercial, and unorthodox context.",
+      "level": "sub-4",
+      "parent": "Turkish Music"
+    },
+    {
+      "name": "Kanto",
+      "url": "https://rateyourmusic.com/genre/kanto/",
+      "description": "Songs performed at the Tuluat Theaters of İstanbul in the late 19th century.",
+      "level": "sub-4",
+      "parent": "Turkish Music"
+    },
+    {
+      "name": "Ottoman Military Music",
+      "url": "https://rateyourmusic.com/genre/ottoman-military-music/",
+      "description": "Considered the oldest military marching band in the world; instruments used are cymbals, trumpet, kös drum, kettle drum, naqareh, bells, and cevgen.",
+      "level": "sub-4",
+      "parent": "Turkish Music"
+    },
+    {
+      "name": "Turkish Classical Music",
+      "url": "https://rateyourmusic.com/genre/turkish-classical-music/",
+      "description": "Classical music of Turkey, which uses the makam modal system, with the primary emphasis often being on the singers, who are accompanied by small ensembles.",
+      "level": "sub-4",
+      "parent": "Turkish Music"
+    },
+    {
+      "name": "Turkish Folk Music",
+      "url": "https://rateyourmusic.com/genre/turkish-folk-music/",
+      "description": "Traditional Folk Music of Turkish people combines the distinct cultural heritages and traditions of Anatolian civilisations and former Ottoman territories.",
+      "level": "sub-4",
+      "parent": "Turkish Music"
+    },
+    {
+      "name": "Turkish Pop",
+      "url": "https://rateyourmusic.com/genre/turkish-pop/",
+      "description": "Started in the late 1950s, when Turkish artists started to write their own lyrics to Western popular tunes.",
+      "level": "sub-4",
+      "parent": "Turkish Music"
+    },
+    {
+      "name": "Özgün Müzik",
+      "url": "https://rateyourmusic.com/genre/ozgun-muzik/",
+      "description": "Expansion of Turkish Folk Music with overtones from contemporary genres.",
+      "level": "sub-4",
+      "parent": "Turkish Music"
+    }
+  ]
+}

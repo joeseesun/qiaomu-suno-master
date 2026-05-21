@@ -1,0 +1,38 @@
+{
+  "name": "Happy Hardcore",
+  "description": "Emerged in the 1990s from the UK Breakbeat Hardcore scene; characterized by saccharine vocals, uplifting piano riffs and spacey effects, gradually developing to emphasize extremely fast-paced four-on-the-floor beats.",
+  "url": "https://rateyourmusic.com/genre/happy-hardcore/",
+  "parent": "Hardcore [EDM]",
+  "level": "sub-3",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Bouncy Techno",
+      "url": "https://rateyourmusic.com/genre/bouncy-techno/",
+      "description": "Average tempo of 160 to 180 BPM, four-on-the-floor beats, melodic and repetitive synth melodies, drums with hard kicks, short breaks, progressive stomping rhythms, and offbeat notes.",
+      "level": "sub-4",
+      "parent": "Happy Hardcore"
+    },
+    {
+      "name": "Bouncy Techno",
+      "url": "https://rateyourmusic.com/genre/bouncy-techno/",
+      "description": "Average tempo of 160 to 180 BPM, four-on-the-floor beats, melodic and repetitive synth melodies, drums with hard kicks, short breaks, progressive stomping rhythms, and offbeat notes.",
+      "level": "sub-4",
+      "parent": "Happy Hardcore"
+    },
+    {
+      "name": "UK Hardcore",
+      "url": "https://rateyourmusic.com/genre/uk-hardcore/",
+      "description": "Four-on-the-floor beat around 175 BPM, thick, prominent basslines, and uplifting synth leads, with a cleaner and more accessible sound than other forms of Hardcore [EDM].",
+      "level": "sub-4",
+      "parent": "Happy Hardcore"
+    },
+    {
+      "name": "UK Hardcore",
+      "url": "https://rateyourmusic.com/genre/uk-hardcore/",
+      "description": "Four-on-the-floor beat around 175 BPM, thick, prominent basslines, and uplifting synth leads, with a cleaner and more accessible sound than other forms of Hardcore [EDM].",
+      "level": "sub-4",
+      "parent": "Happy Hardcore"
+    }
+  ]
+}

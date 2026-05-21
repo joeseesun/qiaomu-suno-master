@@ -1,0 +1,17 @@
+{
+  "name": "Blues Rock",
+  "description": "Relies on the chords/scales and instrumental improvisation of Blues.",
+  "url": "https://rateyourmusic.com/genre/blues-rock/",
+  "parent": "Rock",
+  "level": "sub",
+  "children_count": 1,
+  "children": [
+    {
+      "name": "Boogie Rock",
+      "url": "https://rateyourmusic.com/genre/boogie-rock/",
+      "description": "Straightforward groove-oriented style influenced by Rock & Roll and Boogie Woogie.",
+      "level": "sub-2",
+      "parent": "Blues Rock"
+    }
+  ]
+}

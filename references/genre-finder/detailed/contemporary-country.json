@@ -1,0 +1,38 @@
+{
+  "name": "Contemporary Country",
+  "description": "Incorporates both heavily Pop-influenced styles, and the more pop-averse movement of Neo-Traditionalist Country.",
+  "url": "https://rateyourmusic.com/genre/contemporary-country/",
+  "parent": "Country",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Bro-Country",
+      "url": "https://rateyourmusic.com/genre/bro-country/",
+      "description": "21st century style with an often party-oriented sound and lyrical content, taking strong influence from Hard Rock, Hip Hop and Pop.",
+      "level": "sub-2",
+      "parent": "Contemporary Country"
+    },
+    {
+      "name": "Bro-Country",
+      "url": "https://rateyourmusic.com/genre/bro-country/",
+      "description": "21st century style with an often party-oriented sound and lyrical content, taking strong influence from Hard Rock, Hip Hop and Pop.",
+      "level": "sub-4",
+      "parent": "Contemporary Country"
+    },
+    {
+      "name": "Neo-Traditionalist Country",
+      "url": "https://rateyourmusic.com/genre/neo-traditionalist-country/",
+      "description": "Emerged in the late 1980s as a reaction to the increased dominance of Country Pop, moving instead towards a Honky Tonk-rooted sound that centered the Singer-Songwriter.",
+      "level": "sub-2",
+      "parent": "Contemporary Country"
+    },
+    {
+      "name": "Neo-Traditionalist Country",
+      "url": "https://rateyourmusic.com/genre/neo-traditionalist-country/",
+      "description": "Emerged in the late 1980s as a reaction to the increased dominance of Country Pop, moving instead towards a Honky Tonk-rooted sound that centered the Singer-Songwriter.",
+      "level": "sub-4",
+      "parent": "Contemporary Country"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Cape Verdean Music",
+  "description": "Music developed in the archipelago of Cape Verde.",
+  "url": "https://rateyourmusic.com/genre/cape-verdean-music/",
+  "parent": "African Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Batuque",
+      "url": "https://rateyourmusic.com/genre/batuque/",
+      "description": "Tradition from Cape Verde, unusual among the islands' music due to its lack of polyphonic singing and its usage of polyrhythms.",
+      "level": "sub-3",
+      "parent": "Cape Verdean Music"
+    },
+    {
+      "name": "Coladeira",
+      "url": "https://rateyourmusic.com/genre/coladeira/",
+      "description": "Originated as a more uptempo and lively form of Morna before bringing in outside influences.",
+      "level": "sub-3",
+      "parent": "Cape Verdean Music"
+    },
+    {
+      "name": "Funaná",
+      "url": "https://rateyourmusic.com/genre/funana/",
+      "description": "Upbeat Cape Verdean style which developed on the island of Santiago, based around the diatonic accordion and rhythm provided by the ferrinho.",
+      "level": "sub-3",
+      "parent": "Cape Verdean Music"
+    },
+    {
+      "name": "Morna",
+      "url": "https://rateyourmusic.com/genre/morna/",
+      "description": "Slow tempo, monotonality, and the use of the violão, the Cape Verdean classical guitar, as the main instrumental accompaniment.",
+      "level": "sub-3",
+      "parent": "Cape Verdean Music"
+    }
+  ]
+}

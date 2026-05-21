@@ -1,0 +1,276 @@
+{
+  "name": "Drum and Bass",
+  "description": "Fast, syncopated breakbeat patterns (often sampled or programmed) with prominent basslines, commonly within the 160-180 BPM range.",
+  "url": "https://rateyourmusic.com/genre/drum-and-bass/",
+  "parent": "Electronic Dance Music",
+  "level": "sub-2",
+  "children_count": 38,
+  "children": [
+    {
+      "name": "Atmospheric Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/atmospheric-drum-and-bass/",
+      "description": "Prominent in the mid-1990s, uses faster, de-emphasized breakbeats, and places a greater focus on melodic elements such as slow, warm basslines and atmospheric melodies inspired by Ambient and Ambient House.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Atmospheric Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/atmospheric-drum-and-bass/",
+      "description": "Prominent in the mid-1990s, uses faster, de-emphasized breakbeats, and places a greater focus on melodic elements such as slow, warm basslines and atmospheric melodies inspired by Ambient and Ambient House.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Dancefloor Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/dancefloor-drum-and-bass/",
+      "description": "Emerged in the late 2000s as a more accessible and polished style with melodic, prominent synth leads derived from Jump-Up and punchy, often synthesized drums.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Dancefloor Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/dancefloor-drum-and-bass/",
+      "description": "Emerged in the late 2000s as a more accessible and polished style with melodic, prominent synth leads derived from Jump-Up and punchy, often synthesized drums.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Darkstep",
+      "url": "https://rateyourmusic.com/genre/darkstep/",
+      "description": "Hard, uptempo and uses heavy breakbeats, Post-Industrial-influenced sound design, and horror movie samples to create a sinister, claustrophobic atmosphere.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Darkstep",
+      "url": "https://rateyourmusic.com/genre/darkstep/",
+      "description": "Hard, uptempo and uses heavy breakbeats, Post-Industrial-influenced sound design, and horror movie samples to create a sinister, claustrophobic atmosphere.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Deep Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/deep-drum-and-bass/",
+      "description": "Sub-bass-rich, repetitive, minimalist, and rhythm-focused production.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Deep Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/deep-drum-and-bass/",
+      "description": "Sub-bass-rich, repetitive, minimalist, and rhythm-focused production.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Drumfunk",
+      "url": "https://rateyourmusic.com/genre/drumfunk/",
+      "description": "Focuses on complex drum beats made to emulate live recordings.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Drumfunk",
+      "url": "https://rateyourmusic.com/genre/drumfunk/",
+      "description": "Focuses on complex drum beats made to emulate live recordings.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Drumstep",
+      "url": "https://rateyourmusic.com/genre/drumstep/",
+      "description": "Dancefloor-friendly, loud, and heavy combination of the drum programming and tempo of Jump-Up with the half-time rhythm and midrange LFO wobble of Brostep.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Drumstep",
+      "url": "https://rateyourmusic.com/genre/drumstep/",
+      "description": "Dancefloor-friendly, loud, and heavy combination of the drum programming and tempo of Jump-Up with the half-time rhythm and midrange LFO wobble of Brostep.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Dubwise Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/dubwise-drum-and-bass/",
+      "description": "Implementing Reggae and Dub influences, usually vocal dubs, delay effects, and reggae instrumentation, with the clean production and rhythms of post-2000s styles.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Dubwise Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/dubwise-drum-and-bass/",
+      "description": "Implementing Reggae and Dub influences, usually vocal dubs, delay effects, and reggae instrumentation, with the clean production and rhythms of post-2000s styles.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Footwork Jungle",
+      "url": "https://rateyourmusic.com/genre/footwork-jungle/",
+      "description": "Combining Footwork's archetypal percussion, skittering drum fills, handclaps, and syncopated rhythms, with Drum and Bass drum programming and breakbeats, merging the two into unconventional, frantic drumming and dense, off-kilter rhythms.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Footwork Jungle",
+      "url": "https://rateyourmusic.com/genre/footwork-jungle/",
+      "description": "Combining Footwork's archetypal percussion, skittering drum fills, handclaps, and syncopated rhythms, with Drum and Bass drum programming and breakbeats, merging the two into unconventional, frantic drumming and dense, off-kilter rhythms.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Halftime",
+      "url": "https://rateyourmusic.com/genre/halftime/",
+      "description": "Offshoot of Drum and Bass (mainly Neurofunk) characterized by off-kilter rhythms playing at around 80-85 BPM (half of normal DnB pace), influenced by Dubstep, Wonky, Trap [EDM], and Hip Hop.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Halftime",
+      "url": "https://rateyourmusic.com/genre/halftime/",
+      "description": "Offshoot of Drum and Bass (mainly Neurofunk) characterized by off-kilter rhythms playing at around 80-85 BPM (half of normal DnB pace), influenced by Dubstep, Wonky, Trap [EDM], and Hip Hop.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Hardstep",
+      "url": "https://rateyourmusic.com/genre/hardstep/",
+      "description": "Very compressed and sparse drumming, extensive use of kick drums and gritty, minimalistic production style with emphasis on simple, deep, modulated bass patterns.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Hardstep",
+      "url": "https://rateyourmusic.com/genre/hardstep/",
+      "description": "Very compressed and sparse drumming, extensive use of kick drums and gritty, minimalistic production style with emphasis on simple, deep, modulated bass patterns.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Jazzstep",
+      "url": "https://rateyourmusic.com/genre/jazzstep/",
+      "description": "Combines the rhythm and speed of Drum and Bass with the melodies, composition, and instrumentation of Jazz.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Jazzstep",
+      "url": "https://rateyourmusic.com/genre/jazzstep/",
+      "description": "Combines the rhythm and speed of Drum and Bass with the melodies, composition, and instrumentation of Jazz.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Jump-Up",
+      "url": "https://rateyourmusic.com/genre/jump-up/",
+      "description": "Emerged in the mid-1990s, characterized by loud \"wobbling\" basslines, simpler drum loops, and a light-hearted and warm sound.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Jump-Up",
+      "url": "https://rateyourmusic.com/genre/jump-up/",
+      "description": "Emerged in the mid-1990s, characterized by loud \"wobbling\" basslines, simpler drum loops, and a light-hearted and warm sound.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Jungle",
+      "url": "https://rateyourmusic.com/genre/jungle/",
+      "description": "Developed in the early 1990s from Breakbeat Hardcore, featuring rapid, chaotic-sounding breakbeats and strong basslines; known as the forerunner of most Drum and Bass styles.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Jungle",
+      "url": "https://rateyourmusic.com/genre/jungle/",
+      "description": "Developed in the early 1990s from Breakbeat Hardcore, featuring rapid, chaotic-sounding breakbeats and strong basslines; known as the forerunner of most Drum and Bass styles.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Liquid Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/liquid-drum-and-bass/",
+      "description": "Atmospheric and melodic genre that developed in the early 2000s; utilizes polished and smooth production, simpler structures, and originally sampled Funk and Soul.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Liquid Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/liquid-drum-and-bass/",
+      "description": "Atmospheric and melodic genre that developed in the early 2000s; utilizes polished and smooth production, simpler structures, and originally sampled Funk and Soul.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Minimal Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/minimal-drum-and-bass/",
+      "description": "Minimalist, sparse sound; emerged in two main 2000s strains, one Dubstep-inspired and one IDM-inspired, which crossed paths in the 2010s.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Minimal Drum and Bass",
+      "url": "https://rateyourmusic.com/genre/minimal-drum-and-bass/",
+      "description": "Minimalist, sparse sound; emerged in two main 2000s strains, one Dubstep-inspired and one IDM-inspired, which crossed paths in the 2010s.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Neurofunk",
+      "url": "https://rateyourmusic.com/genre/neurofunk/",
+      "description": "Focuses on technical songwriting with warped, complex bass sounds, distorted and modulated synths (often with repeated stabs over the basslines), and dark but clean production.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Neurofunk",
+      "url": "https://rateyourmusic.com/genre/neurofunk/",
+      "description": "Focuses on technical songwriting with warped, complex bass sounds, distorted and modulated synths (often with repeated stabs over the basslines), and dark but clean production.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Technoid",
+      "url": "https://rateyourmusic.com/genre/technoid/",
+      "description": "Influenced by the repetitive and mechanical sound of Techno.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Technoid",
+      "url": "https://rateyourmusic.com/genre/technoid/",
+      "description": "Influenced by the repetitive and mechanical sound of Techno.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Techstep",
+      "url": "https://rateyourmusic.com/genre/techstep/",
+      "description": "Futuristic, dark, and gritty sound; quantized and compressed drum breaks, distorted bass lines, and a focus on a sci-fi atmosphere and sampling sources.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Techstep",
+      "url": "https://rateyourmusic.com/genre/techstep/",
+      "description": "Futuristic, dark, and gritty sound; quantized and compressed drum breaks, distorted bass lines, and a focus on a sci-fi atmosphere and sampling sources.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Trancestep",
+      "url": "https://rateyourmusic.com/genre/trancestep/",
+      "description": "Combination of Trance melodies and structure with the breakbeats, fast tempos, and rolling basslines of Drum and Bass.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    },
+    {
+      "name": "Trancestep",
+      "url": "https://rateyourmusic.com/genre/trancestep/",
+      "description": "Combination of Trance melodies and structure with the breakbeats, fast tempos, and rolling basslines of Drum and Bass.",
+      "level": "sub-3",
+      "parent": "Drum and Bass"
+    }
+  ]
+}

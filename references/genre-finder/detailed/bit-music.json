@@ -1,0 +1,38 @@
+{
+  "name": "Bit Music",
+  "description": "Created by sound chips, cards, and sequencers found in video game consoles, personal computers, and arcade machines, as well as synthesizers emulating these sounds.",
+  "url": "https://rateyourmusic.com/genre/bit-music/",
+  "parent": "Electronic",
+  "level": "sub",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Chiptune",
+      "url": "https://rateyourmusic.com/genre/chiptune/",
+      "description": "Used primarily in the 1980s within the context of 8-bit Video Game Music, combining simple synthesized waveforms and noise in a compositionally limited but overtly melodic style.",
+      "level": "sub-2",
+      "parent": "Bit Music"
+    },
+    {
+      "name": "FM Synthesis",
+      "url": "https://rateyourmusic.com/genre/fm-synthesis/",
+      "description": "Sound synthesis that combines the simple waveforms of Chiptune with modulating oscillators to create a bouncier synthesizer sound that would be used in arcade cabinets and home video game consoles like the Sega Mega Drive/Genesis in the late 1980s.",
+      "level": "sub-2",
+      "parent": "Bit Music"
+    },
+    {
+      "name": "MIDI Music",
+      "url": "https://rateyourmusic.com/genre/midi-music/",
+      "description": "Intended for real-time sequenced playback via MIDI protocol on MIDI devices and used primarily in 1990s PC Video Game Music, arranger keyboards and karaoke.",
+      "level": "sub-2",
+      "parent": "Bit Music"
+    },
+    {
+      "name": "Sequencer & Tracker",
+      "url": "https://rateyourmusic.com/genre/sequencer-and-tracker/",
+      "description": "Composed for early home computer and game consoles from the late 1980s to the late 1990s, primarily for video game soundtracks.",
+      "level": "sub-2",
+      "parent": "Bit Music"
+    }
+  ]
+}

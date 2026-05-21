@@ -1,0 +1,430 @@
+{
+  "name": "Balkan Folk Music",
+  "description": "Traditional Folk Music of the Balkan region of Southeastern Europe.",
+  "url": "https://rateyourmusic.com/genre/balkan-folk-music/",
+  "parent": "European Folk Music",
+  "level": "sub-3",
+  "children_count": 60,
+  "children": [
+    {
+      "name": "Albanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/albanian-folk-music/",
+      "description": "Traditional Folk Music of Albania, including the area's traditions as well as influence from Turkish Music.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Albanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/albanian-folk-music/",
+      "description": "Traditional Folk Music of Albania, including the area's traditions as well as influence from Turkish Music.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Albanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/albanian-folk-music/",
+      "description": "Traditional Folk Music of Albania, including the area's traditions as well as influence from Turkish Music.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Albanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/albanian-folk-music/",
+      "description": "Traditional Folk Music of Albania, including the area's traditions as well as influence from Turkish Music.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Aromanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/aromanian-folk-music/",
+      "description": "Traditional Folk Music of the Aromanians.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Aromanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/aromanian-folk-music/",
+      "description": "Traditional Folk Music of the Aromanians.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Aromanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/aromanian-folk-music/",
+      "description": "Traditional Folk Music of the Aromanians.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Aromanian Folk Music",
+      "url": "https://rateyourmusic.com/genre/aromanian-folk-music/",
+      "description": "Traditional Folk Music of the Aromanians.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Balkan Brass Band",
+      "url": "https://rateyourmusic.com/genre/balkan-brass-band/",
+      "description": "Balkan Folk Music played by brass bands.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Balkan Brass Band",
+      "url": "https://rateyourmusic.com/genre/balkan-brass-band/",
+      "description": "Balkan Folk Music played by brass bands.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Balkan Brass Band",
+      "url": "https://rateyourmusic.com/genre/balkan-brass-band/",
+      "description": "Balkan Folk Music played by brass bands.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Balkan Brass Band",
+      "url": "https://rateyourmusic.com/genre/balkan-brass-band/",
+      "description": "Balkan Folk Music played by brass bands.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Bosnian Folk Music",
+      "url": "https://rateyourmusic.com/genre/bosnian-folk-music/",
+      "description": "Traditional Folk Music of the Bosnians.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Bosnian Folk Music",
+      "url": "https://rateyourmusic.com/genre/bosnian-folk-music/",
+      "description": "Traditional Folk Music of the Bosnians.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Bosnian Folk Music",
+      "url": "https://rateyourmusic.com/genre/bosnian-folk-music/",
+      "description": "Traditional Folk Music of the Bosnians.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Bosnian Folk Music",
+      "url": "https://rateyourmusic.com/genre/bosnian-folk-music/",
+      "description": "Traditional Folk Music of the Bosnians.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Bulgarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/bulgarian-folk-music/",
+      "description": "Consists of a variety of traditions and styles, with distinct sounds originating from current and historical regions such as Sofia, Dobrudzha, Macedonia and Thrace.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Bulgarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/bulgarian-folk-music/",
+      "description": "Consists of a variety of traditions and styles, with distinct sounds originating from current and historical regions such as Sofia, Dobrudzha, Macedonia and Thrace.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Bulgarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/bulgarian-folk-music/",
+      "description": "Consists of a variety of traditions and styles, with distinct sounds originating from current and historical regions such as Sofia, Dobrudzha, Macedonia and Thrace.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Bulgarian Folk Music",
+      "url": "https://rateyourmusic.com/genre/bulgarian-folk-music/",
+      "description": "Consists of a variety of traditions and styles, with distinct sounds originating from current and historical regions such as Sofia, Dobrudzha, Macedonia and Thrace.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Croatian Folk Music",
+      "url": "https://rateyourmusic.com/genre/croatian-folk-music/",
+      "description": "Traditional Folk Music of the Croats.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Croatian Folk Music",
+      "url": "https://rateyourmusic.com/genre/croatian-folk-music/",
+      "description": "Traditional Folk Music of the Croats.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Croatian Folk Music",
+      "url": "https://rateyourmusic.com/genre/croatian-folk-music/",
+      "description": "Traditional Folk Music of the Croats.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Croatian Folk Music",
+      "url": "https://rateyourmusic.com/genre/croatian-folk-music/",
+      "description": "Traditional Folk Music of the Croats.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Csango Folk Music",
+      "url": "https://rateyourmusic.com/genre/csango-folk-music/",
+      "description": "Folk of the Csango, an ethnic minority group with Hungarian origins living primarily in the Romanian Moldavia region, but who are also found in the Transylvania, Dobruja, Moldova, the Ukrainian Chernivtsi region, and the Tolna region of Hungary.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Csango Folk Music",
+      "url": "https://rateyourmusic.com/genre/csango-folk-music/",
+      "description": "Folk of the Csango, an ethnic minority group with Hungarian origins living primarily in the Romanian Moldavia region, but who are also found in the Transylvania, Dobruja, Moldova, the Ukrainian Chernivtsi region, and the Tolna region of Hungary.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Csango Folk Music",
+      "url": "https://rateyourmusic.com/genre/csango-folk-music/",
+      "description": "Folk of the Csango, an ethnic minority group with Hungarian origins living primarily in the Romanian Moldavia region, but who are also found in the Transylvania, Dobruja, Moldova, the Ukrainian Chernivtsi region, and the Tolna region of Hungary.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Csango Folk Music",
+      "url": "https://rateyourmusic.com/genre/csango-folk-music/",
+      "description": "Folk of the Csango, an ethnic minority group with Hungarian origins living primarily in the Romanian Moldavia region, but who are also found in the Transylvania, Dobruja, Moldova, the Ukrainian Chernivtsi region, and the Tolna region of Hungary.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Gagauz Folk Music",
+      "url": "https://rateyourmusic.com/genre/gagauz-folk-music/",
+      "description": "Gagauz people are a Turkic group living mostly in the southern Gagauzia region of Moldova, but also nearby areas like southwestern Ukraine and southeastern Romania.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Gagauz Folk Music",
+      "url": "https://rateyourmusic.com/genre/gagauz-folk-music/",
+      "description": "Gagauz people are a Turkic group living mostly in the southern Gagauzia region of Moldova, but also nearby areas like southwestern Ukraine and southeastern Romania.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Gagauz Folk Music",
+      "url": "https://rateyourmusic.com/genre/gagauz-folk-music/",
+      "description": "Gagauz people are a Turkic group living mostly in the southern Gagauzia region of Moldova, but also nearby areas like southwestern Ukraine and southeastern Romania.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Gagauz Folk Music",
+      "url": "https://rateyourmusic.com/genre/gagauz-folk-music/",
+      "description": "Gagauz people are a Turkic group living mostly in the southern Gagauzia region of Moldova, but also nearby areas like southwestern Ukraine and southeastern Romania.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Ganga",
+      "url": "https://rateyourmusic.com/genre/ganga/",
+      "description": "Dissonant form of polyphonic singing from the regions of Herzegovina and Dalmatia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Ganga",
+      "url": "https://rateyourmusic.com/genre/ganga/",
+      "description": "Dissonant form of polyphonic singing from the regions of Herzegovina and Dalmatia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Ganga",
+      "url": "https://rateyourmusic.com/genre/ganga/",
+      "description": "Dissonant form of polyphonic singing from the regions of Herzegovina and Dalmatia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Ganga",
+      "url": "https://rateyourmusic.com/genre/ganga/",
+      "description": "Dissonant form of polyphonic singing from the regions of Herzegovina and Dalmatia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Greek Folk Music",
+      "url": "https://rateyourmusic.com/genre/greek-folk-music/",
+      "description": "Greek folk traditions.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Greek Folk Music",
+      "url": "https://rateyourmusic.com/genre/greek-folk-music/",
+      "description": "Greek folk traditions.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Greek Folk Music",
+      "url": "https://rateyourmusic.com/genre/greek-folk-music/",
+      "description": "Greek folk traditions.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Greek Folk Music",
+      "url": "https://rateyourmusic.com/genre/greek-folk-music/",
+      "description": "Greek folk traditions.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Macedonian Folk Music",
+      "url": "https://rateyourmusic.com/genre/macedonian-folk-music/",
+      "description": "Folk music of Macedonians, a South Slavic ethnic group who are primarily associated with the Republic of Macedonia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Macedonian Folk Music",
+      "url": "https://rateyourmusic.com/genre/macedonian-folk-music/",
+      "description": "Folk music of Macedonians, a South Slavic ethnic group who are primarily associated with the Republic of Macedonia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Macedonian Folk Music",
+      "url": "https://rateyourmusic.com/genre/macedonian-folk-music/",
+      "description": "Folk music of Macedonians, a South Slavic ethnic group who are primarily associated with the Republic of Macedonia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Macedonian Folk Music",
+      "url": "https://rateyourmusic.com/genre/macedonian-folk-music/",
+      "description": "Folk music of Macedonians, a South Slavic ethnic group who are primarily associated with the Republic of Macedonia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Montenegrin Folk Music",
+      "url": "https://rateyourmusic.com/genre/montenegrin-folk-music/",
+      "description": "Traditional folk music of Montenegro.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Montenegrin Folk Music",
+      "url": "https://rateyourmusic.com/genre/montenegrin-folk-music/",
+      "description": "Traditional folk music of Montenegro.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Montenegrin Folk Music",
+      "url": "https://rateyourmusic.com/genre/montenegrin-folk-music/",
+      "description": "Traditional folk music of Montenegro.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Montenegrin Folk Music",
+      "url": "https://rateyourmusic.com/genre/montenegrin-folk-music/",
+      "description": "Traditional folk music of Montenegro.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Muzică lăutărească",
+      "url": "https://rateyourmusic.com/genre/muzica-lautareasca/",
+      "description": "Strongly influenced by folk from Turkey, Russia, and Western Europe, and even by Byzantine Church music.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Muzică lăutărească",
+      "url": "https://rateyourmusic.com/genre/muzica-lautareasca/",
+      "description": "Strongly influenced by folk from Turkey, Russia, and Western Europe, and even by Byzantine Church music.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Muzică lăutărească",
+      "url": "https://rateyourmusic.com/genre/muzica-lautareasca/",
+      "description": "Strongly influenced by folk from Turkey, Russia, and Western Europe, and even by Byzantine Church music.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Muzică lăutărească",
+      "url": "https://rateyourmusic.com/genre/muzica-lautareasca/",
+      "description": "Strongly influenced by folk from Turkey, Russia, and Western Europe, and even by Byzantine Church music.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Serbian Folk Music",
+      "url": "https://rateyourmusic.com/genre/serbian-folk-music/",
+      "description": "Traditional Folk Music of the Serbian people.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Serbian Folk Music",
+      "url": "https://rateyourmusic.com/genre/serbian-folk-music/",
+      "description": "Traditional Folk Music of the Serbian people.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Serbian Folk Music",
+      "url": "https://rateyourmusic.com/genre/serbian-folk-music/",
+      "description": "Traditional Folk Music of the Serbian people.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Serbian Folk Music",
+      "url": "https://rateyourmusic.com/genre/serbian-folk-music/",
+      "description": "Traditional Folk Music of the Serbian people.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Starogradska muzika",
+      "url": "https://rateyourmusic.com/genre/starogradska-muzika/",
+      "description": "Translated as \"old city music\", this is the urban traditional music of Macedonia and Serbia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Starogradska muzika",
+      "url": "https://rateyourmusic.com/genre/starogradska-muzika/",
+      "description": "Translated as \"old city music\", this is the urban traditional music of Macedonia and Serbia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Starogradska muzika",
+      "url": "https://rateyourmusic.com/genre/starogradska-muzika/",
+      "description": "Translated as \"old city music\", this is the urban traditional music of Macedonia and Serbia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    },
+    {
+      "name": "Starogradska muzika",
+      "url": "https://rateyourmusic.com/genre/starogradska-muzika/",
+      "description": "Translated as \"old city music\", this is the urban traditional music of Macedonia and Serbia.",
+      "level": "sub-4",
+      "parent": "Balkan Folk Music"
+    }
+  ]
+}

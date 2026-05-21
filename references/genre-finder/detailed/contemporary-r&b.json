@@ -1,0 +1,45 @@
+{
+  "name": "Contemporary R&B",
+  "description": "Soulful, passionate and melismatic vocals originally derived from popular Soul and Disco, as well as smooth, lush and often synthesized production variously influenced by Hip Hop, Funk, and related strands of Pop.",
+  "url": "https://rateyourmusic.com/genre/contemporary-randb/",
+  "parent": "R&B",
+  "level": "sub",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "Alternative R&B",
+      "url": "https://rateyourmusic.com/genre/alternative-randb/",
+      "description": "Deviating from the traditional styles of Contemporary R&B and featuring smooth, reverberated, Electronic-influenced production with heavy bass and often reverberated vocals.",
+      "level": "sub-2",
+      "parent": "Contemporary R&B"
+    },
+    {
+      "name": "Hip Hop Soul",
+      "url": "https://rateyourmusic.com/genre/hip-hop-soul/",
+      "description": "Hip Hop-oriented style that evolved out of New Jack Swing in the early 1990s.",
+      "level": "sub-2",
+      "parent": "Contemporary R&B"
+    },
+    {
+      "name": "New Jack Swing",
+      "url": "https://rateyourmusic.com/genre/new-jack-swing/",
+      "description": "Mixes light Hip Hop & Funk production techniques with Contemporary R&B vocals and melodies as well as swinging and danceable drum grooves.",
+      "level": "sub-2",
+      "parent": "Contemporary R&B"
+    },
+    {
+      "name": "Trap Soul",
+      "url": "https://rateyourmusic.com/genre/trap-soul/",
+      "description": "Mixes passionate vocals derived from Contemporary R&B with laid-back, nocturnal and atmospheric Trap production.",
+      "level": "sub-2",
+      "parent": "Contemporary R&B"
+    },
+    {
+      "name": "UK Street Soul",
+      "url": "https://rateyourmusic.com/genre/uk-street-soul/",
+      "description": "Emerged in the late 1980s and early 1990s; combines raw basslines and breakbeats with Contemporary R&B/Soul vocals.",
+      "level": "sub-2",
+      "parent": "Contemporary R&B"
+    }
+  ]
+}

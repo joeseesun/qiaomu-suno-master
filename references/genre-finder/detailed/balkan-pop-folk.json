@@ -1,0 +1,122 @@
+{
+  "name": "Balkan Pop-Folk",
+  "description": "Balkan popular music which blends Pop, Folk, and ethnic music.",
+  "url": "https://rateyourmusic.com/genre/balkan-pop-folk/",
+  "parent": "Pop",
+  "level": "sub",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Chalga",
+      "url": "https://rateyourmusic.com/genre/chalga/",
+      "description": "Bulgarian blend of Contemporary Folk (Turkish, Bulgarian, Arabic & Romani) with Dance-Pop.",
+      "level": "sub-2",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Chalga",
+      "url": "https://rateyourmusic.com/genre/chalga/",
+      "description": "Bulgarian blend of Contemporary Folk (Turkish, Bulgarian, Arabic & Romani) with Dance-Pop.",
+      "level": "sub-4",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Manele",
+      "url": "https://rateyourmusic.com/genre/manele/",
+      "description": "Mixture of Romanian Music with Turkish, Middle Eastern, Balkan, and Romani influences, usually electronic in production.",
+      "level": "sub-2",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Manele",
+      "url": "https://rateyourmusic.com/genre/manele/",
+      "description": "Mixture of Romanian Music with Turkish, Middle Eastern, Balkan, and Romani influences, usually electronic in production.",
+      "level": "sub-4",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Modern Laika",
+      "url": "https://rateyourmusic.com/genre/modern-laika/",
+      "description": "Laiki music mixed with popular Western music, most notably pop and dance.",
+      "level": "sub-2",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Modern Laika",
+      "url": "https://rateyourmusic.com/genre/modern-laika/",
+      "description": "Laiki music mixed with popular Western music, most notably pop and dance.",
+      "level": "sub-4",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Musika popullore",
+      "url": "https://rateyourmusic.com/genre/musika-popullore/",
+      "description": "Tradition in Albania consisting of light, commercial, amplified Albanian Folk Music usually professionally arranged and manufactured in recording studios alongside video clips.",
+      "level": "sub-2",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Musika popullore",
+      "url": "https://rateyourmusic.com/genre/musika-popullore/",
+      "description": "Tradition in Albania consisting of light, commercial, amplified Albanian Folk Music usually professionally arranged and manufactured in recording studios alongside video clips.",
+      "level": "sub-4",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Muzică de mahala",
+      "url": "https://rateyourmusic.com/genre/muzica-de-mahala/",
+      "description": "Appeared in the 1980s, incorporating modern instruments and based on the model of Balkan Pop-Folk in neighboring countries.",
+      "level": "sub-2",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Muzică de mahala",
+      "url": "https://rateyourmusic.com/genre/muzica-de-mahala/",
+      "description": "Appeared in the 1980s, incorporating modern instruments and based on the model of Balkan Pop-Folk in neighboring countries.",
+      "level": "sub-4",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Skiladika",
+      "url": "https://rateyourmusic.com/genre/skiladika/",
+      "description": "Greek popular artists who used more Arabian elements; originally a derogatory term used to refer to a more decadent side of Laika.",
+      "level": "sub-2",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Skiladika",
+      "url": "https://rateyourmusic.com/genre/skiladika/",
+      "description": "Greek popular artists who used more Arabian elements; originally a derogatory term used to refer to a more decadent side of Laika.",
+      "level": "sub-4",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Tallava",
+      "url": "https://rateyourmusic.com/genre/tallava/",
+      "description": "Mixture of Romani, Greek, Turkish, Albanian, and Slavic music, which incorporates Dance-Pop elements, and is very popular in Albania and Kosovo.",
+      "level": "sub-2",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Tallava",
+      "url": "https://rateyourmusic.com/genre/tallava/",
+      "description": "Mixture of Romani, Greek, Turkish, Albanian, and Slavic music, which incorporates Dance-Pop elements, and is very popular in Albania and Kosovo.",
+      "level": "sub-4",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Turbo-Folk",
+      "url": "https://rateyourmusic.com/genre/turbo-folk/",
+      "description": "Originated in Serbia during the 1980s, fusing traditional Western Balkan Folk Music with elements of contemporary popular music.",
+      "level": "sub-2",
+      "parent": "Balkan Pop-Folk"
+    },
+    {
+      "name": "Turbo-Folk",
+      "url": "https://rateyourmusic.com/genre/turbo-folk/",
+      "description": "Originated in Serbia during the 1980s, fusing traditional Western Balkan Folk Music with elements of contemporary popular music.",
+      "level": "sub-4",
+      "parent": "Balkan Pop-Folk"
+    }
+  ]
+}

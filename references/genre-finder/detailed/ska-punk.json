@@ -1,0 +1,31 @@
+{
+  "name": "Ska Punk",
+  "description": "Utilizes skank rhythms, walking basslines, and often horn instrumentation in combination with a fast-paced Punk Rock playstyle.",
+  "url": "https://rateyourmusic.com/genre/ska-punk/",
+  "parent": "Punk Rock",
+  "level": "sub-2",
+  "children_count": 3,
+  "children": [
+    {
+      "name": "Skacore",
+      "url": "https://rateyourmusic.com/genre/skacore/",
+      "description": "Fuses skank rhythms and frantic blasts of horns with hardcore intensity.",
+      "level": "sub-3",
+      "parent": "Ska Punk"
+    },
+    {
+      "name": "Skacore",
+      "url": "https://rateyourmusic.com/genre/skacore/",
+      "description": "Fuses skank rhythms and frantic blasts of horns with hardcore intensity.",
+      "level": "sub-4",
+      "parent": "Ska Punk"
+    },
+    {
+      "name": "Skacore",
+      "url": "https://rateyourmusic.com/genre/skacore/",
+      "description": "Fuses skank rhythms and frantic blasts of horns with hardcore intensity.",
+      "level": "sub-3",
+      "parent": "Ska Punk"
+    }
+  ]
+}

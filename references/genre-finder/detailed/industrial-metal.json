@@ -1,0 +1,52 @@
+{
+  "name": "Industrial Metal",
+  "description": "Incorporates the abrasive and heavy sound of Industrial into Metal, using elements like synthesizers and drum machines.",
+  "url": "https://rateyourmusic.com/genre/industrial-metal/",
+  "parent": "Post-Industrial",
+  "level": "sub-2",
+  "children_count": 6,
+  "children": [
+    {
+      "name": "Cyber Metal",
+      "url": "https://rateyourmusic.com/genre/cyber-metal/",
+      "description": "Originated around 1999, influenced by EBM and Aggrotech with more melodic and less repetitive riffs as well as harsh vocals.",
+      "level": "sub-3",
+      "parent": "Industrial Metal"
+    },
+    {
+      "name": "Cyber Metal",
+      "url": "https://rateyourmusic.com/genre/cyber-metal/",
+      "description": "Originated around 1999, influenced by EBM and Aggrotech with more melodic and less repetitive riffs as well as harsh vocals.",
+      "level": "sub-2",
+      "parent": "Industrial Metal"
+    },
+    {
+      "name": "Cyber Metal",
+      "url": "https://rateyourmusic.com/genre/cyber-metal/",
+      "description": "Originated around 1999, influenced by EBM and Aggrotech with more melodic and less repetitive riffs as well as harsh vocals.",
+      "level": "sub-3",
+      "parent": "Industrial Metal"
+    },
+    {
+      "name": "Neue Deutsche Härte",
+      "url": "https://rateyourmusic.com/genre/neue-deutsche-harte/",
+      "description": "Alternative Metal and Industrial Metal that incorporates various aspects of electronic music, specifically Electronic Dance Music.",
+      "level": "sub-3",
+      "parent": "Industrial Metal"
+    },
+    {
+      "name": "Neue Deutsche Härte",
+      "url": "https://rateyourmusic.com/genre/neue-deutsche-harte/",
+      "description": "Alternative Metal and Industrial Metal that incorporates various aspects of electronic music, specifically Electronic Dance Music.",
+      "level": "sub-2",
+      "parent": "Industrial Metal"
+    },
+    {
+      "name": "Neue Deutsche Härte",
+      "url": "https://rateyourmusic.com/genre/neue-deutsche-harte/",
+      "description": "Alternative Metal and Industrial Metal that incorporates various aspects of electronic music, specifically Electronic Dance Music.",
+      "level": "sub-3",
+      "parent": "Industrial Metal"
+    }
+  ]
+}

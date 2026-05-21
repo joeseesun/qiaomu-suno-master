@@ -1,0 +1,73 @@
+{
+  "name": "Arabic Classical Music",
+  "description": "Arabic Classical Music tradition, whose guidelines for modulation, rhythm, and tuning were set down in treatises in the 8th and 9th centuries, based around Maqāmic Music.",
+  "url": "https://rateyourmusic.com/genre/arabic-classical-music/",
+  "parent": "Maqāmic Music",
+  "level": "sub-2",
+  "children_count": 9,
+  "children": [
+    {
+      "name": "Andalusian Classical Music",
+      "url": "https://rateyourmusic.com/genre/andalusian-classical-music/",
+      "description": "Arabic Classical Music tradition that had its beginnings in Al-Andalus, the medieval Islamic Iberian peninsula, which later spread and developed in the Maghreb.",
+      "level": "sub-3",
+      "parent": "Arabic Classical Music"
+    },
+    {
+      "name": "Andalusian Classical Music",
+      "url": "https://rateyourmusic.com/genre/andalusian-classical-music/",
+      "description": "Arabic Classical Music tradition that had its beginnings in Al-Andalus, the medieval Islamic Iberian peninsula, which later spread and developed in the Maghreb.",
+      "level": "sub-3",
+      "parent": "Arabic Classical Music"
+    },
+    {
+      "name": "Andalusian Classical Music",
+      "url": "https://rateyourmusic.com/genre/andalusian-classical-music/",
+      "description": "Arabic Classical Music tradition that had its beginnings in Al-Andalus, the medieval Islamic Iberian peninsula, which later spread and developed in the Maghreb.",
+      "level": "sub-3",
+      "parent": "Arabic Classical Music"
+    },
+    {
+      "name": "Iraqi Maqam",
+      "url": "https://rateyourmusic.com/genre/iraqi-maqam/",
+      "description": "Highly structured but semi-improvised and rhythmically complex compositions built around set structures which consist of specific maqam modes.",
+      "level": "sub-3",
+      "parent": "Arabic Classical Music"
+    },
+    {
+      "name": "Iraqi Maqam",
+      "url": "https://rateyourmusic.com/genre/iraqi-maqam/",
+      "description": "Highly structured but semi-improvised and rhythmically complex compositions built around set structures which consist of specific maqam modes.",
+      "level": "sub-3",
+      "parent": "Arabic Classical Music"
+    },
+    {
+      "name": "Iraqi Maqam",
+      "url": "https://rateyourmusic.com/genre/iraqi-maqam/",
+      "description": "Highly structured but semi-improvised and rhythmically complex compositions built around set structures which consist of specific maqam modes.",
+      "level": "sub-3",
+      "parent": "Arabic Classical Music"
+    },
+    {
+      "name": "Sawt",
+      "url": "https://rateyourmusic.com/genre/sawt/",
+      "description": "Poetic vocal form with complex rhythms, emotive singing, and distinctive lute-backed melodies commonly found in the Gulf region and based on a maqam system.",
+      "level": "sub-3",
+      "parent": "Arabic Classical Music"
+    },
+    {
+      "name": "Sawt",
+      "url": "https://rateyourmusic.com/genre/sawt/",
+      "description": "Poetic vocal form with complex rhythms, emotive singing, and distinctive lute-backed melodies commonly found in the Gulf region and based on a maqam system.",
+      "level": "sub-3",
+      "parent": "Arabic Classical Music"
+    },
+    {
+      "name": "Sawt",
+      "url": "https://rateyourmusic.com/genre/sawt/",
+      "description": "Poetic vocal form with complex rhythms, emotive singing, and distinctive lute-backed melodies commonly found in the Gulf region and based on a maqam system.",
+      "level": "sub-3",
+      "parent": "Arabic Classical Music"
+    }
+  ]
+}

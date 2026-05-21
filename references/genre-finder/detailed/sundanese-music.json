@@ -1,0 +1,122 @@
+{
+  "name": "Sundanese Music",
+  "description": "Music of the Sundanese people.",
+  "url": "https://rateyourmusic.com/genre/sundanese-music/",
+  "parent": "Indonesian Music",
+  "level": "sub-4",
+  "children_count": 16,
+  "children": [
+    {
+      "name": "Gamelan degung",
+      "url": "https://rateyourmusic.com/genre/gamelan-degung/",
+      "description": "Sundanese Gamelan performed by a small orchestra of bronze gongs and metallophones.",
+      "level": "sub-5",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Gamelan degung",
+      "url": "https://rateyourmusic.com/genre/gamelan-degung/",
+      "description": "Sundanese Gamelan performed by a small orchestra of bronze gongs and metallophones.",
+      "level": "sub-3",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Jaipongan",
+      "url": "https://rateyourmusic.com/genre/jaipongan/",
+      "description": "Sundanese performance music; uses instruments typical for Gamelan ensembles, but expands the drum section.",
+      "level": "sub-5",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Jaipongan",
+      "url": "https://rateyourmusic.com/genre/jaipongan/",
+      "description": "Sundanese performance music; uses instruments typical for Gamelan ensembles, but expands the drum section.",
+      "level": "sub-3",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Kacapi suling",
+      "url": "https://rateyourmusic.com/genre/kacapi-suling/",
+      "description": "Sundanese music played by an ensemble consisting of one or two kacapis (zithers), one suling (flute), and occasionally a set of kendangs (drums).",
+      "level": "sub-5",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Kacapi suling",
+      "url": "https://rateyourmusic.com/genre/kacapi-suling/",
+      "description": "Sundanese music played by an ensemble consisting of one or two kacapis (zithers), one suling (flute), and occasionally a set of kendangs (drums).",
+      "level": "sub-3",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Ketuk tilu",
+      "url": "https://rateyourmusic.com/genre/ketuk-tilu/",
+      "description": "Traditional village dance and its accompanying music, which is played by a small gong-chime ensemble and accompanied by a Sundanese singer.",
+      "level": "sub-5",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Ketuk tilu",
+      "url": "https://rateyourmusic.com/genre/ketuk-tilu/",
+      "description": "Traditional village dance and its accompanying music, which is played by a small gong-chime ensemble and accompanied by a Sundanese singer.",
+      "level": "sub-3",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Kliningan",
+      "url": "https://rateyourmusic.com/genre/kliningan/",
+      "description": "Sundanese vocal music accompanied by Gamelan instrumentation, typically of the gamelan saléndro variety.",
+      "level": "sub-5",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Kliningan",
+      "url": "https://rateyourmusic.com/genre/kliningan/",
+      "description": "Sundanese vocal music accompanied by Gamelan instrumentation, typically of the gamelan saléndro variety.",
+      "level": "sub-3",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Pop Sunda",
+      "url": "https://rateyourmusic.com/genre/pop-sunda/",
+      "description": "Mixes Sundanese traditions with Pop structures and instrumentation.",
+      "level": "sub-5",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Pop Sunda",
+      "url": "https://rateyourmusic.com/genre/pop-sunda/",
+      "description": "Mixes Sundanese traditions with Pop structures and instrumentation.",
+      "level": "sub-3",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Tarawangsa",
+      "url": "https://rateyourmusic.com/genre/tarawangsa/",
+      "description": "Sacred ceremonial music originating in the Rancakalong district, played with the jentreng harp and the tarawangsa bowed lute.",
+      "level": "sub-5",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Tarawangsa",
+      "url": "https://rateyourmusic.com/genre/tarawangsa/",
+      "description": "Sacred ceremonial music originating in the Rancakalong district, played with the jentreng harp and the tarawangsa bowed lute.",
+      "level": "sub-3",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Tembang Sunda Cianjuran",
+      "url": "https://rateyourmusic.com/genre/tembang-sunda-cianjuran/",
+      "description": "Sung free-verse poetry in Sundanese language, usually by a solo vocalist, accompanied by a mellow-sounding Kacapi suling ensemble.",
+      "level": "sub-5",
+      "parent": "Sundanese Music"
+    },
+    {
+      "name": "Tembang Sunda Cianjuran",
+      "url": "https://rateyourmusic.com/genre/tembang-sunda-cianjuran/",
+      "description": "Sung free-verse poetry in Sundanese language, usually by a solo vocalist, accompanied by a mellow-sounding Kacapi suling ensemble.",
+      "level": "sub-3",
+      "parent": "Sundanese Music"
+    }
+  ]
+}

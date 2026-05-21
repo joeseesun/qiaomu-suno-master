@@ -1,0 +1,220 @@
+{
+  "name": "West Asian Folk Music",
+  "description": "Traditional Folk Music of West Asia, a region that covers much of what is commonly known in English as the Middle East (alternatively Southwestern Asia), includes the distinct but interconnected traditions of numerous ethnic groups.",
+  "url": "https://rateyourmusic.com/genre/west-asian-folk-music/",
+  "parent": "Traditional Folk Music",
+  "level": "sub-2",
+  "children_count": 30,
+  "children": [
+    {
+      "name": "Alevi Folk Music",
+      "url": "https://rateyourmusic.com/genre/alevi-folk-music/",
+      "description": "Anatolian folk pioneered by Turkish poets and bards, connected to the Alevist heterodox Islamic tradition.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Alevi Folk Music",
+      "url": "https://rateyourmusic.com/genre/alevi-folk-music/",
+      "description": "Anatolian folk pioneered by Turkish poets and bards, connected to the Alevist heterodox Islamic tradition.",
+      "level": "sub-4",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Alevi Folk Music",
+      "url": "https://rateyourmusic.com/genre/alevi-folk-music/",
+      "description": "Anatolian folk pioneered by Turkish poets and bards, connected to the Alevist heterodox Islamic tradition.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Armenian Folk Music",
+      "url": "https://rateyourmusic.com/genre/armenian-folk-music/",
+      "description": "Traditional Folk Music of the Armenians, which is attested in historic Armenia since antiquity, with unique regional dialects unified by general melodic structure.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Armenian Folk Music",
+      "url": "https://rateyourmusic.com/genre/armenian-folk-music/",
+      "description": "Traditional Folk Music of the Armenians, which is attested in historic Armenia since antiquity, with unique regional dialects unified by general melodic structure.",
+      "level": "sub-4",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Armenian Folk Music",
+      "url": "https://rateyourmusic.com/genre/armenian-folk-music/",
+      "description": "Traditional Folk Music of the Armenians, which is attested in historic Armenia since antiquity, with unique regional dialects unified by general melodic structure.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Assyrian Folk Music",
+      "url": "https://rateyourmusic.com/genre/assyrian-folk-music/",
+      "description": "Folk of the Assyrian or Syriac people, who are indigenous to the Upper Mesopotamian region roughly corresponding to ancient Assyria (which includes modern-day northern Iraq, northwestern Iran, northeastern Syria, and southeastern Turkey).",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Assyrian Folk Music",
+      "url": "https://rateyourmusic.com/genre/assyrian-folk-music/",
+      "description": "Folk of the Assyrian or Syriac people, who are indigenous to the Upper Mesopotamian region roughly corresponding to ancient Assyria (which includes modern-day northern Iraq, northwestern Iran, northeastern Syria, and southeastern Turkey).",
+      "level": "sub-4",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Assyrian Folk Music",
+      "url": "https://rateyourmusic.com/genre/assyrian-folk-music/",
+      "description": "Folk of the Assyrian or Syriac people, who are indigenous to the Upper Mesopotamian region roughly corresponding to ancient Assyria (which includes modern-day northern Iraq, northwestern Iran, northeastern Syria, and southeastern Turkey).",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Ayyalah",
+      "url": "https://rateyourmusic.com/genre/ayyalah/",
+      "description": "Traditional Khaliji-Bedouin weapon performance, commonly found across the United Arab Emirates and Northwestern Oman.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Ayyalah",
+      "url": "https://rateyourmusic.com/genre/ayyalah/",
+      "description": "Traditional Khaliji-Bedouin weapon performance, commonly found across the United Arab Emirates and Northwestern Oman.",
+      "level": "sub-4",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Ayyalah",
+      "url": "https://rateyourmusic.com/genre/ayyalah/",
+      "description": "Traditional Khaliji-Bedouin weapon performance, commonly found across the United Arab Emirates and Northwestern Oman.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Fijiri",
+      "url": "https://rateyourmusic.com/genre/fijiri/",
+      "description": "Deeply rooted in the Persian Gulf pearl diving culture, and sung during weekly gatherings combining solo and choral sections with minimal percussion.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Fijiri",
+      "url": "https://rateyourmusic.com/genre/fijiri/",
+      "description": "Deeply rooted in the Persian Gulf pearl diving culture, and sung during weekly gatherings combining solo and choral sections with minimal percussion.",
+      "level": "sub-4",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Fijiri",
+      "url": "https://rateyourmusic.com/genre/fijiri/",
+      "description": "Deeply rooted in the Persian Gulf pearl diving culture, and sung during weekly gatherings combining solo and choral sections with minimal percussion.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Israeli Folk Music",
+      "url": "https://rateyourmusic.com/genre/israeli-folk-music/",
+      "description": "Folk of the Jewish settlers of Eretz Yisra'el.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Israeli Folk Music",
+      "url": "https://rateyourmusic.com/genre/israeli-folk-music/",
+      "description": "Folk of the Jewish settlers of Eretz Yisra'el.",
+      "level": "sub-4",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Israeli Folk Music",
+      "url": "https://rateyourmusic.com/genre/israeli-folk-music/",
+      "description": "Folk of the Jewish settlers of Eretz Yisra'el.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Luri Folk Music",
+      "url": "https://rateyourmusic.com/genre/luri-folk-music/",
+      "description": "Traditional Folk Music of the Luri people of southwestern Iran.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Luri Folk Music",
+      "url": "https://rateyourmusic.com/genre/luri-folk-music/",
+      "description": "Traditional Folk Music of the Luri people of southwestern Iran.",
+      "level": "sub-4",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Luri Folk Music",
+      "url": "https://rateyourmusic.com/genre/luri-folk-music/",
+      "description": "Traditional Folk Music of the Luri people of southwestern Iran.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Meyxana",
+      "url": "https://rateyourmusic.com/genre/meyxana/",
+      "description": "Azerbaijani folk recitative genre.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Meyxana",
+      "url": "https://rateyourmusic.com/genre/meyxana/",
+      "description": "Azerbaijani folk recitative genre.",
+      "level": "sub-4",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Meyxana",
+      "url": "https://rateyourmusic.com/genre/meyxana/",
+      "description": "Azerbaijani folk recitative genre.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Persian Folk Music",
+      "url": "https://rateyourmusic.com/genre/persian-folk-music/",
+      "description": "Traditional Folk Music of the Persian people.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Persian Folk Music",
+      "url": "https://rateyourmusic.com/genre/persian-folk-music/",
+      "description": "Traditional Folk Music of the Persian people.",
+      "level": "sub-4",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Persian Folk Music",
+      "url": "https://rateyourmusic.com/genre/persian-folk-music/",
+      "description": "Traditional Folk Music of the Persian people.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Turkish Folk Music",
+      "url": "https://rateyourmusic.com/genre/turkish-folk-music/",
+      "description": "Traditional Folk Music of Turkish people combines the distinct cultural heritages and traditions of Anatolian civilisations and former Ottoman territories.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Turkish Folk Music",
+      "url": "https://rateyourmusic.com/genre/turkish-folk-music/",
+      "description": "Traditional Folk Music of Turkish people combines the distinct cultural heritages and traditions of Anatolian civilisations and former Ottoman territories.",
+      "level": "sub-4",
+      "parent": "West Asian Folk Music"
+    },
+    {
+      "name": "Turkish Folk Music",
+      "url": "https://rateyourmusic.com/genre/turkish-folk-music/",
+      "description": "Traditional Folk Music of Turkish people combines the distinct cultural heritages and traditions of Anatolian civilisations and former Ottoman territories.",
+      "level": "sub-3",
+      "parent": "West Asian Folk Music"
+    }
+  ]
+}

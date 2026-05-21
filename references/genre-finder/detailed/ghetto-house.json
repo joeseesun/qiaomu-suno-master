@@ -1,0 +1,24 @@
+{
+  "name": "Ghetto House",
+  "description": "Rough sound based around minimal drum machine-driven tracks and heavy usage of vocal samples.",
+  "url": "https://rateyourmusic.com/genre/ghetto-house/",
+  "parent": "House",
+  "level": "sub-3",
+  "children_count": 2,
+  "children": [
+    {
+      "name": "Juke",
+      "url": "https://rateyourmusic.com/genre/juke/",
+      "description": "Faster than Ghetto House, playing at 160bpm, and makes striking use of unconventional drum patterns which differ wildly from other House styles.",
+      "level": "sub-4",
+      "parent": "Ghetto House"
+    },
+    {
+      "name": "Juke",
+      "url": "https://rateyourmusic.com/genre/juke/",
+      "description": "Faster than Ghetto House, playing at 160bpm, and makes striking use of unconventional drum patterns which differ wildly from other House styles.",
+      "level": "sub-4",
+      "parent": "Ghetto House"
+    }
+  ]
+}

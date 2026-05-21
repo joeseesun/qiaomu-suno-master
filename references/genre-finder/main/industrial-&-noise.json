@@ -1,0 +1,29 @@
+{
+  "name": "Industrial & Noise",
+  "description": "Umbrella encompassing Noise and Industrial, as well as later derivatives that combine the latter aesthetics with other styles and in more accessible directions which fall under Post-Industrial.",
+  "url": "https://rateyourmusic.com/genre/industrial-and-noise/",
+  "sub_genres_count": 3,
+  "sub_genres": [
+    {
+      "name": "Industrial",
+      "url": "https://rateyourmusic.com/genre/industrial/",
+      "description": "Emerged out of Punk and avant-garde art movements in the mid-1970s, often characterized by a bleak, mechanical atmosphere, the use of metallic percussion as well as other unconventional instruments, and extensive use of sampling influenced by Musique concrète.",
+      "level": "sub",
+      "parent": "Industrial & Noise"
+    },
+    {
+      "name": "Noise",
+      "url": "https://rateyourmusic.com/genre/noise/",
+      "description": "Strays away from conventional structure, tonality, and composition and consists predominantly of noise.",
+      "level": "sub",
+      "parent": "Industrial & Noise"
+    },
+    {
+      "name": "Post-Industrial",
+      "url": "https://rateyourmusic.com/genre/post-industrial/",
+      "description": "Umbrella group of genres that combine the dark, mechanical aesthetic of early Industrial music with more accessible genres, such as Rock and Electronic Dance Music.",
+      "level": "sub",
+      "parent": "Industrial & Noise"
+    }
+  ]
+}

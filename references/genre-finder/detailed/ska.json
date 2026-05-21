@@ -1,0 +1,45 @@
+{
+  "name": "Ska",
+  "description": "Originated in Jamaica in the late 1950s, characterized by a signature off-beat rhythm (referred to as the ‘skank’ rhythm), chop-style guitar work, busy bass lines and a use of horn sections.",
+  "url": "https://rateyourmusic.com/genre/ska/",
+  "parent": "Reggae / Ska / Dancehall",
+  "level": "sub",
+  "children_count": 5,
+  "children": [
+    {
+      "name": "2 Tone",
+      "url": "https://rateyourmusic.com/genre/2-tone/",
+      "description": "Combines 1960s Jamaican Ska with Punk Rock and New Wave to create tracks played at faster tempos and with a harder edge than the original Jamaican records.",
+      "level": "sub-2",
+      "parent": "Ska"
+    },
+    {
+      "name": "Jamaican Ska",
+      "url": "https://rateyourmusic.com/genre/jamaican-ska/",
+      "description": "Originated in Jamaica with groups who combined Jazz and Rhythm & Blues with rhythms of traditional Caribbean Music like Mento and Calypso.",
+      "level": "sub-2",
+      "parent": "Ska"
+    },
+    {
+      "name": "New Tone",
+      "url": "https://rateyourmusic.com/genre/new-tone/",
+      "description": "Musically and socio-politically progressive movement noted for combatting prejudices and mixing together different styles of music, such as Electronic, Hip Hop, or Emo.",
+      "level": "sub-2",
+      "parent": "Ska"
+    },
+    {
+      "name": "Spouge",
+      "url": "https://rateyourmusic.com/genre/spouge/",
+      "description": "Fusion of Calypso and Ska originating in Barbados during the 1960s and 70s.",
+      "level": "sub-2",
+      "parent": "Ska"
+    },
+    {
+      "name": "Third Wave Ska",
+      "url": "https://rateyourmusic.com/genre/third-wave-ska/",
+      "description": "Expanded on the 2 Tone period, adding further Rock elements resulting in a heavier sound.",
+      "level": "sub-2",
+      "parent": "Ska"
+    }
+  ]
+}

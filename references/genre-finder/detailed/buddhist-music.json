@@ -1,0 +1,38 @@
+{
+  "name": "Buddhist Music",
+  "description": "Encompassing the various musical practices that have developed throughout Buddhist history and across the many regions Buddhism spread to.",
+  "url": "https://rateyourmusic.com/genre/buddhist-music/",
+  "parent": "Asian Music",
+  "level": "sub-2",
+  "children_count": 4,
+  "children": [
+    {
+      "name": "Beompae",
+      "url": "https://rateyourmusic.com/genre/beompae/",
+      "description": "Korean genre of Buddhist chants and songs performed by monks while celebrating religious rituals in temples.",
+      "level": "sub-3",
+      "parent": "Buddhist Music"
+    },
+    {
+      "name": "Chöd",
+      "url": "https://rateyourmusic.com/genre/chod/",
+      "description": "Tibetan Buddhist and Bönpo practice incorporating ritualized liturgical chants and instrumental accompaniment from the chöd damaru, drilbu, and kangling.",
+      "level": "sub-3",
+      "parent": "Buddhist Music"
+    },
+    {
+      "name": "Shōmyō",
+      "url": "https://rateyourmusic.com/genre/shomyo/",
+      "description": "Japanese Buddhist chant that utilizes the yō scale.",
+      "level": "sub-3",
+      "parent": "Buddhist Music"
+    },
+    {
+      "name": "Tibetan Buddhist Chant",
+      "url": "https://rateyourmusic.com/genre/tibetan-buddhist-chant/",
+      "description": "Ritual vocal music of the Tibetan Buddhist faith characterized by its low pitch, droning repetitiousness, and frequent use of overtone singing.",
+      "level": "sub-3",
+      "parent": "Buddhist Music"
+    }
+  ]
+}
