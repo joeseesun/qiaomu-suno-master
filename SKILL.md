@@ -42,7 +42,7 @@ If the user only asks for lyrics, produce the requested creative output without 
 ## Workflow
 
 1. Analyze the song brief: theme, audience, language, mood, style, vocal, tempo, and any forbidden elements.
-2. If style is missing, vague, or worth sharpening, read `references/genre-selection.md` and run `scripts/find_music_genres.py "<brief or mood>" --limit 5`.
+2. If style is missing, vague, or worth sharpening, read `references/genre-selection.md` and run `python3 scripts/find_music_genres.py "<brief or mood>" --limit 5`.
 3. Choose 1-3 fitting genre tags plus a small set of vocal, instrument, tempo, and mood tags. Keep `style_description` focused.
 4. Read `references/lyric-craft.md` and apply the lyric quality rules.
 5. Produce:
@@ -53,24 +53,30 @@ If the user only asks for lyrics, produce the requested creative output without 
    - `exclude_styles`
    - `lyrics`
 6. Save lyrics to a temporary `.txt` file when running the CLI. Prefer a file over shell-quoting long multiline lyrics.
-7. Generate with:
+7. Before any CLI generation, download, auth, status, or export step, ensure the Rust CLI exists:
 
 ```bash
-suno generate --title "$TITLE" --tags "$STYLE_DESCRIPTION" --exclude "$EXCLUDE_STYLES" --lyrics-file "$LYRICS_FILE" --model v5.5 --wait --download "$OUTPUT_DIR"
+bash scripts/ensure_suno_cli.sh
 ```
 
-8. Report the saved output directory and any generated clip IDs or file paths shown by the command.
+8. Generate with:
+
+```bash
+bash scripts/generate_with_suno.sh --meta-file "$META_FILE" --output-dir "$OUTPUT_DIR"
+```
+
+9. Report the saved output directory and any generated clip IDs or file paths shown by the command.
 
 Never save generated songs, subtitles, videos, or exported lyric files inside the skill directory. Use `~/Documents/Suno/<song-title>/` by default.
 
 ## CLI Notes
 
 - The upstream CLI is `paperfoot/suno-cli`, installed as the `suno` command.
-- If `suno` is missing, use `scripts/ensure_suno_cli.sh` to install it from the upstream project via Homebrew or Cargo.
+- If `suno` is missing, run `bash scripts/ensure_suno_cli.sh` before continuing. The script installs from the upstream project, tries Homebrew first, and falls back to Cargo if Homebrew fails.
 - Verify with `suno --version` after install.
 - For friends who already stay logged into Suno in Chrome, use `scripts/ensure_suno_chrome_session.sh` to connect through Chrome CDP and reuse the existing browser session where possible.
 - Run `suno auth --login` if authentication is missing or expired.
-- Prefer `scripts/generate_with_suno.sh` for generation. It defaults to `--no-captcha` because the upstream CDP hCaptcha auto-solver can fail with `CDP Runtime.evaluate ws err` even when auth is valid.
+- Prefer `bash scripts/generate_with_suno.sh` for generation. It checks for `suno` and bootstraps it when missing. It defaults to `--no-captcha` because the upstream CDP hCaptcha auto-solver can fail with `CDP Runtime.evaluate ws err` even when auth is valid.
 - If Suno explicitly requires captcha, provide `--token <hCaptcha-token>` or opt back into the built-in solver with `--captcha`.
 - Use `--download <dir>` on `suno generate` when the user wants files saved immediately.
 - Use `suno download -o <dir> <id...>` only when the user already has clip IDs or generation was submitted without download.
@@ -85,9 +91,9 @@ This skill vendors `joeseesun/music-genre-finder` data in `references/genre-find
 Use:
 
 ```bash
-scripts/find_music_genres.py "深夜 空灵 梦幻" --limit 5
-scripts/find_music_genres.py "raw energetic punk" --limit 5
-scripts/find_music_genres.py "世界音乐 鼓 长笛" --json
+python3 scripts/find_music_genres.py "深夜 空灵 梦幻" --limit 5
+python3 scripts/find_music_genres.py "raw energetic punk" --limit 5
+python3 scripts/find_music_genres.py "世界音乐 鼓 长笛" --json
 ```
 
 For Suno, convert recommendations into concise style tags. Prefer 2-4 genre tags plus vocal, instrument, tempo, and mood tags. Avoid dumping many related subgenres into one prompt.
@@ -97,7 +103,7 @@ For Suno, convert recommendations into concise style tags. Prefer 2-4 genre tags
 For existing clip IDs:
 
 ```bash
-scripts/export_suno_assets.py <clip-id> --format lyrics --clean-srt
+python3 scripts/export_suno_assets.py <clip-id> --format lyrics --clean-srt
 ```
 
 Without `--output`, assets are saved under `~/Documents/Suno/<clip-title>/`.
@@ -116,7 +122,7 @@ Useful formats:
 For MTV:
 
 ```bash
-scripts/export_suno_assets.py <clip-id> --output "$OUTPUT_DIR" --format video,lyrics --clean-srt
+python3 scripts/export_suno_assets.py <clip-id> --output "$OUTPUT_DIR" --format video,lyrics --clean-srt
 ```
 
 ## Chrome CDP Auth Assist

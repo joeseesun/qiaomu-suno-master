@@ -114,7 +114,7 @@ if [[ -z "$output_dir" ]]; then
 fi
 
 if ! command -v suno >/dev/null 2>&1; then
-  "$script_dir/ensure_suno_cli.sh"
+  bash "$script_dir/ensure_suno_cli.sh"
   export PATH="$HOME/.cargo/bin:$PATH"
 fi
 

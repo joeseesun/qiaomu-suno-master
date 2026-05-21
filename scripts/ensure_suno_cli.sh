@@ -3,6 +3,7 @@ set -euo pipefail
 
 repo_url="https://github.com/paperfoot/suno-cli"
 releases_url="https://github.com/paperfoot/suno-cli/releases"
+export PATH="$HOME/.cargo/bin:$PATH"
 
 if command -v suno >/dev/null 2>&1; then
   suno --version
@@ -25,22 +26,41 @@ fi
 
 echo "Installing upstream suno CLI from $repo_url" >&2
 
+installed=0
+
 if command -v brew >/dev/null 2>&1; then
-  brew tap paperfoot/tap
-  brew install suno
-elif command -v cargo >/dev/null 2>&1; then
+  if brew tap paperfoot/tap && brew install suno; then
+    installed=1
+  else
+    cat >&2 <<EOF
+Homebrew install failed. Falling back to Cargo when available.
+EOF
+  fi
+fi
+
+if [[ "$installed" -eq 0 ]] && command -v cargo >/dev/null 2>&1; then
   cargo install suno --locked
-else
-  cat >&2 <<EOF
+  installed=1
+fi
+
+if [[ "$installed" -eq 0 ]]; then
+  if command -v brew >/dev/null 2>&1 && ! command -v cargo >/dev/null 2>&1; then
+    cat >&2 <<EOF
+Homebrew failed and Cargo is not available.
+
+Install Cargo/Rust, or download a prebuilt binary:
+  $releases_url
+EOF
+  else
+    cat >&2 <<EOF
 Could not find Homebrew or Cargo.
 
 Install one of them, or download a prebuilt binary:
   $releases_url
 EOF
+  fi
   exit 127
 fi
-
-export PATH="$HOME/.cargo/bin:$PATH"
 
 if ! command -v suno >/dev/null 2>&1; then
   cat >&2 <<EOF
