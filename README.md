@@ -126,16 +126,18 @@ Skill 内置封装脚本：
 ~/Documents/Suno/<歌曲名>/
 ```
 
-默认会加 `--no-captcha`，因为上游 `suno` CLI 的 hCaptcha CDP auto-solver 在某些 Chrome 会话下可能报：
+默认会走 `--captcha`，优先使用上游 `suno` CLI 的 hCaptcha CDP solver 把请求真正提交到 Suno。
+
+如果这条路径在你的 Chrome 会话里报：
 
 ```text
 CDP Runtime.evaluate ws err: Connection reset...
 ```
 
-如果你确实需要使用上游 captcha solver：
+如果你的会话里 captcha solver 不稳定，或你明确要跳过它：
 
 ```bash
-~/.agents/skills/qiaomu-suno-master/scripts/generate_with_suno.sh ... --captcha
+~/.agents/skills/qiaomu-suno-master/scripts/generate_with_suno.sh ... --no-captcha
 ```
 
 或传入 token：
@@ -193,7 +195,7 @@ CDP Runtime.evaluate ws err: Connection reset...
 |---|---|
 | `suno: command not found` | 运行 `cargo install suno --locked`，或执行 `scripts/ensure_suno_cli.sh` |
 | `JWT expired` | 运行 `suno auth` 或 `suno auth --login` |
-| `CDP Runtime.evaluate ws err` | 用默认封装脚本重试，或显式加 `--no-captcha` |
+| `CDP Runtime.evaluate ws err` | 显式加 `--no-captcha`，或改用手动 `--token` |
 | Chrome 反复弹调试确认 | 复用同一个 Suno 标签页，避免反复新开 tab；Chrome CDP 权限很高，这是安全确认 |
 | 找不到 Suno 标签页 | 运行 `scripts/ensure_suno_chrome_session.sh` |
 | 需要 SRT/MTV | 用 `scripts/export_suno_assets.py <clip-id> --format all --clean-srt` |

@@ -112,12 +112,12 @@ Never save generated songs, subtitles, videos, or exported lyric files inside th
 - If `suno` is missing, run `bash scripts/ensure_suno_cli.sh` before continuing. The script installs from the upstream project, tries Homebrew first, and falls back to Cargo if Homebrew fails.
 - Verify with `suno --version` after install.
 - Auth is synced from Chrome's logged-in Suno session (`suno auth --refresh` or `suno auth --login`). No separate login flow needed as long as Chrome has suno.com logged in.
-- Prefer `bash scripts/generate_with_suno.sh` for generation. It auto-refreshes auth and defaults to `--no-captcha` because the upstream CDP hCaptcha auto-solver can fail with `CDP Runtime.evaluate ws err`.
+- Prefer `bash scripts/generate_with_suno.sh` for generation. It auto-refreshes auth and defaults to the captcha-backed submit path so the request actually reaches Suno.
 - **IMPORTANT**: Do NOT use `--download` on generate. CDN needs time to propagate. Always use the separate `download_clips.sh` after generation completes.
 - Use `scripts/download_clips.sh` for all downloads — it handles retry logic and CDN delay.
 - Use `scripts/export_suno_assets.py` when the user wants SRT/LRC/timed lyrics, clean MTV subtitles, audio download, or video/MTV download from existing clip IDs.
 - Use `scripts/clean_srt_for_mtv.py` to remove Suno structural markers such as `[Verse]` and `[Chorus]` from subtitle files.
-- If Suno explicitly requires captcha, provide `--token <hCaptcha-token>` or opt back into the built-in solver with `--captcha`.
+- If Suno's captcha solver is flaky in a given browser session, fall back to `--no-captcha` only when you have another valid submission path or a manual `--token`.
 
 ## Genre Finder
 
@@ -166,7 +166,7 @@ This skill vendors a lightweight Chrome DevTools Protocol helper from `pasky/chr
 
 Use it only when the user wants to reuse an existing Chrome login or debug Suno browser state. Chrome must have remote debugging enabled. If CDP is unavailable, fall back to `suno auth --login`.
 
-Known issue: the upstream `suno` CLI captcha auto-solver may open a piloted Chrome and fail with `CDP Runtime.evaluate ws err: Connection reset...`. When auth is already OK, retry generation with `--no-captcha`; this is the wrapper default.
+Known issue: the upstream `suno` CLI captcha auto-solver may open a piloted Chrome and fail with `CDP Runtime.evaluate ws err: Connection reset...`. The wrapper now prefers the captcha-backed submit path by default; only opt out with `--no-captcha` when needed.
 
 ## Output Style
 

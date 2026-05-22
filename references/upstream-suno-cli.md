@@ -96,18 +96,18 @@ Observed behavior on Chrome 148:
 - `suno auth` can refresh JWT successfully from Chrome cookies.
 - `suno generate` may still launch its built-in hCaptcha CDP solver.
 - The solver can fail with `CDP Runtime.evaluate ws err: Connection reset...`.
-- Direct generation with `--no-captcha` can submit successfully when the account/session does not require captcha.
+- In some sessions, the captcha-backed path is the one that actually gets the generation submitted.
 
-Therefore `scripts/generate_with_suno.sh` defaults to `--no-captcha`.
+Therefore `scripts/generate_with_suno.sh` defaults to the captcha-backed submit path, with `--no-captcha` as the opt-out.
 
 Override choices:
 
 ```bash
-# Use upstream built-in solver
-SUNO_USE_CAPTCHA_SOLVER=1 scripts/generate_with_suno.sh ...
+# Disable captcha solver
+SUNO_USE_CAPTCHA_SOLVER=0 scripts/generate_with_suno.sh ...
 
 # Or pass it explicitly
-scripts/generate_with_suno.sh ... --captcha
+scripts/generate_with_suno.sh ... --no-captcha
 
 # Or provide a solved token
 scripts/generate_with_suno.sh ... --token "$HCAPTCHA_TOKEN"

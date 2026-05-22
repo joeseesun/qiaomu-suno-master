@@ -18,8 +18,8 @@ Options:
   --vocal male|female    Optional vocal gender
   --exclude TAGS         Optional comma-separated styles to avoid
   --token TOKEN          hCaptcha token to pass to suno
-  --captcha             Use suno's built-in captcha solver
-  --no-captcha          Skip suno's built-in captcha solver (default; avoids flaky CDP auto-solver)
+  --captcha             Use suno's built-in captcha solver (default)
+  --no-captcha          Skip suno's built-in captcha solver
   --download             Also download after generation (NOT recommended; use download_clips.sh instead)
 
 This wrapper calls the installed Rust `suno` CLI.
@@ -50,7 +50,7 @@ vocal=""
 exclude=""
 token=""
 download=0
-captcha="${SUNO_USE_CAPTCHA_SOLVER:-0}"
+captcha="${SUNO_USE_CAPTCHA_SOLVER:-1}"
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
