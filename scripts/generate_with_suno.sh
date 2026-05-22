@@ -7,19 +7,23 @@ Usage:
   generate_with_suno.sh --title TITLE --tags TAGS --lyrics-file FILE [options]
   generate_with_suno.sh --meta-file FILE [options]
 
+Generates music via the Rust `suno` CLI. By default outputs JSON with clip IDs
+(no download). Use download_clips.sh separately for reliable downloading.
+
 Options:
   --meta-file FILE       Source a shell-style metadata file with TITLE, STYLE_DESCRIPTION, EXCLUDE_STYLES, and LYRICS_FILE
   --output-dir DIR       Directory for downloaded songs (default: ~/Documents/Suno/<title>)
+                         Only used when --download is explicitly passed
   --model MODEL          Suno model (default: v5.5)
   --vocal male|female    Optional vocal gender
   --exclude TAGS         Optional comma-separated styles to avoid
   --token TOKEN          hCaptcha token to pass to suno
   --captcha             Use suno's built-in captcha solver
   --no-captcha          Skip suno's built-in captcha solver (default; avoids flaky CDP auto-solver)
-  --json                 Request JSON output from suno
-  --no-download          Submit generation without downloading
+  --download             Also download after generation (NOT recommended; use download_clips.sh instead)
 
 This wrapper calls the installed Rust `suno` CLI.
+Output: JSON with clip IDs in data[].id (pipe to download_clips.sh)
 EOF
 }
 
@@ -45,8 +49,7 @@ model="v5.5"
 vocal=""
 exclude=""
 token=""
-json=0
-download=1
+download=0
 captcha="${SUNO_USE_CAPTCHA_SOLVER:-0}"
 
 while [[ $# -gt 0 ]]; do
@@ -73,8 +76,8 @@ while [[ $# -gt 0 ]]; do
       captcha=1; shift ;;
     --no-captcha)
       captcha=0; shift ;;
-    --json)
-      json=1; shift ;;
+    --download)
+      download=1; shift ;;
     --no-download)
       download=0; shift ;;
     -h|--help)
@@ -132,7 +135,14 @@ if [[ ! -f "$lyrics_file" ]]; then
   exit 66
 fi
 
-cmd=(suno generate --title "$title" --tags "$tags" --lyrics-file "$lyrics_file" --model "$model" --wait)
+# Sync auth from Chrome before generating (avoids stale JWT / captcha failures)
+echo "Refreshing Suno auth from Chrome..." >&2
+if ! suno auth --refresh --quiet 2>/dev/null; then
+  suno auth --login --quiet
+fi
+
+# Build command: always --json for machine-readable output
+cmd=(suno generate --title "$title" --tags "$tags" --lyrics-file "$lyrics_file" --model "$model" --wait --json)
 
 if [[ -n "$vocal" ]]; then
   cmd+=(--vocal "$vocal")
@@ -153,8 +163,7 @@ if [[ "$download" -eq 1 ]]; then
   cmd+=(--download "$output_dir")
 fi
 
-if [[ "$json" -eq 1 ]]; then
-  cmd+=(--json)
-fi
-
+# Output goes to stdout (JSON); status messages go to stderr
+echo "Generating: $title" >&2
+echo "Output dir: $output_dir" >&2
 exec "${cmd[@]}"

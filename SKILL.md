@@ -53,19 +53,56 @@ If the user only asks for lyrics, produce the requested creative output without 
    - `exclude_styles`
    - `lyrics`
 6. Save lyrics to a temporary `.txt` file when running the CLI. Prefer a file over shell-quoting long multiline lyrics.
-7. Before any CLI generation, download, auth, status, or export step, ensure the Rust CLI exists:
+7. Before any CLI step, ensure the Rust CLI exists:
 
 ```bash
 bash scripts/ensure_suno_cli.sh
 ```
 
-8. Generate with:
+Auth is handled automatically by both `generate_with_suno.sh` and `download_clips.sh` (they refresh from Chrome's logged-in Suno session). Only call manually for `export_suno_assets.py`:
+
+```bash
+suno auth --refresh --quiet 2>/dev/null || suno auth --login --quiet
+```
+
+8. **Generate** (returns JSON with clip IDs, does NOT download):
 
 ```bash
 bash scripts/generate_with_suno.sh --meta-file "$META_FILE" --output-dir "$OUTPUT_DIR"
 ```
 
-9. Report the saved output directory and any generated clip IDs or file paths shown by the command.
+Parse the JSON output to extract clip IDs from `data[].id`.
+
+9. **Download** (separate step with retry, waits for CDN):
+
+```bash
+bash scripts/download_clips.sh --ids "ID1 ID2" --output-dir "$OUTPUT_DIR"
+```
+
+Or pipe directly from generate:
+
+```bash
+bash scripts/generate_with_suno.sh --meta-file "$META_FILE" --output-dir "$OUTPUT_DIR" \
+  | bash scripts/download_clips.sh --output-dir "$OUTPUT_DIR"
+```
+
+`download_clips.sh` features:
+- Waits 5s for CDN propagation before first attempt
+- Retries up to 3 times with 10s delay between attempts
+- Auto-refreshes auth from Chrome
+- Accepts IDs via `--ids` flag or piped JSON from generate
+
+10. **Send to Feishu** (only in bridge context with `chat_id`):
+
+```bash
+cd "$OUTPUT_DIR"
+lark-cli config bind --source lark-channel --identity bot-only
+for f in *.mp3; do
+  lark-cli im +messages-send --as bot --chat-id "$CHAT_ID" --file "./$f"
+done
+```
+
+11. Report the output directory and downloaded file paths.
 
 Never save generated songs, subtitles, videos, or exported lyric files inside the skill directory. Use `~/Documents/Suno/<song-title>/` by default.
 
@@ -74,15 +111,13 @@ Never save generated songs, subtitles, videos, or exported lyric files inside th
 - The upstream CLI is `paperfoot/suno-cli`, installed as the `suno` command.
 - If `suno` is missing, run `bash scripts/ensure_suno_cli.sh` before continuing. The script installs from the upstream project, tries Homebrew first, and falls back to Cargo if Homebrew fails.
 - Verify with `suno --version` after install.
-- For friends who already stay logged into Suno in Chrome, use `scripts/ensure_suno_chrome_session.sh` to connect through Chrome CDP and reuse the existing browser session where possible.
-- Run `suno auth --login` if authentication is missing or expired.
-- Prefer `bash scripts/generate_with_suno.sh` for generation. It checks for `suno` and bootstraps it when missing. It defaults to `--no-captcha` because the upstream CDP hCaptcha auto-solver can fail with `CDP Runtime.evaluate ws err` even when auth is valid.
-- If Suno explicitly requires captcha, provide `--token <hCaptcha-token>` or opt back into the built-in solver with `--captcha`.
-- Use `--download <dir>` on `suno generate` when the user wants files saved immediately.
-- Use `suno download -o <dir> <id...>` only when the user already has clip IDs or generation was submitted without download.
+- Auth is synced from Chrome's logged-in Suno session (`suno auth --refresh` or `suno auth --login`). No separate login flow needed as long as Chrome has suno.com logged in.
+- Prefer `bash scripts/generate_with_suno.sh` for generation. It auto-refreshes auth and defaults to `--no-captcha` because the upstream CDP hCaptcha auto-solver can fail with `CDP Runtime.evaluate ws err`.
+- **IMPORTANT**: Do NOT use `--download` on generate. CDN needs time to propagate. Always use the separate `download_clips.sh` after generation completes.
+- Use `scripts/download_clips.sh` for all downloads — it handles retry logic and CDN delay.
 - Use `scripts/export_suno_assets.py` when the user wants SRT/LRC/timed lyrics, clean MTV subtitles, audio download, or video/MTV download from existing clip IDs.
 - Use `scripts/clean_srt_for_mtv.py` to remove Suno structural markers such as `[Verse]` and `[Chorus]` from subtitle files.
-- Add `--json` when machine-readable output is needed for follow-up processing.
+- If Suno explicitly requires captcha, provide `--token <hCaptcha-token>` or opt back into the built-in solver with `--captcha`.
 
 ## Genre Finder
 
