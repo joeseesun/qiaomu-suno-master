@@ -1,7 +1,7 @@
 interface:
   display_name: "Qiaomu Suno Master"
-  short_description: "Recommend genres, write Suno-ready lyrics, and generate songs with the local Rust suno CLI"
-  default_prompt: "Use $qiaomu-suno-master to recommend fitting Suno style tags, write polished lyrics from my idea, then generate and download the song with the local suno CLI."
+  short_description: "Recommend genres, write Suno-ready lyrics, generate songs, and validate timestamped LRC with the local Rust suno CLI"
+  default_prompt: "Use $qiaomu-suno-master to recommend fitting Suno style tags, write polished lyrics from my idea, then generate, download, and validate timestamped LRC for the song with the local suno CLI."
 compatibility:
   canonical_format: "agent-skills"
   adapter_targets:
@@ -22,7 +22,7 @@ compatibility:
     openai: "Use the SKILL.md workflow and shell script when local shell access is available."
     claude: "Use the SKILL.md workflow; run the local suno CLI only with user-approved local execution."
     generic: "Generate title, tags, and lyrics even when CLI execution is unavailable."
-summary: "Suno song creation from genre recommendation and lyric writing to generated audio using local Rust suno CLI."
+summary: "Suno song creation from genre recommendation and lyric writing to generated audio plus validated timestamped LRC using local Rust suno CLI."
 inputs:
   - name: brief
     type: string
@@ -62,7 +62,7 @@ outputs:
     description: "Suno-ready lyrics with section markers."
   - name: files
     type: list
-    description: "Generated, downloaded, subtitle, lyric, or video files."
+    description: "Generated, downloaded, subtitle, timed LRC, lyric, or video files."
 requires:
   bins:
     - suno

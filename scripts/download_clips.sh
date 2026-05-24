@@ -23,6 +23,7 @@ Options:
   --video               Also download video files
   --lyrics              Also fetch aligned lyrics after audio download
   --lyrics-format FMT   lrc, srt, md, all, both (default: lrc)
+  --require-lrc         Fail if no valid timestamped .lrc is downloaded
   -h, --help            Show this help
 
 Input:
@@ -45,6 +46,7 @@ browser=1
 browser_timeout=120
 lyrics=0
 lyrics_format="lrc"
+require_lrc=0
 stdin_json=""
 manifest_file=""
 
@@ -72,6 +74,8 @@ while [[ $# -gt 0 ]]; do
       lyrics=1; shift ;;
     --lyrics-format)
       lyrics_format="${2:-lrc}"; shift 2 ;;
+    --require-lrc)
+      require_lrc=1; lyrics=1; shift ;;
     -h|--help)
       usage; exit 0 ;;
     *)
@@ -196,6 +200,28 @@ if [[ "$lyrics" -eq 1 ]]; then
     fi
   else
     echo "Lyrics helper not found: $lyrics_helper" >&2
+  fi
+fi
+
+if [[ "$require_lrc" -eq 1 ]]; then
+  case "$lyrics_format" in
+    lrc|all|both) ;;
+    *)
+      echo "Error: --require-lrc needs --lyrics-format lrc, all, or both (got: $lyrics_format)" >&2
+      exit 1
+      ;;
+  esac
+  validator="$script_dir/validate_lrc.py"
+  if [[ ! -f "$validator" ]]; then
+    echo "Error: LRC validator not found: $validator" >&2
+    exit 1
+  fi
+  if ! python3 "$validator" "$output_dir"; then
+    echo "Error: valid timestamped LRC is required before upload/publish." >&2
+    echo "Retry after aligned lyrics are available:" >&2
+    echo "  python3 \"$script_dir/fetch_aligned_lyrics.py\" $ids --format lrc --output \"$output_dir\"" >&2
+    echo "  python3 \"$validator\" \"$output_dir\"" >&2
+    exit 1
   fi
 fi
 

@@ -25,6 +25,7 @@
 - 三个歌名候选
 - 不确定风格时，可先从 5000+ 音乐流派中推荐适合的 Suno tags
 - 可选：直接生成并下载 MP3
+- 面向音乐播放器/网站发布时，必须同时下载并校验带时间戳的 `.lrc`
 - 从已有 Suno Clip ID 导出 MP3、视频/MTV、LRC、SRT、干净字幕、Markdown 歌词
 - Chrome CDP 辅助：复用已登录 Chrome/Suno 会话
 
@@ -128,6 +129,28 @@ Skill 内置封装脚本：
 
 默认会走 `--captcha`，优先使用上游 `suno` CLI 的 hCaptcha CDP solver 把请求真正提交到 Suno。
 
+生成后下载到音乐播放器或网站发布目录时，不要只保存普通歌词。必须请求并校验 LRC：
+
+```bash
+~/.agents/skills/qiaomu-suno-master/scripts/download_clips.sh \
+  --ids "<clip-id>" \
+  --output-dir ./output \
+  --lyrics \
+  --lyrics-format lrc \
+  --require-lrc
+```
+
+如果 `--require-lrc` 失败，说明 Suno 还没有返回真实对齐歌词，或下载到的是普通歌词。此时不要上传发布，稍后重试：
+
+```bash
+~/.agents/skills/qiaomu-suno-master/scripts/fetch_aligned_lyrics.py \
+  <clip-id> \
+  --format lrc \
+  --output ./output
+
+~/.agents/skills/qiaomu-suno-master/scripts/validate_lrc.py ./output
+```
+
 如果这条路径在你的 Chrome 会话里报：
 
 ```text
@@ -199,6 +222,7 @@ CDP Runtime.evaluate ws err: Connection reset...
 | Chrome 反复弹调试确认 | 复用同一个 Suno 标签页，避免反复新开 tab；Chrome CDP 权限很高，这是安全确认 |
 | 找不到 Suno 标签页 | 运行 `scripts/ensure_suno_chrome_session.sh` |
 | 需要 SRT/MTV | 用 `scripts/export_suno_assets.py <clip-id> --format all --clean-srt` |
+| LRC 对不上或只有段落标记 | 用 `download_clips.sh --lyrics --lyrics-format lrc --require-lrc` 重新获取；发布前必须跑 `scripts/validate_lrc.py` |
 
 ### 致谢
 
@@ -292,6 +316,29 @@ Default output:
 
 ```text
 ~/Documents/Suno/<song-title>/
+```
+
+When the generated song will be uploaded to a music player or website, plain
+Suno prompt lyrics are not enough. Download and validate timestamped LRC:
+
+```bash
+~/.agents/skills/qiaomu-suno-master/scripts/download_clips.sh \
+  --ids "<clip-id>" \
+  --output-dir ./output \
+  --lyrics \
+  --lyrics-format lrc \
+  --require-lrc
+```
+
+If the gate fails, retry aligned lyrics later and validate before publishing:
+
+```bash
+~/.agents/skills/qiaomu-suno-master/scripts/fetch_aligned_lyrics.py \
+  <clip-id> \
+  --format lrc \
+  --output ./output
+
+~/.agents/skills/qiaomu-suno-master/scripts/validate_lrc.py ./output
 ```
 
 ### Export Assets

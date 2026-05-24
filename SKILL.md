@@ -25,6 +25,7 @@ Use this skill when the user wants:
 - A completed song file downloaded locally
 - Existing Suno clip IDs exported as audio, video/MTV, timed LRC, SRT, clean SRT, or Markdown lyrics
 - Music genre/style recommendations before lyric writing or generation
+- Timestamped `.lrc` lyrics for any song that will be uploaded to a music player or published as a playable web track
 
 Do not use this skill for pure music theory, ordinary poetry not intended for Suno, or non-Suno audio editing.
 
@@ -34,6 +35,7 @@ Infer these from the user request when possible:
 
 - `title`: short, memorable song title
 - `lyrics`: complete Suno-ready lyrics with structural tags
+- `lrc_required`: default yes when generating/downloading music for upload, publishing, or a music-player website
 - `style_description`: comma-separated Suno style tags
 - `exclude_styles`: comma-separated styles, instruments, or moods to avoid
 - `genre_candidates`: optional recommended genres from `scripts/find_music_genres.py`
@@ -58,8 +60,12 @@ If the user only asks for lyrics, produce the requested creative output without 
    - `style_description`
    - `exclude_styles`
    - `lyrics`
-6. Save lyrics to a temporary `.txt` file when running the CLI. Prefer a file over shell-quoting long multiline lyrics.
-7. Before any generation or download step, verify that a real Chrome Suno web
+6. Treat Suno-ready lyrics and LRC as separate deliverables:
+   - `lyrics` is the creative input sent to Suno and may use `[Verse]`, `[Chorus]`, `[Bridge]`, etc.
+   - `.lrc` is the timed output fetched after generation from Suno aligned lyrics.
+   - Never upload or publish plain Suno lyrics as music-player synced lyrics.
+7. Save lyrics to a temporary `.txt` file when running the CLI. Prefer a file over shell-quoting long multiline lyrics.
+8. Before any generation or download step, verify that a real Chrome Suno web
    session exists. Run:
 
 ```bash
@@ -70,7 +76,7 @@ If Suno asks for login, use the Browser/Chrome/Computer Use tools to open
 `https://suno.com/create`, let the user or existing profile complete login, then
 continue. Do not keep retrying the CLI against an expired JWT.
 
-8. Before any CLI step, ensure the Rust CLI exists:
+9. Before any CLI step, ensure the Rust CLI exists:
 
 ```bash
 bash scripts/ensure_suno_cli.sh
@@ -84,7 +90,7 @@ Auth is handled automatically by both `generate_with_suno.sh` and
 suno auth --refresh --quiet 2>/dev/null || suno auth --login --quiet
 ```
 
-9. **Generate fast path via CLI** (returns JSON with clip IDs, does NOT download):
+10. **Generate fast path via CLI** (returns JSON with clip IDs, does NOT download):
 
 ```bash
 bash scripts/generate_with_suno.sh --meta-file "$META_FILE" --output-dir "$OUTPUT_DIR"
@@ -97,25 +103,35 @@ or "No Suno session found", stop the CLI path and use the web fallback in
 `references/browser-fallback.md`. The web fallback is not optional for these
 errors.
 
-10. **Download fast path with browser-first downloader** (separate step with
+11. **Download fast path with browser-first downloader** (separate step with
 retry, waits for CDN):
 
 ```bash
 bash scripts/download_clips.sh --ids "ID1 ID2" --output-dir "$OUTPUT_DIR"
 ```
 
-When the user needs timestamped lyrics for the music player, request LRC at the
-same time:
+For any song that will be uploaded to a music player, a website, or any user-facing
+playable catalog, LRC is mandatory. Request and validate LRC at download time:
 
 ```bash
-bash scripts/download_clips.sh --ids "ID1 ID2" --output-dir "$OUTPUT_DIR" --lyrics --lyrics-format lrc
+bash scripts/download_clips.sh --ids "ID1 ID2" --output-dir "$OUTPUT_DIR" \
+  --lyrics --lyrics-format lrc --require-lrc
 ```
 
 Or pipe directly from generate:
 
 ```bash
 bash scripts/generate_with_suno.sh --meta-file "$META_FILE" --output-dir "$OUTPUT_DIR" \
-  | bash scripts/download_clips.sh --output-dir "$OUTPUT_DIR" --lyrics --lyrics-format lrc
+  | bash scripts/download_clips.sh --output-dir "$OUTPUT_DIR" \
+      --lyrics --lyrics-format lrc --require-lrc
+```
+
+If `--require-lrc` fails, do not upload/publish the track yet. Retry aligned
+lyrics after Suno finishes processing:
+
+```bash
+python3 scripts/fetch_aligned_lyrics.py ID1 ID2 --format lrc --output "$OUTPUT_DIR"
+python3 scripts/validate_lrc.py "$OUTPUT_DIR"
 ```
 
 `download_clips.sh` features:
@@ -124,9 +140,23 @@ bash scripts/generate_with_suno.sh --meta-file "$META_FILE" --output-dir "$OUTPU
 - Auto-refreshes auth from Chrome
 - Uses Chrome/CDP browser download first, then falls back to `suno download`
 - Can fetch timestamped `.lrc` lyrics through the local `suno-api` aligned lyrics endpoint
+- `--require-lrc` fails the workflow unless a real timestamped `.lrc` is present
 - Accepts IDs via `--ids` flag or piped JSON from generate
 
-11. **Web UI fallback for generation and download**:
+12. **LRC gate before upload/publish**:
+
+Before uploading to `music.qiaomu.ai` or any music player, verify the `.lrc`
+file exists and contains real `[mm:ss.xx]` timestamps:
+
+```bash
+python3 scripts/validate_lrc.py "$OUTPUT_DIR"
+```
+
+Use the validated `.lrc` file as the track lyrics payload. Do not use the
+original `.txt` Suno prompt lyrics unless the destination explicitly asks for
+unsynced plain lyrics.
+
+13. **Web UI fallback for generation and download**:
 
 Read `references/browser-fallback.md` and use it when:
 
@@ -145,7 +175,7 @@ The fallback is:
 5. When rows become playable, click each row's menu/download controls in the web
    UI, or use `download_clips.sh --ids ... --browser` if IDs are visible.
 
-12. **Send to Feishu** (only in bridge context with `chat_id`):
+14. **Send to Feishu** (only in bridge context with `chat_id`):
 
 ```bash
 cd "$OUTPUT_DIR"
@@ -155,7 +185,8 @@ for f in *.mp3; do
 done
 ```
 
-13. Report the output directory, downloaded file paths, and/or Suno song links.
+15. Report the output directory, downloaded file paths, LRC validation status,
+and/or Suno song links.
 
 Never save generated songs, subtitles, videos, or exported lyric files inside the skill directory. Use `~/Documents/Suno/<song-title>/` by default.
 
@@ -168,8 +199,10 @@ Never save generated songs, subtitles, videos, or exported lyric files inside th
 - Prefer `bash scripts/generate_with_suno.sh` for generation only as the fast path. It auto-refreshes auth and defaults to the captcha-backed submit path, but must not be retried repeatedly after auth/captcha rejection.
 - **IMPORTANT**: Do NOT use `--download` on generate. CDN needs time to propagate. Always use the separate `download_clips.sh` after generation completes.
 - Use `scripts/download_clips.sh` for all downloads — it handles retry logic and CDN delay.
+- For generated songs that will be uploaded or published, always add `--lyrics --lyrics-format lrc --require-lrc` to `download_clips.sh`.
 - If clip IDs are visible in the web list, `download_clips.sh --ids "ID1 ID2" --browser` is the preferred download retry because it asks Chrome to fetch the audio through the browser pipeline first.
 - Use `scripts/export_suno_assets.py` when the user wants SRT/LRC/timed lyrics, clean MTV subtitles, audio download, or video/MTV download from existing clip IDs.
+- Use `scripts/validate_lrc.py "$OUTPUT_DIR"` before any music-player upload. A file with only `[Verse]`/`[Chorus]` markers is plain lyrics, not LRC.
 - Use `scripts/clean_srt_for_mtv.py` to remove Suno structural markers such as `[Verse]` and `[Chorus]` from subtitle files.
 - If Suno's captcha solver is flaky in a given browser session, fall back to `--no-captcha` only when you have another valid submission path or a manual `--token`.
 
