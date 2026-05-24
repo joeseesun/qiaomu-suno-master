@@ -186,17 +186,26 @@ if [[ "$video" -eq 1 ]]; then
   suno download --video -o "$output_dir" $ids 2>&1 || echo "Video download failed (may not be available yet)" >&2
 fi
 
-# Optionally fetch timestamped lyrics through the local suno-api proxy.
-# This is intentionally non-fatal: audio download success should remain success
-# even if Suno has not generated aligned lyrics yet or the local API is offline.
+# Optionally fetch timestamped lyrics through the Rust suno CLI.
+# This is intentionally non-fatal unless --require-lrc is set: audio download
+# success should remain success even if Suno has not generated aligned lyrics yet.
 if [[ "$lyrics" -eq 1 ]]; then
-  lyrics_helper="$script_dir/fetch_aligned_lyrics.py"
+  lyrics_helper="$script_dir/export_suno_assets.py"
   if [[ -f "$lyrics_helper" ]]; then
-    echo "Fetching aligned lyrics (${lyrics_format})..." >&2
+    export_format="$lyrics_format"
+    case "$lyrics_format" in
+      all)
+        export_format="lyrics"
+        ;;
+      both)
+        export_format="lrc,srt"
+        ;;
+    esac
+    echo "Fetching timed lyrics via suno CLI (${lyrics_format})..." >&2
     # shellcheck disable=SC2086
-    if ! python3 "$lyrics_helper" $ids --format "$lyrics_format" --output "$output_dir"; then
-      echo "Aligned lyrics download failed; retry later with:" >&2
-      echo "  python3 \"$lyrics_helper\" $ids --format \"$lyrics_format\" --output \"$output_dir\"" >&2
+    if ! python3 "$lyrics_helper" $ids --format "$export_format" --output "$output_dir"; then
+      echo "Timed lyrics export failed; retry later with:" >&2
+      echo "  python3 \"$lyrics_helper\" $ids --format \"$export_format\" --output \"$output_dir\"" >&2
     fi
   else
     echo "Lyrics helper not found: $lyrics_helper" >&2
@@ -219,7 +228,7 @@ if [[ "$require_lrc" -eq 1 ]]; then
   if ! python3 "$validator" "$output_dir"; then
     echo "Error: valid timestamped LRC is required before upload/publish." >&2
     echo "Retry after aligned lyrics are available:" >&2
-    echo "  python3 \"$script_dir/fetch_aligned_lyrics.py\" $ids --format lrc --output \"$output_dir\"" >&2
+    echo "  python3 \"$script_dir/export_suno_assets.py\" $ids --format lrc --output \"$output_dir\"" >&2
     echo "  python3 \"$validator\" \"$output_dir\"" >&2
     exit 1
   fi

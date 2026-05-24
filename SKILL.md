@@ -130,7 +130,7 @@ If `--require-lrc` fails, do not upload/publish the track yet. Retry aligned
 lyrics after Suno finishes processing:
 
 ```bash
-python3 scripts/fetch_aligned_lyrics.py ID1 ID2 --format lrc --output "$OUTPUT_DIR"
+python3 scripts/export_suno_assets.py ID1 ID2 --format lrc --output "$OUTPUT_DIR"
 python3 scripts/validate_lrc.py "$OUTPUT_DIR"
 ```
 
@@ -139,7 +139,7 @@ python3 scripts/validate_lrc.py "$OUTPUT_DIR"
 - Retries up to 3 times with 10s delay between attempts
 - Auto-refreshes auth from Chrome
 - Uses Chrome/CDP browser download first, then falls back to `suno download`
-- Can fetch timestamped `.lrc` lyrics through the local `suno-api` aligned lyrics endpoint
+- Can fetch timestamped `.lrc` lyrics through `suno timed-lyrics`
 - `--require-lrc` fails the workflow unless a real timestamped `.lrc` is present
 - Accepts IDs via `--ids` flag or piped JSON from generate
 
@@ -241,18 +241,12 @@ Useful formats:
 - `lyrics`: shortcut for `json,lrc,srt,md`
 - `all`: shortcut for `audio,video,json,lrc,srt,md`
 
-For local `suno-api` aligned lyrics (preferred when `suno timed-lyrics` is
-missing, stale, or blocked), use:
+To retry timed lyrics from existing clip IDs, use the Rust `suno` CLI export path:
 
 ```bash
-python3 scripts/fetch_aligned_lyrics.py <clip-id> --format lrc --output "$OUTPUT_DIR"
-python3 scripts/fetch_aligned_lyrics.py <clip-id1> <clip-id2> --format all --output "$OUTPUT_DIR"
+python3 scripts/export_suno_assets.py <clip-id> --format lrc --output "$OUTPUT_DIR"
+python3 scripts/export_suno_assets.py <clip-id1> <clip-id2> --format lyrics --output "$OUTPUT_DIR"
 ```
-
-This calls `SUNO_API_URL/api/get_aligned_lyrics?song_id=<clip-id>` and defaults
-`SUNO_API_URL` to `http://localhost:3000`. It writes `.lrc`, `.srt`, and
-`.lyrics.md` when `--format all` is used, and falls back to plain lyrics text if
-aligned lyrics are unavailable.
 
 For MTV:
 

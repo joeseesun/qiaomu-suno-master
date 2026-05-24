@@ -143,7 +143,7 @@ Skill 内置封装脚本：
 如果 `--require-lrc` 失败，说明 Suno 还没有返回真实对齐歌词，或下载到的是普通歌词。此时不要上传发布，稍后重试：
 
 ```bash
-~/.agents/skills/qiaomu-suno-master/scripts/fetch_aligned_lyrics.py \
+~/.agents/skills/qiaomu-suno-master/scripts/export_suno_assets.py \
   <clip-id> \
   --format lrc \
   --output ./output
@@ -333,7 +333,7 @@ Suno prompt lyrics are not enough. Download and validate timestamped LRC:
 If the gate fails, retry aligned lyrics later and validate before publishing:
 
 ```bash
-~/.agents/skills/qiaomu-suno-master/scripts/fetch_aligned_lyrics.py \
+~/.agents/skills/qiaomu-suno-master/scripts/export_suno_assets.py \
   <clip-id> \
   --format lrc \
   --output ./output
