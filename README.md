@@ -341,6 +341,21 @@ If the gate fails, retry aligned lyrics later and validate before publishing:
 ~/.agents/skills/qiaomu-suno-master/scripts/validate_lrc.py ./output
 ```
 
+For `music.qiaomu.ai`, do not publish Suno's original cover. Generate a fresh
+1:1 album cover from the validated lyrics with `qiaomu-image-generator`:
+
+```bash
+python3 ~/.agents/skills/qiaomu-image-generator/scripts/generate.py \
+  ./cover.visual_config.json \
+  --workers 1 \
+  --no-insert \
+  --output ./cover.result.json
+```
+
+Use the `album_cover` template, `album-mondo-cover` style, a stable
+`*-cover.png` filename, and a lyric-derived symbolic visual description with no
+text. Upload that PNG as the track cover.
+
 ### Export Assets
 
 ```bash
