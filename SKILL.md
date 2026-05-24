@@ -104,11 +104,18 @@ retry, waits for CDN):
 bash scripts/download_clips.sh --ids "ID1 ID2" --output-dir "$OUTPUT_DIR"
 ```
 
+When the user needs timestamped lyrics for the music player, request LRC at the
+same time:
+
+```bash
+bash scripts/download_clips.sh --ids "ID1 ID2" --output-dir "$OUTPUT_DIR" --lyrics --lyrics-format lrc
+```
+
 Or pipe directly from generate:
 
 ```bash
 bash scripts/generate_with_suno.sh --meta-file "$META_FILE" --output-dir "$OUTPUT_DIR" \
-  | bash scripts/download_clips.sh --output-dir "$OUTPUT_DIR"
+  | bash scripts/download_clips.sh --output-dir "$OUTPUT_DIR" --lyrics --lyrics-format lrc
 ```
 
 `download_clips.sh` features:
@@ -116,6 +123,7 @@ bash scripts/generate_with_suno.sh --meta-file "$META_FILE" --output-dir "$OUTPU
 - Retries up to 3 times with 10s delay between attempts
 - Auto-refreshes auth from Chrome
 - Uses Chrome/CDP browser download first, then falls back to `suno download`
+- Can fetch timestamped `.lrc` lyrics through the local `suno-api` aligned lyrics endpoint
 - Accepts IDs via `--ids` flag or piped JSON from generate
 
 11. **Web UI fallback for generation and download**:
@@ -199,6 +207,19 @@ Useful formats:
 - `md`: save AI-readable timestamped lyrics Markdown
 - `lyrics`: shortcut for `json,lrc,srt,md`
 - `all`: shortcut for `audio,video,json,lrc,srt,md`
+
+For local `suno-api` aligned lyrics (preferred when `suno timed-lyrics` is
+missing, stale, or blocked), use:
+
+```bash
+python3 scripts/fetch_aligned_lyrics.py <clip-id> --format lrc --output "$OUTPUT_DIR"
+python3 scripts/fetch_aligned_lyrics.py <clip-id1> <clip-id2> --format all --output "$OUTPUT_DIR"
+```
+
+This calls `SUNO_API_URL/api/get_aligned_lyrics?song_id=<clip-id>` and defaults
+`SUNO_API_URL` to `http://localhost:3000`. It writes `.lrc`, `.srt`, and
+`.lyrics.md` when `--format all` is used, and falls back to plain lyrics text if
+aligned lyrics are unavailable.
 
 For MTV:
 
