@@ -61,9 +61,9 @@ If the user only asks for lyrics, produce the requested creative output without 
    - `exclude_styles`
    - `lyrics`
 6. Treat Suno-ready lyrics and LRC as separate deliverables:
-- `lyrics` is the creative input sent to Suno and may use `[Verse]`, `[Chorus]`, `[Bridge]`, etc.
-- `.lrc` is the timed output fetched after generation from Suno aligned lyrics.
-- Never upload or publish plain Suno lyrics as music-player synced lyrics.
+   - `lyrics` is the creative input sent to Suno and may use `[Verse]`, `[Chorus]`, `[Bridge]`, etc.
+   - `.lrc` is the timed output fetched after generation from Suno aligned lyrics.
+   - Never upload or publish plain Suno lyrics as music-player synced lyrics.
    - Music-player cover art is a separate generated design asset, not the Suno source cover.
 7. Save lyrics to a temporary `.txt` file when running the CLI. Prefer a file over shell-quoting long multiline lyrics.
 8. Before any generation or download step, verify that a real Chrome Suno web
