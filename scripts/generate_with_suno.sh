@@ -24,6 +24,9 @@ Options:
 
 This wrapper calls the installed Rust `suno` CLI.
 Output: JSON with clip IDs in data[].id (pipe to download_clips.sh)
+
+If generation fails with auth/captcha errors, do not retry this wrapper in a
+loop. Use references/browser-fallback.md from the skill.
 EOF
 }
 
@@ -135,7 +138,14 @@ if [[ ! -f "$lyrics_file" ]]; then
   exit 66
 fi
 
-# Sync auth from Chrome before generating (avoids stale JWT / captcha failures)
+# Prefer a real logged-in Chrome web session before touching CLI auth. The web
+# session is the fallback source of truth when Suno rejects the CLI JWT.
+if [[ -x "$script_dir/ensure_suno_chrome_session.sh" ]]; then
+  bash "$script_dir/ensure_suno_chrome_session.sh" >/dev/null || true
+fi
+
+# Sync auth from Chrome before generating (avoids stale JWT / captcha failures
+# when Suno accepts the CLI session).
 echo "Refreshing Suno auth from Chrome..." >&2
 if ! suno auth --refresh --quiet 2>/dev/null; then
   suno auth --login --quiet
@@ -166,4 +176,37 @@ fi
 # Output goes to stdout (JSON); status messages go to stderr
 echo "Generating: $title" >&2
 echo "Output dir: $output_dir" >&2
-exec "${cmd[@]}"
+stderr_file="$(mktemp -t suno-generate-stderr.XXXXXX)"
+cleanup() {
+  rm -f "$stderr_file"
+}
+trap cleanup EXIT
+
+set +e
+"${cmd[@]}" 2> >(tee "$stderr_file" >&2)
+status=$?
+set -e
+
+if [[ "$status" -eq 0 ]]; then
+  exit 0
+fi
+
+stderr_text="$(cat "$stderr_file" 2>/dev/null || true)"
+if printf '%s' "$stderr_text" | grep -Eiq 'auth_expired|JWT expired|JWT expired or rejected|401|403|captcha|No Suno session found|session.*not found'; then
+  cat >&2 <<EOF
+
+Suno CLI generation failed with an auth/captcha/session error.
+Do not retry the CLI in a loop. Use the skill's browser fallback:
+  references/browser-fallback.md
+
+Recommended next action:
+  1. Open https://suno.com/create in the logged-in Chrome profile.
+  2. Fill Lyrics, Styles, and Song Title from:
+     title: $title
+     lyrics: $lyrics_file
+  3. Click Create, capture the two song links, then download via the web UI or:
+     bash scripts/download_clips.sh --ids "ID1 ID2" --output-dir "$output_dir" --browser
+EOF
+fi
+
+exit "$status"
