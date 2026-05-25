@@ -137,6 +137,19 @@ If this command emits `GENERATION_BLOCKED`, or returns JSON with
 browser-generation lane. Do not attempt raw Suno API calls after a blocked
 generation.
 
+For ordinary "generate and publish/upload" tasks, prefer the verified
+end-to-end wrapper. It is faster and less error-prone because it preserves the
+generation JSON, extracts IDs, downloads MP3s, fetches LRC, and validates LRC in
+one run:
+
+```bash
+bash scripts/generate_download_lrc.sh --meta-file "$META_FILE" --output-dir "$OUTPUT_DIR"
+```
+
+Use this as the default after lyrics/meta files are ready. Keep the separate
+`generate_with_suno.sh` and `download_clips.sh` commands for debugging,
+existing-ID downloads, or partial retries.
+
 11. **Download fast path with browser-first downloader** (separate step with
 retry, waits for CDN):
 
@@ -172,7 +185,8 @@ python3 scripts/validate_lrc.py "$OUTPUT_DIR"
 - Waits 5s for CDN propagation before first attempt
 - Retries up to 3 times with 10s delay between attempts
 - Auto-refreshes auth from Chrome
-- Uses Chrome/CDP browser download first, then falls back to `suno download`
+- Uses Chrome/CDP browser download first when `websocket-client` is available,
+  otherwise skips that attempt and goes straight to `suno download`
 - Can fetch timestamped `.lrc` lyrics through `suno timed-lyrics`
 - `--require-lrc` fails the workflow unless a real timestamped `.lrc` is present
 - Accepts IDs via `--ids` flag or piped JSON from generate
@@ -288,6 +302,10 @@ Never save generated songs, subtitles, videos, or exported lyric files inside th
 - Auth is synced from Chrome's logged-in Suno session (`suno auth --refresh` or `suno auth --login`), but Suno can reject the CLI JWT even when the web UI remains logged in. In that case the web UI is authoritative.
 - Prefer `bash scripts/generate_with_suno.sh` for generation only as the fast path. It auto-refreshes auth and defaults to the captcha-backed submit path, but must not be retried repeatedly after auth/captcha rejection.
 - CLI retry budget is two total generation attempts: default captcha-backed once, then one targeted retry only for hCaptcha/CDP launch failure with `--no-captcha` or a provided `--token`.
+- Latest verified path on 2026-05-25: `suno 0.5.7` default captcha-backed
+  generation solved hCaptcha, submitted v5.5, returned two complete IDs, then
+  `download_clips.sh --require-lrc` downloaded MP3 and validated LRC. Do not add
+  `--no-captcha` by default.
 - **IMPORTANT**: Do NOT use `--download` on generate. CDN needs time to propagate. Always use the separate `download_clips.sh` after generation completes.
 - Use `scripts/download_clips.sh` for all downloads — it handles retry logic and CDN delay.
 - For generated songs that will be uploaded or published, always add `--lyrics --lyrics-format lrc --require-lrc` to `download_clips.sh`.

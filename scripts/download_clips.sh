@@ -133,15 +133,19 @@ success=0
 if [[ "$browser" -eq 1 ]]; then
   browser_helper="$script_dir/browser_download_clips.py"
   if [[ -f "$browser_helper" ]]; then
-    echo "Browser download attempt..." >&2
-    browser_args=(python3 "$browser_helper" --ids "$ids" --output-dir "$output_dir" --timeout "$browser_timeout")
-    if [[ -n "$manifest_file" ]]; then
-      browser_args+=(--manifest-json "$manifest_file")
-    fi
-    if "${browser_args[@]}"; then
-      success=1
+    if ! python3 -c 'import websocket' >/dev/null 2>&1; then
+      echo "Browser download dependency missing (websocket-client); skipping browser attempt." >&2
     else
-      echo "Browser download failed; falling back to suno download." >&2
+      echo "Browser download attempt..." >&2
+      browser_args=(python3 "$browser_helper" --ids "$ids" --output-dir "$output_dir" --timeout "$browser_timeout")
+      if [[ -n "$manifest_file" ]]; then
+        browser_args+=(--manifest-json "$manifest_file")
+      fi
+      if "${browser_args[@]}"; then
+        success=1
+      else
+        echo "Browser download failed; falling back to suno download." >&2
+      fi
     fi
   else
     echo "Browser helper not found; falling back to suno download." >&2
