@@ -15,6 +15,39 @@ the source of truth, and treat the CLI as the fast path only. If the CLI reports
 browser session, immediately use the Suno web UI fallback instead of retrying the
 same CLI request.
 
+## Generation Execution Contract
+
+This skill must prefer a deterministic two-lane generation path over open-ended
+exploration:
+
+1. **Make the CLI path work first.**
+   - Ensure the installed `suno` CLI exists and run `suno config check`.
+   - Refresh auth from the real Chrome Suno session; if refresh fails, run
+     `suno auth --login --quiet`.
+   - Run `scripts/generate_with_suno.sh` once with the default captcha-backed
+     path.
+   - Retry CLI at most one more time only for the narrow hCaptcha/CDP-launch
+     failure class, using either `--no-captcha` or a user-provided
+     `--token "$HCAPTCHA_TOKEN"`.
+2. **If CLI generation is blocked, Codex controls the browser.**
+   - Use the Codex Browser plugin when available. If it is not exposed in the
+     current session, use Chrome/Computer Use against the logged-in Suno page.
+   - Open `https://suno.com/create`, fill title, lyrics, styles, model, and
+     options from the prepared local files, click Create, wait for the generated
+     rows, and capture song IDs/links.
+   - Only ask the user to intervene for actions automation cannot legally or
+     reliably complete, such as human login, account security checks, or a live
+     captcha challenge.
+3. **Stop forbidden exploration.**
+   - Do not hand-craft Suno generate POST requests, inject copied browser cookies
+     into throwaway profiles, replay captured payloads, or repeatedly test
+     captcha variants unless the user explicitly asks to debug Suno itself.
+   - If the user provides existing Suno song URLs or clip IDs, skip generation
+     and continue the stable download, LRC validation, cover-generation, and
+     upload path.
+   - Never report generation success until real Suno song links or clip IDs have
+     been captured.
+
 ## When To Use
 
 Use this skill when the user wants:
@@ -99,10 +132,10 @@ bash scripts/generate_with_suno.sh --meta-file "$META_FILE" --output-dir "$OUTPU
 
 Parse the JSON output to extract clip IDs from `data[].id`.
 
-If this command fails with `auth_expired`, `JWT expired`, `401`, `403`, captcha,
-or "No Suno session found", stop the CLI path and use the web fallback in
-`references/browser-fallback.md`. The web fallback is not optional for these
-errors.
+If this command emits `GENERATION_BLOCKED`, or returns JSON with
+`"status": "error"`, follow `references/browser-fallback.md` as the Codex
+browser-generation lane. Do not attempt raw Suno API calls after a blocked
+generation.
 
 11. **Download fast path with browser-first downloader** (separate step with
 retry, waits for CDN):
@@ -207,7 +240,7 @@ sips -g pixelWidth -g pixelHeight "$OUTPUT_DIR"/*-cover.png
 The cover must be square and must be uploaded as the `cover` multipart field
 together with the MP3 and validated LRC.
 
-14. **Web UI fallback for generation and download**:
+14. **Codex browser generation lane**:
 
 Read `references/browser-fallback.md` and use it when:
 
@@ -216,7 +249,7 @@ Read `references/browser-fallback.md` and use it when:
 - captcha automation stalls
 - a generated clip is visible in the Suno web list but CLI download fails
 
-The fallback is:
+This is not a passive handoff. Codex should control the browser:
 
 1. Open `https://suno.com/create` in the logged-in Chrome profile.
 2. Switch to Advanced mode and model `v5.5` unless the user requested another model.
@@ -225,6 +258,12 @@ The fallback is:
    song links.
 5. When rows become playable, click each row's menu/download controls in the web
    UI, or use `download_clips.sh --ids ... --browser` if IDs are visible.
+
+If browser automation cannot complete login, captcha, or Create submission
+because the page requires a human security action, pause at that exact browser
+state and ask the user to complete only that action. After it is complete, Codex
+continues capturing IDs, downloading, validating LRC, generating cover art, and
+uploading.
 
 15. **Send to Feishu** (only in bridge context with `chat_id`):
 
@@ -248,6 +287,7 @@ Never save generated songs, subtitles, videos, or exported lyric files inside th
 - Verify with `suno --version` after install.
 - Auth is synced from Chrome's logged-in Suno session (`suno auth --refresh` or `suno auth --login`), but Suno can reject the CLI JWT even when the web UI remains logged in. In that case the web UI is authoritative.
 - Prefer `bash scripts/generate_with_suno.sh` for generation only as the fast path. It auto-refreshes auth and defaults to the captcha-backed submit path, but must not be retried repeatedly after auth/captcha rejection.
+- CLI retry budget is two total generation attempts: default captcha-backed once, then one targeted retry only for hCaptcha/CDP launch failure with `--no-captcha` or a provided `--token`.
 - **IMPORTANT**: Do NOT use `--download` on generate. CDN needs time to propagate. Always use the separate `download_clips.sh` after generation completes.
 - Use `scripts/download_clips.sh` for all downloads — it handles retry logic and CDN delay.
 - For generated songs that will be uploaded or published, always add `--lyrics --lyrics-format lrc --require-lrc` to `download_clips.sh`.

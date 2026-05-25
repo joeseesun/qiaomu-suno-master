@@ -30,6 +30,27 @@ loop. Use references/browser-fallback.md from the skill.
 EOF
 }
 
+blocked_pattern='auth_expired|JWT expired|JWT expired or rejected|401|403|captcha|hCaptcha|token_validation_failed|schema_drift|Suno.s request schema has changed|No Suno session found|session.*not found'
+
+print_blocked_guidance() {
+  local reason="$1"
+  cat >&2 <<EOF
+
+GENERATION_BLOCKED: $reason
+
+Do not retry the CLI/API path in a loop. Use the skill's Codex browser generation lane:
+  references/browser-fallback.md
+
+Recommended next action:
+  1. Codex opens https://suno.com/create in the logged-in browser.
+  2. Codex fills Lyrics, Styles, and Song Title from:
+     title: $title
+     lyrics: $lyrics_file
+  3. Codex clicks Create, captures the two song links, then downloads via the web UI or:
+     bash scripts/download_clips.sh --ids "ID1 ID2" --output-dir "$output_dir" --browser
+EOF
+}
+
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 safe_path_name() {
@@ -140,8 +161,18 @@ fi
 
 # Prefer a real logged-in Chrome web session before touching CLI auth. The web
 # session is the fallback source of truth when Suno rejects the CLI JWT.
-if [[ -x "$script_dir/ensure_suno_chrome_session.sh" ]]; then
+if [[ -f "$script_dir/ensure_suno_chrome_session.sh" ]]; then
   bash "$script_dir/ensure_suno_chrome_session.sh" >/dev/null || true
+fi
+
+echo "Checking Suno CLI config..." >&2
+if ! suno config check >/dev/null; then
+  cat >&2 <<EOF
+
+Suno CLI config check failed.
+Fix the local CLI configuration before generating, then rerun this wrapper.
+EOF
+  exit 78
 fi
 
 # Sync auth from Chrome before generating (avoids stale JWT / captcha failures
@@ -177,36 +208,47 @@ fi
 echo "Generating: $title" >&2
 echo "Output dir: $output_dir" >&2
 stderr_file="$(mktemp -t suno-generate-stderr.XXXXXX)"
+stdout_file="$(mktemp -t suno-generate-stdout.XXXXXX)"
 cleanup() {
-  rm -f "$stderr_file"
+  rm -f "$stderr_file" "$stdout_file"
 }
 trap cleanup EXIT
 
 set +e
-"${cmd[@]}" 2> >(tee "$stderr_file" >&2)
+"${cmd[@]}" > >(tee "$stdout_file") 2> >(tee "$stderr_file" >&2)
 status=$?
 set -e
 
+stdout_text="$(cat "$stdout_file" 2>/dev/null || true)"
+stderr_text="$(cat "$stderr_file" 2>/dev/null || true)"
+combined_text="$(printf '%s\n%s\n' "$stdout_text" "$stderr_text")"
+
 if [[ "$status" -eq 0 ]]; then
+  if printf '%s' "$combined_text" | grep -Eiq '"status"[[:space:]]*:[[:space:]]*"error"'; then
+    if printf '%s' "$combined_text" | grep -Eiq "$blocked_pattern"; then
+      print_blocked_guidance "Suno returned an error JSON with auth, captcha, schema, or session blocking details."
+      exit 75
+    fi
+
+    cat >&2 <<EOF
+
+Suno CLI returned an error JSON even though the process exited successfully.
+Treat this as a failed generation. Inspect the JSON above, then use the browser
+fallback or rerun only after fixing the reported input issue.
+EOF
+    exit 65
+  fi
+
+  if printf '%s' "$combined_text" | grep -Eiq "$blocked_pattern"; then
+    print_blocked_guidance "Suno output contained auth, captcha, schema, or session blocking details."
+    exit 75
+  fi
+
   exit 0
 fi
 
-stderr_text="$(cat "$stderr_file" 2>/dev/null || true)"
-if printf '%s' "$stderr_text" | grep -Eiq 'auth_expired|JWT expired|JWT expired or rejected|401|403|captcha|No Suno session found|session.*not found'; then
-  cat >&2 <<EOF
-
-Suno CLI generation failed with an auth/captcha/session error.
-Do not retry the CLI in a loop. Use the skill's browser fallback:
-  references/browser-fallback.md
-
-Recommended next action:
-  1. Open https://suno.com/create in the logged-in Chrome profile.
-  2. Fill Lyrics, Styles, and Song Title from:
-     title: $title
-     lyrics: $lyrics_file
-  3. Click Create, capture the two song links, then download via the web UI or:
-     bash scripts/download_clips.sh --ids "ID1 ID2" --output-dir "$output_dir" --browser
-EOF
+if printf '%s' "$combined_text" | grep -Eiq "$blocked_pattern"; then
+  print_blocked_guidance "Suno CLI generation failed with an auth, captcha, schema, or session error."
 fi
 
 exit "$status"
