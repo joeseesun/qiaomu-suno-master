@@ -4,7 +4,7 @@ set -euo pipefail
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cdp="$script_dir/cdp.mjs"
 
-if [[ ! -x "$cdp" ]]; then
+if [[ ! -f "$cdp" ]]; then
   echo "Missing CDP helper: $cdp" >&2
   exit 66
 fi
@@ -20,7 +20,7 @@ if [[ "$node_major" -lt 22 ]]; then
   exit 127
 fi
 
-if ! pages="$("$cdp" list 2>&1)"; then
+if ! pages="$(node "$cdp" list 2>&1)"; then
   cat >&2 <<EOF
 Could not connect to Chrome via CDP.
 
@@ -42,5 +42,5 @@ if echo "$pages" | awk '{print $NF}' | grep -Eiq '^https://([^/]+\.)?suno\.com(/
 fi
 
 echo "No Suno tab found. Opening https://suno.com/create in the CDP-enabled Chrome session..."
-"$cdp" open https://suno.com/create
+node "$cdp" open https://suno.com/create
 echo "If Suno asks for login, complete it once in Chrome, then rerun generation."

@@ -239,11 +239,6 @@ EOF
     exit 65
   fi
 
-  if printf '%s' "$combined_text" | grep -Eiq "$blocked_pattern"; then
-    print_blocked_guidance "Suno output contained auth, captcha, schema, or session blocking details."
-    exit 75
-  fi
-
   exit 0
 fi
 
