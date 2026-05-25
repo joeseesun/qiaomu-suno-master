@@ -43,8 +43,10 @@ exploration:
      into throwaway profiles, replay captured payloads, or repeatedly test
      captcha variants unless the user explicitly asks to debug Suno itself.
    - If the user provides existing Suno song URLs or clip IDs, skip generation
-     and continue the stable download, LRC validation, cover-generation, and
-     upload path.
+     and continue the stable download and LRC validation path.
+   - If the user asks to upload or publish to Qiaomu Music, delegate that
+     publishing step to `qiaomu-music-publisher`; do not implement Qiaomu Music
+     upload inside this skill.
    - Never report generation success until real Suno song links or clip IDs have
      been captured.
 
@@ -61,6 +63,8 @@ Use this skill when the user wants:
 - Timestamped `.lrc` lyrics for any song that will be uploaded to a music player or published as a playable web track
 
 Do not use this skill for pure music theory, ordinary poetry not intended for Suno, or non-Suno audio editing.
+Do not use this skill for Qiaomu Music upload execution; use
+`qiaomu-music-publisher` after MP3/LRC assets are ready.
 
 ## Inputs To Resolve
 
@@ -204,11 +208,27 @@ Use the validated `.lrc` file as the track lyrics payload. Do not use the
 original `.txt` Suno prompt lyrics unless the destination explicitly asks for
 unsynced plain lyrics.
 
-13. **Qiaomu Music cover gate before upload/publish**:
+13. **Publishing handoff**:
 
-Before uploading to `music.qiaomu.ai`, always generate a fresh square album cover
-with `qiaomu-image-generator` from the song title, style, and validated lyrics.
-Do not use Suno's `image_url` or original generated cover as the published cover.
+If the destination is Qiaomu Music (`music.qiaomu.ai`,
+`qiaomu-music-player-web`, "乔木音乐", "上传到乔木音乐", or "发布到乔木音乐"),
+handoff to `qiaomu-music-publisher` after MP3 and timestamped LRC are ready:
+
+```bash
+python3 ~/.agents/skills/qiaomu-music-publisher/scripts/publish_suno_to_qiaomu_music.py \
+  --ids "ID1 ID2" \
+  --output-dir "$OUTPUT_DIR"
+```
+
+`qiaomu-music-publisher` owns site-specific login, cover handling, multipart
+upload, and publication status. Keep this Suno skill focused on creation,
+download, and LRC validation.
+
+14. **Generic music-player cover gate before upload/publish**:
+
+For non-Qiaomu music-player uploads, generate a fresh square album cover with
+`qiaomu-image-generator` from the song title, style, and validated lyrics unless
+the destination explicitly wants the Suno source cover.
 
 Use the `album_cover` template with:
 
@@ -254,7 +274,7 @@ sips -g pixelWidth -g pixelHeight "$OUTPUT_DIR"/*-cover.png
 The cover must be square and must be uploaded as the `cover` multipart field
 together with the MP3 and validated LRC.
 
-14. **Codex browser generation lane**:
+15. **Codex browser generation lane**:
 
 Read `references/browser-fallback.md` and use it when:
 
@@ -276,10 +296,10 @@ This is not a passive handoff. Codex should control the browser:
 If browser automation cannot complete login, captcha, or Create submission
 because the page requires a human security action, pause at that exact browser
 state and ask the user to complete only that action. After it is complete, Codex
-continues capturing IDs, downloading, validating LRC, generating cover art, and
-uploading.
+continues capturing IDs, downloading, validating LRC, and handing off any
+site-specific publishing step to the appropriate publisher skill.
 
-15. **Send to Feishu** (only in bridge context with `chat_id`):
+16. **Send to Feishu** (only in bridge context with `chat_id`):
 
 ```bash
 cd "$OUTPUT_DIR"
@@ -289,7 +309,7 @@ for f in *.mp3; do
 done
 ```
 
-16. Report the output directory, downloaded file paths, LRC validation status,
+17. Report the output directory, downloaded file paths, LRC validation status,
 generated cover path, published track URL, and/or Suno song links.
 
 Never save generated songs, subtitles, videos, or exported lyric files inside the skill directory. Use `~/Documents/Suno/<song-title>/` by default.
@@ -309,7 +329,8 @@ Never save generated songs, subtitles, videos, or exported lyric files inside th
 - **IMPORTANT**: Do NOT use `--download` on generate. CDN needs time to propagate. Always use the separate `download_clips.sh` after generation completes.
 - Use `scripts/download_clips.sh` for all downloads — it handles retry logic and CDN delay.
 - For generated songs that will be uploaded or published, always add `--lyrics --lyrics-format lrc --require-lrc` to `download_clips.sh`.
-- For songs uploaded to `music.qiaomu.ai`, always generate a new `qiaomu-image-generator` `album_cover` cover from lyrics and upload it instead of the Suno source cover.
+- For songs uploaded to Qiaomu Music, invoke `qiaomu-music-publisher` after MP3
+  and LRC are ready. Site-specific login/upload logic belongs there.
 - If clip IDs are visible in the web list, `download_clips.sh --ids "ID1 ID2" --browser` is the preferred download retry because it asks Chrome to fetch the audio through the browser pipeline first.
 - Use `scripts/export_suno_assets.py` when the user wants SRT/LRC/timed lyrics, clean MTV subtitles, audio download, or video/MTV download from existing clip IDs.
 - Use `scripts/validate_lrc.py "$OUTPUT_DIR"` before any music-player upload. A file with only `[Verse]`/`[Chorus]` markers is plain lyrics, not LRC.
