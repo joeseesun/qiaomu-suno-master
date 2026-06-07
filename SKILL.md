@@ -6,7 +6,8 @@ description: |
 
 # Qiaomu Suno Master
 
-Create commercial-grade Suno lyrics, then use the installed `suno` command to generate and optionally download the music.
+Create commercial-grade Suno lyrics, then use the selected Suno execution lane
+to generate and optionally download the music.
 It also includes a local music genre finder so vague moods can become precise Suno style tags.
 
 Suno login state is short-lived. Treat Chrome's logged-in Suno web session as
@@ -43,10 +44,28 @@ optional helper.
 
 ## Generation Execution Contract
 
-This skill must prefer a deterministic two-lane generation path over open-ended
-exploration:
+This skill must prefer a deterministic lane over open-ended exploration.
+
+0. **Honor explicit lane requests as a hard lock.**
+   - If the user explicitly asks for Computer Use, the whole generation task
+     stays on the Computer Use lane from form submission through visible link
+     capture and browser download attempts. Do not switch to CLI, CDP,
+     Browser plugin, raw API calls, or captcha-assisted CLI generation to
+     "make progress".
+   - In a Computer Use-locked task, shell commands may prepare lyrics,
+     manifests, inspect files, move browser-downloaded files, resolve captured
+     share links, and validate assets. They must not submit Suno generation,
+     refresh generation auth, run `suno generate`, or drive CDP/CLI captcha
+     helpers.
+   - If Computer Use cannot proceed because the user is actively using the same
+     browser, the page requires login/security/captcha action, or the desktop UI
+     is unavailable, stop at that state and ask for that blocker to be cleared.
+     Do not silently fall back to another generation lane.
+   - The same lock-in rule applies to any other lane the user explicitly names:
+     use that lane end to end, or stop and report the blocker.
 
 1. **Make the CLI path work first.**
+   Use this only when the user did not explicitly request another lane.
    - Ensure the installed `suno` CLI exists and run `suno config check`.
    - Refresh auth from the real Chrome Suno session; if refresh fails, run
      `suno auth --login --quiet`.
@@ -56,6 +75,7 @@ exploration:
      failure class, using either `--no-captcha` or a user-provided
      `--token "$HCAPTCHA_TOKEN"`.
 2. **If CLI generation is blocked, Codex controls the browser.**
+   Use this only when the task is not locked to a different lane.
    - Use the Codex Browser plugin when available. If it is not exposed in the
      current session, use Chrome/Computer Use against the logged-in Suno page.
    - Open `https://suno.com/create`, fill title, lyrics, styles, model, and
@@ -239,7 +259,8 @@ python3 scripts/run_workflow.py validate-lrc \
 
 Keep the separate `generate_with_suno.sh`, `generate_download_lrc.sh`, and
 `download_clips.sh` commands for debugging, browser-fallback recovery, or
-partial retries.
+partial retries. These commands are not allowed during a Computer Use-locked
+task unless the user explicitly approves leaving the Computer Use lane.
 
 Generation only, returning JSON with clip IDs:
 
@@ -384,6 +405,11 @@ Read `references/browser-fallback.md` and use it when:
 - a generated clip is visible in the Suno web list but CLI download fails
 - the user explicitly asks to use Computer Use
 
+If the user explicitly asks for Computer Use, the Computer Use lane lock applies
+to generation and browser download attempts. Do not use CLI/CDP generation or
+CLI/browser download helpers unless the user explicitly approves leaving that
+lane.
+
 This is not a passive handoff. Codex should control the browser:
 
 1. Open `https://suno.com/create` in the logged-in Chrome profile.
@@ -392,7 +418,8 @@ This is not a passive handoff. Codex should control the browser:
 4. Click `Create`, wait for the two generated rows to appear, and record both
    song links.
 5. When rows become playable, click each row's menu/download controls in the web
-   UI, or use `download_clips.sh --ids ... --browser` if IDs are visible.
+   UI. For non-locked browser fallback only, `download_clips.sh --ids ... --browser`
+   is allowed if IDs are visible.
 
 If browser automation cannot complete login, captcha, or Create submission
 because the page requires a human security action, pause at that exact browser
@@ -403,8 +430,12 @@ site-specific publishing step to the appropriate publisher skill.
 For direct Computer Use generation and download, read
 `references/computer-use-workflow.md`. This lane should open Suno Create,
 submit through the visible web UI, copy share links from the generated rows,
-resolve share links to clip IDs, then run `run_workflow.py download` so MP3/LRC
-files still land in the manifest output directory.
+resolve share links to clip IDs, download audio through the visible Suno web UI
+when possible, then use local post-processing only for file organization,
+timed-lyrics export, LRC validation, and manifest updates. Do not run
+`run_workflow.py generate`, `run_workflow.py download`, `suno generate`, or
+CDP/captcha helpers in a Computer Use-locked task unless the user explicitly
+approves switching lanes.
 
 19. **Send to Feishu** (only in bridge context with `chat_id`):
 
@@ -437,11 +468,18 @@ Never save generated songs, subtitles, videos, or exported lyric files inside th
   `download_clips.sh --require-lrc` downloaded MP3 and validated LRC. Do not add
   `--no-captcha` by default.
 - **IMPORTANT**: Do NOT use `--download` on generate. CDN needs time to propagate. Always use the separate `download_clips.sh` after generation completes.
-- Use `scripts/download_clips.sh` for all downloads — it handles retry logic and CDN delay.
-- For generated songs that will be uploaded or published, always add `--lyrics --lyrics-format lrc --require-lrc` to `download_clips.sh`.
+- Use `scripts/download_clips.sh` for ordinary CLI/non-locked browser fallback
+  downloads — it handles retry logic and CDN delay. In Computer Use-locked
+  tasks, attempt browser UI downloads first and do not switch to CLI download
+  without explicit user approval.
+- For generated songs that will be uploaded or published through the
+  ordinary CLI/non-locked fallback path, always add
+  `--lyrics --lyrics-format lrc --require-lrc` to `download_clips.sh`.
 - For songs uploaded to Qiaomu Music, invoke `qiaomu-music-publisher` after MP3
   and LRC are ready. Site-specific login/upload logic belongs there.
-- If clip IDs are visible in the web list, `download_clips.sh --ids "ID1 ID2" --browser` is the preferred download retry because it asks Chrome to fetch the audio through the browser pipeline first.
+- If clip IDs are visible in the web list during a non-locked fallback task,
+  `download_clips.sh --ids "ID1 ID2" --browser` is the preferred download retry
+  because it asks Chrome to fetch the audio through the browser pipeline first.
 - Use `scripts/export_suno_assets.py` when the user wants SRT/LRC/timed lyrics, clean MTV subtitles, audio download, or video/MTV download from existing clip IDs.
 - Use `scripts/validate_lrc.py "$OUTPUT_DIR"` before any music-player upload. A file with only `[Verse]`/`[Chorus]` markers is plain lyrics, not LRC.
 - Use `scripts/clean_srt_for_mtv.py` to remove Suno structural markers such as `[Verse]` and `[Chorus]` from subtitle files.

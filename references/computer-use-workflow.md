@@ -4,9 +4,33 @@ Use this lane when the CLI submit path hangs, the Codex Browser plugin is not
 available, Chrome CDP prompts are unreliable, or the user explicitly asks to use
 Computer Use.
 
-Computer Use owns browser clicks and visible-page state. The local manifest
-workflow still owns durable files, downloads, LRC validation, and later
-publishing handoff.
+Computer Use owns browser clicks, visible-page state, generation submission,
+link capture, and visible download attempts. The local manifest workflow still
+owns durable metadata, file organization, LRC validation, and later publishing
+handoff.
+
+## Lane Lock
+
+If the user explicitly asks to use Computer Use, this workflow is a hard lock
+for the whole task.
+
+- Do not switch to CLI generation, Chrome CDP, the Codex Browser plugin, raw
+  Suno API calls, or captcha-assisted CLI generation after selecting this lane.
+- Do not run `suno generate`, `run_workflow.py generate`,
+  `generate_with_suno.sh`, or CDP captcha helpers during a Computer Use-locked
+  generation task.
+- Shell commands are allowed only for local preparation and post-processing:
+  reading lyrics/manifests, copying prepared text to the clipboard, moving files
+  downloaded by the browser UI, resolving share links after Computer Use copied
+  them, exporting timed lyrics for captured IDs, validating LRC, and updating
+  the manifest.
+- If Chrome is being actively used by the user, Computer Use cannot acquire the
+  app, Suno requires login/security/captcha action, or a visible download
+  control is unavailable, stop and report that blocker. Do not silently fall
+  back to another lane.
+- A partially completed non-Computer-Use attempt does not satisfy a
+  Computer Use-locked request. Treat it as out of scope, clean up any stale
+  background process, and restart the requested item through Computer Use.
 
 ## Output Directory Policy
 
@@ -98,29 +122,35 @@ use the UUID in `cdn1.suno.ai/<clip-id>.mp3`.
 
 ## Download And LRC
 
-Use the manifest-first download path after capturing both clip IDs:
-
-```bash
-python3 scripts/run_workflow.py download \
-  --manifest "$OUTPUT_DIR/song.manifest.json" \
-  --ids "ID1 ID2"
-```
-
-This downloads MP3s, fetches timed LRC, validates the LRC files, and updates the
-manifest.
-
-If the CLI downloader cannot fetch audio but the rows are visible, use Computer
-Use directly:
+When the task is Computer Use-locked, attempt audio download through the Suno web
+UI first:
 
 1. Open the row's `More options` menu.
 2. Choose `Download`.
 3. Choose `Audio` or `MP3`.
 4. Move the browser-downloaded MP3 into `OUTPUT_DIR`.
-5. Still run timed lyric export and validation:
+5. Repeat for both generated rows.
+
+After the browser UI download attempt, use local tools only for post-processing
+captured IDs and downloaded files:
 
 ```bash
 python3 scripts/export_suno_assets.py ID1 ID2 --format lrc --output "$OUTPUT_DIR"
 python3 scripts/validate_lrc.py "$OUTPUT_DIR"
+```
+
+If the browser UI cannot expose a download control but the song links or clip
+IDs were captured, report the generated links and the download blocker. Do not
+switch to CLI download unless the user explicitly approves leaving the Computer
+Use lane.
+
+For non-locked browser fallback tasks, the manifest-first download path remains
+allowed after capturing both clip IDs:
+
+```bash
+python3 scripts/run_workflow.py download \
+  --manifest "$OUTPUT_DIR/song.manifest.json" \
+  --ids "ID1 ID2"
 ```
 
 Do not publish or upload a track to a music player until `validate_lrc.py`

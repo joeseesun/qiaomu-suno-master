@@ -38,6 +38,9 @@ This is an agent-controlled browser lane, not a user handoff:
   the logged-in Suno page.
 - If the user explicitly asks for Computer Use, or Chrome/CDP/CLI has just
   stalled, follow `references/computer-use-workflow.md`.
+- If the user explicitly asked for Computer Use, treat that document's Lane Lock
+  as authoritative: do not leave Computer Use for generation or download without
+  the user's explicit approval.
 - If using Chrome CDP, first run
   `scripts/ensure_suno_chrome_session.sh --timeout 12`. If no endpoint is
   available and Chrome is not already running, run
@@ -82,6 +85,9 @@ that step. Then continue this procedure. Keep these details available:
 - the output directory
 
 ## Download Procedure
+
+If the task is Computer Use-locked, use the Computer Use download procedure in
+`references/computer-use-workflow.md` instead of the order below.
 
 Prefer this order:
 
