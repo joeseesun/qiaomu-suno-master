@@ -159,10 +159,14 @@ if [[ ! -f "$lyrics_file" ]]; then
   exit 66
 fi
 
-# Prefer a real logged-in Chrome web session before touching CLI auth. The web
-# session is the fallback source of truth when Suno rejects the CLI JWT.
-if [[ -f "$script_dir/ensure_suno_chrome_session.sh" ]]; then
-  bash "$script_dir/ensure_suno_chrome_session.sh" >/dev/null || true
+# Prefer a real logged-in Chrome web session before touching CLI auth. Keep this
+# bounded: Chrome's native CDP security confirmation can otherwise stall the
+# whole generation path without producing useful logs.
+if [[ "${SUNO_SKIP_CHROME_SESSION_CHECK:-0}" != "1" && -f "$script_dir/ensure_suno_chrome_session.sh" ]]; then
+  echo "Checking Chrome/Suno CDP session..." >&2
+  if ! bash "$script_dir/ensure_suno_chrome_session.sh" --timeout "${SUNO_CDP_TIMEOUT:-12}" >/dev/null; then
+    echo "Chrome/Suno CDP session was unavailable or timed out; continuing with CLI auth refresh." >&2
+  fi
 fi
 
 echo "Checking Suno CLI config..." >&2

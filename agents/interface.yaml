@@ -1,7 +1,7 @@
 interface:
   display_name: "Qiaomu Suno Master"
-  short_description: "Recommend genres, write Suno-ready lyrics, generate songs, and validate timestamped LRC with the local Rust suno CLI"
-  default_prompt: "Use $qiaomu-suno-master to recommend fitting Suno style tags, write polished lyrics from my idea, then generate, download, and validate timestamped LRC for the song with the local suno CLI."
+  short_description: "Recommend genres, write Suno-ready lyrics, generate songs, and track MP3/LRC assets through a manifest-first Suno workflow"
+  default_prompt: "Use $qiaomu-suno-master to recommend fitting Suno style tags, write polished lyrics from my idea, then create a song manifest, generate, download, and validate timestamped LRC for the song with the local suno CLI."
 compatibility:
   canonical_format: "agent-skills"
   adapter_targets:
@@ -22,7 +22,7 @@ compatibility:
     openai: "Use the SKILL.md workflow and shell script when local shell access is available."
     claude: "Use the SKILL.md workflow; run the local suno CLI only with user-approved local execution."
     generic: "Generate title, tags, and lyrics even when CLI execution is unavailable."
-summary: "Suno song creation from genre recommendation and lyric writing to generated audio plus validated timestamped LRC using local Rust suno CLI."
+summary: "Suno song creation from genre recommendation and lyric writing to generated audio plus validated timestamped LRC, tracked through a durable song manifest using local Rust suno CLI."
 inputs:
   - name: brief
     type: string
@@ -31,7 +31,11 @@ inputs:
   - name: output_dir
     type: path
     required: false
-    description: "Directory where generated songs should be downloaded."
+    description: "Directory where generated songs should be downloaded. Defaults to ~/Documents/Suno/<song-title>/; do not use the current repo/workspace unless explicitly requested."
+  - name: song_manifest
+    type: path
+    required: false
+    description: "Durable song manifest JSON used to track prompt metadata, clip IDs, assets, and LRC validation."
   - name: style_hint
     type: string
     required: false
@@ -63,6 +67,9 @@ outputs:
   - name: files
     type: list
     description: "Generated, downloaded, subtitle, timed LRC, lyric, or video files."
+  - name: song_manifest
+    type: path
+    description: "Updated manifest containing generation status, clip IDs, file paths, and validation results."
 requires:
   bins:
     - suno
@@ -73,6 +80,7 @@ side_effects:
   - "May authenticate through Suno with `suno auth --login`."
   - "May create lyric temp files and downloaded audio files."
   - "May download Suno video/MTV files and timed lyric/subtitle files."
+  - "May operate the logged-in Suno web UI through Computer Use when CLI/CDP generation stalls."
 exclusions:
   - "General poetry not intended for Suno."
   - "Audio/video editing after generation."

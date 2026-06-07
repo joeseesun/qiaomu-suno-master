@@ -36,6 +36,14 @@ This is an agent-controlled browser lane, not a user handoff:
 - Prefer the Codex Browser plugin when available.
 - If the Browser plugin is not exposed, use Chrome or Computer Use to operate
   the logged-in Suno page.
+- If the user explicitly asks for Computer Use, or Chrome/CDP/CLI has just
+  stalled, follow `references/computer-use-workflow.md`.
+- If using Chrome CDP, first run
+  `scripts/ensure_suno_chrome_session.sh --timeout 12`. If no endpoint is
+  available and Chrome is not already running, run
+  `scripts/launch_suno_cdp_chrome.sh`. If Chrome shows a native debugging
+  confirmation, pause for the user to accept it once instead of trying to
+  dismiss native Chrome UI through page-level JavaScript.
 - Codex must fill the form, click Create, monitor generation, extract IDs/links,
   and continue download/publish work.
 - Ask the user to act only when the page requires a human security step that the

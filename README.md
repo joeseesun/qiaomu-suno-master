@@ -26,8 +26,11 @@
 - 不确定风格时，可先从 5000+ 音乐流派中推荐适合的 Suno tags
 - 可选：直接生成并下载 MP3
 - 面向音乐播放器/网站发布时，必须同时下载并校验带时间戳的 `.lrc`
+- Manifest-first 工作流：用 `song.manifest.json` 记录标题、风格、clip IDs、MP3、LRC、封面和状态
+- `suno_doctor.py` 预检本地 CLI、Node、Chrome/CDP 辅助和输出目录
 - 从已有 Suno Clip ID 导出 MP3、视频/MTV、LRC、SRT、干净字幕、Markdown 歌词
 - Chrome CDP 辅助：复用已登录 Chrome/Suno 会话
+- Computer Use 网页生成路径：当 CLI/CDP 卡住时，直接操作 Suno Web UI，复制分享链接，再下载 MP3/LRC
 
 ### 安装
 
@@ -78,7 +81,7 @@ ls ~/.agents/skills/qiaomu-suno-master
 ```
 
 ```text
-生成一首世界音乐，女声男声合唱，鼓和长笛，下载到当前项目
+生成一首世界音乐，女声男声合唱，鼓和长笛，下载到默认 Suno 文稿目录
 ```
 
 ```text
@@ -111,7 +114,33 @@ garage-punk, punk-rock, raw-male-vocals, distorted-guitars, fast-tempo, anthemic
 
 ### CLI 生成
 
-Skill 内置封装脚本：
+推荐先创建 manifest，再让统一工作流生成、下载、拉取 LRC 并回写状态：
+
+```bash
+python3 ~/.agents/skills/qiaomu-suno-master/scripts/run_workflow.py init \
+  --manifest "$OUTPUT_DIR/song.manifest.json" \
+  --title "把音量打满" \
+  --style "punk-rock, male-vocals, distorted-guitars, fast-tempo" \
+  --exclude "auto-tune, trap, overly-polished" \
+  --lyrics-file ./lyrics.txt \
+  --output-dir "$OUTPUT_DIR"
+
+python3 ~/.agents/skills/qiaomu-suno-master/scripts/suno_doctor.py \
+  --output-dir "$OUTPUT_DIR"
+
+python3 ~/.agents/skills/qiaomu-suno-master/scripts/run_workflow.py generate \
+  --manifest "$OUTPUT_DIR/song.manifest.json"
+```
+
+Dry-run 不会消耗 Suno 额度：
+
+```bash
+python3 ~/.agents/skills/qiaomu-suno-master/scripts/run_workflow.py generate \
+  --manifest "$OUTPUT_DIR/song.manifest.json" \
+  --dry-run
+```
+
+底层封装脚本仍可用于调试：
 
 ```bash
 ~/.agents/skills/qiaomu-suno-master/scripts/generate_with_suno.sh \
@@ -126,6 +155,8 @@ Skill 内置封装脚本：
 ```text
 ~/Documents/Suno/<歌曲名>/
 ```
+
+除非你明确指定 `--output-dir`，不要把歌曲、字幕、LRC 或视频保存到当前项目目录。Agent 的当前工作目录通常只是执行上下文，不应该被当成音乐素材库。
 
 默认会走 `--captcha`，优先使用上游 `suno` CLI 的 hCaptcha CDP solver 把请求真正提交到 Suno。
 
@@ -167,6 +198,30 @@ CDP Runtime.evaluate ws err: Connection reset...
 
 ```bash
 ~/.agents/skills/qiaomu-suno-master/scripts/generate_with_suno.sh ... --token "$HCAPTCHA_TOKEN"
+```
+
+### Computer Use 网页生成路径
+
+当 CLI 提交卡住、CDP 确认弹窗不稳定，或你明确要求使用 Computer Use 时，走网页路径：
+
+1. 打开 `https://suno.com/create`
+2. 选择 Advanced 模式和目标模型
+3. 填入 `lyrics.txt`、style tags、标题
+4. 点击 Create，等待两条新歌曲出现在列表顶部
+5. 逐条点击 Share，复制 Suno 分享链接
+6. 解析分享链接里的真实 clip ID
+7. 运行 manifest 下载流程：
+
+```bash
+python3 ~/.agents/skills/qiaomu-suno-master/scripts/run_workflow.py download \
+  --manifest "$HOME/Documents/Suno/<歌曲名>/song.manifest.json" \
+  --ids "ID1 ID2"
+```
+
+完整操作细节见：
+
+```text
+references/computer-use-workflow.md
 ```
 
 ### 导出 SRT/LRC/MTV 素材

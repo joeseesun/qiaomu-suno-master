@@ -15,6 +15,32 @@ the source of truth, and treat the CLI as the fast path only. If the CLI reports
 browser session, immediately use the Suno web UI fallback instead of retrying the
 same CLI request.
 
+## Style Tag Selection Contract
+
+When the user asks for Suno style tags, genre combinations, genre discovery, or
+style sharpening, treat the local genre finder as mandatory evidence, not an
+optional helper.
+
+1. Read `references/genre-selection.md` before answering.
+2. Run `python3 scripts/find_music_genres.py` from the skill directory. For
+   style-only requests or broad briefs, run at least three focused queries that
+   sample different axes of the brief: the user's original phrase, one or more
+   adjacent genre families, and one or more production/texture/rhythm angles.
+   A single query is acceptable only when the user gives a very narrow style and
+   asks for minimal output.
+3. Build a candidate palette from the database results first. Prefer genre tags
+   that appeared in the finder output or are direct, obvious parents/children of
+   those results.
+4. Compose each Suno style string as 1-3 genre tags plus 2-5 vocal,
+   instrument, tempo, production, or mood tags. Do not answer from taste alone,
+   and do not dump a long related-genre list into one prompt.
+5. For style-only requests, do not write lyrics or run Suno generation unless
+   the user explicitly asks. Return useful combinations, the best starters, and
+   `exclude_styles` when helpful.
+6. If the finder fails or the database is unavailable, say that clearly and
+   continue with a best-effort fallback instead of implying the tags were
+   database-backed.
+
 ## Generation Execution Contract
 
 This skill must prefer a deterministic two-lane generation path over open-ended
@@ -80,6 +106,7 @@ Infer these from the user request when possible:
 - `model`: default `v5.5`
 - `vocal`: optional `male` or `female`
 - `output_dir`: default to `~/Documents/Suno/<song-title>/` unless the user gives a folder
+- `song_manifest`: default to `$OUTPUT_DIR/song.manifest.json`
 - `generate`: whether to run Suno immediately; default yes when the user asks to generate music
 
 If the user only asks for lyrics, produce the requested creative output without running `suno`.
@@ -87,34 +114,73 @@ If the user only asks for lyrics, produce the requested creative output without 
 ## Workflow
 
 1. Analyze the song brief: theme, audience, language, mood, style, vocal, tempo, and any forbidden elements.
-2. If style is missing, vague, or worth sharpening, read `references/genre-selection.md` and run `python3 scripts/find_music_genres.py "<brief or mood>" --limit 5`.
+2. If style is missing, vague, worth sharpening, or the user specifically asks
+   for style/tag recommendations, follow the Style Tag Selection Contract.
 3. Choose 1-3 fitting genre tags plus a small set of vocal, instrument, tempo, and mood tags. Keep `style_description` focused.
-4. Read `references/lyric-craft.md` and apply the lyric quality rules.
-5. Produce:
+4. For style-only requests, stop after delivering style combinations and any
+   useful `exclude_styles`; do not continue to lyrics or generation unless asked.
+5. Read `references/lyric-craft.md` and apply the lyric quality rules.
+6. Produce:
    - `title_options`
    - selected `title`
    - optional `genre_candidates`
    - `style_description`
    - `exclude_styles`
    - `lyrics`
-6. Treat Suno-ready lyrics and LRC as separate deliverables:
+7. Treat Suno-ready lyrics and LRC as separate deliverables:
    - `lyrics` is the creative input sent to Suno and may use `[Verse]`, `[Chorus]`, `[Bridge]`, etc.
    - `.lrc` is the timed output fetched after generation from Suno aligned lyrics.
    - Never upload or publish plain Suno lyrics as music-player synced lyrics.
    - Music-player cover art is a separate generated design asset, not the Suno source cover.
-7. Save lyrics to a temporary `.txt` file when running the CLI. Prefer a file over shell-quoting long multiline lyrics.
-8. Before any generation or download step, verify that a real Chrome Suno web
-   session exists. Run:
+8. Save lyrics to `$OUTPUT_DIR/lyrics.txt` when generating. Prefer a file over
+shell-quoting long multiline lyrics.
+   Unless the user explicitly gives a folder, `$OUTPUT_DIR` must be
+   `~/Documents/Suno/<song-title>/`. Do not use the current repo/workspace
+   directory as the default output location.
+9. Use the manifest-first workflow for generation, download, LRC validation,
+   and later publishing handoff. Read `references/manifest-workflow.md` when
+   creating or updating a song manifest:
 
 ```bash
-bash scripts/ensure_suno_chrome_session.sh
+python3 scripts/run_workflow.py init \
+  --manifest "$OUTPUT_DIR/song.manifest.json" \
+  --title "$TITLE" \
+  --style "$STYLE_DESCRIPTION" \
+  --exclude "$EXCLUDE_STYLES" \
+  --lyrics-file "$LYRICS_FILE" \
+  --output-dir "$OUTPUT_DIR"
 ```
 
-If Suno asks for login, use the Browser/Chrome/Computer Use tools to open
-`https://suno.com/create`, let the user or existing profile complete login, then
-continue. Do not keep retrying the CLI against an expired JWT.
+If the user provides existing Suno clip IDs or song URLs, include them with
+`--ids` during `init` and skip generation. For this existing-clip path, style
+and lyrics file may be omitted.
 
-9. Before any CLI step, ensure the Rust CLI exists:
+10. Before any generation or download step, run the non-destructive preflight:
+
+```bash
+python3 scripts/suno_doctor.py --output-dir "$OUTPUT_DIR"
+```
+
+Before submitting generation, verify that a real Chrome Suno web session exists:
+
+```bash
+bash scripts/ensure_suno_chrome_session.sh --timeout 12
+```
+
+If no CDP endpoint exists and Chrome is not already running, launch a CDP-enabled
+Chrome session:
+
+```bash
+bash scripts/launch_suno_cdp_chrome.sh
+```
+
+If Chrome is already running without remote debugging, quit it fully before
+relaunching with CDP flags, or use `--dedicated-profile` and log into Suno once
+there. If Chrome shows a native debugging confirmation, pause for the user to
+accept it once. Do not assume page-level CDP injection can dismiss native Chrome
+security UI. Do not keep retrying the CLI against an expired JWT.
+
+11. Before any CLI step, ensure the Rust CLI exists:
 
 ```bash
 bash scripts/ensure_suno_cli.sh
@@ -128,34 +194,66 @@ Auth is handled automatically by both `generate_with_suno.sh` and
 suno auth --refresh --quiet 2>/dev/null || suno auth --login --quiet
 ```
 
-10. **Generate fast path via CLI** (returns JSON with clip IDs, does NOT download):
+12. **Generate/download/LRC default path**:
+
+```bash
+python3 scripts/run_workflow.py generate \
+  --manifest "$OUTPUT_DIR/song.manifest.json"
+```
+
+This wrapper writes `suno-meta.env`, preserves `generate.result.json`, extracts
+clip IDs, downloads MP3s, fetches LRC, validates LRC, updates
+`song.manifest.json`, and writes `workflow.log`.
+
+Use dry-run when preparing or debugging without consuming Suno credits:
+
+```bash
+python3 scripts/run_workflow.py generate \
+  --manifest "$OUTPUT_DIR/song.manifest.json" \
+  --dry-run
+```
+
+If the manifest status becomes `generation_blocked`, or the wrapper emits
+`GENERATION_BLOCKED`, follow `references/browser-fallback.md` as the Codex
+browser-generation lane. Do not attempt raw Suno API calls after a blocked
+generation.
+
+13. **Existing-ID download path**:
+
+```bash
+python3 scripts/run_workflow.py download \
+  --manifest "$OUTPUT_DIR/song.manifest.json" \
+  --ids "ID1 ID2"
+```
+
+For any song that will be uploaded to a music player, a website, or any
+user-facing playable catalog, LRC is mandatory and `run_workflow.py` requires it
+by default. If LRC is pending, do not upload/publish the track yet. Retry later:
+
+```bash
+python3 scripts/run_workflow.py validate-lrc \
+  --manifest "$OUTPUT_DIR/song.manifest.json"
+```
+
+14. **Low-level debug commands**:
+
+Keep the separate `generate_with_suno.sh`, `generate_download_lrc.sh`, and
+`download_clips.sh` commands for debugging, browser-fallback recovery, or
+partial retries.
+
+Generation only, returning JSON with clip IDs:
 
 ```bash
 bash scripts/generate_with_suno.sh --meta-file "$META_FILE" --output-dir "$OUTPUT_DIR"
 ```
 
-Parse the JSON output to extract clip IDs from `data[].id`.
-
-If this command emits `GENERATION_BLOCKED`, or returns JSON with
-`"status": "error"`, follow `references/browser-fallback.md` as the Codex
-browser-generation lane. Do not attempt raw Suno API calls after a blocked
-generation.
-
-For ordinary "generate and publish/upload" tasks, prefer the verified
-end-to-end wrapper. It is faster and less error-prone because it preserves the
-generation JSON, extracts IDs, downloads MP3s, fetches LRC, and validates LRC in
-one run:
+End-to-end shell wrapper:
 
 ```bash
 bash scripts/generate_download_lrc.sh --meta-file "$META_FILE" --output-dir "$OUTPUT_DIR"
 ```
 
-Use this as the default after lyrics/meta files are ready. Keep the separate
-`generate_with_suno.sh` and `download_clips.sh` commands for debugging,
-existing-ID downloads, or partial retries.
-
-11. **Download fast path with browser-first downloader** (separate step with
-retry, waits for CDN):
+Download fast path with browser-first downloader:
 
 ```bash
 bash scripts/download_clips.sh --ids "ID1 ID2" --output-dir "$OUTPUT_DIR"
@@ -195,7 +293,7 @@ python3 scripts/validate_lrc.py "$OUTPUT_DIR"
 - `--require-lrc` fails the workflow unless a real timestamped `.lrc` is present
 - Accepts IDs via `--ids` flag or piped JSON from generate
 
-12. **LRC gate before upload/publish**:
+15. **LRC gate before upload/publish**:
 
 Before uploading to `music.qiaomu.ai` or any music player, verify the `.lrc`
 file exists and contains real `[mm:ss.xx]` timestamps:
@@ -208,7 +306,7 @@ Use the validated `.lrc` file as the track lyrics payload. Do not use the
 original `.txt` Suno prompt lyrics unless the destination explicitly asks for
 unsynced plain lyrics.
 
-13. **Publishing handoff**:
+16. **Publishing handoff**:
 
 If the destination is Qiaomu Music (`music.qiaomu.ai`,
 `qiaomu-music-player-web`, "乔木音乐", "上传到乔木音乐", or "发布到乔木音乐"),
@@ -222,9 +320,11 @@ python3 ~/.agents/skills/qiaomu-music-publisher/scripts/publish_suno_to_qiaomu_m
 
 `qiaomu-music-publisher` owns site-specific login, cover handling, multipart
 upload, and publication status. Keep this Suno skill focused on creation,
-download, and LRC validation.
+download, and LRC validation. Use `song.manifest.json` as the source of truth
+for IDs, asset paths, and LRC status even if the publisher still takes explicit
+CLI arguments.
 
-14. **Generic music-player cover gate before upload/publish**:
+17. **Generic music-player cover gate before upload/publish**:
 
 For non-Qiaomu music-player uploads, generate a fresh square album cover with
 `qiaomu-image-generator` from the song title, style, and validated lyrics unless
@@ -274,7 +374,7 @@ sips -g pixelWidth -g pixelHeight "$OUTPUT_DIR"/*-cover.png
 The cover must be square and must be uploaded as the `cover` multipart field
 together with the MP3 and validated LRC.
 
-15. **Codex browser generation lane**:
+18. **Codex browser generation lane**:
 
 Read `references/browser-fallback.md` and use it when:
 
@@ -282,6 +382,7 @@ Read `references/browser-fallback.md` and use it when:
 - the CLI auth has expired or is rejected
 - captcha automation stalls
 - a generated clip is visible in the Suno web list but CLI download fails
+- the user explicitly asks to use Computer Use
 
 This is not a passive handoff. Codex should control the browser:
 
@@ -299,7 +400,13 @@ state and ask the user to complete only that action. After it is complete, Codex
 continues capturing IDs, downloading, validating LRC, and handing off any
 site-specific publishing step to the appropriate publisher skill.
 
-16. **Send to Feishu** (only in bridge context with `chat_id`):
+For direct Computer Use generation and download, read
+`references/computer-use-workflow.md`. This lane should open Suno Create,
+submit through the visible web UI, copy share links from the generated rows,
+resolve share links to clip IDs, then run `run_workflow.py download` so MP3/LRC
+files still land in the manifest output directory.
+
+19. **Send to Feishu** (only in bridge context with `chat_id`):
 
 ```bash
 cd "$OUTPUT_DIR"
@@ -309,16 +416,19 @@ for f in *.mp3; do
 done
 ```
 
-17. Report the output directory, downloaded file paths, LRC validation status,
-generated cover path, published track URL, and/or Suno song links.
+20. Report the output directory, manifest path, downloaded file paths, LRC
+validation status, generated cover path, published track URL, and/or Suno song
+links.
 
-Never save generated songs, subtitles, videos, or exported lyric files inside the skill directory. Use `~/Documents/Suno/<song-title>/` by default.
+Never save generated songs, subtitles, videos, or exported lyric files inside the skill directory or incidental current repo. Use `~/Documents/Suno/<song-title>/` by default.
 
 ## CLI Notes
 
 - The upstream CLI is `paperfoot/suno-cli`, installed as the `suno` command.
 - If `suno` is missing, run `bash scripts/ensure_suno_cli.sh` before continuing. The script installs from the upstream project, tries Homebrew first, and falls back to Cargo if Homebrew fails.
 - Verify with `suno --version` after install.
+- Prefer `python3 scripts/run_workflow.py generate --manifest "$OUTPUT_DIR/song.manifest.json"` for ordinary generation tasks. It wraps generation, download, LRC validation, asset discovery, and status tracking.
+- Run `python3 scripts/suno_doctor.py --output-dir "$OUTPUT_DIR"` before generation to check local prerequisites without spending credits.
 - Auth is synced from Chrome's logged-in Suno session (`suno auth --refresh` or `suno auth --login`), but Suno can reject the CLI JWT even when the web UI remains logged in. In that case the web UI is authoritative.
 - Prefer `bash scripts/generate_with_suno.sh` for generation only as the fast path. It auto-refreshes auth and defaults to the captcha-backed submit path, but must not be retried repeatedly after auth/captcha rejection.
 - CLI retry budget is two total generation attempts: default captcha-backed once, then one targeted retry only for hCaptcha/CDP launch failure with `--no-captcha` or a provided `--token`.
@@ -349,7 +459,9 @@ python3 scripts/find_music_genres.py "raw energetic punk" --limit 5
 python3 scripts/find_music_genres.py "世界音乐 鼓 长笛" --json
 ```
 
-For Suno, convert recommendations into concise style tags. Prefer 2-4 genre tags plus vocal, instrument, tempo, and mood tags. Avoid dumping many related subgenres into one prompt.
+For Suno, convert recommendations into concise style tags. Prefer 1-3 genre tags plus vocal, instrument, tempo, and mood tags. Avoid dumping many related subgenres into one prompt.
+For style-only or broad recommendation requests, run multiple focused finder
+queries and synthesize from the returned palette before answering.
 
 ## Asset Export
 
@@ -389,7 +501,27 @@ python3 scripts/export_suno_assets.py <clip-id> --output "$OUTPUT_DIR" --format 
 
 This skill vendors a lightweight Chrome DevTools Protocol helper from `pasky/chrome-cdp-skill` as `scripts/cdp.mjs`.
 
-Use it only when the user wants to reuse an existing Chrome login or debug Suno browser state. Chrome must have remote debugging enabled. If CDP is unavailable, fall back to `suno auth --login`.
+Use it only when the user wants to reuse an existing Chrome login or debug Suno browser state. Chrome must have remote debugging enabled. If CDP is unavailable, fall back to `suno auth --login` or the browser-generation lane. Keep all CDP checks bounded with `--timeout`; a native Chrome debugging confirmation can otherwise stall automation before page scripts run.
+
+To start a CDP-enabled Chrome session:
+
+```bash
+bash scripts/launch_suno_cdp_chrome.sh
+```
+
+Useful environment knobs:
+
+- `SUNO_CDP_TIMEOUT=12` bounds the pre-generation CDP probe.
+- `SUNO_SKIP_CHROME_SESSION_CHECK=1` skips the pre-generation CDP probe when it
+  is known to trigger a native Chrome confirmation.
+- `SUNO_CDP_PORT=9222` controls the Chrome remote debugging port.
+
+This machine has `liaocaoxuezhe/chrome-devtools-auto-allow` installed at
+`/Users/joetech/.local/share/chrome-devtools-auto-allow`. Its LaunchAgent is
+`com.local.cdp-auto-allow`, app path is
+`/Users/joetech/.local/share/chrome-devtools-auto-allow/CDP Auto Allow.app`, and
+logs are written to `/tmp/cdp-auto-allow.debug.log`. If the log says
+`不允许辅助访问`, the user must enable the app in macOS Accessibility settings.
 
 Known issue: the upstream `suno` CLI captcha auto-solver may open a piloted
 Chrome and fail with `CDP Runtime.evaluate ws err: Connection reset...`.
