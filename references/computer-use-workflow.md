@@ -9,6 +9,10 @@ link capture, and visible download attempts. The local manifest workflow still
 owns durable metadata, file organization, LRC validation, and later publishing
 handoff.
 
+This workflow is intentionally boring: once selected, every Suno-facing action
+stays in the same visible browser route. Do not "help" by mixing in CDP, CLI, a
+browser plugin, or raw requests after the user asked for Computer Use.
+
 ## Lane Lock
 
 If the user explicitly asks to use Computer Use, this workflow is a hard lock
@@ -24,6 +28,9 @@ for the whole task.
   downloaded by the browser UI, resolving share links after Computer Use copied
   them, exporting timed lyrics for captured IDs, validating LRC, and updating
   the manifest.
+- Shell commands must not click, submit, generate, refresh Suno auth, solve
+  captcha, fetch hidden audio URLs, or download MP3s directly in a locked task.
+  The MP3 source must be Chrome's visible Suno UI download.
 - If Chrome is being actively used by the user, Computer Use cannot acquire the
   app, Suno requires login/security/captcha action, or a visible download
   control is unavailable, stop and report that blocker. Do not silently fall
@@ -60,11 +67,16 @@ python3 scripts/run_workflow.py init \
   --output-dir "$OUTPUT_DIR"
 ```
 
-3. Run the non-destructive preflight:
+3. Run only the non-destructive local preflight:
 
 ```bash
 python3 scripts/suno_doctor.py --output-dir "$OUTPUT_DIR"
 ```
+
+Do not run `ensure_suno_chrome_session.sh`, `launch_suno_cdp_chrome.sh`,
+`suno auth`, `run_workflow.py generate`, `run_workflow.py download`,
+`generate_with_suno.sh`, `download_clips.sh`, or any CDP helper unless the user
+explicitly approves leaving Computer Use.
 
 ## Computer Use Generation
 
@@ -87,16 +99,18 @@ STYLE_DESCRIPTION, -excluded style one, -excluded style two
 10. Wait until the two newest rows with the title are visible and playable. Do
     not report success before visible rows or links exist.
 
-If Suno generates rows but the CLI wrapper is still waiting for JSON, treat the
-web UI as authoritative: stop the stale CLI process, capture the visible rows,
-and continue from the share-link path below.
+If there is a stale CLI/browser-helper process from an earlier non-locked
+attempt, stop it before proceeding. Do not let that process complete the task
+for a Computer Use request.
 
 ## Link Capture
 
 For each generated row:
 
 1. Click the row's `Share clip` button.
-2. Confirm the toast says the song link was copied.
+2. If Suno exposes a Share menu, click the copy-link action. If the row's
+   `Share clip` button copies directly, confirm the toast says the song link
+   was copied.
 3. Read the clipboard:
 
 ```bash
@@ -120,16 +134,47 @@ curl -L -s "$SHARE_URL" \
 Prefer the UUID from `suno.com/song/<clip-id>`. If only the CDN URL is visible,
 use the UUID in `cdn1.suno.ai/<clip-id>.mp3`.
 
+Keep the raw share URLs in the manifest/report even when canonical IDs are not
+resolved yet. A copied Suno share link is valid evidence that generation
+completed through the UI.
+
 ## Download And LRC
 
 When the task is Computer Use-locked, attempt audio download through the Suno web
 UI first:
 
-1. Open the row's `More options` menu.
+1. In the visible row list, open the target row's `More options` menu.
 2. Choose `Download`.
-3. Choose `Audio` or `MP3`.
-4. Move the browser-downloaded MP3 into `OUTPUT_DIR`.
-5. Repeat for both generated rows.
+3. Choose `MP3 Audio` when present. If Suno labels the same control as `Audio`
+   or `MP3`, choose that visible MP3/audio option.
+4. Wait for Chrome's download shelf/popover or `~/Downloads` to show the MP3 as
+   complete. Do not use a hidden URL downloader.
+5. Repeat for each generated row or for one representative version per style if
+   the user's task asks for several styles rather than every generated take.
+6. Move the browser-downloaded MP3 into `OUTPUT_DIR`.
+
+Use this organization command shape after Chrome's UI download is complete:
+
+```bash
+mkdir -p "$OUTPUT_DIR"
+mv -f "$HOME/Downloads/$TITLE.mp3" "$OUTPUT_DIR/$TITLE.mp3"
+```
+
+If Chrome creates duplicate names such as `$TITLE (1).mp3`, preserve both files
+with clear names such as `$TITLE v2.mp3` instead of overwriting or deleting a
+take.
+
+For a multi-song request, use one directory per title:
+
+```text
+~/Documents/Suno/<song-title>/<song-title>.mp3
+```
+
+Check the final placement with:
+
+```bash
+find "$HOME/Documents/Suno" -maxdepth 2 -type f -name '*.mp3' -print | sort
+```
 
 After the browser UI download attempt, use local tools only for post-processing
 captured IDs and downloaded files:

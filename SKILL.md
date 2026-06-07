@@ -52,11 +52,19 @@ This skill must prefer a deterministic lane over open-ended exploration.
      capture and browser download attempts. Do not switch to CLI, CDP,
      Browser plugin, raw API calls, or captcha-assisted CLI generation to
      "make progress".
+   - Treat "全程用 Computer Use", "直接用 Computer use", "用电脑操作", and
+     follow-up corrections about route mixing as a Computer Use hard lock.
+     Once this lock is active, every Suno-facing action for that request must
+     happen through the visible Suno UI controlled by Computer Use.
    - In a Computer Use-locked task, shell commands may prepare lyrics,
      manifests, inspect files, move browser-downloaded files, resolve captured
      share links, and validate assets. They must not submit Suno generation,
      refresh generation auth, run `suno generate`, or drive CDP/CLI captcha
      helpers.
+   - In a Computer Use-locked task, do not run CDP preflights, launch a
+     CDP-enabled Chrome, call the Browser plugin, or use `download_clips.sh`
+     as a hidden fallback. If visible UI download fails, report the blocker
+     with the captured links instead of switching lanes.
    - If Computer Use cannot proceed because the user is actively using the same
      browser, the page requires login/security/captcha action, or the desktop UI
      is unavailable, stop at that state and ask for that blocker to be cleared.
@@ -157,6 +165,8 @@ shell-quoting long multiline lyrics.
    Unless the user explicitly gives a folder, `$OUTPUT_DIR` must be
    `~/Documents/Suno/<song-title>/`. Do not use the current repo/workspace
    directory as the default output location.
+   For a Computer Use-locked task, this same directory is also the final place
+   for browser-downloaded MP3 files after they are moved out of `~/Downloads`.
 9. Use the manifest-first workflow for generation, download, LRC validation,
    and later publishing handoff. Read `references/manifest-workflow.md` when
    creating or updating a song manifest:
@@ -175,11 +185,20 @@ If the user provides existing Suno clip IDs or song URLs, include them with
 `--ids` during `init` and skip generation. For this existing-clip path, style
 and lyrics file may be omitted.
 
+For a Computer Use-locked task, use `init` only to create durable local metadata
+and then immediately follow `references/computer-use-workflow.md`. Skip
+`run_workflow.py generate`, `run_workflow.py download`, CDP session checks,
+CLI auth refresh, CLI generation, and CLI/browser-helper downloads unless the
+user explicitly approves leaving Computer Use.
+
 10. Before any generation or download step, run the non-destructive preflight:
 
 ```bash
 python3 scripts/suno_doctor.py --output-dir "$OUTPUT_DIR"
 ```
+
+For a Computer Use-locked task, this is the only preflight allowed by default.
+Do not run the CDP/Chrome session checks below for that locked task.
 
 Before submitting generation, verify that a real Chrome Suno web session exists:
 
@@ -224,6 +243,12 @@ python3 scripts/run_workflow.py generate \
 This wrapper writes `suno-meta.env`, preserves `generate.result.json`, extracts
 clip IDs, downloads MP3s, fetches LRC, validates LRC, updates
 `song.manifest.json`, and writes `workflow.log`.
+
+This default path is forbidden for Computer Use-locked tasks. For those tasks,
+Computer Use must fill the Suno form, click Create, capture share links, use
+the visible row menu to choose `Download` -> `MP3 Audio`, and only then use
+shell commands to move the browser-downloaded files into
+`~/Documents/Suno/<song-title>/`.
 
 Use dry-run when preparing or debugging without consuming Suno credits:
 
